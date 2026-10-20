@@ -1,0 +1,88 @@
+{
+  "id": "tr-sirnak-districts",
+  "name": "Şırnak İlçeleri (Şırnak Districts)",
+  "title": "Şırnak İlçeleri (Şırnak Districts)",
+  "description": "Şırnak ilinin ilçeleri. (Districts (ilçe) of Şırnak province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Beytüşşebap",
+      "slug": "beytussebap",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    },
+    {
+      "district_name": "Cizre",
+      "slug": "cizre",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    },
+    {
+      "district_name": "Güçlükonak",
+      "slug": "guclukonak",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    },
+    {
+      "district_name": "Silopi",
+      "slug": "silopi",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    },
+    {
+      "district_name": "Uludere",
+      "slug": "uludere",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    },
+    {
+      "district_name": "İdil",
+      "slug": "idil",
+      "city_code": "73",
+      "city_name": "Şırnak"
+    }
+  ],
+  "meta": {
+    "title": "Şırnak İlçeleri (Şırnak Districts) - Ücretsiz İndir",
+    "description": "Şırnak ilinin ilçeleri. (Districts (ilçe) of Şırnak province in Türkiye.) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Şırnak İlçeleri (Şırnak Districts) | ListBase",
+    "seo_description": "İndir Şırnak İlçeleri (Şırnak Districts) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

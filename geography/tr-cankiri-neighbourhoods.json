@@ -1,0 +1,4440 @@
+{
+  "id": "tr-cankiri-neighbourhoods",
+  "name": "Çankırı Mahalleleri (Çankırı Neighbourhoods)",
+  "title": "Çankırı Mahalleleri (Çankırı Neighbourhoods)",
+  "description": "Çankırı ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (627 kayıt.) (All neighbourhoods (mahalle) in Çankırı province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 627,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Bozkuş Mah (çardaklı Beldesi)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18315",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Budakpınar Köyü",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (çardaklı Beldesi)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18315",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah (kükürt Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Demirli Köyü",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (yakalı Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Eyüpözü Köyü",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gazibey Mah",
+      "district_name": "Atkaracalar",
+      "postal_code": "18310",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hoca Mah",
+      "district_name": "Atkaracalar",
+      "postal_code": "18310",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (çardaklı Beldesi)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18315",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hüyükköy Köyü",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ilıpınar Mah",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kadıgil Mah (yakalı Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kolavlağı Mah (kükürt Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah",
+      "district_name": "Atkaracalar",
+      "postal_code": "18310",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kızılibrik Köyü",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mollaosman Mah",
+      "district_name": "Atkaracalar",
+      "postal_code": "18310",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Mah (çardaklı Beldesi)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18315",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Nevzat Ayaz Mah (çardaklı Beldesi)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18315",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kükürt Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (yakalı Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Susuz Köyü",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Zevdeş Mah (kükürt Köyü)",
+      "district_name": "Atkaracalar",
+      "postal_code": "18312",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İlker Mah",
+      "district_name": "Atkaracalar",
+      "postal_code": "18310",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akgüney Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akseki Mah (akseki Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aluç Mah (akseki Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (dereköy Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (incekaya Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (karakuzu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sarıkaya Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Belenli Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Boğazkaya Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bürümcek Mah (incekaya Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dahanlar Mah (karakuzu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dalkoz Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (karakuzu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dolaşlar Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Doğan Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ecük Mah (topçu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ekincik Mah (kavakköy Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Erenler Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Evkadı Mah (çayırcık Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Feriz Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gökçukur Mah (topçu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Güllüpınar Mah (incekaya Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah (karakuzu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah (çakırbağ Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Harmancık Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hasanlar Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karabük Mah (kavakköy Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karakışla Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaoluk Mah (oluklu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karataş Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kavakdibi Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Koçlu Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köprülübey Mah",
+      "district_name": "Bayramören",
+      "postal_code": "18320",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kıyan Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Bayramören",
+      "postal_code": "18320",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kavakköy Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (oluklu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sarıkaya Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (topçu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çakırbağ Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çayırcık Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ova Mah (topçu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Oymaağaç Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah (oluklu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah (topçu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Soğukoluk Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (karakuzu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yaylatepesi Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yazıören Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (dereköy Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (incekaya Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (karakuzu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yusufoğlu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yurtpınar Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Zübeyde Hanım Mah",
+      "district_name": "Bayramören",
+      "postal_code": "18320",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çamdibi Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ören Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ötedağ Mah (oluklu Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Üçgazi Köyü",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İmatlar Mah (göynükören Köyü)",
+      "district_name": "Bayramören",
+      "postal_code": "18322",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akbulut Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akçalı Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Alva Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Eldivan",
+      "postal_code": "18700",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Beydere Mah",
+      "district_name": "Eldivan",
+      "postal_code": "18700",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah (hisarcıkkayı Köyü)",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyükhacıbey Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Eldivan",
+      "postal_code": "18700",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Eldivan",
+      "postal_code": "18700",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Elmacı Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gölez Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gömene Mah (gölezkayı Köyü)",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hisarcık Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (gölezkayı Köyü)",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (hisarcıkkayı Köyü)",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Küçükhacıbey Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sarayköy Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sarıtarla Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Seydiköy Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Topraklık Mah",
+      "district_name": "Eldivan",
+      "postal_code": "18700",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarıyanlar Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çalıdere-yığındaş Mah (sarayköy Köyü)",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Eldivan",
+      "postal_code": "18700",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çiftlikköy Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çukuröz Köyü",
+      "district_name": "Eldivan",
+      "postal_code": "18702",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akcaören Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Alpagut Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Alıç Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Arpayeri Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Asar Mah (ödemiş Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (alibey Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (okcular Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıbozan Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıdere Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağımeydan Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşıklar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Balcı Mah (balcı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Başaraz Mah (yuvademirciler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Başdibek Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Belsöğüt Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Belören Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Belören Yenice Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Beyköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bozatlı Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bükcük Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Candere Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cömert Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Danişment Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dönaşa Mah (mülayım Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Düz Mah (mülayım Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Eksik Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ericek Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Eskice Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gazi Dede Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gaziler Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Güneyköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacıhasan Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ilısılık Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah (alibey Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayı Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Keseköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kurmalar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kuyupınar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kuşçayırı Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (serçeler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kırışlar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kıssenir Mah (kazancı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kıyısın Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kızılıbrık Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah (yukarıdere Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Lüllük Mah (çörekçiler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Memetler Mah (gökceyazı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Menşer Mah (yukarıdere Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (alibey Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (balcı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (gökceyazı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kazancı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (okcular Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sarmaşık Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeşildumlupınar Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yukarıdere Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yuvademirciler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (şeyhyunus Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mesutören Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Murat Hacı Mah (mülayım Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Musaköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mülayim Mah (mülayım Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mülayim Yenice Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Onaç Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (mülayım Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (ödemiş Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Saray Mah (ödemiş Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Satılar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sazak Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sağırlar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Seki Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Serçeler Yaylası Mah (serçeler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sezginler Mah (ılısılık Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Söğütcük Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Süleymanhacılar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Terziler Mah (gökceyazı Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah (çörekçiler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yalaycık Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yarağzı Mah (çörekçiler Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yavuz Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yaylaören Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yazıköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yenidemirciler Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yerkuyu Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Sarmaşık Mah (sarmaşık Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarıbozan Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarımeydan Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yuvasaray Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ziraat Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çaltıpınar Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çatak Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çeltikbaşı Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ömerli Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İkikavak Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İnköy Köyü",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Şentepe Mah",
+      "district_name": "Ilgaz",
+      "postal_code": "18400",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Şeyhyunus Mah (şeyhyunus Köyü)",
+      "district_name": "Ilgaz",
+      "postal_code": "18402",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Alpsarı Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Batıbeli Mah (dikenli Köyü)",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Buğay Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyük Mah",
+      "district_name": "Korgun",
+      "postal_code": "18260",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyükosb Mah",
+      "district_name": "Korgun",
+      "postal_code": "18260",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Doğu Mah",
+      "district_name": "Korgun",
+      "postal_code": "18260",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hıcıp Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ikın Yaylası Mah (maruf Köyü)",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ildızım Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ildızım Yaylası Mah (ıldızım Köyü)",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karatekin Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayıçivi Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kaş Yayla Mah (maruf Köyü)",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kesecik Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Maruf Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dikenli Köyü)",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sanı Yaylası Mah (maruf Köyü)",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Uludağ Mah",
+      "district_name": "Korgun",
+      "postal_code": "18260",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çukurören Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İkiçam Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Şıhlar Köyü",
+      "district_name": "Korgun",
+      "postal_code": "18262",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ağılözü Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Başovacık Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bereket Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Beşpınar Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cömertler Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dağören Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Demirciören Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ekinli Mah (çukurca Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Eskiahır Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (sivricek Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (çavundur Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Göllüce Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacı Bekir Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hocahasan Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (çavundur Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kalekapu Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kapaklı Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köpürlü Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kızılca Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Madenli Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dumanlı Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hacımuslu Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sarıalan Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (taşkaracalar Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çukurca Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Müslüm Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Pınarcık Mah (sarıalan Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sumucak Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sünürlü Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Uzunoğlu Mah (sarıalan Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (sivricek Köyü)",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeşilören Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeşilöz Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çal Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18300",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çatkese Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çaylıca Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çiyni Mah",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çırdak Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İğdir Köyü",
+      "district_name": "Kurşunlu",
+      "postal_code": "18302",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıalegöz Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıovacık Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bayanpınar Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bostanlı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Boyacıoğlu Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyükbahçeli Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cacıklar Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gazibekir Mah (kapaklı Köyü)",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Güneykışla Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hallaçlı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Mah",
+      "district_name": "Kızılırmak",
+      "postal_code": "18280",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kahyalı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kapaklı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karadibek Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karallı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karamürsel Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaömer Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kavlaklı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kemallı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Korçullu Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kuzeykışla Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Küçükbahçeli Mah (tepealegöz Köyü)",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Osmanlı Mah",
+      "district_name": "Kızılırmak",
+      "postal_code": "18280",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sakarca Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sultançiftliği Mah (kapaklı Köyü)",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tepealegöz Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tımarlı Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kızılırmak",
+      "postal_code": "18280",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarıalegöz Köyü",
+      "district_name": "Kızılırmak",
+      "postal_code": "18282",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Abdulhalik Renda Mah",
+      "district_name": "Merkez",
+      "postal_code": "18200",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ahlat Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aksu Mah",
+      "district_name": "Merkez",
+      "postal_code": "18200",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akçavakıf Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Alibey Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Alıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıpelitözü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıçavuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ballıca Mah (aşağıyanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Balıbağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Başeğmez Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Beştut Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bozkır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Buğday Pazarı Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Danabaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dede Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dede Mah (çivi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Değim Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dutağaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Germece Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Goncaoğlu Mah (altınlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gülburun Mah (karadayı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Haciömer Mah (ağzıbüyük Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Handırı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hasakça Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Haydam Mah (alaçat Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hıdırlık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kara Ciceli Mah (taytak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karakışla Mah (süleymanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karatekin Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaşeyh Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kuzu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (doğantepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (aşağıyanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (çivi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (karadayı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Küçüklü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kılıçargı Altı Mah (aşağıyanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kırkevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (akören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (alaçat Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (altınlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ayan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ağzıbüyük Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (taytak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ünür Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merzi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mollamehmet Mah (ağzıbüyük Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah (tüney Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ovacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Paşa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Pehlivanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Satıyüzü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Süleymanlı Mah (süleymanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tabakhane Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (ayan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Terme Mah (akören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tuzlağan Mah (balıbağı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tuzlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tüney Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "18200",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah (doğantepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarıpelitözü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarıçavuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Mah (dede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (akören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çatalelma Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çayırpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çağabey Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (çivi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çırçır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Öz Mah (aşağıyanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İnandık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İnaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İncik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İncili  Çeşme Mah",
+      "district_name": "Merkez",
+      "postal_code": "18100",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İçyenice Köyü",
+      "district_name": "Merkez",
+      "postal_code": "18010",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akçaören Mah (elmalık Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Buğurören Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büğdüz Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cem Sultan Mah",
+      "district_name": "Orta",
+      "postal_code": "18800",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yaylakent Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18810",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Derebayındır Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Doğanlar Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Elden Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Elvan Mah (elmalık Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Eski Yayla Mah",
+      "district_name": "Orta",
+      "postal_code": "18800",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (özlü Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gökçeören Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacı Hasan Mah (kalfat Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hamamönü Mah (dodurga Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hasanhacı Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hatipler Mah (kalfat Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (yaylakent Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18810",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hüyükköy Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kanarya Mah (dodurga Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kanlıca Mah",
+      "district_name": "Orta",
+      "postal_code": "18800",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayılar Mah (yaylakent Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18810",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayıören Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kırsakal Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kısaç Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Naltepe Mah (dodurga Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Nevzat Ayaz Mah (kalfat Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ortabayındır Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sakaeli Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sakarcaören Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Salur Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sancak Mah (özlü Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sancar Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Seydi Mah (elmalık Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sultan Beyazıt Mah",
+      "district_name": "Orta",
+      "postal_code": "18800",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sünnetçiler Mah (kalfat Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Taşlı Tarla Mah (tutmaçbayındır Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tutmaçbayındır Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (elden Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (gökçeören Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (hasanhacı Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Harman Yeri Mah (elden Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Ortabayındır Mah (ortabayındır Köyü)",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yuva Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İncecik Köyü",
+      "district_name": "Orta",
+      "postal_code": "18802",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İnkilap Mah (yaylakent Beldesi)",
+      "district_name": "Orta",
+      "postal_code": "18810",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akyazı Mah",
+      "district_name": "Yapraklı",
+      "postal_code": "18900",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ayseki Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ayva Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Yapraklı",
+      "postal_code": "18900",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aşağıöz Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bademçay Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Balıbıdık Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Belibedir Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Buluca Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Buğay Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyük Cami Mah (yüklü Köyü)",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyükakseki Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Yapraklı",
+      "postal_code": "18900",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Davutlar Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Doğanbey Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gürmeç Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karacaözü Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah",
+      "district_name": "Yapraklı",
+      "postal_code": "18900",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayacık Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kaymaz Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kirliakça Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kullar Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kıvcak Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Müsellim Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ovacık Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sazcağız Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sofuoğlu Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Subaşı Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Topuzsaray Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yaka Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yakadere Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yamaçbaşı Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (ikizören Köyü)",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeşilyayla Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Yapraklı",
+      "postal_code": "18900",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Zekeriya Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çakırlar Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çevrecik Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çiçek Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İğdir Mah",
+      "district_name": "Yapraklı",
+      "postal_code": "18900",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Şeyh Osman Köyü",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Şeyh İsmail Mah (yukarıöz Köyü)",
+      "district_name": "Yapraklı",
+      "postal_code": "18902",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Abdullar Mah (dağçukurören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ahallar Mah (örenli Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Akbaş Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Aliözü Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Avdan Yaylası Mah (yeşilöz Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ağaca Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bayındır Yaylası Mah (bayındır Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bedil Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bey Mah (gökçeler Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Boyuncak Mah (saraycık Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bozcaarmut Mah (kısaç Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bölükören Mah (göynükçukuru Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dağlı Mah (göynükçukuru Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dere Yayla Mah (örenköy Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Dodurga Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Elpirek Mah (yakuplar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah (gökçeler Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Eymür Mah (şeyhdoğan Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Fındıcak Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gelik Mah (gelik Ovacık Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Güvem Mah (çaylı Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah (saçak Beldesi)",
+      "district_name": "Çerkeş",
+      "postal_code": "18630",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Halkaoğlu Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah (kadıköy Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kabak Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kadıözü Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah (belkavak Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karakoca Mah (kuzören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karalar Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karamuklu Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karamustafa Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaşar Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karga Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah (saçak Beldesi)",
+      "district_name": "Çerkeş",
+      "postal_code": "18630",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kirenözü Mah (yıprak Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kurtlar Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kuzdere Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kürüz Mah (bayındır Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kınık Mah (aydınlar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah (beymelik Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (afşar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (akhasan Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (aydınlar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (belkavak Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (beymelik Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (bozoğlu Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dağçukurören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dikenli Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (gelik Ovacık Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (gökçeler Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (göynükçukuru Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kadıköy Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karacahöyük Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kiremitçi Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kuzören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kısaç Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (saraycık Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (türbaşı Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yakuplar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeşilöz Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yıprak Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çalcıören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çaylı Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çördük Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (örenköy Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (örenli Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (şeyhdoğan Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Meydan Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Nahallar Mah (örenli Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Okçular Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Songeçit Mah (çördük Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Taşanlar Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Tohumlar Mah (yıprak Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Uluköy Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ulusu Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yalnızca Mah (kadıköy Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yalıözü Mah (saçak Beldesi)",
+      "district_name": "Çerkeş",
+      "postal_code": "18630",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (dikenli Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (türbaşı Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Kent Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (saçak Beldesi)",
+      "district_name": "Çerkeş",
+      "postal_code": "18630",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah (yeşilöz Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeşilören Mah (göynükçukuru Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yoncalı Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yortan Mah (kiremitçi Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yumaklı Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yusufoğlu Mah (kuzören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yörük Mah (çaylı Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çakmak Köyü",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çerkeş Osb Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çetin Mah (çalcıören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çoroğlu Mah (çalcıören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çömlekçi Mah (kadıköy Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ömerler Mah (dağçukurören Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah (afşar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah (türbaşı Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İdris Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İncegez Mah (afşar Köyü)",
+      "district_name": "Çerkeş",
+      "postal_code": "18602",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Çerkeş",
+      "postal_code": "18600",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bakırlı Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bulduk Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Bulgurcu Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Büyükyakalı Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Demirsahan Mah (ödek Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Deprem Konutları Mah (kamışköy Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Göldağı Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gümerdiğin Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gündoğmuş Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Gürpınar Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kamışköy Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karahacı Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karakoçaş Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karamusa Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Karaören Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Mah (çaparkayı Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kurtsivrisi Mah (özbek Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Kutluşar Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Küçükyakalı Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Martköy Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Oluklu Mah (çaparkayı Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Sırıklı Mah (gündoğmuş Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Yeniosb Mah",
+      "district_name": "Şabanözü",
+      "postal_code": "18650",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çadır Mah (martköy Köyü)",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çapar Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çaparkayı Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Çerçi Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Ödek Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    },
+    {
+      "neighbourhood_name": "Özbek Köyü",
+      "district_name": "Şabanözü",
+      "postal_code": "18652",
+      "city_code": "18",
+      "city_name": "Çankırı"
+    }
+  ],
+  "meta": {
+    "title": "Çankırı Mahalleleri (Çankırı Neighbourhoods) - Ücretsiz İndir",
+    "description": "Çankırı ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (627 kayıt.) (All neighbourhoods (mahalle) in Çankırı province with their parent district and postal code.) İçerik 627 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Çankırı Mahalleleri (Çankırı Neighbourhoods) | ListBase",
+    "seo_description": "İndir Çankırı Mahalleleri (Çankırı Neighbourhoods) — 627 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 627 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

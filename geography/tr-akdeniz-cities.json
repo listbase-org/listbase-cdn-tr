@@ -1,0 +1,124 @@
+{
+  "id": "tr-akdeniz-cities",
+  "name": "Akdeniz Bölgesi İlleri (Mediterranean Region — Provinces)",
+  "title": "Akdeniz Bölgesi İlleri (Mediterranean Region — Provinces)",
+  "description": "Akdeniz Bölgesi'nde yer alan 7 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 7 provinces of Mediterranean Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "07",
+      "name": "Antalya",
+      "slug": "antalya",
+      "area_code": "242",
+      "area_km2": 20177,
+      "population": 2688004,
+      "density_per_km2": 133.2
+    },
+    {
+      "code": "01",
+      "name": "Adana",
+      "slug": "adana",
+      "area_code": "0322",
+      "area_km2": 13844,
+      "population": 2274106,
+      "density_per_km2": 164.3
+    },
+    {
+      "code": "33",
+      "name": "Mersin",
+      "slug": "mersin",
+      "area_code": "324",
+      "area_km2": 16010,
+      "population": 1916432,
+      "density_per_km2": 119.7
+    },
+    {
+      "code": "46",
+      "name": "Kahramanmaraş",
+      "slug": "kahramanmaras",
+      "area_code": "344",
+      "area_km2": 14520,
+      "population": 1177436,
+      "density_per_km2": 81.1
+    },
+    {
+      "code": "80",
+      "name": "Osmaniye",
+      "slug": "osmaniye",
+      "area_code": "328",
+      "area_km2": 3320,
+      "population": 559405,
+      "density_per_km2": 168.5
+    },
+    {
+      "code": "32",
+      "name": "Isparta",
+      "slug": "isparta",
+      "area_code": "246",
+      "area_km2": 8946,
+      "population": 445325,
+      "density_per_km2": 49.8
+    },
+    {
+      "code": "15",
+      "name": "Burdur",
+      "slug": "burdur",
+      "area_code": "248",
+      "area_km2": 7175,
+      "population": 273799,
+      "density_per_km2": 38.2
+    }
+  ],
+  "meta": {
+    "title": "Akdeniz Bölgesi İlleri (Mediterranean Region — Provinces) - Ücretsiz İndir",
+    "description": "Akdeniz Bölgesi'nde yer alan 7 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 7 provinces of Mediterranean Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Akdeniz Bölgesi İlleri (Mediterranean Region — Provinces) | ListBase",
+    "seo_description": "İndir Akdeniz Bölgesi İlleri (Mediterranean Region — Provinces) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

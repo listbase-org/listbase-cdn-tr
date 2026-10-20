@@ -1,0 +1,484 @@
+{
+  "id": "tr-amasya-liseler",
+  "name": "Amasya Liseleri (High Schools in Amasya)",
+  "title": "Amasya Liseleri (High Schools in Amasya)",
+  "description": "Amasya ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (34 kayıt) (High schools in Amasya province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Göynücek 70. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Göynücek - Göynücek 70. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Göynücek",
+      "website": "http://goynucek70inciyilmtal.meb.k12.tr",
+      "enlem": 40.3968446387272,
+      "boylam": 35.53352674617304
+    },
+    {
+      "okul_adi": "Göynücek Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Amasya - Göynücek - Göynücek Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Amasya",
+      "ilce": "Göynücek",
+      "website": "http://goynucekanadoluihl.meb.k12.tr",
+      "enlem": 40.39677518686935,
+      "boylam": 35.522095171351566
+    },
+    {
+      "okul_adi": "Göynücek Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Amasya - Göynücek - Göynücek Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Göynücek",
+      "website": "http://goynucekcpl.meb.k12.tr",
+      "enlem": 40.65513273109042,
+      "boylam": 35.819772092242374
+    },
+    {
+      "okul_adi": "Gümüşhacıköy Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Amasya - Gümüşhacıköy - Gümüşhacıköy Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Amasya",
+      "ilce": "Gümüşhacıköy",
+      "website": "http://gumushacikoyihl.meb.k12.tr",
+      "enlem": 40.87636313564956,
+      "boylam": 35.22827526702417
+    },
+    {
+      "okul_adi": "Gümüşhacıköy Hasan Coci Anadolu Lisesi",
+      "tam_ad": "Amasya - Gümüşhacıköy - Gümüşhacıköy Hasan Coci Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Gümüşhacıköy",
+      "website": "http://ghkal.meb.k12.tr",
+      "enlem": 40.87721086820544,
+      "boylam": 35.22893509044184
+    },
+    {
+      "okul_adi": "Gümüşhacıköy Çok Programlı Lisesi",
+      "tam_ad": "Amasya - Gümüşhacıköy - Gümüşhacıköy Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Amasya",
+      "ilce": "Gümüşhacıköy",
+      "website": "http://gumushacikoycpl.meb.k12.tr",
+      "enlem": 40.86723208399194,
+      "boylam": 35.208743420977726
+    },
+    {
+      "okul_adi": "Adil Candemir Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Amasya - Hamamözü - Adil Candemir Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Hamamözü",
+      "website": "http://adilcandemircpl.meb.k12.tr",
+      "enlem": 40.78603982328884,
+      "boylam": 35.02929290904535
+    },
+    {
+      "okul_adi": "12 Haziran Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - 12 Haziran Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://12hazirananadolulisesi.meb.k12.tr",
+      "enlem": 40.65736288260692,
+      "boylam": 35.810545293231144
+    },
+    {
+      "okul_adi": "Alptekin Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - Alptekin Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://alptekinanadolulisesi.meb.k12.tr",
+      "enlem": 40.64500454493309,
+      "boylam": 35.808800516266956
+    },
+    {
+      "okul_adi": "Amasya Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - Amasya Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyaanadolulisesi.meb.k12.tr",
+      "enlem": 40.667910326254884,
+      "boylam": 35.83861192836298
+    },
+    {
+      "okul_adi": "Amasya Güzel Sanatlar Lisesi",
+      "tam_ad": "Amasya - Merkez - Amasya Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyagsl.meb.k12.tr",
+      "enlem": 40.68247542617326,
+      "boylam": 35.826220122714176
+    },
+    {
+      "okul_adi": "Amasya Sabuncuoğlu Şerefeddin Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - Amasya Sabuncuoğlu Şerefeddin Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyaasml.meb.k12.tr",
+      "enlem": 40.645692422986095,
+      "boylam": 35.809515324969425
+    },
+    {
+      "okul_adi": "Amasya Sosyal Bilimler Lisesi",
+      "tam_ad": "Amasya - Merkez - Amasya Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyasbl.meb.k12.tr",
+      "enlem": 40.65025706723714,
+      "boylam": 35.81933220996393
+    },
+    {
+      "okul_adi": "Amasya İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - Amasya İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyaaotml.meb.k12.tr",
+      "enlem": 40.59059904121281,
+      "boylam": 35.81215998305811
+    },
+    {
+      "okul_adi": "Gökhöyük Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - Gökhöyük Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyagokhoyuktml.meb.k12.tr",
+      "enlem": 40.58490183896464,
+      "boylam": 35.66064199580683
+    },
+    {
+      "okul_adi": "Türk Telekom Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Amasya - Merkez - Türk Telekom Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://fensosyalprojeihl.meb.k12.tr",
+      "enlem": 40.657403578109886,
+      "boylam": 35.79045286550058
+    },
+    {
+      "okul_adi": "İlduş Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - İlduş Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyaildushatunml.meb.k12.tr",
+      "enlem": 40.66530210518429,
+      "boylam": 35.84350964202417
+    },
+    {
+      "okul_adi": "Şehit Gültekin Tırpan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Merkez - Şehit Gültekin Tırpan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merkez",
+      "website": "http://amasyaeml.meb.k12.tr",
+      "enlem": 40.60396122100103,
+      "boylam": 35.817975012202396
+    },
+    {
+      "okul_adi": "Merzifon Abide Hatun Anadolu Lisesi",
+      "tam_ad": "Amasya - Merzifon - Merzifon Abide Hatun Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merzifon",
+      "website": "http://abidehatunanadolulisesi.meb.k12.tr",
+      "enlem": 40.87495563226394,
+      "boylam": 35.458682385821476
+    },
+    {
+      "okul_adi": "Mithatpaşa Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Merzifon - Mithatpaşa Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Merzifon",
+      "website": "http://merzifonmithatpasa.meb.k12.tr",
+      "enlem": 40.875478886296655,
+      "boylam": 35.46012004985346
+    },
+    {
+      "okul_adi": "Şehit Ahmet Özsoy Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Amasya - Merzifon - Şehit Ahmet Özsoy Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Amasya",
+      "ilce": "Merzifon",
+      "website": "http://saozsoykizaihl.meb.k12.tr",
+      "enlem": 40.88121818423552,
+      "boylam": 35.442717877764835
+    },
+    {
+      "okul_adi": "Suluova Adnan Menderes Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Adnan Menderes Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovatml.meb.k12.tr",
+      "enlem": 40.824302116184334,
+      "boylam": 35.654971805949344
+    },
+    {
+      "okul_adi": "Suluova Anadolu İmam-hatip Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Anadolu İmam-hatip Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovaanadoluihl.meb.k12.tr",
+      "enlem": 40.82505715113759,
+      "boylam": 35.655953494448795
+    },
+    {
+      "okul_adi": "Suluova Lokman Hekim Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Lokman Hekim Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovasml.meb.k12.tr",
+      "enlem": 40.83007832082861,
+      "boylam": 35.66032013072504
+    },
+    {
+      "okul_adi": "Suluova Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovakml.meb.k12.tr",
+      "enlem": 40.82378657662728,
+      "boylam": 35.65683325900568
+    },
+    {
+      "okul_adi": "Suluova Şehit Erkan Ayas Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Şehit Erkan Ayas Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovaeml.meb.k12.tr",
+      "enlem": 40.82327915189008,
+      "boylam": 35.65401693954004
+    },
+    {
+      "okul_adi": "Suluova Şehit Metehan Atmaca Anadolu Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Şehit Metehan Atmaca Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://smaal.meb.k12.tr",
+      "enlem": 40.84382928468672,
+      "boylam": 35.632788596291675
+    },
+    {
+      "okul_adi": "Suluova Şehit Muharrem Saygün Anadolu Lisesi",
+      "tam_ad": "Amasya - Suluova - Suluova Şehit Muharrem Saygün Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovaanadolulisesi.meb.k12.tr",
+      "enlem": 40.82092870986916,
+      "boylam": 35.665936676402225
+    },
+    {
+      "okul_adi": "Şehit Hüseyin Kavaklı Fen  Lisesi",
+      "tam_ad": "Amasya - Suluova - Şehit Hüseyin Kavaklı Fen  Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Amasya",
+      "ilce": "Suluova",
+      "website": "http://suluovafen.meb.k12.tr",
+      "enlem": 40.82491507532446,
+      "boylam": 35.65300306453241
+    },
+    {
+      "okul_adi": "Taşova Süleyman Bursalı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Taşova - Taşova Süleyman Bursalı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Taşova",
+      "website": "http://tasovasml.meb.k12.tr",
+      "enlem": 40.75343674757216,
+      "boylam": 36.34217521323694
+    },
+    {
+      "okul_adi": "Taşova Şehit Polis Ahmet Yaşar Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Amasya - Taşova - Taşova Şehit Polis Ahmet Yaşar Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Taşova",
+      "website": "http://tasovametem.meb.k12.tr",
+      "enlem": 40.75548074981447,
+      "boylam": 36.33147319926752
+    },
+    {
+      "okul_adi": "Şehit Bekir Özdemir Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Amasya - Taşova - Şehit Bekir Özdemir Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Amasya",
+      "ilce": "Taşova",
+      "website": "http://tasovaimamhatip.meb.k12.tr",
+      "enlem": 40.757585640717934,
+      "boylam": 36.33426269664301
+    },
+    {
+      "okul_adi": "Şehit Orhan Gülmez Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Amasya - Taşova - Şehit Orhan Gülmez Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Taşova",
+      "website": "http://sogcpal.meb.k12.tr",
+      "enlem": 40.761023214986444,
+      "boylam": 36.3215275682403
+    },
+    {
+      "okul_adi": "Şehit İdris Bolat Anadolu Lisesi",
+      "tam_ad": "Amasya - Taşova - Şehit İdris Bolat Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Amasya",
+      "ilce": "Taşova",
+      "website": "http://tasovasibal.meb.k12.tr",
+      "enlem": 40.75591148580901,
+      "boylam": 36.329037753482
+    }
+  ],
+  "meta": {
+    "title": "Amasya Liseleri (High Schools in Amasya) - Ücretsiz İndir",
+    "description": "Amasya ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (34 kayıt) (High schools in Amasya province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 34 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Amasya Liseleri (High Schools in Amasya) | ListBase",
+    "seo_description": "İndir Amasya Liseleri (High Schools in Amasya) — 34 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 34 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

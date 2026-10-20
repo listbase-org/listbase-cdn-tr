@@ -1,0 +1,64 @@
+{
+  "id": "tr-bayburt-districts",
+  "name": "Bayburt İlçeleri (Bayburt Districts)",
+  "title": "Bayburt İlçeleri (Bayburt Districts)",
+  "description": "Bayburt ilinin ilçeleri. (Districts (ilçe) of Bayburt province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Aydıntepe",
+      "slug": "aydintepe",
+      "city_code": "69",
+      "city_name": "Bayburt"
+    },
+    {
+      "district_name": "Demirözü",
+      "slug": "demirozu",
+      "city_code": "69",
+      "city_name": "Bayburt"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "69",
+      "city_name": "Bayburt"
+    }
+  ],
+  "meta": {
+    "title": "Bayburt İlçeleri (Bayburt Districts) - Ücretsiz İndir",
+    "description": "Bayburt ilinin ilçeleri. (Districts (ilçe) of Bayburt province in Türkiye.) İçerik 3 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bayburt İlçeleri (Bayburt Districts) | ListBase",
+    "seo_description": "İndir Bayburt İlçeleri (Bayburt Districts) — 3 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 3 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

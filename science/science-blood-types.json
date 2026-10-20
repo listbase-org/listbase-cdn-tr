@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "Kapsamlı Kan Grupları Uyumluluk Tablosu Veri Seti",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To (EN)",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "Yaygın Kan Grupları"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "Yaygın Kan Grupları"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "Yaygın Kan Grupları"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "Nadir Kan Grupları"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "Tüm tipler (Evrensel Alıcı)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "Nadir Kan Grupları"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "Nadir Kan Grupları"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Yaygın Kan Grupları"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "Tüm tipler (Evrensel Verici)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Evrensel Verici"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "Tüm tipler (Evrensel Plazma Vericisi)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "Plazma"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "Sadece Rh+ alıcıları",
+      "can_receive_from": "Hem Rh+ hem de Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Rh Faktörü Bilgisi"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "Hem Rh+ hem de Rh-",
+      "can_receive_from": "Sadece Rh-",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Rh Faktörü Bilgisi"
+    }
+  ],
+  "meta": {
+    "seo_title": "Kan Grupları Uyumluluk Tablosu - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Kan Grupları Uyumluluk Tablosu veri setini ücretsiz indirin. 11 kan tipi için ABO gruplarını, Rh faktörünü ve bağış kurallarını keşfedin. Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Kapsamlı Kan Grupları Uyumluluk Tablosu Veri Seti",
+    "description": "Bu veri seti, tüm ana kan grupları için ABO grubu, Rh faktörü, bağış/alma kuralları, popülasyon yüzdeleri, antijenler ve antikorlar dahil olmak üzere ayrıntılı bir uyumluluk tablosu sunar. 11 benzersiz kan tipi girişi içerir.",
+    "key_takeaways": [
+      "Kan bağışı ve transfüzyon uyumluluğu hakkında kritik bilgilere erişin.",
+      "11 kan tipi için popülasyon yüzdelerini ve bilimsel detayları keşfedin.",
+      "Antijenler, antikorlar ve ABO/Rh sınıflandırmaları hakkında kapsamlı verileri indirin.",
+      "Bu tabloyu eğitim amaçlı veya sağlık referansı olarak kullanın."
+    ],
+    "keywords": [
+      "kan grubu uyumluluk tablosu",
+      "kan bağışı kuralları",
+      "ABO Rh faktörü veri seti",
+      "kan tipleri excel csv",
+      "ücretsiz kan tablosu pdf",
+      "evrensel alıcı verici"
+    ],
+    "use_cases": [
+      "Tıbbi araştırma veya sağlık uygulamaları geliştirmek için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Halk sağlığı raporlaması veya sunumları için kan gruplarını filtrelemek, Pivot Tablolar oluşturmak ve popülasyon yüzdelerini analiz etmek için **Excel** dosyasını kullanın.",
+      "Tıbbi ofislerde, sınıflarda kolay erişim veya kişisel anlayış için hızlı bir referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "Kan transfüzyonlarının ve uyumluluğunun karmaşıklığı konusunda hastaları, öğrencileri veya personeli eğitmek için bu kapsamlı veri setini kullanın."
+    ]
+  },
+  "record_count": 11,
+  "title": "Kapsamlı Kan Grupları Uyumluluk Tablosu Veri Seti"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "tr-kayseri-tcdd-istasyonlari",
+  "name": "KAYSERİ TCDD Tren İstasyonları (Railway stations in KAYSERİ)",
+  "title": "KAYSERİ TCDD Tren İstasyonları (Railway stations in KAYSERİ)",
+  "description": "KAYSERİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KAYSERİ province.) (7 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BOĞAZKÖPRÜ",
+      "il": "KAYSERİ",
+      "kaynak_metin": "BOĞAZKÖPRÜ , KAYSERİ",
+      "gidis_id": 1042,
+      "donus_id": 1042,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 128
+    },
+    {
+      "istasyon": "HİMMETDEDE",
+      "il": "KAYSERİ",
+      "kaynak_metin": "HİMMETDEDE , KAYSERİ",
+      "gidis_id": 141,
+      "donus_id": 141,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 78
+    },
+    {
+      "istasyon": "KARAÖZÜ",
+      "il": "KAYSERİ",
+      "kaynak_metin": "KARAÖZÜ , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 545,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYSERİ (İNCESU)",
+      "il": "KAYSERİ",
+      "kaynak_metin": "KAYSERİ (İNCESU) , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 165,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYSERİ",
+      "il": "KAYSERİ",
+      "kaynak_metin": "KAYSERİ , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 182,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARIOĞLAN",
+      "il": "KAYSERİ",
+      "kaynak_metin": "SARIOĞLAN , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 1157,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YEŞİLHİSAR",
+      "il": "KAYSERİ",
+      "kaynak_metin": "YEŞİLHİSAR , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 211,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "KAYSERİ TCDD Tren İstasyonları (Railway stations in KAYSERİ) - Ücretsiz İndir",
+    "description": "KAYSERİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KAYSERİ province.) (7 kayıt.) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KAYSERİ TCDD Tren İstasyonları (Railway stations in KAYSERİ) | ListBase",
+    "seo_description": "İndir KAYSERİ TCDD Tren İstasyonları (Railway stations in KAYSERİ) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

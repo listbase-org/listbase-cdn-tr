@@ -1,0 +1,142 @@
+{
+  "id": "tr-tokat-tcdd-istasyonlari",
+  "name": "TOKAT TCDD Tren İstasyonları (Railway stations in TOKAT)",
+  "title": "TOKAT TCDD Tren İstasyonları (Railway stations in TOKAT)",
+  "description": "TOKAT ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in TOKAT province.) (9 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ARTOVA",
+      "il": "TOKAT",
+      "kaynak_metin": "ARTOVA , TOKAT",
+      "gidis_id": 462,
+      "donus_id": 462,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "GÜZELBEYLİ",
+      "il": "TOKAT",
+      "kaynak_metin": "GÜZELBEYLİ , TOKAT",
+      "gidis_id": 582,
+      "donus_id": 582,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "KIZOĞLU",
+      "il": "TOKAT",
+      "kaynak_metin": "KIZOĞLU , TOKAT",
+      "gidis_id": "",
+      "donus_id": 539,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KUNDUZ",
+      "il": "TOKAT",
+      "kaynak_metin": "KUNDUZ , TOKAT",
+      "gidis_id": "",
+      "donus_id": 563,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOKAT",
+      "il": "TOKAT",
+      "kaynak_metin": "TOKAT , TOKAT",
+      "gidis_id": 1395,
+      "donus_id": 1395,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOKAT(YEŞİLYURT)",
+      "il": "TOKAT",
+      "kaynak_metin": "TOKAT(YEŞİLYURT) , TOKAT",
+      "gidis_id": "",
+      "donus_id": 551,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TURHAL",
+      "il": "TOKAT",
+      "kaynak_metin": "TURHAL , TOKAT",
+      "gidis_id": "",
+      "donus_id": 1158,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİCE D",
+      "il": "TOKAT",
+      "kaynak_metin": "YENİCE D , TOKAT",
+      "gidis_id": "",
+      "donus_id": 598,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ZİLE",
+      "il": "TOKAT",
+      "kaynak_metin": "ZİLE , TOKAT",
+      "gidis_id": "",
+      "donus_id": 587,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "TOKAT TCDD Tren İstasyonları (Railway stations in TOKAT) - Ücretsiz İndir",
+    "description": "TOKAT ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in TOKAT province.) (9 kayıt.) İçerik 9 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "TOKAT TCDD Tren İstasyonları (Railway stations in TOKAT) | ListBase",
+    "seo_description": "İndir TOKAT TCDD Tren İstasyonları (Railway stations in TOKAT) — 9 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 9 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

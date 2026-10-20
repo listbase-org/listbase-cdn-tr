@@ -1,0 +1,187 @@
+{
+  "id": "tr-kutahya-tcdd-istasyonlari",
+  "name": "KÜTAHYA TCDD Tren İstasyonları (Railway stations in KÜTAHYA)",
+  "title": "KÜTAHYA TCDD Tren İstasyonları (Railway stations in KÜTAHYA)",
+  "description": "KÜTAHYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KÜTAHYA province.) (14 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ALAYUNT",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALAYUNT , KÜTAHYA",
+      "gidis_id": 895,
+      "donus_id": 895,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "ALAYUNT MÜSELLES",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALAYUNT MÜSELLES , KÜTAHYA",
+      "gidis_id": 896,
+      "donus_id": 896,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "ALÖVE",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALÖVE , KÜTAHYA",
+      "gidis_id": 878,
+      "donus_id": 878,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "ALİKÖY",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALİKÖY , KÜTAHYA",
+      "gidis_id": 938,
+      "donus_id": 938,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "BALIKÖY",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "BALIKÖY , KÜTAHYA",
+      "gidis_id": 1124,
+      "donus_id": 1124,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "DEĞİRMENÖZÜ",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "DEĞİRMENÖZÜ , KÜTAHYA",
+      "gidis_id": 899,
+      "donus_id": 899,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 39
+    },
+    {
+      "istasyon": "DUMLUPINAR",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "DUMLUPINAR , KÜTAHYA",
+      "gidis_id": 904,
+      "donus_id": 904,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "GÖKÇEDAĞ",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "GÖKÇEDAĞ , KÜTAHYA",
+      "gidis_id": 910,
+      "donus_id": 910,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "GÜZELYURT",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "GÜZELYURT , KÜTAHYA",
+      "gidis_id": 916,
+      "donus_id": 916,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 2
+    },
+    {
+      "istasyon": "KÜTAHYA",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "KÜTAHYA , KÜTAHYA",
+      "gidis_id": 937,
+      "donus_id": 937,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SABUNCUPINAR",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "SABUNCUPINAR , KÜTAHYA",
+      "gidis_id": 970,
+      "donus_id": 970,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TAVŞANLI",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "TAVŞANLI , KÜTAHYA",
+      "gidis_id": "",
+      "donus_id": 962,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUKÖY",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ULUKÖY , KÜTAHYA",
+      "gidis_id": 965,
+      "donus_id": 965,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇÖĞÜRLER",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ÇÖĞÜRLER , KÜTAHYA",
+      "gidis_id": 915,
+      "donus_id": 915,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 39
+    }
+  ],
+  "meta": {
+    "title": "KÜTAHYA TCDD Tren İstasyonları (Railway stations in KÜTAHYA) - Ücretsiz İndir",
+    "description": "KÜTAHYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KÜTAHYA province.) (14 kayıt.) İçerik 14 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KÜTAHYA TCDD Tren İstasyonları (Railway stations in KÜTAHYA) | ListBase",
+    "seo_description": "İndir KÜTAHYA TCDD Tren İstasyonları (Railway stations in KÜTAHYA) — 14 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 14 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

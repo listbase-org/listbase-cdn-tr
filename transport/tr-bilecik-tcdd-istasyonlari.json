@@ -1,0 +1,97 @@
+{
+  "id": "tr-bilecik-tcdd-istasyonlari",
+  "name": "BİLECİK TCDD Tren İstasyonları (Railway stations in BİLECİK)",
+  "title": "BİLECİK TCDD Tren İstasyonları (Railway stations in BİLECİK)",
+  "description": "BİLECİK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BİLECİK province.) (4 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BOZÜYÜK",
+      "il": "BİLECİK",
+      "kaynak_metin": "BOZÜYÜK , BİLECİK",
+      "gidis_id": 13,
+      "donus_id": 13,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BOZÜYÜK YHT",
+      "il": "BİLECİK",
+      "kaynak_metin": "BOZÜYÜK YHT , BİLECİK",
+      "gidis_id": 1145,
+      "donus_id": 1145,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "BİLECİK",
+      "il": "BİLECİK",
+      "kaynak_metin": "BİLECİK , BİLECİK",
+      "gidis_id": 9,
+      "donus_id": 9,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BİLECİK YHT",
+      "il": "BİLECİK",
+      "kaynak_metin": "BİLECİK YHT , BİLECİK",
+      "gidis_id": 1142,
+      "donus_id": 1142,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    }
+  ],
+  "meta": {
+    "title": "BİLECİK TCDD Tren İstasyonları (Railway stations in BİLECİK) - Ücretsiz İndir",
+    "description": "BİLECİK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BİLECİK province.) (4 kayıt.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "BİLECİK TCDD Tren İstasyonları (Railway stations in BİLECİK) | ListBase",
+    "seo_description": "İndir BİLECİK TCDD Tren İstasyonları (Railway stations in BİLECİK) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

@@ -1,0 +1,2151 @@
+{
+  "id": "tr-kilis-neighbourhoods",
+  "name": "Kilis Mahalleleri (Kilis Neighbourhoods)",
+  "title": "Kilis Mahalleleri (Kilis Neighbourhoods)",
+  "description": "Kilis ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (300 kayıt.) (All neighbourhoods (mahalle) in Kilis province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 300,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akçağıl Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Alahan Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aynafar Mah (yağızköy Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aşağıbeylerbeyi Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Beşiriye Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Buldum Mah (geçerli Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ciris Mah (taşlıbakar Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Delhemi Mah (yağızköy Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Erikliyayla Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Geçerli Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Göktepe Mah (geçerli Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Günece Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Güvendik Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hacı Şakir Çiftliği Mah (aşağıbeylerbeyi Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Havuzluçam Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Elbeyli",
+      "postal_code": "79500",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kalbursait Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kaplanlar Mah (havuzluçam Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karacurun Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karaçağıl Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kesmelik Mah (akçağıl Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kumsurun Mah (geçerli Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Küçükbıykır Mah (çıldıroba Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kılcan Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mahliören Mah (turanlı Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mercanlı Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Necmettin Erbakan Mah",
+      "district_name": "Elbeyli",
+      "postal_code": "79500",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Salhan Mah (alahan Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sarıevler Mah (havuzluçam Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sağlıcak Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sekizler Mah (güvendik Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Selmincik Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Solak Mah (erikliyayla Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Taşlıbakar Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tilkip Mah (karaçağıl Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Turanlı Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Uzunali Mah (alahan Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Uğurlar Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yalçın Nane Mah",
+      "district_name": "Elbeyli",
+      "postal_code": "79500",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yazılıbahar Mah (havuzluçam Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yağızköy Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yenideğirmen Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (akçağıl Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Mah (kalbursait Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çangallı Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çardak Mah (akçağıl Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (akçağıl Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çıldıroba Köyü",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Özkanlar Mah (yağızköy Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "İkizkaya Mah (kalbursait Köyü)",
+      "district_name": "Elbeyli",
+      "postal_code": "79502",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Elbeyli",
+      "postal_code": "79500",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Abdioymağı Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Acar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Acar Mah (acar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Akdilek Mah (duruca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Akçabağlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Akıncı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Alatepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Albay İbrahim Karaoğlanoğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ali Gün Mah (yavuzlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Altınüzüm Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Arpakesmez Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aslan Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aybastı Mah (duruca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aşıt Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bayramlı Mah (çörten Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Başmağara Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Beşenli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Beşikkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bilal Habeşi Mah (yavuzlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bilali Habeş Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bozcayazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bulamaçlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah (güneşli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bölük Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Büyükkonak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Büyükkütah Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Canpolat Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ceritler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Deliosman Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Deliçay Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Demirciler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Demirışık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Deveciler Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Doğan Güreş Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah (bozcayazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Doğançay Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Duruca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Dölek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ebulüle Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ekrem Çetin Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Elberen Mah (karaçavuş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gençtepe Mah (karamelik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Göktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gözkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gülbaba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gümüşsuyu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Güneşli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Güvenli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hacı Gümüş Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hacı İlyas Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hakverdi Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hapse Mah (yavuzlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hasan Kamil Demirbaş Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Helvacıoğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hindioğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hisar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hizolar Mah (narlıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hüyüklü Mah (güvenli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hıcıpoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kanuni Sultan Süleyman Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kapdeğirmeni Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karaali Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karakoyunlu Mah (dölek Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karamelik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karaçavuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kartalbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ketenciler Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kilolar Mah (çerçili Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kocabeyli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kuskunkıran Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kuzuini Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Küplüce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kürtüncü Mah (güvenli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Küçük Mısırcık Mah (mısırcık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Küçükkonak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Küçükmaya Mah (çukuroba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Maraşal Fevzi Çakmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mağaracık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mehmet Abdi Bulut Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mehmet Rıfat Kazancıoğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mehmet Sanlı Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mehmetali Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mercidabık Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Meşetlik Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Muallim Rıfat Bilge Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mullahamit Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mücahitler Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Müslümanbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mıhali Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Mısırcık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Nacaroğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Namık Ünler Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Narlıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Necmettin Erbakan Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Nedim Ökmen Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Nurettin Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Okçular Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Oruçlu Mah (küplüce Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Osman Gazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Otluca Mah (saatli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Oylum Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Polat Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Saatli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sapkanlı Mah (gülbaba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Saraç Mehmet Çavuş Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sinan Paşa Mah (yavuzlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Süngütepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tabakhane Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tahtalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tanbıralı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Taşpınar Mah (çalkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tekye Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Topdağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tosyalı Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tırıklı Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Uzunlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Vaiz Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yamaç Beşenli Mah (beşenli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yavuz Mah (yavuzlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yavuz Sultan Selim Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yaşar Aktürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yedi Aralık Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Beşenli Mah (beşenli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Zeytinli Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çakkallıpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çalkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çaylak Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çerçili Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çilorlar Mah (çerçili Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çukuroba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çörten Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Öncü Pınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "İnanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "79002",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "İnnaplı Kütah Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "İslambey Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "İsmet Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şehit Sakıp Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şörhabil Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şıh Abdullah Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şıh Ahmet Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şıh Mehmet Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şıhlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "79090",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ağcakent Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aşağıbademli Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Aşağıkalecik Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Balıklı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Belentepe Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bogazkirim Mah (dorucak Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bozkaya Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Musabeyli",
+      "postal_code": "79600",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Dorucak Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Dutluca Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Fericek Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Fırlaklı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Geçitboyu Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gökmusa Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gövceli Mah (aşağıbademli Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gözlüce Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Gündeğer Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hasancalı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Haydarlar Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Hüseyinoğlu Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karadut Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karbeyaz Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kaynaklı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kocalar Mah (körahmethüyüğü Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kolpınar Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kozlubağ Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Koçcağız Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kurtaran Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Körahmethüyüğü Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kürtüncü Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kızılkent Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Madenyolu Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Murathüyüğü Mah",
+      "district_name": "Musabeyli",
+      "postal_code": "79600",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ortaoba Mah (kızılkent Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah",
+      "district_name": "Musabeyli",
+      "postal_code": "79600",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sabanlı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Seydolar Mah (fırlaklı Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tahtalıkaradut Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tat Gemrigi Mah (fericek Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tokaçgemriği Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Topallar Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ugurca Mah (uğurtepe Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Uğurtepe Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yastıca Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yatağan Mah (gündeğer Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yedigöz Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeşiloba Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Madenyolu Mah (madenyolu Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yukarıbademli Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yukarıkalecik Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yuvabaşı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Zeytinbağı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah (körahmethüyüğü Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çayıraltı Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çınarköy Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ötekioba Mah (kızılkent Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Üçevler Mah (hasancalı Köyü)",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Üçpınar Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şenlikçe Köyü",
+      "district_name": "Musabeyli",
+      "postal_code": "79602",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Polateli",
+      "postal_code": "79700",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bağarası Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bektaşoğlu Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Belenözü Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Bozkaya Mah (yeniyapan Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Polateli",
+      "postal_code": "79700",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Dümbüllü Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ekrem Çetin Mah",
+      "district_name": "Polateli",
+      "postal_code": "79700",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Evrentepe Mah (yeniyapan Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Evrentepe Yolu Mah (yeniyapan Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Eğlen Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karacurun Mah (yeniyurt Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah (yılanca Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kaymakam Kürşat Ağca Mah",
+      "district_name": "Polateli",
+      "postal_code": "79700",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Koçlar Mah (yeniyapan Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Kızılgöl Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Polatbey Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Sosyal Konutlar Mah",
+      "district_name": "Polateli",
+      "postal_code": "79700",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Taşlıalan Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Tekdam Mah (dümbüllü Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (dümbüllü Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Mah (dümbüllü Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeniyurt Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yeşilpınar Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Yılanca Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Çelik Mah (ömeroğlu Köyü)",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ömercik Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ömeroğlu Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Ürünlü Köyü",
+      "district_name": "Polateli",
+      "postal_code": "79702",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "neighbourhood_name": "Şehit Ali Mah",
+      "district_name": "Polateli",
+      "postal_code": "79700",
+      "city_code": "79",
+      "city_name": "Kilis"
+    }
+  ],
+  "meta": {
+    "title": "Kilis Mahalleleri (Kilis Neighbourhoods) - Ücretsiz İndir",
+    "description": "Kilis ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (300 kayıt.) (All neighbourhoods (mahalle) in Kilis province with their parent district and postal code.) İçerik 300 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kilis Mahalleleri (Kilis Neighbourhoods) | ListBase",
+    "seo_description": "İndir Kilis Mahalleleri (Kilis Neighbourhoods) — 300 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 300 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

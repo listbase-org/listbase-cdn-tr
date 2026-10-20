@@ -1,0 +1,124 @@
+{
+  "id": "tr-malatya-tcdd-istasyonlari",
+  "name": "MALATYA TCDD Tren İstasyonları (Railway stations in MALATYA)",
+  "title": "MALATYA TCDD Tren İstasyonları (Railway stations in MALATYA)",
+  "description": "MALATYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in MALATYA province.) (7 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BATTALGAZİ",
+      "il": "MALATYA",
+      "kaynak_metin": "BATTALGAZİ , MALATYA",
+      "gidis_id": 651,
+      "donus_id": 651,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 79
+    },
+    {
+      "istasyon": "HEKİMHAN",
+      "il": "MALATYA",
+      "kaynak_metin": "HEKİMHAN , MALATYA",
+      "gidis_id": 660,
+      "donus_id": 660,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 96
+    },
+    {
+      "istasyon": "MALATYA",
+      "il": "MALATYA",
+      "kaynak_metin": "MALATYA , MALATYA",
+      "gidis_id": "",
+      "donus_id": 696,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAZLIK",
+      "il": "MALATYA",
+      "kaynak_metin": "SAZLIK , MALATYA",
+      "gidis_id": "",
+      "donus_id": 1310,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SOĞUKSU",
+      "il": "MALATYA",
+      "kaynak_metin": "SOĞUKSU , MALATYA",
+      "gidis_id": "",
+      "donus_id": 1311,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAMANLAR",
+      "il": "MALATYA",
+      "kaynak_metin": "YAMANLAR , MALATYA",
+      "gidis_id": "",
+      "donus_id": 1309,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAZIHAN",
+      "il": "MALATYA",
+      "kaynak_metin": "YAZIHAN , MALATYA",
+      "gidis_id": 1123,
+      "donus_id": 1123,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "MALATYA TCDD Tren İstasyonları (Railway stations in MALATYA) - Ücretsiz İndir",
+    "description": "MALATYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in MALATYA province.) (7 kayıt.) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "MALATYA TCDD Tren İstasyonları (Railway stations in MALATYA) | ListBase",
+    "seo_description": "İndir MALATYA TCDD Tren İstasyonları (Railway stations in MALATYA) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "tr-yozgat-tcdd-istasyonlari",
+  "name": "YOZGAT TCDD Tren İstasyonları (Railway stations in YOZGAT)",
+  "title": "YOZGAT TCDD Tren İstasyonları (Railway stations in YOZGAT)",
+  "description": "YOZGAT ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in YOZGAT province.) (11 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AKDAĞMADENİ YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "AKDAĞMADENİ YHT , YOZGAT",
+      "gidis_id": 1378,
+      "donus_id": 1378,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "CAFERLİ",
+      "il": "YOZGAT",
+      "kaynak_metin": "CAFERLİ , YOZGAT",
+      "gidis_id": 111,
+      "donus_id": 111,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "KARAOSMAN",
+      "il": "YOZGAT",
+      "kaynak_metin": "KARAOSMAN , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 155,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARIKENT",
+      "il": "YOZGAT",
+      "kaynak_metin": "SARIKENT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 115,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SEKİLİ",
+      "il": "YOZGAT",
+      "kaynak_metin": "SEKİLİ , YOZGAT",
+      "gidis_id": 1101,
+      "donus_id": 1101,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SORGUN YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "SORGUN YHT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 1377,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİFAKILI",
+      "il": "YOZGAT",
+      "kaynak_metin": "YENİFAKILI , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 127,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YERKÖY",
+      "il": "YOZGAT",
+      "kaynak_metin": "YERKÖY , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 209,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YERKÖY YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "YERKÖY YHT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 1390,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YOZGAT YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "YOZGAT YHT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 1347,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ŞEFAATLİ",
+      "il": "YOZGAT",
+      "kaynak_metin": "ŞEFAATLİ , YOZGAT",
+      "gidis_id": 194,
+      "donus_id": 194,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "YOZGAT TCDD Tren İstasyonları (Railway stations in YOZGAT) - Ücretsiz İndir",
+    "description": "YOZGAT ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in YOZGAT province.) (11 kayıt.) İçerik 11 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "YOZGAT TCDD Tren İstasyonları (Railway stations in YOZGAT) | ListBase",
+    "seo_description": "İndir YOZGAT TCDD Tren İstasyonları (Railway stations in YOZGAT) — 11 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 11 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

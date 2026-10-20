@@ -1,0 +1,488 @@
+{
+  "id": "lang-hiragana-table",
+  "name": "Japonca Hiragana Tablosu ve Romaji Eşleme Veri Seti",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "hiragana",
+      "label": "Hiragana",
+      "type": "string"
+    },
+    {
+      "key": "romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "row",
+      "label": "Row",
+      "type": "string"
+    },
+    {
+      "key": "column",
+      "label": "Column",
+      "type": "string"
+    },
+    {
+      "key": "stroke_count",
+      "label": "Stroke Count",
+      "type": "number"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hiragana": "あ",
+      "romaji": "a",
+      "category": "Ünlü",
+      "row": "a",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3042"
+    },
+    {
+      "hiragana": "い",
+      "romaji": "i",
+      "category": "Ünlü",
+      "row": "a",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3044"
+    },
+    {
+      "hiragana": "う",
+      "romaji": "u",
+      "category": "Ünlü",
+      "row": "a",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3046"
+    },
+    {
+      "hiragana": "え",
+      "romaji": "e",
+      "category": "Ünlü",
+      "row": "a",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3048"
+    },
+    {
+      "hiragana": "お",
+      "romaji": "o",
+      "category": "Ünlü",
+      "row": "a",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+304A"
+    },
+    {
+      "hiragana": "か",
+      "romaji": "ka",
+      "category": "K ünsüzü",
+      "row": "ka",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+304B"
+    },
+    {
+      "hiragana": "き",
+      "romaji": "ki",
+      "category": "K ünsüzü",
+      "row": "ka",
+      "column": "i",
+      "stroke_count": 4,
+      "unicode": "U+304D"
+    },
+    {
+      "hiragana": "く",
+      "romaji": "ku",
+      "category": "K ünsüzü",
+      "row": "ka",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+304F"
+    },
+    {
+      "hiragana": "け",
+      "romaji": "ke",
+      "category": "K ünsüzü",
+      "row": "ka",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+3051"
+    },
+    {
+      "hiragana": "こ",
+      "romaji": "ko",
+      "category": "K ünsüzü",
+      "row": "ka",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3053"
+    },
+    {
+      "hiragana": "さ",
+      "romaji": "sa",
+      "category": "S ünsüzü",
+      "row": "sa",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3055"
+    },
+    {
+      "hiragana": "し",
+      "romaji": "shi",
+      "category": "S ünsüzü",
+      "row": "sa",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3057"
+    },
+    {
+      "hiragana": "す",
+      "romaji": "su",
+      "category": "S ünsüzü",
+      "row": "sa",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3059"
+    },
+    {
+      "hiragana": "せ",
+      "romaji": "se",
+      "category": "S ünsüzü",
+      "row": "sa",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+305B"
+    },
+    {
+      "hiragana": "そ",
+      "romaji": "so",
+      "category": "S ünsüzü",
+      "row": "sa",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+305D"
+    },
+    {
+      "hiragana": "た",
+      "romaji": "ta",
+      "category": "T ünsüzü",
+      "row": "ta",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+305F"
+    },
+    {
+      "hiragana": "ち",
+      "romaji": "chi",
+      "category": "T ünsüzü",
+      "row": "ta",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3061"
+    },
+    {
+      "hiragana": "つ",
+      "romaji": "tsu",
+      "category": "T ünsüzü",
+      "row": "ta",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+3064"
+    },
+    {
+      "hiragana": "て",
+      "romaji": "te",
+      "category": "T ünsüzü",
+      "row": "ta",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3066"
+    },
+    {
+      "hiragana": "と",
+      "romaji": "to",
+      "category": "T ünsüzü",
+      "row": "ta",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3068"
+    },
+    {
+      "hiragana": "な",
+      "romaji": "na",
+      "category": "N ünsüzü",
+      "row": "na",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+306A"
+    },
+    {
+      "hiragana": "に",
+      "romaji": "ni",
+      "category": "N ünsüzü",
+      "row": "na",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+306B"
+    },
+    {
+      "hiragana": "ぬ",
+      "romaji": "nu",
+      "category": "N ünsüzü",
+      "row": "na",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+306C"
+    },
+    {
+      "hiragana": "ね",
+      "romaji": "ne",
+      "category": "N ünsüzü",
+      "row": "na",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+306D"
+    },
+    {
+      "hiragana": "の",
+      "romaji": "no",
+      "category": "N ünsüzü",
+      "row": "na",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+306E"
+    },
+    {
+      "hiragana": "は",
+      "romaji": "ha",
+      "category": "H ünsüzü",
+      "row": "ha",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+306F"
+    },
+    {
+      "hiragana": "ひ",
+      "romaji": "hi",
+      "category": "H ünsüzü",
+      "row": "ha",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3072"
+    },
+    {
+      "hiragana": "ふ",
+      "romaji": "fu",
+      "category": "H ünsüzü",
+      "row": "ha",
+      "column": "u",
+      "stroke_count": 4,
+      "unicode": "U+3075"
+    },
+    {
+      "hiragana": "へ",
+      "romaji": "he",
+      "category": "H ünsüzü",
+      "row": "ha",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3078"
+    },
+    {
+      "hiragana": "ほ",
+      "romaji": "ho",
+      "category": "H ünsüzü",
+      "row": "ha",
+      "column": "o",
+      "stroke_count": 4,
+      "unicode": "U+307B"
+    },
+    {
+      "hiragana": "ま",
+      "romaji": "ma",
+      "category": "M ünsüzü",
+      "row": "ma",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+307E"
+    },
+    {
+      "hiragana": "み",
+      "romaji": "mi",
+      "category": "M ünsüzü",
+      "row": "ma",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+307F"
+    },
+    {
+      "hiragana": "む",
+      "romaji": "mu",
+      "category": "M ünsüzü",
+      "row": "ma",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+3080"
+    },
+    {
+      "hiragana": "め",
+      "romaji": "me",
+      "category": "M ünsüzü",
+      "row": "ma",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3081"
+    },
+    {
+      "hiragana": "も",
+      "romaji": "mo",
+      "category": "M ünsüzü",
+      "row": "ma",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3082"
+    },
+    {
+      "hiragana": "や",
+      "romaji": "ya",
+      "category": "Y ünsüzü",
+      "row": "ya",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3084"
+    },
+    {
+      "hiragana": "ゆ",
+      "romaji": "yu",
+      "category": "Y ünsüzü",
+      "row": "ya",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3086"
+    },
+    {
+      "hiragana": "よ",
+      "romaji": "yo",
+      "category": "Y ünsüzü",
+      "row": "ya",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3088"
+    },
+    {
+      "hiragana": "ら",
+      "romaji": "ra",
+      "category": "R ünsüzü",
+      "row": "ra",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+3089"
+    },
+    {
+      "hiragana": "り",
+      "romaji": "ri",
+      "category": "R ünsüzü",
+      "row": "ra",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+308A"
+    },
+    {
+      "hiragana": "る",
+      "romaji": "ru",
+      "category": "R ünsüzü",
+      "row": "ra",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+308B"
+    },
+    {
+      "hiragana": "れ",
+      "romaji": "re",
+      "category": "R ünsüzü",
+      "row": "ra",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+308C"
+    },
+    {
+      "hiragana": "ろ",
+      "romaji": "ro",
+      "category": "R ünsüzü",
+      "row": "ra",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+308D"
+    },
+    {
+      "hiragana": "わ",
+      "romaji": "wa",
+      "category": "W ünsüzü",
+      "row": "wa",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+308F"
+    },
+    {
+      "hiragana": "を",
+      "romaji": "wo",
+      "category": "W ünsüzü",
+      "row": "wa",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3092"
+    },
+    {
+      "hiragana": "ん",
+      "romaji": "n",
+      "category": "Genizsil ünsüz",
+      "row": "n",
+      "column": "-",
+      "stroke_count": 1,
+      "unicode": "U+3093"
+    }
+  ],
+  "meta": {
+    "seo_title": "Japonca Hiragana Tablosu - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Japonca Hiragana Tablosu veri setini ücretsiz indirin. Romaji, vuruş sayıları ve Unicode ile 46 temel Hiragana karakterine erişin. Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Japonca Hiragana Tablosu ve Romaji Eşleme Veri Seti",
+    "description": "Bu veri seti, Romaji çevirileri, kategorileri, vuruş sayıları ve Unicode değerleri ile 46 Japonca Hiragana karakterinin kapsamlı bir listesini sunar. Dil öğrenenler ve geliştiriciler için idealdir.",
+    "key_takeaways": [
+      "46 temel Japonca Hiragana karakterine erişin.",
+      "Doğru Romaji eşlemelerini ve Unicode değerlerini keşfedin.",
+      "Ayrıntılı vuruş sayılarını ve karakter kategorilerini indirin.",
+      "Bu veriyi dil öğrenme uygulamaları ve geliştirme için kullanın."
+    ],
+    "keywords": [
+      "hiragana tablosu excel",
+      "japonca hiragana csv",
+      "hiragana romaji listesi",
+      "japonca karakter verisi",
+      "hiragana indir ücretsiz",
+      "unicode hiragana"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını Python uygulamanıza veya SQL veritabanınıza aktararak özel bir Japonca öğrenme aracı veya karakter arama hizmeti oluşturun.",
+      "**Excel** dosyasını karakterleri kategoriye göre filtrelemek, vuruş sayısına göre sıralamak veya dil çalışması için etkileşimli bilgi kartları oluşturmak için kullanın.",
+      "**PDF** sürümünü sınıf referansı, çevrimdışı çalışma veya Hiragana öğrenmek için pratik bir duvar çizelgesi olarak yazdırın.",
+      "Bu veri setini Japonca metin alanlarındaki kullanıcı girişini doğrulamak veya çok dilli yazılımları geliştirmek için kullanın."
+    ]
+  },
+  "record_count": 46,
+  "title": "Japonca Hiragana Tablosu ve Romaji Eşleme Veri Seti"
+}

@@ -1,0 +1,460 @@
+{
+  "id": "tr-sinop-liseler",
+  "name": "Sinop Liseleri (High Schools in Sinop)",
+  "title": "Sinop Liseleri (High Schools in Sinop)",
+  "description": "Sinop ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Sinop province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Ayancık Atatürk Anadolu Lisesi",
+      "tam_ad": "Sinop - Ayancık - Ayancık Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Ayancık",
+      "website": "http://ayancikanadolu.meb.k12.tr",
+      "enlem": 41.947424647422515,
+      "boylam": 34.58765646590723
+    },
+    {
+      "okul_adi": "Ayancık Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Ayancık - Ayancık Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Ayancık",
+      "website": "http://ayancikmtal.meb.k12.tr",
+      "enlem": 41.94116030408278,
+      "boylam": 34.589314071078434
+    },
+    {
+      "okul_adi": "Ayancık Çok Programlı Lisesi",
+      "tam_ad": "Sinop - Ayancık - Ayancık Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Sinop",
+      "ilce": "Ayancık",
+      "website": "http://ayanciklisesi.meb.k12.tr",
+      "enlem": 41.94728101332339,
+      "boylam": 34.58773693217768
+    },
+    {
+      "okul_adi": "Farabi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Ayancık - Farabi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Ayancık",
+      "website": "http://ayancikanadolusaglikmesleklisesi.meb.k12.tr",
+      "enlem": 41.94254489664538,
+      "boylam": 34.58866497649683
+    },
+    {
+      "okul_adi": "Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Ayancık - Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Ayancık",
+      "website": "http://ayancikgazimtal.meb.k12.tr",
+      "enlem": 41.94274839330628,
+      "boylam": 34.58858451022638
+    },
+    {
+      "okul_adi": "Şehit Ahmet Can Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Sinop - Ayancık - Şehit Ahmet Can Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Sinop",
+      "ilce": "Ayancık",
+      "website": "http://ayancikihl.meb.k12.tr",
+      "enlem": 41.94334291904608,
+      "boylam": 34.589271155734195
+    },
+    {
+      "okul_adi": "Boyabat Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Boyabat - Boyabat Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Boyabat",
+      "website": "http://boyabatmtal.meb.k12.tr",
+      "enlem": 41.465384903855075,
+      "boylam": 34.776805845637455
+    },
+    {
+      "okul_adi": "Boyabat Şehit Ersoy Gürsu Anadolu Lisesi",
+      "tam_ad": "Sinop - Boyabat - Boyabat Şehit Ersoy Gürsu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Boyabat",
+      "website": "http://sehitersoygursu.meb.k12.tr",
+      "enlem": 41.46237798011027,
+      "boylam": 34.783055392642154
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Sinop - Boyabat - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Boyabat",
+      "website": "http://bmael.meb.k12.tr",
+      "enlem": 41.46426737361087,
+      "boylam": 34.79661127700342
+    },
+    {
+      "okul_adi": "Tayyareci Nuri Bey Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Boyabat - Tayyareci Nuri Bey Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Boyabat",
+      "website": "http://boyabattml.meb.k12.tr",
+      "enlem": 41.46282822355773,
+      "boylam": 34.79388078822626
+    },
+    {
+      "okul_adi": "Türk Telekom Fen Lisesi",
+      "tam_ad": "Sinop - Boyabat - Türk Telekom Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Sinop",
+      "ilce": "Boyabat",
+      "website": "http://turktelekomfenlisesi.meb.k12.tr",
+      "enlem": 41.46599591944127,
+      "boylam": 34.80744203700556
+    },
+    {
+      "okul_adi": "İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Boyabat - İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Boyabat",
+      "website": "http://boyabatasml.meb.k12.tr",
+      "enlem": 41.464472389594604,
+      "boylam": 34.76985355987085
+    },
+    {
+      "okul_adi": "Dikmen Ercüment Türkmen Anadolu Lisesi",
+      "tam_ad": "Sinop - Dikmen - Dikmen Ercüment Türkmen Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Dikmen",
+      "website": "http://detal.meb.k12.tr",
+      "enlem": 41.65279235838543,
+      "boylam": 35.26914676799311
+    },
+    {
+      "okul_adi": "Durağan Anadolu Lisesi",
+      "tam_ad": "Sinop - Durağan - Durağan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Durağan",
+      "website": "http://dal.meb.k12.tr",
+      "enlem": 41.420395132501426,
+      "boylam": 35.04726370944513
+    },
+    {
+      "okul_adi": "Durağan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Sinop - Durağan - Durağan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Sinop",
+      "ilce": "Durağan",
+      "website": "http://duraganihl.meb.k12.tr",
+      "enlem": 41.41751485388452,
+      "boylam": 35.050729123492374
+    },
+    {
+      "okul_adi": "Durağan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Durağan - Durağan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Durağan",
+      "website": "http://duragansml.meb.k12.tr",
+      "enlem": 41.41910385020296,
+      "boylam": 35.052440372843876
+    },
+    {
+      "okul_adi": "Durağan Çok Programlı Lisesi",
+      "tam_ad": "Sinop - Durağan - Durağan Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Sinop",
+      "ilce": "Durağan",
+      "website": "http://duragancpl.meb.k12.tr",
+      "enlem": 41.418729735581515,
+      "boylam": 35.0522472537948
+    },
+    {
+      "okul_adi": "Erfelek Şehit Özkan Çelikkaya Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Sinop - Erfelek - Erfelek Şehit Özkan Çelikkaya Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Erfelek",
+      "website": "http://erfelekcpal.meb.k12.tr",
+      "enlem": 41.88225138503753,
+      "boylam": 34.91568526401056
+    },
+    {
+      "okul_adi": "Atatürk Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Sinop - Gerze - Atatürk Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Gerze",
+      "website": "http://gerzeacpalisesi.meb.k12.tr",
+      "enlem": 41.80490654215186,
+      "boylam": 35.19297471417917
+    },
+    {
+      "okul_adi": "Cumhuriyet  Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Gerze - Cumhuriyet  Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Gerze",
+      "website": "http://cmtal.meb.k12.tr",
+      "enlem": 41.80464462423267,
+      "boylam": 35.193546024699344
+    },
+    {
+      "okul_adi": "Gerze Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Sinop - Gerze - Gerze Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Sinop",
+      "ilce": "Gerze",
+      "website": "http://gerzeihl.meb.k12.tr",
+      "enlem": 41.80612014784854,
+      "boylam": 35.18248995913996
+    },
+    {
+      "okul_adi": "Gerze Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Gerze - Gerze Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Gerze",
+      "website": "http://gerzeeml.meb.k12.tr",
+      "enlem": 41.805620313031184,
+      "boylam": 35.19198497905268
+    },
+    {
+      "okul_adi": "Şehit Nurullah Saraç Anadolu Lisesi",
+      "tam_ad": "Sinop - Gerze - Şehit Nurullah Saraç Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Gerze",
+      "website": "http://gerzeanadolulisesi.meb.k12.tr",
+      "enlem": 41.8045971389991,
+      "boylam": 35.18414018823637
+    },
+    {
+      "okul_adi": "75. Yıl Cumhuriyet Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Merkez - 75. Yıl Cumhuriyet Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Merkez",
+      "website": "http://sinopsaglikmesleklisesi.meb.k12.tr",
+      "enlem": 41.96606640401528,
+      "boylam": 35.15328606738581
+    },
+    {
+      "okul_adi": "Sinop Lisesi",
+      "tam_ad": "Sinop - Merkez - Sinop Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Sinop",
+      "ilce": "Merkez",
+      "website": "http://sehithalilozdogrual.meb.k12.tr",
+      "enlem": 42.024350006790996,
+      "boylam": 35.160592404742374
+    },
+    {
+      "okul_adi": "Sultan Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Merkez - Sultan Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Merkez",
+      "website": "http://sinopktml.meb.k12.tr",
+      "enlem": 42.02755387703538,
+      "boylam": 35.15347918643488
+    },
+    {
+      "okul_adi": "İmkb Şehit Ertan Yılmaztürk Güzel Sanatlar Lisesi",
+      "tam_ad": "Sinop - Merkez - İmkb Şehit Ertan Yılmaztürk Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Sinop",
+      "ilce": "Merkez",
+      "website": "http://sinopgssl.meb.k12.tr",
+      "enlem": 41.99431185172741,
+      "boylam": 35.063432065386905
+    },
+    {
+      "okul_adi": "Şehit Bülent Yalçın Spor Lisesi",
+      "tam_ad": "Sinop - Merkez - Şehit Bülent Yalçın Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Sinop",
+      "ilce": "Merkez",
+      "website": "http://sinopsporlisesi.meb.k12.tr",
+      "enlem": 41.99491785700925,
+      "boylam": 35.063088742633
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Sinop - Saraydüzü - Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Saraydüzü",
+      "website": "http://makifersoycpal.meb.k12.tr",
+      "enlem": 41.26079010663463,
+      "boylam": 34.891427365679874
+    },
+    {
+      "okul_adi": "Mimar Sinan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Sinop - Türkeli - Mimar Sinan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Türkeli",
+      "website": "http://turkelimtal.meb.k12.tr",
+      "enlem": 41.93871025971412,
+      "boylam": 34.34402069224848
+    },
+    {
+      "okul_adi": "Türkeli Anadolu Lisesi",
+      "tam_ad": "Sinop - Türkeli - Türkeli Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Sinop",
+      "ilce": "Türkeli",
+      "website": "http://turkelianadolulisesi.meb.k12.tr",
+      "enlem": 41.94404118045344,
+      "boylam": 34.338119832415714
+    },
+    {
+      "okul_adi": "Türkeli Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Sinop - Türkeli - Türkeli Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Sinop",
+      "ilce": "Türkeli",
+      "website": "http://turkeliaihl.meb.k12.tr",
+      "enlem": 41.95082389330698,
+      "boylam": 34.331124631304874
+    }
+  ],
+  "meta": {
+    "title": "Sinop Liseleri (High Schools in Sinop) - Ücretsiz İndir",
+    "description": "Sinop ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Sinop province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 32 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Sinop Liseleri (High Schools in Sinop) | ListBase",
+    "seo_description": "İndir Sinop Liseleri (High Schools in Sinop) — 32 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 32 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

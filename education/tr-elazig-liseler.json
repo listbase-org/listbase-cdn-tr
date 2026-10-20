@@ -1,0 +1,460 @@
+{
+  "id": "tr-elazig-liseler",
+  "name": "Elazığ Liseleri (High Schools in Elazığ)",
+  "title": "Elazığ Liseleri (High Schools in Elazığ)",
+  "description": "Elazığ ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Elazığ province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Alacakaya Mermer Cemil Yaşlı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Alacakaya - Alacakaya Mermer Cemil Yaşlı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Alacakaya",
+      "website": "http://alacakayamcycpl.meb.k12.tr",
+      "enlem": 38.46123050248665,
+      "boylam": 39.86124148740305
+    },
+    {
+      "okul_adi": "Arıcak Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Arıcak - Arıcak Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Arıcak",
+      "website": "http://aricakcpal.meb.k12.tr",
+      "enlem": 38.555184718134626,
+      "boylam": 40.13742854966654
+    },
+    {
+      "okul_adi": "İbrahim Uçkunkaya Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Ağın - İbrahim Uçkunkaya Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Ağın",
+      "website": "http://ibrahimuckunkayalisesi.meb.k12.tr",
+      "enlem": 38.94580755930164,
+      "boylam": 38.71106466426386
+    },
+    {
+      "okul_adi": "Baskil Anadolu Lisesi",
+      "tam_ad": "Elazığ - Baskil - Baskil Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Baskil",
+      "website": "http://baskilanadolulisesi.meb.k12.tr",
+      "enlem": 38.59276435714963,
+      "boylam": 38.8369460977508
+    },
+    {
+      "okul_adi": "Baskil Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Elazığ - Baskil - Baskil Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Elazığ",
+      "ilce": "Baskil",
+      "website": "http://baskilanadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 38.56759461040246,
+      "boylam": 38.830744830508365
+    },
+    {
+      "okul_adi": "Kanuni Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Karakoçan - Kanuni Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Karakoçan",
+      "website": "http://karakocankanunimeslek.meb.k12.tr",
+      "enlem": 38.944906374135726,
+      "boylam": 40.04609665050043
+    },
+    {
+      "okul_adi": "İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Karakoçan - İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Karakoçan",
+      "website": "http://ismtal.meb.k12.tr",
+      "enlem": 38.965497263621266,
+      "boylam": 40.048521367449894
+    },
+    {
+      "okul_adi": "Keban Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Keban - Keban Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Keban",
+      "website": "http://kebancpl.meb.k12.tr",
+      "enlem": 38.79941537793886,
+      "boylam": 38.72745832576288
+    },
+    {
+      "okul_adi": "Kız Teknik Ve Meslek Lisesi",
+      "tam_ad": "Elazığ - Keban - Kız Teknik Ve Meslek Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Elazığ",
+      "ilce": "Keban",
+      "website": "http://kebankml.meb.k12.tr",
+      "enlem": 38.790100105150145,
+      "boylam": 38.7489481843902
+    },
+    {
+      "okul_adi": "Kovancılar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Elazığ - Kovancılar - Kovancılar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Elazığ",
+      "ilce": "Kovancılar",
+      "website": "http://kovancilarimamhatip.meb.k12.tr",
+      "enlem": 38.71042232746955,
+      "boylam": 39.842564664703445
+    },
+    {
+      "okul_adi": "Kovancılar Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Elazığ - Kovancılar - Kovancılar Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Elazığ",
+      "ilce": "Kovancılar",
+      "website": "http://kovancilarkizaihl.meb.k12.tr",
+      "enlem": 38.72139376663408,
+      "boylam": 39.86437162532343
+    },
+    {
+      "okul_adi": "Kovancılar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Kovancılar - Kovancılar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Kovancılar",
+      "website": "http://kovancilarcpl.meb.k12.tr",
+      "enlem": 38.717811058081764,
+      "boylam": 39.866431561846866
+    },
+    {
+      "okul_adi": "Maden Anadolu Lisesi",
+      "tam_ad": "Elazığ - Maden - Maden Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Maden",
+      "website": "http://madenanadolulisesi.meb.k12.tr",
+      "enlem": 38.391323515299824,
+      "boylam": 39.67233082427515
+    },
+    {
+      "okul_adi": "Maden Anadolu Lisesi",
+      "tam_ad": "Elazığ - Maden - Maden Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Maden",
+      "website": "http://madenlisesi.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Maden Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Elazığ - Maden - Maden Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Elazığ",
+      "ilce": "Maden",
+      "website": "http://madenihl.meb.k12.tr",
+      "enlem": 38.39971113367124,
+      "boylam": 39.670179692645206
+    },
+    {
+      "okul_adi": "100. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - 100. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://yyeml.meb.k12.tr",
+      "enlem": 38.68325549240796,
+      "boylam": 39.223291484255924
+    },
+    {
+      "okul_adi": "75. Yıl Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - 75. Yıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazig75yilanadolulisesi.meb.k12.tr",
+      "enlem": 38.68434424322108,
+      "boylam": 39.2707451261474
+    },
+    {
+      "okul_adi": "Ahmet Kabaklı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Ahmet Kabaklı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://ahmetkabaklial.meb.k12.tr",
+      "enlem": 38.66524682663048,
+      "boylam": 39.1608818448974
+    },
+    {
+      "okul_adi": "Cemil Meriç Fen Lisesi",
+      "tam_ad": "Elazığ - Merkez - Cemil Meriç Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://cemilmericfenlisesi.meb.k12.tr",
+      "enlem": 38.66720705926756,
+      "boylam": 39.16349968089594
+    },
+    {
+      "okul_adi": "Elazığ Kaya Karakaya Güzel Sanatlar Lisesi",
+      "tam_ad": "Elazığ - Merkez - Elazığ Kaya Karakaya Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://kkgslisesi.meb.k12.tr",
+      "enlem": 38.66306872742787,
+      "boylam": 39.162062016863956
+    },
+    {
+      "okul_adi": "Elazığ Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Elazığ Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazigeml.meb.k12.tr",
+      "enlem": 38.667774169082044,
+      "boylam": 39.22506782465166
+    },
+    {
+      "okul_adi": "Fatih Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Fatih Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazigfatihanadolulisesi.meb.k12.tr",
+      "enlem": 38.65325808261032,
+      "boylam": 39.13618406428827
+    },
+    {
+      "okul_adi": "Hacı Hulusi Yahyagil Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Elazığ - Merkez - Hacı Hulusi Yahyagil Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://hhyahyagilaihl.meb.k12.tr",
+      "enlem": 38.644845494796535,
+      "boylam": 39.19364771022333
+    },
+    {
+      "okul_adi": "Murat Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Murat Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazigmuratmtal.meb.k12.tr",
+      "enlem": 38.660790029663204,
+      "boylam": 39.16319927348627
+    },
+    {
+      "okul_adi": "Necip Fazıl Kısakürek Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Necip Fazıl Kısakürek Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazignfk.meb.k12.tr",
+      "enlem": 38.67594368281985,
+      "boylam": 39.180043546099796
+    },
+    {
+      "okul_adi": "Necip Güngör Kısaparmak Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Necip Güngör Kısaparmak Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://necipgungorkisaparmakmtal.meb.k12.tr",
+      "enlem": 38.671389128357475,
+      "boylam": 39.19312467946543
+    },
+    {
+      "okul_adi": "Orgeneral Bedrettin Demirel Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Orgeneral Bedrettin Demirel Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://orgbedrettindemirelal.meb.k12.tr",
+      "enlem": 38.67137028132318,
+      "boylam": 39.17326292171015
+    },
+    {
+      "okul_adi": "Zeycan Yıldırım Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Zeycan Yıldırım Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://zeycanmtal.meb.k12.tr",
+      "enlem": 38.62767371240606,
+      "boylam": 39.317930547137394
+    },
+    {
+      "okul_adi": "İmam Efendi Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Elazığ - Merkez - İmam Efendi Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazigkizanadoluihl.meb.k12.tr",
+      "enlem": 38.677897340814084,
+      "boylam": 39.219257441897525
+    },
+    {
+      "okul_adi": "İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://elazigimkb.meb.k12.tr",
+      "enlem": 38.69019808859232,
+      "boylam": 39.26291307582392
+    },
+    {
+      "okul_adi": "Şehit Mehmet Öter Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Elazığ - Merkez - Şehit Mehmet Öter Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Merkez",
+      "website": "http://hazar.meb.k12.tr",
+      "enlem": 38.67275133697394,
+      "boylam": 39.198586998124256
+    },
+    {
+      "okul_adi": "Ali Rıza Talay Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Elazığ - Sivrice - Ali Rıza Talay Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Elazığ",
+      "ilce": "Sivrice",
+      "website": "http://sivricealirizatalaycpal.meb.k12.tr",
+      "enlem": 38.44728560839729,
+      "boylam": 39.30847844256891
+    }
+  ],
+  "meta": {
+    "title": "Elazığ Liseleri (High Schools in Elazığ) - Ücretsiz İndir",
+    "description": "Elazığ ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Elazığ province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 32 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Elazığ Liseleri (High Schools in Elazığ) | ListBase",
+    "seo_description": "İndir Elazığ Liseleri (High Schools in Elazığ) — 32 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 32 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tr-batman-districts",
+  "name": "Batman İlçeleri (Batman Districts)",
+  "title": "Batman İlçeleri (Batman Districts)",
+  "description": "Batman ilinin ilçeleri. (Districts (ilçe) of Batman province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Beşiri",
+      "slug": "besiri",
+      "city_code": "72",
+      "city_name": "Batman"
+    },
+    {
+      "district_name": "Gercüş",
+      "slug": "gercus",
+      "city_code": "72",
+      "city_name": "Batman"
+    },
+    {
+      "district_name": "Hasankeyf",
+      "slug": "hasankeyf",
+      "city_code": "72",
+      "city_name": "Batman"
+    },
+    {
+      "district_name": "Kozluk",
+      "slug": "kozluk",
+      "city_code": "72",
+      "city_name": "Batman"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "72",
+      "city_name": "Batman"
+    },
+    {
+      "district_name": "Sason",
+      "slug": "sason",
+      "city_code": "72",
+      "city_name": "Batman"
+    }
+  ],
+  "meta": {
+    "title": "Batman İlçeleri (Batman Districts) - Ücretsiz İndir",
+    "description": "Batman ilinin ilçeleri. (Districts (ilçe) of Batman province in Türkiye.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Batman İlçeleri (Batman Districts) | ListBase",
+    "seo_description": "İndir Batman İlçeleri (Batman Districts) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

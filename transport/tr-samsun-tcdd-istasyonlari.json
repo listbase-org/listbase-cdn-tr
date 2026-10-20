@@ -1,0 +1,151 @@
+{
+  "id": "tr-samsun-tcdd-istasyonlari",
+  "name": "SAMSUN TCDD Tren İstasyonları (Railway stations in SAMSUN)",
+  "title": "SAMSUN TCDD Tren İstasyonları (Railway stations in SAMSUN)",
+  "description": "SAMSUN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in SAMSUN province.) (10 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BOĞAZİÇİ",
+      "il": "SAMSUN",
+      "kaynak_metin": "BOĞAZİÇİ , SAMSUN",
+      "gidis_id": 490,
+      "donus_id": 490,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GERMİYAN",
+      "il": "SAMSUN",
+      "kaynak_metin": "GERMİYAN , SAMSUN",
+      "gidis_id": 503,
+      "donus_id": 503,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "HAVZA",
+      "il": "SAMSUN",
+      "kaynak_metin": "HAVZA , SAMSUN",
+      "gidis_id": 516,
+      "donus_id": 516,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 37
+    },
+    {
+      "istasyon": "KAVAK",
+      "il": "SAMSUN",
+      "kaynak_metin": "KAVAK , SAMSUN",
+      "gidis_id": 533,
+      "donus_id": 533,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "LADİK",
+      "il": "SAMSUN",
+      "kaynak_metin": "LADİK , SAMSUN",
+      "gidis_id": "",
+      "donus_id": 565,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MEŞELİDÜZ",
+      "il": "SAMSUN",
+      "kaynak_metin": "MEŞELİDÜZ , SAMSUN",
+      "gidis_id": "",
+      "donus_id": 549,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAMSUN",
+      "il": "SAMSUN",
+      "kaynak_metin": "SAMSUN , SAMSUN",
+      "gidis_id": "",
+      "donus_id": 557,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇELİKALAN",
+      "il": "SAMSUN",
+      "kaynak_metin": "ÇELİKALAN , SAMSUN",
+      "gidis_id": 424,
+      "donus_id": 424,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇUKURBÜK",
+      "il": "SAMSUN",
+      "kaynak_metin": "ÇUKURBÜK , SAMSUN",
+      "gidis_id": 505,
+      "donus_id": 505,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇİFTLİK",
+      "il": "SAMSUN",
+      "kaynak_metin": "ÇİFTLİK , SAMSUN",
+      "gidis_id": 921,
+      "donus_id": 921,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    }
+  ],
+  "meta": {
+    "title": "SAMSUN TCDD Tren İstasyonları (Railway stations in SAMSUN) - Ücretsiz İndir",
+    "description": "SAMSUN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in SAMSUN province.) (10 kayıt.) İçerik 10 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "SAMSUN TCDD Tren İstasyonları (Railway stations in SAMSUN) | ListBase",
+    "seo_description": "İndir SAMSUN TCDD Tren İstasyonları (Railway stations in SAMSUN) — 10 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 10 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

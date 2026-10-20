@@ -1,0 +1,82 @@
+{
+  "id": "tr-yalova-districts",
+  "name": "Yalova İlçeleri (Yalova Districts)",
+  "title": "Yalova İlçeleri (Yalova Districts)",
+  "description": "Yalova ilinin ilçeleri. (Districts (ilçe) of Yalova province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Altınova",
+      "slug": "altinova",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "district_name": "Armutlu",
+      "slug": "armutlu",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "district_name": "Termal",
+      "slug": "termal",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "district_name": "Çiftlikköy",
+      "slug": "ciftlikkoy",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "district_name": "Çınarcık",
+      "slug": "cinarcik",
+      "city_code": "77",
+      "city_name": "Yalova"
+    }
+  ],
+  "meta": {
+    "title": "Yalova İlçeleri (Yalova Districts) - Ücretsiz İndir",
+    "description": "Yalova ilinin ilçeleri. (Districts (ilçe) of Yalova province in Türkiye.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Yalova İlçeleri (Yalova Districts) | ListBase",
+    "seo_description": "İndir Yalova İlçeleri (Yalova Districts) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

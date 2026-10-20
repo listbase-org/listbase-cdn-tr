@@ -1,0 +1,388 @@
+{
+  "id": "tr-burdur-liseler",
+  "name": "Burdur Liseleri (High Schools in Burdur)",
+  "title": "Burdur Liseleri (High Schools in Burdur)",
+  "description": "Burdur ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (26 kayıt) (High schools in Burdur province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Şehit Bayram Yeşil Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Burdur - Ağlasun - Şehit Bayram Yeşil Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Ağlasun",
+      "website": "http://sehitbayramyesilcplisesi.meb.k12.tr",
+      "enlem": 37.631106526901526,
+      "boylam": 30.546334592242374
+    },
+    {
+      "okul_adi": "Akdeniz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Akdeniz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://bucaksml.meb.k12.tr",
+      "enlem": 37.454708338576914,
+      "boylam": 30.563565102954044
+    },
+    {
+      "okul_adi": "Bucak Adem Tolunay Fen Lisesi",
+      "tam_ad": "Burdur - Bucak - Bucak Adem Tolunay Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://atfl.meb.k12.tr",
+      "enlem": 37.453997172527444,
+      "boylam": 30.57768961562647
+    },
+    {
+      "okul_adi": "Bucak Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Bucak Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://bucakanadolulisesi.meb.k12.tr",
+      "enlem": 37.45911997207576,
+      "boylam": 30.575753060717716
+    },
+    {
+      "okul_adi": "Bucak Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Bucak Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://bucakanadolulisesi.meb.k12.tr",
+      "enlem": 37.459138060719646,
+      "boylam": 30.575753060717716
+    },
+    {
+      "okul_adi": "Bucak Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Burdur - Bucak - Bucak Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://bucakanadoluihl.meb.k12.tr",
+      "enlem": 37.4558325633279,
+      "boylam": 30.57792028560175
+    },
+    {
+      "okul_adi": "Bucak Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Bucak Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://bucakeml.meb.k12.tr",
+      "enlem": 37.418562325435396,
+      "boylam": 30.552042333026066
+    },
+    {
+      "okul_adi": "Mehmet Cadıl Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Mehmet Cadıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://mcadilal.meb.k12.tr",
+      "enlem": 37.456633137318214,
+      "boylam": 30.57661136760248
+    },
+    {
+      "okul_adi": "Necati Topay Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Necati Topay Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://necatitopaymtal.meb.k12.tr",
+      "enlem": 37.45332006802869,
+      "boylam": 30.578231421847477
+    },
+    {
+      "okul_adi": "Oğuzhan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Bucak - Oğuzhan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Bucak",
+      "website": "http://bucakomtal.meb.k12.tr",
+      "enlem": 37.44925731231342,
+      "boylam": 30.564359036822452
+    },
+    {
+      "okul_adi": "Gölhisar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Burdur - Gölhisar - Gölhisar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Burdur",
+      "ilce": "Gölhisar",
+      "website": "http://golhisarihl.meb.k12.tr",
+      "enlem": 37.14419601832158,
+      "boylam": 29.506949094672336
+    },
+    {
+      "okul_adi": "Gölhisar Fen Lisesi",
+      "tam_ad": "Burdur - Gölhisar - Gölhisar Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Burdur",
+      "ilce": "Gölhisar",
+      "website": "http://gfl.meb.k12.tr",
+      "enlem": 37.12582376389369,
+      "boylam": 29.51523443831934
+    },
+    {
+      "okul_adi": "Gölhisar Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Burdur - Gölhisar - Gölhisar Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Gölhisar",
+      "website": "http://golhisarmaeanadolu.meb.k12.tr",
+      "enlem": 37.14588932558281,
+      "boylam": 29.510095325846805
+    },
+    {
+      "okul_adi": "Gölhisar Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Gölhisar - Gölhisar Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Gölhisar",
+      "website": "http://golhisarmtal.meb.k12.tr",
+      "enlem": 37.14613733204937,
+      "boylam": 29.50370630397333
+    },
+    {
+      "okul_adi": "Hakan Sevim Fen Lisesi",
+      "tam_ad": "Burdur - Karamanlı - Hakan Sevim Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Burdur",
+      "ilce": "Karamanlı",
+      "website": "http://hakansevimfenlisesi.meb.k12.tr",
+      "enlem": 37.3626861307365,
+      "boylam": 29.816100505728855
+    },
+    {
+      "okul_adi": "Karamanlı Anadolu Lisesi",
+      "tam_ad": "Burdur - Karamanlı - Karamanlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Karamanlı",
+      "website": "http://karamanlilisesi.meb.k12.tr",
+      "enlem": 37.3744188968179,
+      "boylam": 29.82707342280878
+    },
+    {
+      "okul_adi": "Karamanlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Karamanlı - Karamanlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Karamanlı",
+      "website": "http://karamanlimetem.meb.k12.tr",
+      "enlem": 37.37790597135369,
+      "boylam": 29.826692549128666
+    },
+    {
+      "okul_adi": "Kemer Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Burdur - Kemer - Kemer Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Kemer",
+      "website": "http://burdurkemercpl.meb.k12.tr",
+      "enlem": 37.357731555777534,
+      "boylam": 30.0588162816955
+    },
+    {
+      "okul_adi": "Burdur Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Merkez - Burdur Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Merkez",
+      "website": "http://burdureml.meb.k12.tr",
+      "enlem": 37.71730738286223,
+      "boylam": 30.27653655185236
+    },
+    {
+      "okul_adi": "Burdur Spor Lisesi",
+      "tam_ad": "Burdur - Merkez - Burdur Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Burdur",
+      "ilce": "Merkez",
+      "website": "http://burdursprl.meb.k12.tr",
+      "enlem": 37.724071153542354,
+      "boylam": 30.289893952746525
+    },
+    {
+      "okul_adi": "Barutlusu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Tefenni - Barutlusu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Tefenni",
+      "website": "http://barutlusu.meb.k12.tr",
+      "enlem": 37.30269332954659,
+      "boylam": 29.77668007983698
+    },
+    {
+      "okul_adi": "Tefenni Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Burdur - Tefenni - Tefenni Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Burdur",
+      "ilce": "Tefenni",
+      "website": "http://tefenniaihl.meb.k12.tr",
+      "enlem": 37.31337738755101,
+      "boylam": 29.77798631562723
+    },
+    {
+      "okul_adi": "Tefenni Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Burdur - Tefenni - Tefenni Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Tefenni",
+      "website": "http://tefennimtal.meb.k12.tr",
+      "enlem": 37.30533888468127,
+      "boylam": 29.77837523593439
+    },
+    {
+      "okul_adi": "Söğüt Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Burdur - Çavdır - Söğüt Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Çavdır",
+      "website": "http://sogutcpal.meb.k12.tr",
+      "enlem": 37.03661052937248,
+      "boylam": 29.82112964763178
+    },
+    {
+      "okul_adi": "Çavdır Anadolu Lisesi",
+      "tam_ad": "Burdur - Çavdır - Çavdır Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Çavdır",
+      "website": "http://cavdiranadolulisesi.meb.k12.tr",
+      "enlem": 37.15866487630713,
+      "boylam": 29.6872981466247
+    },
+    {
+      "okul_adi": "Çeltikçi Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Burdur - Çeltikçi - Çeltikçi Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Burdur",
+      "ilce": "Çeltikçi",
+      "website": "http://celtikcicpal.meb.k12.tr",
+      "enlem": 37.53460114692247,
+      "boylam": 30.482616034884586
+    }
+  ],
+  "meta": {
+    "title": "Burdur Liseleri (High Schools in Burdur) - Ücretsiz İndir",
+    "description": "Burdur ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (26 kayıt) (High schools in Burdur province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 26 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Burdur Liseleri (High Schools in Burdur) | ListBase",
+    "seo_description": "İndir Burdur Liseleri (High Schools in Burdur) — 26 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 26 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

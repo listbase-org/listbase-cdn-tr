@@ -1,0 +1,96 @@
+{
+  "id": "tr-trabzon-tff-kulupleri",
+  "name": "TRABZON Bölgesi Futbol Kulüpleri (TRABZON Region Football Clubs)",
+  "title": "TRABZON Bölgesi Futbol Kulüpleri (TRABZON Region Football Clubs)",
+  "description": "TFF kayıtlarında TRABZON bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (3 kayıt.) (Süper Lig and TFF 1st League clubs registered in the TRABZON region, 2020-21 season.)",
+  "category": "sports",
+  "source": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "source_url": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "kulup",
+      "label": "Kulup",
+      "type": "string"
+    },
+    {
+      "key": "tff_id",
+      "label": "Tff Id",
+      "type": "number"
+    },
+    {
+      "key": "sehir",
+      "label": "Sehir",
+      "type": "string"
+    },
+    {
+      "key": "bolge",
+      "label": "Bolge",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "adres",
+      "label": "Adres",
+      "type": "string"
+    },
+    {
+      "key": "logo_url",
+      "label": "Logo Url",
+      "type": "string"
+    },
+    {
+      "key": "stadyum",
+      "label": "Stadyum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kulup": "ÇAYKUR RİZESPOR A.Ş.",
+      "tff_id": 189,
+      "sehir": "RİZE",
+      "bolge": "TRABZON",
+      "telefon": "(464)2261901 PBX",
+      "adres": "MEHMET CENGİZ T. TAŞLIDERE MH. SEVGİ CAD. NO:3 MERKEZ/RİZE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000189_120x120.png",
+      "stadyum": "ÇAYKUR DİDİ"
+    },
+    {
+      "kulup": "GİRESUNSPOR",
+      "tff_id": 187,
+      "sehir": "GİRESUN",
+      "bolge": "TRABZON",
+      "telefon": "(454)2255310",
+      "adres": "AKSU MH. MEHMET İZMEN CD. NO:152 - GİRESUN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000187_120x120.png",
+      "stadyum": "ÇOTANAK SPOR KOMPLEKSİ"
+    },
+    {
+      "kulup": "TRABZONSPOR A.Ş.",
+      "tff_id": 154,
+      "sehir": "TRABZON",
+      "bolge": "TRABZON",
+      "telefon": "(0462)3250967",
+      "adres": "ÜNİ.MAH. A.SUAT ÖZYAZICI CAD. M.ALİ YILMAZ TES. NO:31-35",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000154_120x120.png",
+      "stadyum": "ŞENOL GÜNEŞ SPOR KOMPLEKSİ"
+    }
+  ],
+  "meta": {
+    "title": "TRABZON Bölgesi Futbol Kulüpleri (TRABZON Region Football Clubs) - Ücretsiz İndir",
+    "description": "TFF kayıtlarında TRABZON bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (3 kayıt.) (Süper Lig and TFF 1st League clubs registered in the TRABZON region, 2020-21 season.) İçerik 3 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "TRABZON Bölgesi Futbol Kulüpleri (TRABZON Region Football Clubs) | ListBase",
+    "seo_description": "İndir TRABZON Bölgesi Futbol Kulüpleri (TRABZON Region Football Clubs) — 3 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 3 kayıt / 8 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/kadocolak/turkey-football-super-league-json-data-set"
+    ]
+  }
+}

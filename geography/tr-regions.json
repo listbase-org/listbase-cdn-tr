@@ -1,0 +1,154 @@
+{
+  "id": "tr-regions",
+  "name": "Türkiye Coğrafi Bölgeleri (Turkish Geographic Regions)",
+  "title": "Türkiye Coğrafi Bölgeleri (Turkish Geographic Regions)",
+  "description": "Türkiye'nin yedi coğrafi bölgesi: Akdeniz, Ege, İç Anadolu, Karadeniz, Marmara, Doğu Anadolu, Güneydoğu Anadolu. Her bölge için il sayısı, toplam nüfus (ADNS 2022) ve toplam yüzölçümü (km²) verilmiştir. (The seven geographic regions of Türkiye with city count, total population from 2022 ADNS, and total area in km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "city_count",
+      "label": "City Count",
+      "type": "number"
+    },
+    {
+      "key": "cities_with_area_count",
+      "label": "Cities With Area Count",
+      "type": "number"
+    },
+    {
+      "key": "total_population",
+      "label": "Total Population",
+      "type": "number"
+    },
+    {
+      "key": "total_area_km2",
+      "label": "Total Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "data_quality_notes",
+      "label": "Data Quality Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Karadeniz",
+      "name_en": "Black Sea",
+      "slug": "karadeniz",
+      "description": "Türkiye'nin kuzeyinde, Karadeniz kıyısı boyunca uzanan coğrafi bölge.",
+      "city_count": 17,
+      "cities_with_area_count": 17,
+      "total_population": 7373952,
+      "total_area_km2": 106337,
+      "density_per_km2": 69.3
+    },
+    {
+      "name": "İç Anadolu",
+      "name_en": "Central Anatolia",
+      "slug": "ic-anadolu",
+      "description": "Türkiye'nin merkezinde yer alan, Anadolu yarımadasının iç kesimini kapsayan coğrafi bölge.",
+      "city_count": 15,
+      "cities_with_area_count": 14,
+      "total_population": 14743947,
+      "total_area_km2": 197269,
+      "density_per_km2": 74.7,
+      "data_quality_notes": "total_area_km2 sums 14 of 15 il (others nullified due to source-side area typos)."
+    },
+    {
+      "name": "Doğu Anadolu",
+      "name_en": "Eastern Anatolia",
+      "slug": "dogu-anadolu",
+      "description": "Türkiye'nin doğusunda yer alan, yüksek ve dağlık coğrafi bölge.",
+      "city_count": 14,
+      "cities_with_area_count": 14,
+      "total_population": 5998778,
+      "total_area_km2": 148899,
+      "density_per_km2": 40.3
+    },
+    {
+      "name": "Güneydoğu Anadolu",
+      "name_en": "Southeastern Anatolia",
+      "slug": "guneydogu-anadolu",
+      "description": "Türkiye'nin güneydoğusunda yer alan, Mezopotamya'nın kuzey kesimini kapsayan coğrafi bölge.",
+      "city_count": 10,
+      "cities_with_area_count": 10,
+      "total_population": 10991953,
+      "total_area_km2": 81538,
+      "density_per_km2": 134.8
+    },
+    {
+      "name": "Marmara",
+      "name_en": "Marmara",
+      "slug": "marmara",
+      "description": "Türkiye'nin kuzeybatısında yer alan, Marmara Denizi etrafında konumlanan coğrafi bölge.",
+      "city_count": 10,
+      "cities_with_area_count": 10,
+      "total_population": 25970931,
+      "total_area_km2": 62849,
+      "density_per_km2": 413.2
+    },
+    {
+      "name": "Ege",
+      "name_en": "Aegean",
+      "slug": "ege",
+      "description": "Türkiye'nin batısında, Ege Denizi kıyısı boyunca uzanan coğrafi bölge.",
+      "city_count": 8,
+      "cities_with_area_count": 8,
+      "total_population": 10865485,
+      "total_area_km2": 87522,
+      "density_per_km2": 124.1
+    },
+    {
+      "name": "Akdeniz",
+      "name_en": "Mediterranean",
+      "slug": "akdeniz",
+      "description": "Türkiye'nin güneyinde, Akdeniz kıyısı boyunca uzanan coğrafi bölge.",
+      "city_count": 7,
+      "cities_with_area_count": 7,
+      "total_population": 9334507,
+      "total_area_km2": 83992,
+      "density_per_km2": 111.1
+    }
+  ],
+  "meta": {
+    "title": "Türkiye Coğrafi Bölgeleri (Turkish Geographic Regions) - Ücretsiz İndir",
+    "description": "Türkiye'nin yedi coğrafi bölgesi: Akdeniz, Ege, İç Anadolu, Karadeniz, Marmara, Doğu Anadolu, Güneydoğu Anadolu. Her bölge için il sayısı, toplam nüfus (ADNS 2022) ve toplam yüzölçümü (km²) verilmiştir. (The seven geographic regions of Türkiye with city count, total population from 2022 ADNS, and total area in km².) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Türkiye Coğrafi Bölgeleri (Turkish Geographic Regions) | ListBase",
+    "seo_description": "İndir Türkiye Coğrafi Bölgeleri (Turkish Geographic Regions) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

@@ -1,0 +1,3845 @@
+{
+  "id": "tr-eskisehir-neighbourhoods",
+  "name": "Eskişehir Mahalleleri (Eskişehir Neighbourhoods)",
+  "title": "Eskişehir Mahalleleri (Eskişehir Neighbourhoods)",
+  "description": "Eskişehir ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (542 kayıt.) (All neighbourhoods (mahalle) in Eskişehir province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 542,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Aktepe Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Alapınar Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Arıkaya Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ağaçhisar Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Başören Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Belkese Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bozan Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Büğdüz Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Esence Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fevzi Paşa Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fevziye Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçekaya Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçeoğlu Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güroluk Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Işıkören Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karakamış Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Koşmat Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mamure Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sakarıkaracaören Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarıkavak Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Söğütçük Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Uyuzhamamköyü Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşildon Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yunusemre Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çardakbaşı Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çerkez Çukurhisar Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Özdenk Mah",
+      "district_name": "Alpu",
+      "postal_code": "26850",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akköprü Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ata Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıdudaş Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıiğdeağacı Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğanoğlu Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğray Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Emircik Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçeayva Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Halilbağı Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Osb Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kızılcaören Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Okçu Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Parsıbey Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Rahmiye Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sultaniye Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Uzunburun Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yalınlı Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeniyurt Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıdudaş Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıiğdeağacı Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İkipınar Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İmikler Mah",
+      "district_name": "Beylikova",
+      "postal_code": "26750",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Atlas Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ayvalı Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bedil Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beyyayla Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğray Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gecek Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gümüşkonak Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kavacık Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kavuncu Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kayakent Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kuzören Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mercan Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tutlu Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yazır Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yağrı Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilyaka Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çardaközü Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Özler Mah",
+      "district_name": "Günyüzü",
+      "postal_code": "26630",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akdere Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akhisar Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ağlarca Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Başara Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Erten Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçekuyu Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçeyayla Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hankaraağaç Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hüsrevpaşa Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kayı Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Peçene Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yazılı Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İskankuyu Mah",
+      "district_name": "Han",
+      "postal_code": "26710",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akyurt Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Balçıkhisar Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğanca Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fahriye Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güllüce Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kaymazyayla Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mesudiye Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tokathan Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Topkaya Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Türkmenmecidiye Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çal Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Mahmudiye",
+      "postal_code": "26800",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Alpagut Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bozaniç Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dokuz Mayıs Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaoğlan Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sakarıılıca Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Mihalgazi",
+      "postal_code": "26880",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Adahisar Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ahur Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ahurözü Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akçaören Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bahtiyar Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Belen Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bey Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dağcı Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Diközü Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dinek Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dümrek Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gözeler Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güce Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güreş Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gürleyik Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ilıcalar Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karageyikli Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaçam Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kayı Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Korucu Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Koyunağılı Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kozlu Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kızılbörüklü Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Lütfiye Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mahmuthisar Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Medrese Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Narlı Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Obruk Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Otluk Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Seki Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sekiören Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sorkun Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Süleler Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tatarcık Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Uşakbükü Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yalımkaya Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yunusemre Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çalkaya Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çalçı Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çardak Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çukurören Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ömer Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Üçbaşlı Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İkizafer Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İğdecik Mah",
+      "district_name": "Mihalıççık",
+      "postal_code": "26940",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "71 Evler Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26080",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "75. Yıl Osb Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26250",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "75.yıl  Mah (sultandere Mah)",
+      "district_name": "Odunpazarı",
+      "postal_code": "26250",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akarbaşı Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26020",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akcami Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26090",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akkaya Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akçakaya Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akçağlan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Alanönü Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Arifiye Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26010",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Avdan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ayvacık Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ağapınar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağı Çağlan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıılıca Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Büyükdere Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26040",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Cunudiye Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dede Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Deliklitaş Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26090",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Demirli Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğankaya Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26080",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Erenköy Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26060",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Eşenkara Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökmeydan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26100",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26040",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gülpınar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26040",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gümele Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26100",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Harmandalı Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Huzur Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26060",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ihlamurkent Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26240",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kalkanlı Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kanlıpınar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaalan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacahöyük Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacaşehir Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karahüyük Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karamustafa Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karapazar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karatepe Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaçay Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kargın Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kayacık Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kireç Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26090",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kuyucak Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kıravdan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kırmızıtoprak Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26020",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Lütfiye Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Musalar Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26160",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26140",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Paşa Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarısungur Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Seklice Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sevinç Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sultandere Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26140",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Süpüren Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Türkmentokat Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Uluçayır Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Vadişehir Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26240",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Vişnelik Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26020",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yahnikapan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yassıhöyük Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26060",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26050",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenisofça Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıkalabak Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıçağlan Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıılıca Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yürükkaracaören Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yürükkırka Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yıldıztepe Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26040",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çankaya Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26240",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çavlum Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26576",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İmişehir Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26004",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26010",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Şarkiye Mah",
+      "district_name": "Odunpazarı",
+      "postal_code": "26030",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beyköy Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beyyayla Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bilal Habeşi Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dağküplü Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Düzköy Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kapıkaya Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Laçin Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mayıslar Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İğdir Mah",
+      "district_name": "Sarıcakaya",
+      "postal_code": "26870",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Akin Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aksaklı Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aslanbeyli Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ayvalı Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağısöğüt Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bardakçı Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beykışla Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beşsaray Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Büyükdere Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Büyükyayla Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Derebenek Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Değişören Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğançayır Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fethiye Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gemiç Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Göcenoluk Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökbahçe Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Göknebi Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçegüney Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gümüşbel Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacalık Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaören Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kesenler Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kümbet Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kırka Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Numanoluk Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Oynaş Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Salihler Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sancar Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sandıközü Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarayören Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarıcailyas Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Taşlıkköy Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yapıldak Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yarbasan Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yazıdere Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarısöğüt Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yunus Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çatören Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çukurağıl Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çukurca Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çürüttüm Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Üçsaray Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İdrisyayla Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İkizoluk Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İkiçeşme Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Şükranlı Mah",
+      "district_name": "Seyitgazi",
+      "postal_code": "26950",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ahiler Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aydınlı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıkepen Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Babadat Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ballıhisar Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Benlikuyu Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Benliyaver Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beyyazı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Biçer Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Buhara Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Buzluca Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Böğürtlen Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Demirci Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Demirciköy Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dinek Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dumluca Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dümrek Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Elcik Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ertuğrulköy Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gedik Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gerenli Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Göktepe Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gülçayır Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güvemli Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hamamkarahisar Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hüdavendigar Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hızırbey Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kadıncık Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kaldırımköy Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karabaşlı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaburhan Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacakaya Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacalar Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karacaörenyaylası Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karadat Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karkın Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kaymaz Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kertek Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Koltan Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Koçaş Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kubbeli Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kurtşeyh Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kurşunlu Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kılıç Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kınık Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Memik Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mülkköy Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Nasrettin Hoca Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ortaklar Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Oğlakçı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Paşakadın Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sadıkbağı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarıkavak Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sığırcık Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tekören Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yaverören Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıkepen Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yunusemre Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Zeyköyü Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çandır Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çaykoz Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İbikseydi Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İlyaspaşa Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İlören Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İstiklalbağı Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İğdecik Mah",
+      "district_name": "Sivrihisar",
+      "postal_code": "26600",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ahılar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Alınca Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Atalan Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Atalantekke Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Avlamış Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağı Söğütönü Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıkartal Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26170",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Batıkent Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26180",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Behçetiye Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bektaşpınarı Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Beyazaltın Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Boyacıoğlu Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Bozdağ Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Buldukpınar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriye Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26130",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Danişment Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Emirceoğlu Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26555",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ertuğrulgazi Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26150",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Eskibağlar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26170",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Eğriöz Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26220",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Fevziçakmak Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26230",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gazipaşa Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26555",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökdere Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gökçekısık Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Güllük Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26170",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Gündüzler Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hacı Ali Bey Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hacı Seyit Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hasanbey Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hayriye Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hekimdağ Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hoşnudiye Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26130",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karagözler Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Karaçobanpınarı Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kavacık Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Keskin Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kozkayı Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kozlubel Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kumlubel Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26220",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kızılcaören Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kızılinler Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mamure Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Merkez Yeni Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mollaoğlu Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Musaözü Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Paşa Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Muttalip Emirler Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26555",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Muttalip Koyunlar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26555",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Muttalip Orta Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26555",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Nemli Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sakintepe Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26555",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Satılmışoğlu Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sazova Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26150",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sulukaraağaç Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Takmak Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tandır Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Taycılar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tekeciler Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Tunalı Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26220",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Turgutlar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Uludere Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Uluönder Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26190",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yakakayı Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yarımca Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yaşamkent Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeniakçayır Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenibağlar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26170",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeniincesu Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarı Söğütönü Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıkartal Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yusuflar Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yürükakçayır Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26220",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Zincirlikuyu Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çalkara Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26180",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çanakkıran Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26005",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çukurhisar Yeni Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26563",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ömerağa Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26220",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Şarhöyük Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26230",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Şeker Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26120",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Şirintepe Mah",
+      "district_name": "Tepebaşı",
+      "postal_code": "26210",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Abbashalimpaşa Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Adalar Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Alikan Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Arslanlı Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Başkurt Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Belpınar Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dikilikaya Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dikmen Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Doğanay Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Eminekin Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Erbap Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Hayriye Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ilıcabaşı Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kadıkuyusu Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Körhasan Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sadıroğlu Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Saithalimpaşa Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Sarıkavak Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yıldızören Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Zaferhamit Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çatmapınar Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çiftçi Mah",
+      "district_name": "Çifteler",
+      "postal_code": "26700",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıkuzfındık Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dereyalak Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Dutluca Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Erenköy Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Esnemez Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kümbet Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kümbetakpınar Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Kümbetyeniköy Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Oklubalı Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Seyitaliköyü Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıkuzfındık Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Yürükyayla Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "İnönü",
+      "postal_code": "26670",
+      "city_code": "26",
+      "city_name": "Eskişehir"
+    }
+  ],
+  "meta": {
+    "title": "Eskişehir Mahalleleri (Eskişehir Neighbourhoods) - Ücretsiz İndir",
+    "description": "Eskişehir ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (542 kayıt.) (All neighbourhoods (mahalle) in Eskişehir province with their parent district and postal code.) İçerik 542 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Eskişehir Mahalleleri (Eskişehir Neighbourhoods) | ListBase",
+    "seo_description": "İndir Eskişehir Mahalleleri (Eskişehir Neighbourhoods) — 542 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 542 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

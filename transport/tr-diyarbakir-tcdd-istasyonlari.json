@@ -1,0 +1,187 @@
+{
+  "id": "tr-diyarbakir-tcdd-istasyonlari",
+  "name": "DİYARBAKIR TCDD Tren İstasyonları (Railway stations in DİYARBAKIR)",
+  "title": "DİYARBAKIR TCDD Tren İstasyonları (Railway stations in DİYARBAKIR)",
+  "description": "DİYARBAKIR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in DİYARBAKIR province.) (14 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AMBAR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "AMBAR , DİYARBAKIR",
+      "gidis_id": 631,
+      "donus_id": 631,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "ARZUOĞLU",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ARZUOĞLU , DİYARBAKIR",
+      "gidis_id": 693,
+      "donus_id": 693,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BOZDEMİR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "BOZDEMİR , DİYARBAKIR",
+      "gidis_id": 682,
+      "donus_id": 682,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BİSMİL",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "BİSMİL , DİYARBAKIR",
+      "gidis_id": 657,
+      "donus_id": 657,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 72
+    },
+    {
+      "istasyon": "DİYARBAKIR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "DİYARBAKIR , DİYARBAKIR",
+      "gidis_id": 1109,
+      "donus_id": 1109,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 71
+    },
+    {
+      "istasyon": "ERGANİ",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ERGANİ , DİYARBAKIR",
+      "gidis_id": 650,
+      "donus_id": 650,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 70
+    },
+    {
+      "istasyon": "KM 11+100",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "KM 11+100 , DİYARBAKIR",
+      "gidis_id": "",
+      "donus_id": 758,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALAT",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "SALAT , DİYARBAKIR",
+      "gidis_id": 688,
+      "donus_id": 688,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALLAR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "SALLAR , DİYARBAKIR",
+      "gidis_id": 689,
+      "donus_id": 689,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SEYİTHASAN",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "SEYİTHASAN , DİYARBAKIR",
+      "gidis_id": 722,
+      "donus_id": 722,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULAM",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ULAM , DİYARBAKIR",
+      "gidis_id": 704,
+      "donus_id": 704,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UĞUR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "UĞUR , DİYARBAKIR",
+      "gidis_id": 635,
+      "donus_id": 635,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAYLICA",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "YAYLICA , DİYARBAKIR",
+      "gidis_id": 683,
+      "donus_id": 683,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇÖLTEPE",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ÇÖLTEPE , DİYARBAKIR",
+      "gidis_id": 642,
+      "donus_id": 642,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 74
+    }
+  ],
+  "meta": {
+    "title": "DİYARBAKIR TCDD Tren İstasyonları (Railway stations in DİYARBAKIR) - Ücretsiz İndir",
+    "description": "DİYARBAKIR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in DİYARBAKIR province.) (14 kayıt.) İçerik 14 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "DİYARBAKIR TCDD Tren İstasyonları (Railway stations in DİYARBAKIR) | ListBase",
+    "seo_description": "İndir DİYARBAKIR TCDD Tren İstasyonları (Railway stations in DİYARBAKIR) — 14 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 14 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

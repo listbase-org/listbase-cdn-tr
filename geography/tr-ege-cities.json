@@ -1,0 +1,133 @@
+{
+  "id": "tr-ege-cities",
+  "name": "Ege Bölgesi İlleri (Aegean Region — Provinces)",
+  "title": "Ege Bölgesi İlleri (Aegean Region — Provinces)",
+  "description": "Ege Bölgesi'nde yer alan 8 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 8 provinces of Aegean Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "35",
+      "name": "İzmir",
+      "slug": "izmir",
+      "area_code": "232",
+      "area_km2": 11891,
+      "population": 4462056,
+      "density_per_km2": 375.2
+    },
+    {
+      "code": "45",
+      "name": "Manisa",
+      "slug": "manisa",
+      "area_code": "236",
+      "area_km2": 13339,
+      "population": 1468279,
+      "density_per_km2": 110.1
+    },
+    {
+      "code": "09",
+      "name": "Aydın",
+      "slug": "aydin",
+      "area_code": "256",
+      "area_km2": 8116,
+      "population": 1148241,
+      "density_per_km2": 141.5
+    },
+    {
+      "code": "20",
+      "name": "Denizli",
+      "slug": "denizli",
+      "area_code": "258",
+      "area_km2": 12134,
+      "population": 1056332,
+      "density_per_km2": 87.1
+    },
+    {
+      "code": "48",
+      "name": "Muğla",
+      "slug": "mugla",
+      "area_code": "252",
+      "area_km2": 12654,
+      "population": 1048185,
+      "density_per_km2": 82.8
+    },
+    {
+      "code": "03",
+      "name": "Afyonkarahisar",
+      "slug": "afyonkarahisar",
+      "area_code": "272",
+      "area_km2": 14016,
+      "population": 747555,
+      "density_per_km2": 53.3
+    },
+    {
+      "code": "17",
+      "name": "Çanakkale",
+      "slug": "canakkale",
+      "area_code": "286",
+      "area_km2": 9817,
+      "population": 559383,
+      "density_per_km2": 57
+    },
+    {
+      "code": "64",
+      "name": "Uşak",
+      "slug": "usak",
+      "area_code": "276",
+      "area_km2": 5555,
+      "population": 375454,
+      "density_per_km2": 67.6
+    }
+  ],
+  "meta": {
+    "title": "Ege Bölgesi İlleri (Aegean Region — Provinces) - Ücretsiz İndir",
+    "description": "Ege Bölgesi'nde yer alan 8 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 8 provinces of Aegean Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².) İçerik 8 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Ege Bölgesi İlleri (Aegean Region — Provinces) | ListBase",
+    "seo_description": "İndir Ege Bölgesi İlleri (Aegean Region — Provinces) — 8 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 8 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

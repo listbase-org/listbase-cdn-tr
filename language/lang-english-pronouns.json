@@ -1,0 +1,768 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "İngilizce Zamir Sınıflandırma Tablosu Veri Seti",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case (EN)",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person (EN)",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender (EN)",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "Birinci",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "I am happy.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "you",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "İkinci",
+      "number": "Tekil/Çoğul",
+      "gender": "Nötr",
+      "example": "You are kind.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "he",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Eril",
+      "example": "He runs fast.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "she",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Dişil",
+      "example": "She sings well.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "it",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "It is raining.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "we",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "Birinci",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "We are friends.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "they",
+      "type": "Şahıs",
+      "case": "Özne",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "They work hard.",
+      "function": "Fiilin öznesi"
+    },
+    {
+      "pronoun": "me",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "Birinci",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "She called me.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "you",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "İkinci",
+      "number": "Tekil/Çoğul",
+      "gender": "Nötr",
+      "example": "I saw you.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "him",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Eril",
+      "example": "We helped him.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "her",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Dişil",
+      "example": "They met her.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "it",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "I found it.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "us",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "Birinci",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "She joined us.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "them",
+      "type": "Şahıs",
+      "case": "Nesne",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "We invited them.",
+      "function": "Fiilin/edatın nesnesi"
+    },
+    {
+      "pronoun": "my",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "Birinci",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "This is my book.",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "your",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "İkinci",
+      "number": "Tekil/Çoğul",
+      "gender": "Nötr",
+      "example": "Is this your car?",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "his",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Eril",
+      "example": "That is his phone.",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "her",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Dişil",
+      "example": "I like her dress.",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "its",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "The dog wagged its tail.",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "our",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "Birinci",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "This is our house.",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "their",
+      "type": "İyelik",
+      "case": "Sıfat",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "They lost their keys.",
+      "function": "İsmi niteler"
+    },
+    {
+      "pronoun": "mine",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "Birinci",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "This book is mine.",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "yours",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "İkinci",
+      "number": "Tekil/Çoğul",
+      "gender": "Nötr",
+      "example": "Is this car yours?",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "his",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Erkek",
+      "example": "The phone is his.",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "hers",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Dişi",
+      "example": "The dress is hers.",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "its",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Cinsiyetsiz",
+      "example": "The responsibility is its.",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "ours",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "Birinci",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "The house is ours.",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "İyelik",
+      "case": "Bağımsız",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "The car is theirs.",
+      "function": "İsim öbeğinin yerini alır"
+    },
+    {
+      "pronoun": "myself",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "Birinci",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "I hurt myself.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "İkinci",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "You should believe in yourself.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "himself",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Erkek",
+      "example": "He taught himself.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "herself",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Dişi",
+      "example": "She introduced herself.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "itself",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Cinsiyetsiz",
+      "example": "The cat cleaned itself.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "Birinci",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "We enjoyed ourselves.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "İkinci",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "Help yourselves.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "Dönüşlü",
+      "case": "Dönüşlü",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "They blamed themselves.",
+      "function": "Nesne özneyi işaret eder"
+    },
+    {
+      "pronoun": "this",
+      "type": "İşaret",
+      "case": "-",
+      "person": "-",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "This is delicious.",
+      "function": "Yakın nesneyi işaret eder"
+    },
+    {
+      "pronoun": "that",
+      "type": "İşaret",
+      "case": "-",
+      "person": "-",
+      "number": "Tekil",
+      "gender": "Nötr",
+      "example": "That is beautiful.",
+      "function": "Uzak nesneyi işaret eder"
+    },
+    {
+      "pronoun": "these",
+      "type": "İşaret",
+      "case": "-",
+      "person": "-",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "These are my books.",
+      "function": "Yakın nesneleri işaret eder"
+    },
+    {
+      "pronoun": "those",
+      "type": "İşaret",
+      "case": "-",
+      "person": "-",
+      "number": "Çoğul",
+      "gender": "Nötr",
+      "example": "Those are expensive.",
+      "function": "Uzak nesneleri işaret eder"
+    },
+    {
+      "pronoun": "who",
+      "type": "Soru",
+      "case": "Özne",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi",
+      "example": "Who called?",
+      "function": "Kişi hakkında soru sorar (özne)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Soru",
+      "case": "Nesne",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi",
+      "example": "Whom did you call?",
+      "function": "Kişi hakkında soru sorar (nesne)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Soru",
+      "case": "İyelik",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi",
+      "example": "Whose is this?",
+      "function": "Aitlik hakkında soru sorar"
+    },
+    {
+      "pronoun": "what",
+      "type": "Soru",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Şey",
+      "example": "What happened?",
+      "function": "Şey/eylem hakkında soru sorar"
+    },
+    {
+      "pronoun": "which",
+      "type": "Soru",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi/Şey",
+      "example": "Which do you prefer?",
+      "function": "Seçim sorar"
+    },
+    {
+      "pronoun": "who",
+      "type": "Bağlaç",
+      "case": "Özne",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi",
+      "example": "The man who called is here.",
+      "function": "İlgili cümlecik başlatır (özne)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Bağlaç",
+      "case": "Nesne",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi",
+      "example": "The person whom I met was kind.",
+      "function": "İlgili cümlecik başlatır (nesne)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Bağlaç",
+      "case": "İyelik",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi/Şey",
+      "example": "The author whose book I read.",
+      "function": "İlgili cümlecikte aitlik gösterir"
+    },
+    {
+      "pronoun": "which",
+      "type": "Bağlaç",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Şey",
+      "example": "The book which I read was good.",
+      "function": "İlgili cümlecik başlatır (şey)"
+    },
+    {
+      "pronoun": "that",
+      "type": "Bağlaç",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Kişi/Şey",
+      "example": "The house that Jack built.",
+      "function": "Kısıtlayıcı ilgili cümlecik başlatır"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Kişi",
+      "example": "Anyone can join.",
+      "function": "Herhangi bir kişiyi ifade eder"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Kişi",
+      "example": "Everyone is welcome.",
+      "function": "Tüm insanları ifade eder"
+    },
+    {
+      "pronoun": "someone",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Kişi",
+      "example": "Someone called you.",
+      "function": "Belirsiz bir kişiyi ifade eder"
+    },
+    {
+      "pronoun": "no one",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Kişi",
+      "example": "No one was there.",
+      "function": "Hiçbir kişiyi ifade etmez"
+    },
+    {
+      "pronoun": "anything",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Şey",
+      "example": "Is there anything to eat?",
+      "function": "Herhangi bir şeyi ifade eder"
+    },
+    {
+      "pronoun": "everything",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Şey",
+      "example": "Everything is ready.",
+      "function": "Tüm şeyleri ifade eder"
+    },
+    {
+      "pronoun": "something",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Şey",
+      "example": "I heard something.",
+      "function": "Belirsiz bir şeyi ifade eder"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Şey",
+      "example": "Nothing happened.",
+      "function": "Hiçbir şeyi ifade etmez"
+    },
+    {
+      "pronoun": "all",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil/Çoğul",
+      "gender": "Nötr",
+      "example": "All are welcome.",
+      "function": "Tüm miktarı ifade eder"
+    },
+    {
+      "pronoun": "some",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil/Çoğul",
+      "gender": "Nötr",
+      "example": "Some are missing.",
+      "function": "Miktarın bir kısmını ifade eder"
+    },
+    {
+      "pronoun": "none",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil/Çoğul",
+      "gender": "Cinsiyetsiz",
+      "example": "None were found.",
+      "function": "Sıfır miktarı ifade eder"
+    },
+    {
+      "pronoun": "both",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Cinsiyetsiz",
+      "example": "Both are correct.",
+      "function": "İki şeyi birlikte ifade eder"
+    },
+    {
+      "pronoun": "each",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Cinsiyetsiz",
+      "example": "Each has a role.",
+      "function": "Bireylere atıfta bulunur"
+    },
+    {
+      "pronoun": "either",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Cinsiyetsiz",
+      "example": "Either will work.",
+      "function": "İkisinden birini ifade eder"
+    },
+    {
+      "pronoun": "neither",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Cinsiyetsiz",
+      "example": "Neither is correct.",
+      "function": "İkisinden hiçbirini ifade etmez"
+    },
+    {
+      "pronoun": "few",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Cinsiyetsiz",
+      "example": "Few attended.",
+      "function": "Az sayıda miktarı ifade eder"
+    },
+    {
+      "pronoun": "many",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Cinsiyetsiz",
+      "example": "Many have tried.",
+      "function": "Büyük miktarı ifade eder"
+    },
+    {
+      "pronoun": "several",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Çoğul",
+      "gender": "Cinsiyetsiz",
+      "example": "Several are broken.",
+      "function": "İkiden fazlasını ifade eder"
+    },
+    {
+      "pronoun": "one",
+      "type": "Belirsiz",
+      "case": "-",
+      "person": "Üçüncü",
+      "number": "Tekil",
+      "gender": "Cinsiyetsiz",
+      "example": "One must be careful.",
+      "function": "Herhangi bir kişiyi ifade eder (resmi)"
+    }
+  ],
+  "meta": {
+    "seo_title": "İngilizce Zamirler Tablosu - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Kapsamlı İngilizce zamirler tablosu veri setini indirin. Zamir türü, hali, şahıs, cinsiyet ve örnekleri kapsayan 69 kayda erişin. Excel, CSV, PDF ücretsiz.",
+    "title": "İngilizce Zamir Sınıflandırma Tablosu Veri Seti",
+    "description": "Bu veri seti, 69 İngilizce zamirin türü, dilbilgisel hali, şahsı, sayısı, cinsiyeti, örnek cümleleri ve işlevi dahil olmak üzere detaylı bir sınıflandırmasını sunar. Dilbilimciler, eğitimciler ve dil öğrenenler için önemli bir kaynaktır.",
+    "key_takeaways": [
+      "Detaylı dilbilgisel özelliklere sahip 69 İngilizce zamirin kapsamlı bir listesine erişin.",
+      "Zamir türlerini, hallerini, şahıslarını, sayılarını, cinsiyetlerini ve işlevlerini keşfedin.",
+      "Zamir kullanımının pratik anlaşılması için örnek cümleleri indirin.",
+      "Dilbilimsel analiz ve eğitim materyali oluşturma için yapılandırılmış verilerden yararlanın."
+    ],
+    "keywords": [
+      "ingilizce zamirler listesi",
+      "zamir türleri tablosu",
+      "ingilizce dilbilgisi excel",
+      "zamir örnekleri csv",
+      "ingilizce zamir indir"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza veya Python betiğinize aktararak bir zamir analiz aracı veya API oluşturun.",
+      "**Excel** dosyasını kullanarak zamirleri türüne, haline veya cinsiyetine göre filtreleyin, istatistiksel analiz için Pivot Tablolar oluşturun veya dilbilgisi raporları hazırlayın.",
+      "**PDF** sürümünü sınıf referansı, dil öğrenme materyalleri veya İngilizce zamirlere hızlı bir çevrimdışı rehber olarak yazdırın.",
+      "Bu yapılandırılmış veri setini eğitim yazılımlarına veya e-öğrenme platformlarına entegre ederek İngilizce dilbilgisi derslerini geliştirin."
+    ]
+  },
+  "record_count": 69,
+  "title": "İngilizce Zamir Sınıflandırma Tablosu Veri Seti"
+}

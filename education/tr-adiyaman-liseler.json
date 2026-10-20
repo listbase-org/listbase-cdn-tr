@@ -1,0 +1,580 @@
+{
+  "id": "tr-adiyaman-liseler",
+  "name": "Adıyaman Liseleri (High Schools in Adıyaman)",
+  "title": "Adıyaman Liseleri (High Schools in Adıyaman)",
+  "description": "Adıyaman ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (42 kayıt) (High schools in Adıyaman province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Besni Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besniihl.meb.k12.tr",
+      "enlem": 37.68912543319058,
+      "boylam": 37.87080368175043
+    },
+    {
+      "okul_adi": "Besni Köseceli Çok Programlı Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Köseceli Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://kosecelicpl.meb.k12.tr",
+      "enlem": 37.55833841734897,
+      "boylam": 37.72541722430719
+    },
+    {
+      "okul_adi": "Besni Mustafa Erdemoğlu Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Mustafa Erdemoğlu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besnimeanadolu.meb.k12.tr",
+      "enlem": 37.686442496418024,
+      "boylam": 37.85425981654657
+    },
+    {
+      "okul_adi": "Besni Osman İsot Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Osman İsot Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besnieml.meb.k12.tr",
+      "enlem": 37.70250470667001,
+      "boylam": 37.85938820018305
+    },
+    {
+      "okul_adi": "Besni Servi Erdemoğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Servi Erdemoğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besnikml.meb.k12.tr",
+      "enlem": 37.68744436390898,
+      "boylam": 37.866919843096866
+    },
+    {
+      "okul_adi": "Besni Çakırhöyük Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Çakırhöyük Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://cakirhoyukcpl.meb.k12.tr",
+      "enlem": 37.559222942848244,
+      "boylam": 37.852714864153995
+    },
+    {
+      "okul_adi": "Besni İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besniasml.meb.k12.tr",
+      "enlem": 37.68801321485059,
+      "boylam": 37.851963845629825
+    },
+    {
+      "okul_adi": "Besni Şehit Eren Kupal Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Besni Şehit Eren Kupal Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://sehiterenkupalmtal.meb.k12.tr",
+      "enlem": 37.690594215057686,
+      "boylam": 37.85018285884394
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Fen Lisesi",
+      "tam_ad": "Adıyaman - Besni - Mehmet Akif Ersoy Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besnifen.meb.k12.tr",
+      "enlem": 37.687087768556644,
+      "boylam": 37.84311255588068
+    },
+    {
+      "okul_adi": "Sarıyaprak Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Sarıyaprak Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://sariyaprakcpl.meb.k12.tr",
+      "enlem": 37.58782827731548,
+      "boylam": 37.73447236194147
+    },
+    {
+      "okul_adi": "Suvarlı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Suvarlı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://suvarlicpal.meb.k12.tr",
+      "enlem": 37.53860396508164,
+      "boylam": 37.63182958735956
+    },
+    {
+      "okul_adi": "Şambayat Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Şambayat Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://sambayatcpl.meb.k12.tr",
+      "enlem": 37.684493910294954,
+      "boylam": 38.04631671084894
+    },
+    {
+      "okul_adi": "Şehit Abidin Tanrıkolu Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Besni - Şehit Abidin Tanrıkolu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besnilisesi.meb.k12.tr",
+      "enlem": 37.6934807536129,
+      "boylam": 37.86065420283808
+    },
+    {
+      "okul_adi": "Şehit Mehmet Yağmur Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Besni - Şehit Mehmet Yağmur Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Besni",
+      "website": "http://besnismyagmurlisesi.meb.k12.tr",
+      "enlem": 37.691579046722325,
+      "boylam": 37.84619173182978
+    },
+    {
+      "okul_adi": "Gerger Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Gerger - Gerger Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Gerger",
+      "website": "http://gergeraihl.meb.k12.tr",
+      "enlem": 38.02511773221669,
+      "boylam": 39.038986174006595
+    },
+    {
+      "okul_adi": "Gerger Çok Programlı Lisesi",
+      "tam_ad": "Adıyaman - Gerger - Gerger Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Adıyaman",
+      "ilce": "Gerger",
+      "website": "http://gergercpl.meb.k12.tr",
+      "enlem": 38.02564595166787,
+      "boylam": 39.02968963756098
+    },
+    {
+      "okul_adi": "Gölbaşı Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Gölbaşı - Gölbaşı Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Gölbaşı",
+      "website": "http://golbasi02ihl.meb.k12.tr",
+      "enlem": 37.79395342057036,
+      "boylam": 37.6568894661857
+    },
+    {
+      "okul_adi": "Gölbaşı Belören Lisesi",
+      "tam_ad": "Adıyaman - Gölbaşı - Gölbaşı Belören Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Adıyaman",
+      "ilce": "Gölbaşı",
+      "website": "http://belorenlisesi.meb.k12.tr",
+      "enlem": 37.636340365512304,
+      "boylam": 37.582777348895206
+    },
+    {
+      "okul_adi": "Gölbaşı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Gölbaşı - Gölbaşı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Gölbaşı",
+      "website": "http://golbasimetem.meb.k12.tr",
+      "enlem": 37.78919067332586,
+      "boylam": 37.64579853190912
+    },
+    {
+      "okul_adi": "Abdullah Öztürk Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Abdullah Öztürk Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://abdullahozturkcpal.meb.k12.tr",
+      "enlem": 37.87773131971215,
+      "boylam": 38.47462257518305
+    },
+    {
+      "okul_adi": "Borsa İstanbul Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Borsa İstanbul Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtabistanadolulisesi.meb.k12.tr",
+      "enlem": 37.76584516986024,
+      "boylam": 38.654244748492374
+    },
+    {
+      "okul_adi": "Ebu Sadık Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Ebu Sadık Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://ebusadikihl.meb.k12.tr",
+      "enlem": 37.775682895360866,
+      "boylam": 38.633095483782995
+    },
+    {
+      "okul_adi": "Kahta Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Kahta Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtaanadolulisesi.meb.k12.tr",
+      "enlem": 37.78733381819734,
+      "boylam": 38.636971322436466
+    },
+    {
+      "okul_adi": "Kahta Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Kahta Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtaanadoluihl.meb.k12.tr",
+      "enlem": 37.78260244218275,
+      "boylam": 38.623984066386356
+    },
+    {
+      "okul_adi": "Kahta Cendere Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Kahta Cendere Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://cenderemeslekiveteknik.meb.k12.tr",
+      "enlem": 37.77080235979786,
+      "boylam": 38.61596157922281
+    },
+    {
+      "okul_adi": "Kahta Fen Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Kahta Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtafenlisesi.meb.k12.tr",
+      "enlem": 37.7703062317154,
+      "boylam": 38.61738046779169
+    },
+    {
+      "okul_adi": "Kahta Gap Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Kahta Gap Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtagapanadolulisesi.meb.k12.tr",
+      "enlem": 37.788529333013344,
+      "boylam": 38.619526235003605
+    },
+    {
+      "okul_adi": "Kahta Mustafa Yardımcı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Kahta Mustafa Yardımcı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtaasml.meb.k12.tr",
+      "enlem": 37.79544767719396,
+      "boylam": 38.610393313307895
+    },
+    {
+      "okul_adi": "Türkiye Petrolleri Kahta Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Kahta - Türkiye Petrolleri Kahta Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "website": "http://kahtakizanadoluihl.meb.k12.tr",
+      "enlem": 37.79085552780433,
+      "boylam": 38.62867793216242
+    },
+    {
+      "okul_adi": "Adıyaman Fatih Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Merkez - Adıyaman Fatih Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "website": "http://fatihmtal02.meb.k12.tr",
+      "enlem": 37.78417905517115,
+      "boylam": 38.301257983882124
+    },
+    {
+      "okul_adi": "Adıyaman Yunus Emre Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Merkez - Adıyaman Yunus Emre Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "website": "http://adiyamanyunusemremtal.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Ertuğrul Gazi Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Merkez - Ertuğrul Gazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "website": "http://ertugrulgazial.meb.k12.tr",
+      "enlem": 37.765607691343,
+      "boylam": 38.24019750728144
+    },
+    {
+      "okul_adi": "Safvan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Merkez - Safvan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "website": "http://safvanaihl.meb.k12.tr",
+      "enlem": 37.7729861318691,
+      "boylam": 38.246248570819034
+    },
+    {
+      "okul_adi": "Türkiye Odalar Ve Borsalar Birliği Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Merkez - Türkiye Odalar Ve Borsalar Birliği Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "website": "http://tobbkizaihl.meb.k12.tr",
+      "enlem": 37.73381064296526,
+      "boylam": 38.221197872141374
+    },
+    {
+      "okul_adi": "Varlık Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Merkez - Varlık Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "website": "http://varlikihl.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Samsat Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Samsat - Samsat Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Samsat",
+      "website": "http://samsatihl02.meb.k12.tr",
+      "enlem": 37.57721735440793,
+      "boylam": 38.48186453952326
+    },
+    {
+      "okul_adi": "Samsat Lisesi",
+      "tam_ad": "Adıyaman - Samsat - Samsat Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Adıyaman",
+      "ilce": "Samsat",
+      "website": "http://samsatlisesi.meb.k12.tr",
+      "enlem": 37.58269305155566,
+      "boylam": 38.475716916461124
+    },
+    {
+      "okul_adi": "Abuzer Yıldırım Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Tut - Abuzer Yıldırım Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Tut",
+      "website": "http://abuzeryildirimaihl.meb.k12.tr",
+      "enlem": 37.79698217310829,
+      "boylam": 37.90979227199091
+    },
+    {
+      "okul_adi": "Tut Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Tut - Tut Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Tut",
+      "website": "http://tutcpal.meb.k12.tr",
+      "enlem": 37.79650741534667,
+      "boylam": 37.93069204463495
+    },
+    {
+      "okul_adi": "Çelikhan Pınarbaşı Çok Programlı Lisesi",
+      "tam_ad": "Adıyaman - Çelikhan - Çelikhan Pınarbaşı Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Adıyaman",
+      "ilce": "Çelikhan",
+      "website": "http://celikhanpinarbasicpl.meb.k12.tr",
+      "enlem": 38.02904336815753,
+      "boylam": 38.18942865504755
+    },
+    {
+      "okul_adi": "Çelikhan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Adıyaman - Çelikhan - Çelikhan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Adıyaman",
+      "ilce": "Çelikhan",
+      "website": "http://celikhancpal.meb.k12.tr",
+      "enlem": 38.032051894007324,
+      "boylam": 38.2371290601684
+    },
+    {
+      "okul_adi": "Şehit Mehmet Yerlikaya Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Adıyaman - Çelikhan - Şehit Mehmet Yerlikaya Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Adıyaman",
+      "ilce": "Çelikhan",
+      "website": "http://celikhanihl.meb.k12.tr",
+      "enlem": 38.02827695602907,
+      "boylam": 38.22669929041399
+    }
+  ],
+  "meta": {
+    "title": "Adıyaman Liseleri (High Schools in Adıyaman) - Ücretsiz İndir",
+    "description": "Adıyaman ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (42 kayıt) (High schools in Adıyaman province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 42 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Adıyaman Liseleri (High Schools in Adıyaman) | ListBase",
+    "seo_description": "İndir Adıyaman Liseleri (High Schools in Adıyaman) — 42 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 42 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

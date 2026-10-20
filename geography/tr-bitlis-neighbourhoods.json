@@ -1,0 +1,5315 @@
+{
+  "id": "tr-bitlis-neighbourhoods",
+  "name": "Bitlis Mahalleleri (Bitlis Neighbourhoods)",
+  "title": "Bitlis Mahalleleri (Bitlis Neighbourhoods)",
+  "description": "Bitlis ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (752 kayıt.) (All neighbourhoods (mahalle) in Bitlis province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 752,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akyazı Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçıra Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alacaatlı Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Asvalt Üstü Mah (erikbağı Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aygırgölü Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ayvacık Mah (yukarısüphan Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (ipekçayır Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yarımada Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağısüphan Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bahçedere Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Budaklı Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cihangir Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dizdar Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Erikbağı Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esenkıyı Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah (akçıra Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Göldüzü Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gölüstü Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gümüşdüven Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Harmantepe Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Heybeli Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hıdırşah Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah (yukarısüphan Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaleboynu Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karakol Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karaşeyh Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kavuştuk Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuzel Mah (erikbağı Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kömürlü Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kışkılı Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Mollafadıl Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıçay Mah (karakol Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sefasahil Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah (karaşeyh Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolçatı Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (ipekçayır Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yarımada Köyü)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarısüphan Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yıldızköy Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çanakyayla Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah",
+      "district_name": "Adilcevaz",
+      "postal_code": "13500",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Örentaş Köyü",
+      "district_name": "Adilcevaz",
+      "postal_code": "13502",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İsmet Paşa Mah (aydınlar Beldesi)",
+      "district_name": "Adilcevaz",
+      "postal_code": "13504",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "1. Küme Mah (güzelsu Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "1.küme Mah (alakır Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "1.küme Mah (cemalettin Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "1.küme Mah (saka Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "1.küme Mah (çatalağzı Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "2.küme Mah (alakır Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "2.küme Mah (cemalettin Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "2.küme Mah (güzelsu Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "2.küme Mah (saka Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "2.küme Mah (çatalağzı Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "3.küme Mah (alakır Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçaören Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Küme Mah (uludere Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bahçe Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Burcukaya Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dilburnu Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Erkizan Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gölgören Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Haraba Şehir Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kacer Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah (kırıkkaya Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kulaksız Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (ovakışla Beldesi)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuşhane Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah (ovakışla Beldesi)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kırkdönüm Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kırklar Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kırıkkaya Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Nazik Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (ovakışla Beldesi)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Otluyazı Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Saka Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Saray Mah (ovakışla Beldesi)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Serinbayır Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Soğanlı Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tahtı Süleyman Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşharman Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tunus Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolun Alt Mevkii Mah (develik Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolun Sağı Mah (kınalıkoç Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolun Sağı Mah (yeniköprü Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolun Solu Mah (kınalıkoç Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolun Solu Mah (yeniköprü Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolun Üst Mevkii Mah (develik Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yoğurtyemez Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Küme Mah (uludere Köyü)",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yuvadamı Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yıldızlar Mah (ovakışla Beldesi)",
+      "district_name": "Ahlat",
+      "postal_code": "13403",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çukurtarla Köyü",
+      "district_name": "Ahlat",
+      "postal_code": "13402",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İki Kubbe Mah",
+      "district_name": "Ahlat",
+      "postal_code": "13400",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akbulut Mah (çayarası Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Arpacık Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıkolbaşı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Barajyolu Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Budaklı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bölmedere Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizyatağı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Değirmen Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Erentepe Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gedikpınar Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Girne Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (gölbaşı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13810",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güzelli Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Haydar Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Işıklı Mah (saklı Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaleli Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kani Reş Mah (çıtak Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kavunlu Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Keklikpınar Tescilsiz Mezrası Mah (gedikpınar Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kekliktepe Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Konak Mah (arpacık Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuştaşı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah (değirmen Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah (gölbaşı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13810",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kümbet Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Nurtepe Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Oduncular Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Refahiye Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Saklı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sorani Mah (budaklı Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sütderesi Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tahtalı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşüstü Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yamaçköy Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yayladere Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yazıkonak Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yağmurlu Mah (kaleli Köyü)",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yemişveren Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (gölbaşı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13810",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah (gölbaşı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13810",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıkolbaşı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çallı Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayarası Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çıtak Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Özkavak Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üzümveren Köyü",
+      "district_name": "Güroymak",
+      "postal_code": "13802",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şenevler Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şenkaya Mah (gölbaşı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13810",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şenova Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şentepe Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şenyayla Mah (gölbaşı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13810",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şenyurt Mah (günkırı Beldesi)",
+      "district_name": "Güroymak",
+      "postal_code": "13803",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şirintepe Mah",
+      "district_name": "Güroymak",
+      "postal_code": "13800",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akbaş Mah (horozdere Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akbıyık Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akdik Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akdik Mah (akdik Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akdiken Mah (doğancı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akköprü Mah (akbıyık Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akyazı Mah (sarıtaş Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akyol Mah (koçyiğit Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akça Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçakonak Mah (gönüllü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçevre Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akşar Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aladana Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alancık Mah (koçyiğit Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Altınoluk Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alyanak Mah (ağılözü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Avlak Mah (karbastı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aybattı Mah (meydan Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ayrancı Mah (bölüklü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ağaçlı Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ağılözü Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Aksüt Mah (ballıca Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Ayvacık Mah (nurs Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kazanlı Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Şenlik Mah (nurs Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıkarasu Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bahçedere Mah (çökekyazı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ballı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ballıca Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bayır Mah (esenler Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Mah (ağılözü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağlararası Mah (meydan Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağışlı Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bereket Mah (ağılözü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Besili Mah (sarpkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beyari Mah (akşar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bilgili Mah (yaylacık Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bozpınar Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Budaklı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bölüklü Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah (kalkanlı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dayılar Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dağören Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Deliklitaş Mah (ekinli Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dereağzı Mah (süttaşı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Derince Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dibekli Mah (kapısuyu Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dilek Mah (nurs Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Doyumlu Mah (koçyiğit Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Doğancı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Doğrular Mah (esenler Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Durak Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Döküktaş Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Düztepe Mah (akşar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ekinli Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ekintepe Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Elmacık Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah (elmacık Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Erencik Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esenler Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Fıstıklı Mah (sağırkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gayda Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gedik Mah (sarıtaş Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gelincik Mah (elmacık Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gökay Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Göktepe Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gökçimen Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gönüllü Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Göze Mah (kalkanlı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gümüşoluk Mah (yenicik Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güngören Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gürece Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güvendik Mah (ağılözü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güçlü Mah (horozdere Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hacımehmet Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Harmandöven Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Horozdere Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hıdır Mah (içlikaval Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kalkanlı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kapısuyu Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karadal Mah (keklik Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karaduman Mah (esenler Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karakoyun Mah (ürünveren Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karbastı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kardeşlik Mah (yığınkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karlıtepe Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaval Mah (çayır Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayadeler Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayalar Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayalı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayaş Mah (döküktaş Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaymaklı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Keklik Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kestaneli Mah (karbastı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kezer Mah (akçevre Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Keçeli Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kilimli Mah (keçeli Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kiş Mah (çatakdeğirmen Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kolludere Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Konak Mah (sarpkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Konaklar Mah (esenler Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koyunlu Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koç Mah (karbastı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koçlu Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koçyiğit Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koşluca Mah (sarpkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Köprü Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Köprü Mah (yelkıran Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kılavuz Mah (akşar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kıratlı Mah (keçeli Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Mahmutlar Mah (akçevre Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Meydan Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Meşelik Mah (horozdere Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Mut Mah (sarpkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Nuh Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Nurs Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ocak Mah (meydan Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ortaca Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Otlu Mah (harmandöven Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Otluca Mah (esenler Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Otluca Mah (horozdere Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ovi Mah (sağınlı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Oymapınar Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Oğlaklı Mah (oğlaklı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Samanyolu Mah (budaklı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarpkaya Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıbal Mah (yaylacık Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıtaş Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sağınlı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sağırkaya Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sürücüler Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Süttaşı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taş Mah (karbastı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşevler Mah (akşar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşlı Pınar Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Topağacı Mah (bölüklü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Topluca Mah (döküktaş Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tutumlu Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tuğlu Mah (ürünveren Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uzuntaş Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Verimli Mah (akşar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yamaç Mah (karbastı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yapağı Mah (ürünveren Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yaylalı Mah (yukarıayvacık Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yazmalı Mah (kapısuyu Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yedikardeş Mah (aladana Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yelkıran Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yemişli Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeni Kent Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yenicik Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yenigün Mah (döküktaş Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeniçay Mah (yolbilen Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşil Ova Mah",
+      "district_name": "Hizan",
+      "postal_code": "13600",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolbaşı Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolbilen Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yoluslu Mah (karbastı Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yoğurtlu Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Aksüt Mah (ballıca Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Gelincik Mah (nurs Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kazanlı Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Şenlik Mah (nurs Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıayvacık Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıçalı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yumacık Mah (yenicik Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yurtiçi Mah (sarpkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yığınkaya Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Zivi Mah (gayda Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çakırkaya Mah (örgülü Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çalışkanlar Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çatakdeğirmen Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Mah (nurs Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayır Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayırlı Mah (çatakdeğirmen Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çevrecik Mah (akşar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Mah (kapısuyu Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çökekyazı Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çıkçık Mah (ürünveren Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ölçülü Mah (bozpınar Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Örenbaş Mah (akçevre Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Örgülü Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Özenli Mah (sarıtaş Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Öztoprak Mah (sarpkaya Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ürünveren Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üspiislam Mah (esenler Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mah (horozdere Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üçkardeş Mah (meydan Köyü)",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İncirli Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İçlikaval Köyü",
+      "district_name": "Hizan",
+      "postal_code": "13602",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akgün Mah (çobansuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah (alaniçi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçalı Mah (tabanözü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alaniçi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Arıdağ Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ayrancılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ağaçdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ağaçköprü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ağaçpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıbalcılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıkaraboy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıkoç Mah (aşağıyolak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıyolak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağıölek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bayramalan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bayırlı Mah (kınalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Başhan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Başmaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beş Minare Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beşkaynak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Boylu Mah (geçitbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah (tabanözü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bölükyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizdalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizüstü Mah (dörtağaç Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet 2 Mah (cumhuriyet Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Deliktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dereağzı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Değirmenaltı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dikme Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Direktaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah (karbastı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Doğruyol Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dörtağaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Döşkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Düz Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ekinli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esen Mah (sarpkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gazi Bey Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Geçitbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hersan Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hüsrev Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ilıcak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaplı Mah (geçitbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karakaş Mah (aşağıyolak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karınca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kavakdibi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayadağ Mah (kayadağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Keklikdüzü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Keçeli Mah (ortakapı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kireçtaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kokarsu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Konalga Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Konaç Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Konuksayar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koruk Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kulibik Tescilsiz Mezra Mah (arıdağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kutlu Mah (çobansuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuşlu Mah (keklikdüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kömüryakan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Küllice Mah (esenburun Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Küllüce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kılyat Mah (tanrıyar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Muştakbaba Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Narlıdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ortakapı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Otluk Mah (deliktaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Oğulcak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Samanlı Mah (yolcular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıkonak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıyıldız Mah (aşağıkaraboy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sekiz Ağustos Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sinekar Mah (kayalıbağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tabanözü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tanrıyar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tatlıkaynak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taş Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taş Mah (ağaçköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uçankuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yanlızçamlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yarönü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yavuzlar Mah (çalıdüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yayalar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yaygın Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (alaniçi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşilsırt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolalan Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolağzı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolcular Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yolyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarı Yuvacık Mah (yuvacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıbalcılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıkaraboy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıyolak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yukarıölek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yumurtatepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yuvacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yücebaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yükseliş Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Zeydan Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ziyaret Mah (sarpkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çadırlı Mah (doğruyol Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çallı Mah (çeltikli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çalıdüzü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çaylı Mah (kokarsu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (tatlıkaynak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çeltikli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çobansuyu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çubuk Mah (kokarsu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çınarbaşı Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ören Mah (yolcular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ünaldı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üç Kardeş Mah (yolalan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "13003",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üçevler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İçgeçit Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13001",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İçmeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şehitlik Tescilsiz Mezrası Mah (tanrıyar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "13002",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şemsi Bitlis Mah",
+      "district_name": "Merkez",
+      "postal_code": "13100",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akarsu Mah (bağarası Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aksakal Mah (göztepe Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akçaağaç Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Akıncı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alatoprak Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alkoyun Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alıcık Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Arpalıseki Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Atbaşı Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aydemir Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah (akıncı Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aydınlık Mah (karabudak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Açıkalan Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ağıllı Mah (bozburun Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aşağı Uzunyar Mah (uzunyar Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah (erler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Balkaya Mah (ikizler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ballı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağ Mah (çiğdemalan Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağarası Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağlık Mah (üçadım Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Başçavuş Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bekçiler Mah (çatalerik Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beyaz Su Mah (yuvalıdam Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beşevler Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bozburun Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Boğazönü Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah (bağarası Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dağarcık Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dağlık Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (karabudak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dereyolu Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dereönü Mah (erler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ekizler Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Erler Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esenyurt Mah (geyikpınar Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Eyubiye Mah (koyunlu Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (koyunlu Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Geyikpınar Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gosing Mah (taşboğaz Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Göztepe Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gül Mah (karabudak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gümüşkanat Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güvenli Mah (bozburun Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Havarik Mah (erler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ilıcak Mah (alatoprak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kapaklı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kapıkaya Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karabudak Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kayran Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaşak Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaşıklı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kocainiş Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kovanlı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koçyatağı Mah (çatalerik Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kurtyan Mah (uzunyar Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuşcu Mah (dağlık Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuşdili Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (kayran Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Küllüce Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kütüklü Mah (ballı Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Levent Mah (koyunlu Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (taşboğaz Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çitliyol Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Meydan Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (çaygeçit Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Meşelik Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ocakbaşı Mah (tolgalı Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ocaklı Mah (çığır Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Oluklu Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Onbaşı Mah (kocainiş Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Mutki",
+      "postal_code": "13700",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Salman Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıçiçek Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıçubuk Mah (çatalerik Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sekiliyazı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Serince Mah (bozburun Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sivrice Mah (tolgalı Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taş Mah (geyikpınar Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşkapı Mah (çaygeçit Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşlı Pınar Mah",
+      "district_name": "Mutki",
+      "postal_code": "13700",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşlık Mah (üçadım Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşyol Mah (kayran Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tescilsiz Mah (salman Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tolgalı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tosunlar Mah (üstyayla Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ulaş Mah (yenidoğan Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uran Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uzunyar Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uzunyol Mah (meydan Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uğur Mah (ikizler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Vaskar Mah (taşboğaz Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Vezik Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yalçınkaya Mah (bağarası Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yalıntaş Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yanıkçakır Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yazıcık Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yağlıca Mah (taşboğaz Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Mutki",
+      "postal_code": "13700",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yenibağ Mah",
+      "district_name": "Mutki",
+      "postal_code": "13700",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşilce Mah (oluklu Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (alatoprak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yiğitler Mah (dağlık Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yoncalı Mah (ekizler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yumrumeşe Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah (taşboğaz Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yuvalıdam Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yüksekova Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yünlü Mah (kovanlı Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yıldız Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Zeydan Mah (meydan Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ç.meşe Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çanaklı Mah (alatoprak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çatalerik Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çatalsöğüt Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çaygeçit Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çayırlı Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çağdaş Mah (akçaağaç Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çevreli Mah (çitliyol Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çimen Mah (kavakbaşı Beldesi)",
+      "district_name": "Mutki",
+      "postal_code": "13705",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çitliyol Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çiğdemalan Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çukurca Mah (ikizler Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çığır Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ölçülü Mah (geyikpınar Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13703",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ömeriye Mah (koyunlu Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Övencik Mah (gümüşkanat Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Özenli Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üstyayla Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üçadım Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üçevler Mah (bağarası Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13704",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İkizler Köyü",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İnişli Mah (üstyayla Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şerefhan Mah (alatoprak Köyü)",
+      "district_name": "Mutki",
+      "postal_code": "13702",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "2.km Mah (adabağ Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Adabağ Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aksoğan Mah (alacabük Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aktoprak Mah (dönertaş Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Alacabük Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Anadere Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Arılı Mah (dibekli Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bağmeşesi Mah (çanakdüzü Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Benekli Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beşikli Mah (teknecik Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beşparmak Mah (koruklu Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Beştaş Mah (adabağ Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Bolalan Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Budaklı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dalda Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dağdibi Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dibekli Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dirlik Mah (suboyu Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Doluca Mah (budaklı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Dönertaş Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Düzcealan Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ekindüzü Mah (ulusoy Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Emek Mah (köprücük Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Eğritaş Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Fuar Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Gölgele Mah (dönertaş Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Göllü Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güntepe Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güreşçi Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Güvenli Mah (uncular Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hanelmalı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Harmanlı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Hidayet Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karaçalı Mah (kuşluca Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kağanlı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kepenek Mah (kısıklı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kolbaşı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koruklu Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koyluca Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Koyunpınarı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuruyaka Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kuşluca Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kömürlü Mah (teknecik Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Köprücük Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Küçüksu Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kırkbulak Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kısıklı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Kıyıdüzü Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Nohutlu Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Obuz Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Odabaşı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ortaklar Mah (koyunpınarı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Paşaelmalı Mah (tokaçlı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Pekmezli Mah (köprücük Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah (yediveren Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sallıca Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sandıklı Mah (köprücük Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıdal Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sarıkum Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sosyal Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Suboyu Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Sugurlu Mah (odabaşı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taşdemir Mah (güreşçi Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Taştop Mah (eğritaş Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Teknecik Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tokaçlı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Top Mah (eğritaş Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Topraklı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tosunlu Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Tuğ Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ulusoy Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uncular Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uslu Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Ustabaşı Mah (budaklı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Uçankuş Mah (sarıdal Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yapraklı Mah (kağanlı Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yassıca Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yayıklı Mah (göllü Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yediveren Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yelkenli Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yenitoprak Mah (koruklu Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yeşilmezra Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yoncabaşı Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yorgalar Mah (sarıdal Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yumrukaya Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Yumurtatepe Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çalıdüzü Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çamaltı Mah (düzcealan Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çanakdüzü Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çataltaş Mah (bolalan Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çekmece Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çevre Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Çörekli Mah (sarıdal Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Örenlik Köyü",
+      "district_name": "Tatvan",
+      "postal_code": "13202",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Özekli Mah (sallıca Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mah (çavuşlar Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Üçtepe Mah (kuşluca Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İncekaya Mah (bolalan Köyü)",
+      "district_name": "Tatvan",
+      "postal_code": "13201",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "İşletme Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah",
+      "district_name": "Tatvan",
+      "postal_code": "13200",
+      "city_code": "13",
+      "city_name": "Bitlis"
+    }
+  ],
+  "meta": {
+    "title": "Bitlis Mahalleleri (Bitlis Neighbourhoods) - Ücretsiz İndir",
+    "description": "Bitlis ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (752 kayıt.) (All neighbourhoods (mahalle) in Bitlis province with their parent district and postal code.) İçerik 752 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bitlis Mahalleleri (Bitlis Neighbourhoods) | ListBase",
+    "seo_description": "İndir Bitlis Mahalleleri (Bitlis Neighbourhoods) — 752 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 752 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

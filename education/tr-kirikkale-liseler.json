@@ -1,0 +1,484 @@
+{
+  "id": "tr-kirikkale-liseler",
+  "name": "Kırıkkale Liseleri (High Schools in Kırıkkale)",
+  "title": "Kırıkkale Liseleri (High Schools in Kırıkkale)",
+  "description": "Kırıkkale ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (34 kayıt) (High schools in Kırıkkale province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Bahşılı H.hidayet Doğruer Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Bahşili - Bahşılı H.hidayet Doğruer Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Bahşili",
+      "website": "http://bahsilimesleklisesi.meb.k12.tr",
+      "enlem": 39.80677089427469,
+      "boylam": 33.46577963008417
+    },
+    {
+      "okul_adi": "Prof.tbp.tüm General Derviş Şen Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Balışeyh - Prof.tbp.tüm General Derviş Şen Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Balışeyh",
+      "website": "http://dervissencpl.meb.k12.tr",
+      "enlem": 39.91409640931884,
+      "boylam": 33.72546037807001
+    },
+    {
+      "okul_adi": "Delice Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Delice - Delice Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Delice",
+      "website": "http://delicesml.meb.k12.tr",
+      "enlem": 39.93305773490768,
+      "boylam": 34.023968783755436
+    },
+    {
+      "okul_adi": "Delice Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Delice - Delice Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Delice",
+      "website": "http://delicecpal.meb.k12.tr",
+      "enlem": 39.945952055848636,
+      "boylam": 34.032004681964054
+    },
+    {
+      "okul_adi": "Çerikli Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Delice - Çerikli Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Delice",
+      "website": "http://cerikliasml.meb.k12.tr",
+      "enlem": 39.89197302826564,
+      "boylam": 33.994035331149234
+    },
+    {
+      "okul_adi": "Çerikli Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Delice - Çerikli Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Delice",
+      "website": "http://ceriklicpal.meb.k12.tr",
+      "enlem": 39.898327647152996,
+      "boylam": 34.008401242633
+    },
+    {
+      "okul_adi": "Karakeçili Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırıkkale - Karakeçili - Karakeçili Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırıkkale",
+      "ilce": "Karakeçili",
+      "website": "http://karakeciliihl.meb.k12.tr",
+      "enlem": 39.59567899997399,
+      "boylam": 33.383171615739
+    },
+    {
+      "okul_adi": "Karakeçili Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Karakeçili - Karakeçili Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Karakeçili",
+      "website": "http://karakecilicpl.meb.k12.tr",
+      "enlem": 39.59556222530814,
+      "boylam": 33.38330438508524
+    },
+    {
+      "okul_adi": "Keskin Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Keskin - Keskin Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Keskin",
+      "website": "http://keskinanadolulisesi.meb.k12.tr",
+      "enlem": 39.6703134945263,
+      "boylam": 33.61993154658808
+    },
+    {
+      "okul_adi": "Keskin Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırıkkale - Keskin - Keskin Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırıkkale",
+      "ilce": "Keskin",
+      "website": "http://keskinihl.meb.k12.tr",
+      "enlem": 39.67010290726388,
+      "boylam": 33.62041970862879
+    },
+    {
+      "okul_adi": "Keskin Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Keskin - Keskin Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Keskin",
+      "website": "http://keskineml.meb.k12.tr",
+      "enlem": 39.67916583714704,
+      "boylam": 33.61761411799921
+    },
+    {
+      "okul_adi": "Maden Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Keskin - Maden Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Keskin",
+      "website": "http://keskinmadenmta.meb.k12.tr",
+      "enlem": 39.67094318790306,
+      "boylam": 33.610659150023594
+    },
+    {
+      "okul_adi": "İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Keskin - İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Keskin",
+      "website": "http://keskinsaglik.meb.k12.tr",
+      "enlem": 39.67132925936473,
+      "boylam": 33.62036070003046
+    },
+    {
+      "okul_adi": "Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkaleataturkasml.meb.k12.tr",
+      "enlem": 39.82725327439268,
+      "boylam": 33.48974248542322
+    },
+    {
+      "okul_adi": "Beşir Atalay Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Beşir Atalay Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://besiratalayihl.meb.k12.tr",
+      "enlem": 39.862099663143304,
+      "boylam": 33.55312844886316
+    },
+    {
+      "okul_adi": "Cumhuriyet Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Cumhuriyet Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkalecumhuriyettml.meb.k12.tr",
+      "enlem": 39.8287240130387,
+      "boylam": 33.5255607046081
+    },
+    {
+      "okul_adi": "Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://gaziteml.meb.k12.tr",
+      "enlem": 39.836163737773205,
+      "boylam": 33.53793641700281
+    },
+    {
+      "okul_adi": "Gülbeyaz Sümer Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Gülbeyaz Sümer Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://gulbeyazsumeral.meb.k12.tr",
+      "enlem": 39.84689554204056,
+      "boylam": 33.48495206012262
+    },
+    {
+      "okul_adi": "Kırıkkale Atatürk Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Kırıkkale Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kkaleaal.meb.k12.tr",
+      "enlem": 39.85573653880631,
+      "boylam": 33.55901589765085
+    },
+    {
+      "okul_adi": "Kırıkkale Fen Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Kırıkkale Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkalefenlisesi.meb.k12.tr",
+      "enlem": 39.86119582865943,
+      "boylam": 33.550322858233585
+    },
+    {
+      "okul_adi": "Kırıkkale Güzel Sanatlar Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Kırıkkale Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkalegsl.meb.k12.tr",
+      "enlem": 39.859762845715814,
+      "boylam": 33.521880713839664
+    },
+    {
+      "okul_adi": "Kırıkkale Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Kırıkkale Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkalelisesi.meb.k12.tr",
+      "enlem": 39.839829750906596,
+      "boylam": 33.50180706157221
+    },
+    {
+      "okul_adi": "Kırıkkale Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Kırıkkale Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kmtalisesi.meb.k12.tr",
+      "enlem": 39.84192217404377,
+      "boylam": 33.503394929309025
+    },
+    {
+      "okul_adi": "Malazgirt Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Malazgirt Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://malazgirteml.meb.k12.tr",
+      "enlem": 39.83174778573596,
+      "boylam": 33.48451217784418
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://mehmetakifersoyal.meb.k12.tr",
+      "enlem": 39.85223507606309,
+      "boylam": 33.50159248485102
+    },
+    {
+      "okul_adi": "Yenimahalle Şehit Ali Tonga Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Yenimahalle Şehit Ali Tonga Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkalekizmesleklisesi.meb.k12.tr",
+      "enlem": 39.83505153779606,
+      "boylam": 33.49550923480524
+    },
+    {
+      "okul_adi": "Yeşil Vadi Şehit Musa Saydam Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Yeşil Vadi Şehit Musa Saydam Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkaleotelcilik.meb.k12.tr",
+      "enlem": 39.82157189019494,
+      "boylam": 33.47221693171991
+    },
+    {
+      "okul_adi": "Şehit Nebi Gündoğan Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Merkez - Şehit Nebi Gündoğan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Merkez",
+      "website": "http://kirikkaleanadolulisesi.meb.k12.tr",
+      "enlem": 39.831063946881834,
+      "boylam": 33.536589948077335
+    },
+    {
+      "okul_adi": "Hakim Mehmet Çakıroğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Sulakyurt - Hakim Mehmet Çakıroğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Sulakyurt",
+      "website": "http://sulakyurtsml.meb.k12.tr",
+      "enlem": 40.15744108282976,
+      "boylam": 33.71357282771601
+    },
+    {
+      "okul_adi": "Sulakyurt Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Sulakyurt - Sulakyurt Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Sulakyurt",
+      "website": "http://sulakyurtcpl.meb.k12.tr",
+      "enlem": 40.160729116586666,
+      "boylam": 33.72015496863855
+    },
+    {
+      "okul_adi": "Organize Sanayi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Yahşihan - Organize Sanayi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Yahşihan",
+      "website": "http://organizesanayimtal.meb.k12.tr",
+      "enlem": 39.90920815203322,
+      "boylam": 33.43539556636347
+    },
+    {
+      "okul_adi": "Şehit Ahmet Sandalcı Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Yahşihan - Şehit Ahmet Sandalcı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Yahşihan",
+      "website": "http://yahsihananadolulisesi.meb.k12.tr",
+      "enlem": 39.85793451368748,
+      "boylam": 33.45298989030812
+    },
+    {
+      "okul_adi": "Şehit Hakan Yorulmaz Spor Lisesi",
+      "tam_ad": "Kırıkkale - Yahşihan - Şehit Hakan Yorulmaz Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kırıkkale",
+      "ilce": "Yahşihan",
+      "website": "http://kkalesporlisesi.meb.k12.tr",
+      "enlem": 39.86544518833117,
+      "boylam": 33.47562870158686
+    },
+    {
+      "okul_adi": "Çelebi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırıkkale - Çelebi - Çelebi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırıkkale",
+      "ilce": "Çelebi",
+      "website": "http://celebi_mtal.meb.k12.tr",
+      "enlem": 39.46587897632523,
+      "boylam": 33.52719148768915
+    }
+  ],
+  "meta": {
+    "title": "Kırıkkale Liseleri (High Schools in Kırıkkale) - Ücretsiz İndir",
+    "description": "Kırıkkale ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (34 kayıt) (High schools in Kırıkkale province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 34 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kırıkkale Liseleri (High Schools in Kırıkkale) | ListBase",
+    "seo_description": "İndir Kırıkkale Liseleri (High Schools in Kırıkkale) — 34 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 34 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

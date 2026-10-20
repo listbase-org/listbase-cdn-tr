@@ -1,0 +1,1226 @@
+{
+  "id": "tech-ascii-table",
+  "name": "Eksiksiz ASCII Karakter Tablosu ve Kodları Referans Veri Kümesi",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "decimal",
+      "label": "Decimal",
+      "type": "number"
+    },
+    {
+      "key": "hex",
+      "label": "Hexadecimal",
+      "type": "string"
+    },
+    {
+      "key": "binary",
+      "label": "Binary",
+      "type": "string"
+    },
+    {
+      "key": "octal",
+      "label": "Octal",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "decimal": 0,
+      "hex": "00",
+      "binary": "00000000",
+      "octal": "000",
+      "character": "",
+      "description": "NUL (Boş)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 1,
+      "hex": "01",
+      "binary": "00000001",
+      "octal": "001",
+      "character": "",
+      "description": "SOH (Başlık Başlangıcı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 2,
+      "hex": "02",
+      "binary": "00000010",
+      "octal": "002",
+      "character": "",
+      "description": "STX (Metin Başlangıcı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 3,
+      "hex": "03",
+      "binary": "00000011",
+      "octal": "003",
+      "character": "",
+      "description": "ETX (Metin Sonu)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 4,
+      "hex": "04",
+      "binary": "00000100",
+      "octal": "004",
+      "character": "",
+      "description": "EOT (İletim Sonu)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 5,
+      "hex": "05",
+      "binary": "00000101",
+      "octal": "005",
+      "character": "",
+      "description": "ENQ (Sorgu)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 6,
+      "hex": "06",
+      "binary": "00000110",
+      "octal": "006",
+      "character": "",
+      "description": "ACK (Onay)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 7,
+      "hex": "07",
+      "binary": "00000111",
+      "octal": "007",
+      "character": "",
+      "description": "BEL (Zil)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 8,
+      "hex": "08",
+      "binary": "00001000",
+      "octal": "010",
+      "character": "",
+      "description": "BS (Geri Al)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 9,
+      "hex": "09",
+      "binary": "00001001",
+      "octal": "011",
+      "character": "",
+      "description": "HT (Yatay Sekme)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 10,
+      "hex": "0A",
+      "binary": "00001010",
+      "octal": "012",
+      "character": "",
+      "description": "LF (Satır Başı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 11,
+      "hex": "0B",
+      "binary": "00001011",
+      "octal": "013",
+      "character": "",
+      "description": "VT (Dikey Sekme)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 12,
+      "hex": "0C",
+      "binary": "00001100",
+      "octal": "014",
+      "character": "",
+      "description": "FF (Form Besleme)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 13,
+      "hex": "0D",
+      "binary": "00001101",
+      "octal": "015",
+      "character": "",
+      "description": "CR (Satır Başına Dön)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 14,
+      "hex": "0E",
+      "binary": "00001110",
+      "octal": "016",
+      "character": "",
+      "description": "SO (Değişim Çıkışı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 15,
+      "hex": "0F",
+      "binary": "00001111",
+      "octal": "017",
+      "character": "",
+      "description": "SI (Değişim Girişi)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 16,
+      "hex": "10",
+      "binary": "00010000",
+      "octal": "020",
+      "character": "",
+      "description": "DLE (Veri Bağlantı Kaçışı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 17,
+      "hex": "11",
+      "binary": "00010001",
+      "octal": "021",
+      "character": "",
+      "description": "DC1 (Cihaz Kontrolü 1)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 18,
+      "hex": "12",
+      "binary": "00010010",
+      "octal": "022",
+      "character": "",
+      "description": "DC2 (Cihaz Kontrolü 2)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 19,
+      "hex": "13",
+      "binary": "00010011",
+      "octal": "023",
+      "character": "",
+      "description": "DC3 (Cihaz Kontrolü 3)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 20,
+      "hex": "14",
+      "binary": "00010100",
+      "octal": "024",
+      "character": "",
+      "description": "DC4 (Cihaz Kontrol 4)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 21,
+      "hex": "15",
+      "binary": "00010101",
+      "octal": "025",
+      "character": "",
+      "description": "NAK (Negatif Onaylama)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 22,
+      "hex": "16",
+      "binary": "00010110",
+      "octal": "026",
+      "character": "",
+      "description": "SYN (Eşzamanlı Boşta)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 23,
+      "hex": "17",
+      "binary": "00010111",
+      "octal": "027",
+      "character": "",
+      "description": "ETB (İletim Bloğunun Sonu)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 24,
+      "hex": "18",
+      "binary": "00011000",
+      "octal": "030",
+      "character": "",
+      "description": "CAN (İptal)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 25,
+      "hex": "19",
+      "binary": "00011001",
+      "octal": "031",
+      "character": "",
+      "description": "EM (Ortam Sonu)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 26,
+      "hex": "1A",
+      "binary": "00011010",
+      "octal": "032",
+      "character": "",
+      "description": "SUB (Değiştir)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 27,
+      "hex": "1B",
+      "binary": "00011011",
+      "octal": "033",
+      "character": "",
+      "description": "ESC (Kaçış)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 28,
+      "hex": "1C",
+      "binary": "00011100",
+      "octal": "034",
+      "character": "",
+      "description": "FS (Dosya Ayırıcı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 29,
+      "hex": "1D",
+      "binary": "00011101",
+      "octal": "035",
+      "character": "",
+      "description": "GS (Grup Ayırıcı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 30,
+      "hex": "1E",
+      "binary": "00011110",
+      "octal": "036",
+      "character": "",
+      "description": "RS (Kayıt Ayırıcı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 31,
+      "hex": "1F",
+      "binary": "00011111",
+      "octal": "037",
+      "character": "",
+      "description": "US (Birim Ayırıcı)",
+      "category": "Kontrol"
+    },
+    {
+      "decimal": 32,
+      "hex": "20",
+      "binary": "00100000",
+      "octal": "040",
+      "character": " ",
+      "description": "Boşluk",
+      "category": "Yazdırılabilir"
+    },
+    {
+      "decimal": 33,
+      "hex": "21",
+      "binary": "00100001",
+      "octal": "041",
+      "character": "!",
+      "description": "Ünlem işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 34,
+      "hex": "22",
+      "binary": "00100010",
+      "octal": "042",
+      "character": "\"",
+      "description": "Çift tırnak",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 35,
+      "hex": "23",
+      "binary": "00100011",
+      "octal": "043",
+      "character": "#",
+      "description": "Kare/Sayı işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 36,
+      "hex": "24",
+      "binary": "00100100",
+      "octal": "044",
+      "character": "$",
+      "description": "Dolar işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 37,
+      "hex": "25",
+      "binary": "00100101",
+      "octal": "045",
+      "character": "%",
+      "description": "Yüzde işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 38,
+      "hex": "26",
+      "binary": "00100110",
+      "octal": "046",
+      "character": "&",
+      "description": "Ve işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 39,
+      "hex": "27",
+      "binary": "00100111",
+      "octal": "047",
+      "character": "'",
+      "description": "Tek tırnak",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 40,
+      "hex": "28",
+      "binary": "00101000",
+      "octal": "050",
+      "character": "(",
+      "description": "Sol parantez",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 41,
+      "hex": "29",
+      "binary": "00101001",
+      "octal": "051",
+      "character": ")",
+      "description": "Sağ parantez",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 42,
+      "hex": "2A",
+      "binary": "00101010",
+      "octal": "052",
+      "character": "*",
+      "description": "Yıldız işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 43,
+      "hex": "2B",
+      "binary": "00101011",
+      "octal": "053",
+      "character": "+",
+      "description": "Artı işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 44,
+      "hex": "2C",
+      "binary": "00101100",
+      "octal": "054",
+      "character": ",",
+      "description": "Virgül",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 45,
+      "hex": "2D",
+      "binary": "00101101",
+      "octal": "055",
+      "character": "-",
+      "description": "Kısa çizgi/Eksi",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 46,
+      "hex": "2E",
+      "binary": "00101110",
+      "octal": "056",
+      "character": ".",
+      "description": "Nokta",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 47,
+      "hex": "2F",
+      "binary": "00101111",
+      "octal": "057",
+      "character": "/",
+      "description": "Eğik çizgi",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 48,
+      "hex": "30",
+      "binary": "00110000",
+      "octal": "060",
+      "character": "0",
+      "description": "Sıfır Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 49,
+      "hex": "31",
+      "binary": "00110001",
+      "octal": "061",
+      "character": "1",
+      "description": "Bir Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 50,
+      "hex": "32",
+      "binary": "00110010",
+      "octal": "062",
+      "character": "2",
+      "description": "İki Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 51,
+      "hex": "33",
+      "binary": "00110011",
+      "octal": "063",
+      "character": "3",
+      "description": "Üç Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 52,
+      "hex": "34",
+      "binary": "00110100",
+      "octal": "064",
+      "character": "4",
+      "description": "Dört Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 53,
+      "hex": "35",
+      "binary": "00110101",
+      "octal": "065",
+      "character": "5",
+      "description": "Beş Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 54,
+      "hex": "36",
+      "binary": "00110110",
+      "octal": "066",
+      "character": "6",
+      "description": "Altı Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 55,
+      "hex": "37",
+      "binary": "00110111",
+      "octal": "067",
+      "character": "7",
+      "description": "Yedi Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 56,
+      "hex": "38",
+      "binary": "00111000",
+      "octal": "070",
+      "character": "8",
+      "description": "Sekiz Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 57,
+      "hex": "39",
+      "binary": "00111001",
+      "octal": "071",
+      "character": "9",
+      "description": "Dokuz Rakamı",
+      "category": "Rakam"
+    },
+    {
+      "decimal": 58,
+      "hex": "3A",
+      "binary": "00111010",
+      "octal": "072",
+      "character": ":",
+      "description": "İki nokta üst üste",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 59,
+      "hex": "3B",
+      "binary": "00111011",
+      "octal": "073",
+      "character": ";",
+      "description": "Noktalı virgül",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 60,
+      "hex": "3C",
+      "binary": "00111100",
+      "octal": "074",
+      "character": "<",
+      "description": "Küçüktür",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 61,
+      "hex": "3D",
+      "binary": "00111101",
+      "octal": "075",
+      "character": "=",
+      "description": "Eşittir işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 62,
+      "hex": "3E",
+      "binary": "00111110",
+      "octal": "076",
+      "character": ">",
+      "description": "Büyüktür",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 63,
+      "hex": "3F",
+      "binary": "00111111",
+      "octal": "077",
+      "character": "?",
+      "description": "Soru işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 64,
+      "hex": "40",
+      "binary": "01000000",
+      "octal": "100",
+      "character": "@",
+      "description": "Et işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 65,
+      "hex": "41",
+      "binary": "01000001",
+      "octal": "101",
+      "character": "A",
+      "description": "Büyük harf A",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 66,
+      "hex": "42",
+      "binary": "01000010",
+      "octal": "102",
+      "character": "B",
+      "description": "Büyük harf B",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 67,
+      "hex": "43",
+      "binary": "01000011",
+      "octal": "103",
+      "character": "C",
+      "description": "Büyük harf C",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 68,
+      "hex": "44",
+      "binary": "01000100",
+      "octal": "104",
+      "character": "D",
+      "description": "Büyük harf D",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 69,
+      "hex": "45",
+      "binary": "01000101",
+      "octal": "105",
+      "character": "E",
+      "description": "Büyük harf E",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 70,
+      "hex": "46",
+      "binary": "01000110",
+      "octal": "106",
+      "character": "F",
+      "description": "Büyük harf F",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 71,
+      "hex": "47",
+      "binary": "01000111",
+      "octal": "107",
+      "character": "G",
+      "description": "Büyük harf G",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 72,
+      "hex": "48",
+      "binary": "01001000",
+      "octal": "110",
+      "character": "H",
+      "description": "Büyük harf H",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 73,
+      "hex": "49",
+      "binary": "01001001",
+      "octal": "111",
+      "character": "I",
+      "description": "Büyük harf I",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 74,
+      "hex": "4A",
+      "binary": "01001010",
+      "octal": "112",
+      "character": "J",
+      "description": "Büyük harf J",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 75,
+      "hex": "4B",
+      "binary": "01001011",
+      "octal": "113",
+      "character": "K",
+      "description": "Büyük harf K",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 76,
+      "hex": "4C",
+      "binary": "01001100",
+      "octal": "114",
+      "character": "L",
+      "description": "Büyük harf L",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 77,
+      "hex": "4D",
+      "binary": "01001101",
+      "octal": "115",
+      "character": "M",
+      "description": "Büyük harf M",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 78,
+      "hex": "4E",
+      "binary": "01001110",
+      "octal": "116",
+      "character": "N",
+      "description": "Büyük harf N",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 79,
+      "hex": "4F",
+      "binary": "01001111",
+      "octal": "117",
+      "character": "O",
+      "description": "Büyük harf O",
+      "category": "Büyük harf"
+    },
+    {
+      "decimal": 80,
+      "hex": "50",
+      "binary": "01010000",
+      "octal": "120",
+      "character": "P",
+      "description": "Büyük harf P",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 81,
+      "hex": "51",
+      "binary": "01010001",
+      "octal": "121",
+      "character": "Q",
+      "description": "Büyük harf Q",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 82,
+      "hex": "52",
+      "binary": "01010010",
+      "octal": "122",
+      "character": "R",
+      "description": "Büyük harf R",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 83,
+      "hex": "53",
+      "binary": "01010011",
+      "octal": "123",
+      "character": "S",
+      "description": "Büyük harf S",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 84,
+      "hex": "54",
+      "binary": "01010100",
+      "octal": "124",
+      "character": "T",
+      "description": "Büyük harf T",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 85,
+      "hex": "55",
+      "binary": "01010101",
+      "octal": "125",
+      "character": "U",
+      "description": "Büyük harf U",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 86,
+      "hex": "56",
+      "binary": "01010110",
+      "octal": "126",
+      "character": "V",
+      "description": "Büyük harf V",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 87,
+      "hex": "57",
+      "binary": "01010111",
+      "octal": "127",
+      "character": "W",
+      "description": "Büyük harf W",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 88,
+      "hex": "58",
+      "binary": "01011000",
+      "octal": "130",
+      "character": "X",
+      "description": "Büyük harf X",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 89,
+      "hex": "59",
+      "binary": "01011001",
+      "octal": "131",
+      "character": "Y",
+      "description": "Büyük harf Y",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 90,
+      "hex": "5A",
+      "binary": "01011010",
+      "octal": "132",
+      "character": "Z",
+      "description": "Büyük harf Z",
+      "category": "Büyük Harf"
+    },
+    {
+      "decimal": 91,
+      "hex": "5B",
+      "binary": "01011011",
+      "octal": "133",
+      "character": "[",
+      "description": "Sol köşeli ayraç",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 92,
+      "hex": "5C",
+      "binary": "01011100",
+      "octal": "134",
+      "character": "\\",
+      "description": "Ters eğik çizgi",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 93,
+      "hex": "5D",
+      "binary": "01011101",
+      "octal": "135",
+      "character": "]",
+      "description": "Sağ köşeli ayraç",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 94,
+      "hex": "5E",
+      "binary": "01011110",
+      "octal": "136",
+      "character": "^",
+      "description": "Şapka/sirkumfleks işareti",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 95,
+      "hex": "5F",
+      "binary": "01011111",
+      "octal": "137",
+      "character": "_",
+      "description": "Alt çizgi",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 96,
+      "hex": "60",
+      "binary": "01100000",
+      "octal": "140",
+      "character": "`",
+      "description": "Grave aksanı",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 97,
+      "hex": "61",
+      "binary": "01100001",
+      "octal": "141",
+      "character": "a",
+      "description": "Küçük harf a",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 98,
+      "hex": "62",
+      "binary": "01100010",
+      "octal": "142",
+      "character": "b",
+      "description": "Küçük harf b",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 99,
+      "hex": "63",
+      "binary": "01100011",
+      "octal": "143",
+      "character": "c",
+      "description": "Küçük harf c",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 100,
+      "hex": "64",
+      "binary": "01100100",
+      "octal": "144",
+      "character": "d",
+      "description": "Küçük harf d",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 101,
+      "hex": "65",
+      "binary": "01100101",
+      "octal": "145",
+      "character": "e",
+      "description": "Küçük harf e",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 102,
+      "hex": "66",
+      "binary": "01100110",
+      "octal": "146",
+      "character": "f",
+      "description": "Küçük harf f",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 103,
+      "hex": "67",
+      "binary": "01100111",
+      "octal": "147",
+      "character": "g",
+      "description": "Küçük harf g",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 104,
+      "hex": "68",
+      "binary": "01101000",
+      "octal": "150",
+      "character": "h",
+      "description": "Küçük harf h",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 105,
+      "hex": "69",
+      "binary": "01101001",
+      "octal": "151",
+      "character": "i",
+      "description": "Küçük harf i",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 106,
+      "hex": "6A",
+      "binary": "01101010",
+      "octal": "152",
+      "character": "j",
+      "description": "Küçük harf j",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 107,
+      "hex": "6B",
+      "binary": "01101011",
+      "octal": "153",
+      "character": "k",
+      "description": "Küçük harf k",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 108,
+      "hex": "6C",
+      "binary": "01101100",
+      "octal": "154",
+      "character": "l",
+      "description": "Küçük harf l",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 109,
+      "hex": "6D",
+      "binary": "01101101",
+      "octal": "155",
+      "character": "m",
+      "description": "Küçük harf m",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 110,
+      "hex": "6E",
+      "binary": "01101110",
+      "octal": "156",
+      "character": "n",
+      "description": "Küçük harf n",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 111,
+      "hex": "6F",
+      "binary": "01101111",
+      "octal": "157",
+      "character": "o",
+      "description": "Küçük harf o",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 112,
+      "hex": "70",
+      "binary": "01110000",
+      "octal": "160",
+      "character": "p",
+      "description": "Küçük harf p",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 113,
+      "hex": "71",
+      "binary": "01110001",
+      "octal": "161",
+      "character": "q",
+      "description": "Küçük harf q",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 114,
+      "hex": "72",
+      "binary": "01110010",
+      "octal": "162",
+      "character": "r",
+      "description": "Küçük harf r",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 115,
+      "hex": "73",
+      "binary": "01110011",
+      "octal": "163",
+      "character": "s",
+      "description": "Küçük harf s",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 116,
+      "hex": "74",
+      "binary": "01110100",
+      "octal": "164",
+      "character": "t",
+      "description": "Küçük harf t",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 117,
+      "hex": "75",
+      "binary": "01110101",
+      "octal": "165",
+      "character": "u",
+      "description": "Küçük harf u",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 118,
+      "hex": "76",
+      "binary": "01110110",
+      "octal": "166",
+      "character": "v",
+      "description": "Küçük harf v",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 119,
+      "hex": "77",
+      "binary": "01110111",
+      "octal": "167",
+      "character": "w",
+      "description": "Küçük harf w",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 120,
+      "hex": "78",
+      "binary": "01111000",
+      "octal": "170",
+      "character": "x",
+      "description": "Küçük harf x",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 121,
+      "hex": "79",
+      "binary": "01111001",
+      "octal": "171",
+      "character": "y",
+      "description": "Küçük harf y",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 122,
+      "hex": "7A",
+      "binary": "01111010",
+      "octal": "172",
+      "character": "z",
+      "description": "Küçük harf z",
+      "category": "Küçük Harf"
+    },
+    {
+      "decimal": 123,
+      "hex": "7B",
+      "binary": "01111011",
+      "octal": "173",
+      "character": "{",
+      "description": "Sol küme parantez",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 124,
+      "hex": "7C",
+      "binary": "01111100",
+      "octal": "174",
+      "character": "|",
+      "description": "Dikey çizgi",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 125,
+      "hex": "7D",
+      "binary": "01111101",
+      "octal": "175",
+      "character": "}",
+      "description": "Sağ küme parantez",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 126,
+      "hex": "7E",
+      "binary": "01111110",
+      "octal": "176",
+      "character": "~",
+      "description": "Tilde",
+      "category": "Sembol"
+    },
+    {
+      "decimal": 127,
+      "hex": "7F",
+      "binary": "01111111",
+      "octal": "177",
+      "character": "",
+      "description": "DEL (Sil)",
+      "category": "Kontrol"
+    }
+  ],
+  "meta": {
+    "seo_title": "ASCII Karakter Tablosu - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "128 kayıttan oluşan eksiksiz ASCII Karakter Tablosu veri kümesini ücretsiz indirin. Ondalık, onaltılık, ikili ve karakter verilerini alın. Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Eksiksiz ASCII Karakter Tablosu ve Kodları Referans Veri Kümesi",
+    "description": "Bu veri kümesi, 128 standart ASCII karakterinin kapsamlı bir listesini sunar; bunların ondalık, onaltılık, ikili ve sekizlik gösterimlerini içerir. Her kayıt ayrıca karakteri, açıklamasını ve kategorisini (örn. Kontrol, Yazdırılabilir) detaylandırır.",
+    "key_takeaways": [
+      "Tüm 128 standart ASCII karakterine ve çeşitli sayısal gösterimlerine erişin.",
+      "Her ASCII karakteri için ayrıntılı açıklamaları ve kategorileri keşfedin.",
+      "Hızlı başvuru ve geliştirme için eksiksiz ASCII tablosunu indirin.",
+      "Ondalık, onaltılık, ikili ve sekizlik değerler dahil kapsamlı verileri kullanın."
+    ],
+    "keywords": [
+      "ASCII tablosu indir",
+      "ASCII karakter kodları",
+      "heks ikili sekizlik ASCII",
+      "yazdırılabilir kontrol ASCII",
+      "ASCII veri seti csv",
+      "ASCII tablosu excel"
+    ],
+    "use_cases": [
+      "Karakter kodlama aramalarını uygulamalara kolayca entegre etmek için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Hızlı analiz ve raporlama için **Excel** dosyasını kategoriye (örn. kontrol karakterleri) göre filtrelemek veya ondalık değere göre sıralamak için kullanın.",
+      "Eğitim ortamları, programlama atölyeleri veya masa başında kullanım için ideal olan, kullanışlı bir çevrimdışı referans tablosu olarak **PDF** sürümünü yazdırın.",
+      "Veri işleme işlem hatlarında karakter girişlerini doğrulamak veya çeşitli sistemlerde karakter kodlamasını anlamak için bu veri kümesini kullanın."
+    ]
+  },
+  "record_count": 128,
+  "title": "Eksiksiz ASCII Karakter Tablosu ve Kodları Referans Veri Kümesi"
+}

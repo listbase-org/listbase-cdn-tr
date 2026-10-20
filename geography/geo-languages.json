@@ -1,0 +1,2395 @@
+{
+  "id": "geo-languages",
+  "name": "Ülke Dilleri ve ISO Kodları Veri Kümesi",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "language_code",
+      "label": "Language Code",
+      "type": "string"
+    },
+    {
+      "key": "language_name",
+      "label": "Language (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "language_code": "prs",
+      "language_name": "Darice"
+    },
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "language_code": "pus",
+      "language_name": "Peştuca"
+    },
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "language_code": "tuk",
+      "language_name": "Türkmence"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Arnavutluk",
+      "language_code": "sqi",
+      "language_name": "Arnavutça"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Cezayir",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "language_code": "cat",
+      "language_name": "Katalanca"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua ve Barbuda",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Arjantin",
+      "language_code": "grn",
+      "language_name": "Guarani"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Arjantin",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Ermenistan",
+      "language_code": "hye",
+      "language_name": "Ermenice"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Avustralya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Avusturya",
+      "language_code": "deu",
+      "language_name": "Almanca"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaycan",
+      "language_code": "aze",
+      "language_name": "Azerbaycanca"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamalar",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahreyn",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladeş",
+      "language_code": "ben",
+      "language_name": "Bengalce"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "language_code": "bel",
+      "language_name": "Belarusça"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "language_code": "nld",
+      "language_name": "Flemenkçe"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "language_code": "deu",
+      "language_name": "Almanca"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "language_code": "bjz",
+      "language_name": "Belize Kreyolu"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "language_code": "dzo",
+      "language_name": "Dzongka"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "language_code": "aym",
+      "language_name": "Aymara Dili"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "language_code": "grn",
+      "language_name": "Guarani Dili"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "language_code": "que",
+      "language_name": "Keçuva"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "language_code": "bos",
+      "language_name": "Boşnakça"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "language_code": "hrv",
+      "language_name": "Hırvatça"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "language_code": "srp",
+      "language_name": "Sırpça"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botsvana",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botsvana",
+      "language_code": "tsn",
+      "language_name": "Tsvana Dili"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brezilya",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "language_code": "msa",
+      "language_name": "Malayca"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaristan",
+      "language_code": "bul",
+      "language_name": "Bulgarca"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "language_code": "run",
+      "language_name": "Kirundi"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboçya",
+      "language_code": "khm",
+      "language_name": "Kmerce"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Yeşil Burun Adaları",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "language_code": "sag",
+      "language_name": "Sango"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Çad",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Çad",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Şili",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "language_code": "zho",
+      "language_name": "Çince"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombiya",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "language_code": "zdj",
+      "language_name": "Komorca"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Hırvatistan",
+      "language_code": "hrv",
+      "language_name": "Hırvatça"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Küba",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kıbrıs",
+      "language_code": "ell",
+      "language_name": "Yunanca"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kıbrıs",
+      "language_code": "tur",
+      "language_name": "Türkçe"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Çekya",
+      "language_code": "ces",
+      "language_name": "Çekçe"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Çekya",
+      "language_code": "slk",
+      "language_name": "Slovakça"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Danimarka",
+      "language_code": "dan",
+      "language_name": "Danca"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Cibuti",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Cibuti",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominik Cumhuriyeti",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "language_code": "kon",
+      "language_name": "Kikongo"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "language_code": "lin",
+      "language_name": "Lingala"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "language_code": "swa",
+      "language_name": "Svahili"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "language_code": "lua",
+      "language_name": "Çiluba"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvador",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mısır",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "language_code": "tir",
+      "language_name": "Tigrinyaca"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonya",
+      "language_code": "est",
+      "language_name": "Estonca"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "language_code": "ssw",
+      "language_name": "Svazice"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiyopya",
+      "language_code": "amh",
+      "language_name": "Amharca"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "language_code": "hif",
+      "language_name": "Fiji Hintçesi"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "language_code": "fij",
+      "language_name": "Fijice"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandiya",
+      "language_code": "fin",
+      "language_name": "Fince"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandiya",
+      "language_code": "swe",
+      "language_name": "İsveççe"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Fransa",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambiya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gürcistan",
+      "language_code": "kat",
+      "language_name": "Gürcüce"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Almanya",
+      "language_code": "deu",
+      "language_name": "Almanca"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Gana",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunanistan",
+      "language_code": "ell",
+      "language_name": "Yunanca"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gine",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gine-Bissau",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gine-Bissau",
+      "language_code": "pov",
+      "language_name": "Yukarı Gine Kreyolu"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "language_code": "hat",
+      "language_name": "Haiti Kreyolu"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Macaristan",
+      "language_code": "hun",
+      "language_name": "Macarca"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "İzlanda",
+      "language_code": "isl",
+      "language_name": "İzlandaca"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "language_code": "hin",
+      "language_name": "Hintçe"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "language_code": "tam",
+      "language_name": "Tamilce"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Endonezya",
+      "language_code": "ind",
+      "language_name": "Endonezce"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "İran",
+      "language_code": "fas",
+      "language_name": "Farsça"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "language_code": "arc",
+      "language_name": "Aramice"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "language_code": "ckb",
+      "language_name": "Soranice"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "İrlanda",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "İrlanda",
+      "language_code": "gle",
+      "language_name": "İrlandaca"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "İsrail",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "İsrail",
+      "language_code": "heb",
+      "language_name": "İbranice"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "İtalya",
+      "language_code": "cat",
+      "language_name": "Katalanca"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "İtalya",
+      "language_code": "ita",
+      "language_name": "İtalyanca"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Fildişi Sahili",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "language_code": "jam",
+      "language_name": "Jamaika Patois Dili"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonya",
+      "language_code": "jpn",
+      "language_name": "Japonca"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Ürdün",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "language_code": "kaz",
+      "language_name": "Kazakça"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "language_code": "swa",
+      "language_name": "Svahili Dili"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "language_code": "gil",
+      "language_name": "Kiribatice"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosova",
+      "language_code": "sqi",
+      "language_name": "Arnavutça"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosova",
+      "language_code": "srp",
+      "language_name": "Sırpça"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuveyt",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kırgızistan",
+      "language_code": "kir",
+      "language_name": "Kırgızca"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kırgızistan",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "language_code": "lao",
+      "language_name": "Lao dili"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Letonya",
+      "language_code": "lav",
+      "language_name": "Letonca"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lübnan",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lübnan",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "language_code": "sot",
+      "language_name": "Sotho dili"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Lihtenştayn",
+      "language_code": "deu",
+      "language_name": "Almanca"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litvanya",
+      "language_code": "lit",
+      "language_name": "Litvanca"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "language_code": "deu",
+      "language_name": "Almanca"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "language_code": "ltz",
+      "language_name": "Lüksemburgca"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "language_code": "mlg",
+      "language_name": "Malgaşça"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malavi",
+      "language_code": "nya",
+      "language_name": "Çevaca"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malavi",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezya",
+      "language_code": "msa",
+      "language_name": "Malayca"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maldivler",
+      "language_code": "div",
+      "language_name": "Divehice"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "language_code": "mlt",
+      "language_name": "Maltaca"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshall Adaları",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshall Adaları",
+      "language_code": "mah",
+      "language_name": "Marshallca"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Moritanya",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "language_code": "mfe",
+      "language_name": "Mauritius Kreolcesi"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksika",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "language_code": "ron",
+      "language_name": "Romence"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Moğolistan",
+      "language_code": "mon",
+      "language_name": "Moğolca"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Karadağ",
+      "language_code": "cnr",
+      "language_name": "Karadağca"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "language_code": "ber",
+      "language_name": "Berberi"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "language_code": "mya",
+      "language_name": "Birmanca"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "afr",
+      "language_name": "Afrikanca"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "deu",
+      "language_name": "Almanca"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "her",
+      "language_name": "Herero"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "hgm",
+      "language_name": "Khoekhoe"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "kwn",
+      "language_name": "Kwangali"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "loz",
+      "language_name": "Lozi"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "ndo",
+      "language_name": "Ndonga"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "language_code": "tsn",
+      "language_name": "Tswana"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "language_code": "nau",
+      "language_name": "Nauru dili"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "language_code": "nep",
+      "language_name": "Nepalce"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Hollanda",
+      "language_code": "nld",
+      "language_name": "Felemenkçe"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "language_code": "mri",
+      "language_name": "Maorice"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "language_code": "nzs",
+      "language_name": "Yeni Zelanda İşaret Dili"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Nijer",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nijerya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Kuzey Kore",
+      "language_code": "kor",
+      "language_name": "Korece"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Kuzey Makedonya",
+      "language_code": "mkd",
+      "language_name": "Makedonca"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "language_code": "nob",
+      "language_name": "Norveççe Bokmål"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "language_code": "nno",
+      "language_name": "Norveççe Nynorsk"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "language_code": "smi",
+      "language_name": "Samice"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Umman",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "language_code": "urd",
+      "language_name": "Urduca"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "language_code": "pau",
+      "language_name": "Palauca"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "language_code": "hmo",
+      "language_name": "Hiri Motu"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "language_code": "tpi",
+      "language_name": "Tok Pisin"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "language_code": "grn",
+      "language_name": "Guarani Dili"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "language_code": "aym",
+      "language_name": "Aymara Dili"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "language_code": "que",
+      "language_name": "Keçuaca"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipinler",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipinler",
+      "language_code": "fil",
+      "language_name": "Filipince"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polonya",
+      "language_code": "pol",
+      "language_name": "Lehçe"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portekiz",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "language_code": "kon",
+      "language_name": "Kikongo"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "language_code": "lin",
+      "language_name": "Lingala"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Romanya",
+      "language_code": "ron",
+      "language_name": "Romence"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "language_code": "kin",
+      "language_name": "Kinyarwanda"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts ve Nevis",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent ve Grenadinler",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "language_code": "smo",
+      "language_name": "Samoaca"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "language_code": "ita",
+      "language_name": "İtalyanca"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "São Tomé ve Príncipe",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Suudi Arabistan",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Sırbistan",
+      "language_code": "srp",
+      "language_name": "Sırpça"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "language_code": "crs",
+      "language_name": "Seychellois Kreolü"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "language_code": "zho",
+      "language_name": "Çince"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "language_code": "msa",
+      "language_name": "Malayca"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "language_code": "tam",
+      "language_name": "Tamilce"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovakya",
+      "language_code": "slk",
+      "language_name": "Slovakça"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenya",
+      "language_code": "slv",
+      "language_name": "Slovence"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Solomon Adaları",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somali",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somali",
+      "language_code": "som",
+      "language_name": "Somalice"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "afr",
+      "language_name": "Afrikanca"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "nso",
+      "language_name": "Kuzey Sotho dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "nbl",
+      "language_name": "Güney Ndebele dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "sot",
+      "language_name": "Güney Sotho dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "ssw",
+      "language_name": "Svazi dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "tso",
+      "language_name": "Tsonga dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "tsn",
+      "language_name": "Setsvana dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "ven",
+      "language_name": "Venda dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "xho",
+      "language_name": "Xhosa dili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "language_code": "zul",
+      "language_name": "Zulu dili"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Güney Kore",
+      "language_code": "kor",
+      "language_name": "Korece"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Güney Sudan",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "language_code": "eus",
+      "language_name": "Baskça"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "language_code": "cat",
+      "language_name": "Katalanca"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "language_code": "glc",
+      "language_name": "Galiçyaca"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "language_code": "sin",
+      "language_name": "Seylanca"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "language_code": "tam",
+      "language_name": "Tamilce"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "language_code": "nld",
+      "language_name": "Hollandaca"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "İsveç",
+      "language_code": "swe",
+      "language_name": "İsveççe"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "language_code": "ita",
+      "language_name": "İtalyanca"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "language_code": "roh",
+      "language_name": "Romanşça"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "language_code": "gsw",
+      "language_name": "İsviçre Almancası"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriye",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tacikistan",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tacikistan",
+      "language_code": "tgk",
+      "language_name": "Tacikçe"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanya",
+      "language_code": "swa",
+      "language_name": "Svahili"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tayland",
+      "language_code": "tha",
+      "language_name": "Tayca"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Doğu Timor",
+      "language_code": "por",
+      "language_name": "Portekizce"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Doğu Timor",
+      "language_code": "tet",
+      "language_name": "Tetumca"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "language_code": "ton",
+      "language_name": "Tongaca"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad ve Tobago",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunus",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Türkiye",
+      "language_code": "tur",
+      "language_name": "Türkçe"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Türkmenistan",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Türkmenistan",
+      "language_code": "tuk",
+      "language_name": "Türkmence"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "language_code": "tvl",
+      "language_name": "Tuvaluca"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "language_code": "swa",
+      "language_name": "Svahili"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrayna",
+      "language_code": "ukr",
+      "language_name": "Ukraynaca"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Birleşik Arap Emirlikleri",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Birleşik Krallık",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Birleşik Devletleri",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Özbekistan",
+      "language_code": "rus",
+      "language_name": "Rusça"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Özbekistan",
+      "language_code": "uzb",
+      "language_name": "Özbekçe"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "language_code": "bis",
+      "language_name": "Bislama"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "language_code": "fra",
+      "language_name": "Fransızca"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikan Şehri",
+      "language_code": "ita",
+      "language_name": "İtalyanca"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikan Şehri",
+      "language_code": "lat",
+      "language_name": "Latince"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "language_code": "spa",
+      "language_name": "İspanyolca"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "language_code": "vie",
+      "language_name": "Vietnamca"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yemen",
+      "language_code": "ara",
+      "language_name": "Arapça"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambiya",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "nya",
+      "language_name": "Çeva"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "bwg",
+      "language_name": "Çibarve"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "eng",
+      "language_name": "İngilizce"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "kck",
+      "language_name": "Kalanga Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "khi",
+      "language_name": "Khoisan Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "ndc",
+      "language_name": "Ndau Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "nde",
+      "language_name": "Kuzey Ndebele Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "sna",
+      "language_name": "Şona Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "sot",
+      "language_name": "Sotho Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "toi",
+      "language_name": "Tonga Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "tso",
+      "language_name": "Tsonga Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "tsn",
+      "language_name": "Tsvana Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "ven",
+      "language_name": "Venda Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "xho",
+      "language_name": "Xhosa Dili"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "language_code": "zib",
+      "language_name": "Zimbabve İşaret Dili"
+    }
+  ],
+  "meta": {
+    "seo_title": "Ülke Dilleri Listesi - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "333 ülke dilinin, ISO kodlarının ve ülke adlarının ücretsiz indirilmesi. Çeşitli veri analizi ve geliştirme ihtiyaçları için Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Ülke Dilleri ve ISO Kodları Veri Kümesi",
+    "description": "Bu veri kümesi, ISO Alpha-2 ve Alpha-3 kodları, ülke adları, dil kodları ve dil adları dahil olmak üzere 333 ülke-dil ilişkisinin kapsamlı bir listesini sunar. Küresel veri analizi için idealdir.",
+    "key_takeaways": [
+      "Küresel ülke-dil ilişkilerini detaylandıran 333 kayda erişin.",
+      "ISO Alpha-2/Alpha-3 ülke kodlarını ve ilgili dil verilerini keşfedin.",
+      "Kapsamlı ülke dil verilerini birden çok formatta indirin.",
+      "Uluslararasılaşma ve dilbilimsel analiz için yapılandırılmış verilerden yararlanın."
+    ],
+    "keywords": [
+      "ülke dilleri listesi",
+      "iso ülke dilleri",
+      "dünya dilleri verisi",
+      "ülke dilleri excel",
+      "dil verisi csv",
+      "küresel dil referansı"
+    ],
+    "use_cases": [
+      "Çok dilli uygulamalar oluşturmak veya dilbilimsel dağılımı analiz etmek için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Raporlarınızda Pivot Tablolar oluşturmak, ülkeleri dile göre filtrelemek veya veri zenginleştirme için VLOOKUP yapmak için **Excel** dosyasını kullanın.",
+      "Sınıflarda, sunumlarda veya küresel diller hakkında çevrimdışı araştırma için hızlı bir referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "Doğru ülke-dil eşleştirmeleri sağlamak için bu veri kümesini eğitim platformlarına veya çeviri araçlarına entegre edin."
+    ]
+  },
+  "record_count": 333,
+  "title": "Ülke Dilleri ve ISO Kodları Veri Kümesi"
+}

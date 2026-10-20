@@ -1,0 +1,214 @@
+{
+  "id": "tr-karadeniz-cities",
+  "name": "Karadeniz Bölgesi İlleri (Black Sea Region — Provinces)",
+  "title": "Karadeniz Bölgesi İlleri (Black Sea Region — Provinces)",
+  "description": "Karadeniz Bölgesi'nde yer alan 17 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 17 provinces of Black Sea Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "55",
+      "name": "Samsun",
+      "slug": "samsun",
+      "area_code": "362",
+      "area_km2": 9725,
+      "population": 1368488,
+      "density_per_km2": 140.7
+    },
+    {
+      "code": "61",
+      "name": "Trabzon",
+      "slug": "trabzon",
+      "area_code": "462",
+      "area_km2": 4628,
+      "population": 818023,
+      "density_per_km2": 176.8
+    },
+    {
+      "code": "52",
+      "name": "Ordu",
+      "slug": "ordu",
+      "area_code": "452",
+      "area_km2": 5861,
+      "population": 763190,
+      "density_per_km2": 130.2
+    },
+    {
+      "code": "67",
+      "name": "Zonguldak",
+      "slug": "zonguldak",
+      "area_code": "372",
+      "area_km2": 3342,
+      "population": 588510,
+      "density_per_km2": 176.1
+    },
+    {
+      "code": "19",
+      "name": "Çorum",
+      "slug": "corum",
+      "area_code": "364",
+      "area_km2": 12428,
+      "population": 524130,
+      "density_per_km2": 42.2
+    },
+    {
+      "code": "28",
+      "name": "Giresun",
+      "slug": "giresun",
+      "area_code": "454",
+      "area_km2": 7025,
+      "population": 450862,
+      "density_per_km2": 64.2
+    },
+    {
+      "code": "81",
+      "name": "Düzce",
+      "slug": "duzce",
+      "area_code": "380",
+      "area_km2": 2492,
+      "population": 405131,
+      "density_per_km2": 162.6
+    },
+    {
+      "code": "37",
+      "name": "Kastamonu",
+      "slug": "kastamonu",
+      "area_code": "366",
+      "area_km2": 13064,
+      "population": 378115,
+      "density_per_km2": 28.9
+    },
+    {
+      "code": "53",
+      "name": "Rize",
+      "slug": "rize",
+      "area_code": "464",
+      "area_km2": 3835,
+      "population": 344016,
+      "density_per_km2": 89.7
+    },
+    {
+      "code": "05",
+      "name": "Amasya",
+      "slug": "amasya",
+      "area_code": "358",
+      "area_km2": 5628,
+      "population": 338267,
+      "density_per_km2": 60.1
+    },
+    {
+      "code": "14",
+      "name": "Bolu",
+      "slug": "bolu",
+      "area_code": "374",
+      "area_km2": 8313,
+      "population": 320824,
+      "density_per_km2": 38.6
+    },
+    {
+      "code": "78",
+      "name": "Karabük",
+      "slug": "karabuk",
+      "area_code": "370",
+      "area_km2": 4142,
+      "population": 252058,
+      "density_per_km2": 60.9
+    },
+    {
+      "code": "57",
+      "name": "Sinop",
+      "slug": "sinop",
+      "area_code": "368",
+      "area_km2": 5717,
+      "population": 220799,
+      "density_per_km2": 38.6
+    },
+    {
+      "code": "74",
+      "name": "Bartın",
+      "slug": "bartin",
+      "area_code": "378",
+      "area_km2": 2330,
+      "population": 203351,
+      "density_per_km2": 87.3
+    },
+    {
+      "code": "08",
+      "name": "Artvin",
+      "slug": "artvin",
+      "area_code": "466",
+      "area_km2": 7393,
+      "population": 169403,
+      "density_per_km2": 22.9
+    },
+    {
+      "code": "29",
+      "name": "Gümüşhane",
+      "slug": "gumushane",
+      "area_code": "456",
+      "area_km2": 6668,
+      "population": 144544,
+      "density_per_km2": 21.7
+    },
+    {
+      "code": "69",
+      "name": "Bayburt",
+      "slug": "bayburt",
+      "area_code": "458",
+      "area_km2": 3746,
+      "population": 84241,
+      "density_per_km2": 22.5
+    }
+  ],
+  "meta": {
+    "title": "Karadeniz Bölgesi İlleri (Black Sea Region — Provinces) - Ücretsiz İndir",
+    "description": "Karadeniz Bölgesi'nde yer alan 17 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 17 provinces of Black Sea Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².) İçerik 17 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Karadeniz Bölgesi İlleri (Black Sea Region — Provinces) | ListBase",
+    "seo_description": "İndir Karadeniz Bölgesi İlleri (Black Sea Region — Provinces) — 17 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 17 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

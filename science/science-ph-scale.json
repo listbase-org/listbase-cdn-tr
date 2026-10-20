@@ -1,0 +1,295 @@
+{
+  "id": "science-ph-scale",
+  "name": "pH Ölçeği Referans Veri Seti ve Kimyasal Özellikler",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "substance",
+      "label": "Substance (EN)",
+      "type": "string"
+    },
+    {
+      "key": "ph",
+      "label": "pH Value",
+      "type": "number"
+    },
+    {
+      "key": "h_concentration",
+      "label": "[H⁺] Concentration (mol/L)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "nature",
+      "label": "Nature (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "substance": "Akü Asidi (H₂SO₄)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Kuvvetli Asit",
+      "nature": "Yüksek Derecede Aşındırıcı"
+    },
+    {
+      "substance": "Hidroklorik Asit (HCl)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Kuvvetli Asit",
+      "nature": "Yüksek Derecede Aşındırıcı"
+    },
+    {
+      "substance": "Mide Asidi",
+      "ph": 1,
+      "h_concentration": "10⁻¹",
+      "category": "Kuvvetli Asit",
+      "nature": "Aşındırıcı"
+    },
+    {
+      "substance": "Limon Suyu",
+      "ph": 2,
+      "h_concentration": "10⁻²",
+      "category": "Kuvvetli Asit",
+      "nature": "Asidik"
+    },
+    {
+      "substance": "Sirke",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Kuvvetli Asit",
+      "nature": "Asidik"
+    },
+    {
+      "substance": "Coca-Cola",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Kuvvetli Asit",
+      "nature": "Asidik"
+    },
+    {
+      "substance": "Portakal Suyu",
+      "ph": 3.5,
+      "h_concentration": "3.2×10⁻⁴",
+      "category": "Zayıf Asit",
+      "nature": "Hafif Asidik"
+    },
+    {
+      "substance": "Domates Suyu",
+      "ph": 4,
+      "h_concentration": "10⁻⁴",
+      "category": "Zayıf Asit",
+      "nature": "Hafif Asidik"
+    },
+    {
+      "substance": "Bira",
+      "ph": 4.5,
+      "h_concentration": "3.2×10⁻⁵",
+      "category": "Zayıf Asit",
+      "nature": "Hafif Asidik"
+    },
+    {
+      "substance": "Kahve (Siyah)",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Zayıf Asit",
+      "nature": "Hafif Asidik"
+    },
+    {
+      "substance": "Asit Yağmuru",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Zayıf Asit",
+      "nature": "Çevresel"
+    },
+    {
+      "substance": "Muz",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Zayıf Asit",
+      "nature": "Hafif Asidik"
+    },
+    {
+      "substance": "Normal Yağmur Suyu",
+      "ph": 5.6,
+      "h_concentration": "2.5×10⁻⁶",
+      "category": "Zayıf Asit",
+      "nature": "Doğal"
+    },
+    {
+      "substance": "Süt",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Zayıf Asit",
+      "nature": "Nötre Yakın"
+    },
+    {
+      "substance": "Tükürük",
+      "ph": 6.8,
+      "h_concentration": "1.6×10⁻⁷",
+      "category": "Zayıf Asit",
+      "nature": "Nötre Yakın"
+    },
+    {
+      "substance": "Saf Su",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Nötr",
+      "nature": "Nötr"
+    },
+    {
+      "substance": "Kan",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Nötr",
+      "nature": "Hafif Bazik"
+    },
+    {
+      "substance": "Yumurta Akı",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Zayıf Baz",
+      "nature": "Hafif Bazik"
+    },
+    {
+      "substance": "Deniz Suyu",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Zayıf Baz",
+      "nature": "Hafif Bazik"
+    },
+    {
+      "substance": "Karbonat (NaHCO₃)",
+      "ph": 8.5,
+      "h_concentration": "3.2×10⁻⁹",
+      "category": "Zayıf Baz",
+      "nature": "Hafif Bazik"
+    },
+    {
+      "substance": "Diş macunu",
+      "ph": 9,
+      "h_concentration": "10⁻⁹",
+      "category": "Zayıf Baz",
+      "nature": "Bazik"
+    },
+    {
+      "substance": "Magnezya Sütü",
+      "ph": 10.5,
+      "h_concentration": "3.2×10⁻¹¹",
+      "category": "Zayıf Baz",
+      "nature": "Bazik"
+    },
+    {
+      "substance": "Amonyak (NH₃)",
+      "ph": 11,
+      "h_concentration": "10⁻¹¹",
+      "category": "Orta Dereceli Baz",
+      "nature": "Yakıcı"
+    },
+    {
+      "substance": "Sabunlu su",
+      "ph": 12,
+      "h_concentration": "10⁻¹²",
+      "category": "Kuvvetli Baz",
+      "nature": "Yakıcı"
+    },
+    {
+      "substance": "Çamaşır suyu (NaClO)",
+      "ph": 12.5,
+      "h_concentration": "3.2×10⁻¹³",
+      "category": "Kuvvetli Baz",
+      "nature": "Aşındırıcı"
+    },
+    {
+      "substance": "Fırın temizleyici",
+      "ph": 13,
+      "h_concentration": "10⁻¹³",
+      "category": "Kuvvetli Baz",
+      "nature": "Yüksek Derecede Aşındırıcı"
+    },
+    {
+      "substance": "Gider temizleyici",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Kuvvetli Baz",
+      "nature": "Yüksek Derecede Aşındırıcı"
+    },
+    {
+      "substance": "Sodyum Hidroksit (NaOH)",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Kuvvetli Baz",
+      "nature": "Yüksek Derecede Aşındırıcı"
+    },
+    {
+      "substance": "Sağlıklı toprak",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Çevresel",
+      "nature": "Çoğu bitki için en uygun"
+    },
+    {
+      "substance": "Yüzme Havuzu (İdeal)",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Çevresel",
+      "nature": "Yüzmek için güvenli"
+    },
+    {
+      "substance": "Akvaryum (Tatlı su)",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Çevresel",
+      "nature": "Balıklar için en uygun"
+    },
+    {
+      "substance": "İnsan derisi",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Biyolojik",
+      "nature": "Asit manto"
+    },
+    {
+      "substance": "İnsan idrarı",
+      "ph": 6,
+      "h_concentration": "10⁻⁶",
+      "category": "Biyolojik",
+      "nature": "Değişken (4.5-8)"
+    }
+  ],
+  "meta": {
+    "seo_title": "pH Ölçeği Verileri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Çeşitli maddeler için 33 pH ölçeği referans girdisini indirin. pH değerleri, H⁺ konsantrasyonu ve kategoriyi alın. Excel, CSV, PDF ücretsiz.",
+    "title": "pH Ölçeği Referans Veri Seti ve Kimyasal Özellikler",
+    "description": "Bu veri seti, 33 maddenin pH değerlerini, hidrojen iyonu konsantrasyonlarını, asitlik/bazlık kategorilerini ve doğalarını listeleyen kapsamlı bir referans sunar.",
+    "key_takeaways": [
+      "pH değerleriyle birlikte 33 yaygın maddenin derlenmiş listesine erişin.",
+      "Hidrojen iyonu ([H⁺]) konsantrasyonlarını keşfedin ve maddeleri asitlik/bazlıklarına göre kategorize edin.",
+      "Temel kimya referans verilerini çeşitli kullanışlı formatlarda indirin.",
+      "Yüksek derecede aşındırıcıdan nötre kadar çeşitli maddelerin doğasını anlayın."
+    ],
+    "keywords": [
+      "pH ölçeği referans excel",
+      "asit baz pH verileri csv",
+      "madde pH değeri indir",
+      "kimya H+ konsantrasyonu",
+      "alkali asidik maddeler liste",
+      "ücretsiz pH veri seti pdf"
+    ],
+    "use_cases": [
+      "Kimyasal araştırma, veri analizi veya pH ile ilgili eğitim uygulamaları oluşturmak için **CSV** dosyasını veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Laboratuvar raporlaması, akademik projeler veya karşılaştırma çizelgeleri oluşturmak için **Excel** dosyasını kullanarak pH değerlerini ve konsantrasyonlarını filtreleyin, sıralayın ve analiz edin.",
+      "Kimya sınıfında, laboratuvarda veya çalışma kılavuzları ve eğitim sunumları için hızlı çevrimdışı referans olarak **PDF** sürümünü yazdırın.",
+      "Bu veri setini, eğitim içeriğini zenginleştirmek, sınavlar geliştirmek veya öğrencilere günlük maddelerin pH spektrumunu göstermek için kullanın."
+    ]
+  },
+  "record_count": 33,
+  "title": "pH Ölçeği Referans Veri Seti ve Kimyasal Özellikler"
+}

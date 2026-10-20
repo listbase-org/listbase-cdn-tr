@@ -1,0 +1,448 @@
+{
+  "id": "tr-karabuk-liseler",
+  "name": "Karabük Liseleri (High Schools in Karabük)",
+  "title": "Karabük Liseleri (High Schools in Karabük)",
+  "description": "Karabük ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (31 kayıt) (High schools in Karabük province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Eflani İmkb Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Karabük - Eflani - Eflani İmkb Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Eflani",
+      "website": "http://eflaniimkbcpal.meb.k12.tr",
+      "enlem": 41.42476760181971,
+      "boylam": 32.95040926112665
+    },
+    {
+      "okul_adi": "Eskipazar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Karabük - Eskipazar - Eskipazar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Eskipazar",
+      "website": "http://eskipazarcpl.meb.k12.tr",
+      "enlem": 40.94676902731628,
+      "boylam": 32.532124129672184
+    },
+    {
+      "okul_adi": "Seyhan Cengiz Turhan Anadolu Lisesi",
+      "tam_ad": "Karabük - Eskipazar - Seyhan Cengiz Turhan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Eskipazar",
+      "website": "http://epal.meb.k12.tr",
+      "enlem": 40.939985889393405,
+      "boylam": 32.51606306209101
+    },
+    {
+      "okul_adi": "75.yıl Karabük Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - 75.yıl Karabük Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukanadolu.meb.k12.tr",
+      "enlem": 41.20482707806316,
+      "boylam": 32.623201218981876
+    },
+    {
+      "okul_adi": "Cumhuriyet Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Cumhuriyet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://cumhuriyetanadolulisesi78.meb.k12.tr",
+      "enlem": 41.231491335468796,
+      "boylam": 32.660430280108585
+    },
+    {
+      "okul_adi": "Demir Çelik Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Demir Çelik Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://demirceliklisesi.meb.k12.tr",
+      "enlem": 41.203680852431354,
+      "boylam": 32.61793872489466
+    },
+    {
+      "okul_adi": "Fevzi Çakmak Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Fevzi Çakmak Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukfcal.meb.k12.tr",
+      "enlem": 41.188384487432806,
+      "boylam": 32.616332081694736
+    },
+    {
+      "okul_adi": "Karabük Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Karabük - Merkez - Karabük Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukaihl.meb.k12.tr",
+      "enlem": 41.207506907532135,
+      "boylam": 32.6180728353454
+    },
+    {
+      "okul_adi": "Karabük Mehmet Vergili Fen Lisesi",
+      "tam_ad": "Karabük - Merkez - Karabük Mehmet Vergili Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://mehmetvergilifenlisesi.meb.k12.tr",
+      "enlem": 41.21957285206517,
+      "boylam": 32.656900493044986
+    },
+    {
+      "okul_adi": "Karabük Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Karabük Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukeml.meb.k12.tr",
+      "enlem": 41.198740551668266,
+      "boylam": 32.62478908671869
+    },
+    {
+      "okul_adi": "Kıymet Ve Mustafa Yazıcı Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Kıymet Ve Mustafa Yazıcı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://kmyal.meb.k12.tr",
+      "enlem": 41.20100692058007,
+      "boylam": 32.608513442416324
+    },
+    {
+      "okul_adi": "Necip Fazıl Kısakürek Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Necip Fazıl Kısakürek Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://nfkmeslekiveteknikanadolulisesi.meb.k12.tr",
+      "enlem": 41.20360013155969,
+      "boylam": 32.61729499473108
+    },
+    {
+      "okul_adi": "Prof. Dr. Süheyl Ünver Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Prof. Dr. Süheyl Ünver Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukasml.meb.k12.tr",
+      "enlem": 41.22782806538476,
+      "boylam": 32.65555938853754
+    },
+    {
+      "okul_adi": "Vakıfbank Zübeyde Hanım Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Vakıfbank Zübeyde Hanım Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukzal.meb.k12.tr",
+      "enlem": 41.21993600652816,
+      "boylam": 32.65703996791376
+    },
+    {
+      "okul_adi": "Yahya Kemal Beyatlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Merkez - Yahya Kemal Beyatlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Merkez",
+      "website": "http://karabukktml.meb.k12.tr",
+      "enlem": 41.20393512252626,
+      "boylam": 32.61733254565729
+    },
+    {
+      "okul_adi": "Karabük Ovacık Spor Lisesi",
+      "tam_ad": "Karabük - Ovacık - Karabük Ovacık Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Karabük",
+      "ilce": "Ovacık",
+      "website": "http://ovaciksporlisesi.meb.k12.tr",
+      "enlem": 41.08051436379913,
+      "boylam": 32.91669925822748
+    },
+    {
+      "okul_adi": "Ovacık Şehit Mustafa Kızılkaya Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Karabük - Ovacık - Ovacık Şehit Mustafa Kızılkaya Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Ovacık",
+      "website": "http://ovaciksmkl.meb.k12.tr",
+      "enlem": 41.06435403964417,
+      "boylam": 32.922128049273624
+    },
+    {
+      "okul_adi": "15 Temmuz Şehitleri Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - 15 Temmuz Şehitleri Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://safranal.meb.k12.tr",
+      "enlem": 41.23168498280086,
+      "boylam": 32.67420610560907
+    },
+    {
+      "okul_adi": "Abdurrahman Yerlikaya Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Abdurrahman Yerlikaya Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://abdurrahmanyerlikayakizaihl.meb.k12.tr",
+      "enlem": 41.26627409927957,
+      "boylam": 32.70016988887323
+    },
+    {
+      "okul_adi": "Ahi Evran Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Ahi Evran Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://ahievran.meb.k12.tr",
+      "enlem": 41.24849783870539,
+      "boylam": 32.67030080928339
+    },
+    {
+      "okul_adi": "Fatih Sultan Mehmet Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Fatih Sultan Mehmet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://safranbolufsmal.meb.k12.tr",
+      "enlem": 41.27179794976353,
+      "boylam": 32.66813358439936
+    },
+    {
+      "okul_adi": "Karabük Safranbolu İmkb Güzel Sanatlar Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Karabük Safranbolu İmkb Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://safranboluimkbagsl.meb.k12.tr",
+      "enlem": 41.230611846617506,
+      "boylam": 32.67478546275629
+    },
+    {
+      "okul_adi": "Ovacuma Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Ovacuma Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://ovacumalisesi.meb.k12.tr",
+      "enlem": 41.44806102072616,
+      "boylam": 32.752349583048954
+    },
+    {
+      "okul_adi": "Prof. Dr. Sabri Ülgener Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Prof. Dr. Sabri Ülgener Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://sumtal.meb.k12.tr",
+      "enlem": 41.243123277735435,
+      "boylam": 32.71046957149042
+    },
+    {
+      "okul_adi": "Safranbolu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Safranbolu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://safranboluihl.meb.k12.tr",
+      "enlem": 41.242391173872136,
+      "boylam": 32.68082579745783
+    },
+    {
+      "okul_adi": "Safranbolu Atatürk Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Safranbolu Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://satal.meb.k12.tr",
+      "enlem": 41.25589444770208,
+      "boylam": 32.674179283518924
+    },
+    {
+      "okul_adi": "Safranbolu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Safranbolu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://safranbolusml.meb.k12.tr",
+      "enlem": 41.24284294141238,
+      "boylam": 32.711145488162174
+    },
+    {
+      "okul_adi": "Şehit Murat Akdemir Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Karabük - Safranbolu - Şehit Murat Akdemir Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Karabük",
+      "ilce": "Safranbolu",
+      "website": "http://sehitmuratakdemiraihl.meb.k12.tr",
+      "enlem": 41.229821103421116,
+      "boylam": 32.676920501132145
+    },
+    {
+      "okul_adi": "Yenice Anadolu Lisesi",
+      "tam_ad": "Karabük - Yenice - Yenice Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Yenice",
+      "website": "http://yeniceanadolulisesi.meb.k12.tr",
+      "enlem": 41.209940452757046,
+      "boylam": 32.32119521274103
+    },
+    {
+      "okul_adi": "Yenice Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Karabük - Yenice - Yenice Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Yenice",
+      "website": "http://yenicecpl78.meb.k12.tr",
+      "enlem": 41.21406072676805,
+      "boylam": 32.30976900233759
+    },
+    {
+      "okul_adi": "Yortan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Karabük - Yenice - Yortan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Karabük",
+      "ilce": "Yenice",
+      "website": "http://yortancpal.meb.k12.tr",
+      "enlem": 41.25485397208268,
+      "boylam": 32.352555600543155
+    }
+  ],
+  "meta": {
+    "title": "Karabük Liseleri (High Schools in Karabük) - Ücretsiz İndir",
+    "description": "Karabük ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (31 kayıt) (High schools in Karabük province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 31 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Karabük Liseleri (High Schools in Karabük) | ListBase",
+    "seo_description": "İndir Karabük Liseleri (High Schools in Karabük) — 31 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 31 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

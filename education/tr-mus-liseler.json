@@ -1,0 +1,292 @@
+{
+  "id": "tr-mus-liseler",
+  "name": "Muş Liseleri (High Schools in Muş)",
+  "title": "Muş Liseleri (High Schools in Muş)",
+  "description": "Muş ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (18 kayıt) (High schools in Muş province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Bulanık Anadolu Lisesi",
+      "tam_ad": "Muş - Bulanık - Bulanık Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Bulanık",
+      "website": "http://bulanikanadolulisesi.meb.k12.tr",
+      "enlem": 39.0839286416467,
+      "boylam": 42.29507526530756
+    },
+    {
+      "okul_adi": "Bulanık Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Muş - Bulanık - Bulanık Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Muş",
+      "ilce": "Bulanık",
+      "website": "http://bulanikimamhatiplisesi.meb.k12.tr",
+      "enlem": 39.09529540790556,
+      "boylam": 42.260270921130314
+    },
+    {
+      "okul_adi": "Bulanık Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Muş - Bulanık - Bulanık Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Muş",
+      "ilce": "Bulanık",
+      "website": "http://bulanikkizihl.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Bulanık Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Muş - Bulanık - Bulanık Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Muş",
+      "ilce": "Bulanık",
+      "website": "http://bulanikkml.meb.k12.tr",
+      "enlem": 39.087609509372086,
+      "boylam": 42.282232848544254
+    },
+    {
+      "okul_adi": "Bulanık Said Nursi Anadolu Lisesi",
+      "tam_ad": "Muş - Bulanık - Bulanık Said Nursi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Bulanık",
+      "website": "http://saidnursianadolulisesi.meb.k12.tr",
+      "enlem": 39.097089773891724,
+      "boylam": 42.261746136088504
+    },
+    {
+      "okul_adi": "Bulanık İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Muş - Bulanık - Bulanık İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Muş",
+      "ilce": "Bulanık",
+      "website": "http://bulanikimkb.meb.k12.tr",
+      "enlem": 39.10005807955161,
+      "boylam": 42.278745976824894
+    },
+    {
+      "okul_adi": "Hasköy Anadolu Lisesi",
+      "tam_ad": "Muş - Hasköy - Hasköy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Hasköy",
+      "website": "http://haskoyanadolulisesi.meb.k12.tr",
+      "enlem": 38.68297911456529,
+      "boylam": 41.69247945918573
+    },
+    {
+      "okul_adi": "Hasköy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Muş - Hasköy - Hasköy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Muş",
+      "ilce": "Hasköy",
+      "website": "http://haskoykml.meb.k12.tr",
+      "enlem": 38.67729847597124,
+      "boylam": 41.6883676327659
+    },
+    {
+      "okul_adi": "Hasköy Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Muş - Hasköy - Hasköy Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Hasköy",
+      "website": "http://haskoycpl.meb.k12.tr",
+      "enlem": 38.6861113342777,
+      "boylam": 41.68389639033808
+    },
+    {
+      "okul_adi": "Korkut Anadolu Lisesi",
+      "tam_ad": "Muş - Korkut - Korkut Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Korkut",
+      "website": "http://korkutal.meb.k12.tr",
+      "enlem": 38.73856818283685,
+      "boylam": 41.771615353961124
+    },
+    {
+      "okul_adi": "Korkut Anadolu Lisesi",
+      "tam_ad": "Muş - Korkut - Korkut Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Korkut",
+      "website": "http://korkutal.meb.k12.tr",
+      "enlem": 38.738586271480735,
+      "boylam": 41.771615353961124
+    },
+    {
+      "okul_adi": "Kız Teknik Ve Meslek Lisesi",
+      "tam_ad": "Muş - Malazgirt - Kız Teknik Ve Meslek Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Muş",
+      "ilce": "Malazgirt",
+      "website": "http://malazgirtkml.meb.k12.tr",
+      "enlem": 39.1416220389114,
+      "boylam": 42.53633996619715
+    },
+    {
+      "okul_adi": "Malazgirt Süphan Anadolu Lisesi",
+      "tam_ad": "Muş - Malazgirt - Malazgirt Süphan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Malazgirt",
+      "website": "http://suphananadolulisesi.meb.k12.tr",
+      "enlem": 39.13978719986621,
+      "boylam": 42.521646825213566
+    },
+    {
+      "okul_adi": "Erentürk Öz Şeker Anadolu Lisesi",
+      "tam_ad": "Muş - Merkez - Erentürk Öz Şeker Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Merkez",
+      "website": "http://erenturkozsekerandlise.meb.k12.tr",
+      "enlem": 38.73205712111931,
+      "boylam": 41.56231722011103
+    },
+    {
+      "okul_adi": "Muş Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Muş - Merkez - Muş Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Muş",
+      "ilce": "Merkez",
+      "website": "http://museml.meb.k12.tr",
+      "enlem": 38.73624167623509,
+      "boylam": 41.491710750002994
+    },
+    {
+      "okul_adi": "Varto Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Muş - Varto - Varto Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Muş",
+      "ilce": "Varto",
+      "website": "http://vartoaihl.meb.k12.tr",
+      "enlem": 39.17382586810221,
+      "boylam": 41.44411226882471
+    },
+    {
+      "okul_adi": "Varto Lisesi",
+      "tam_ad": "Muş - Varto - Varto Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Muş",
+      "ilce": "Varto",
+      "website": "http://vartocpl.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Şehit Serdar Akın Anadolu Lisesi",
+      "tam_ad": "Muş - Varto - Şehit Serdar Akın Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Muş",
+      "ilce": "Varto",
+      "website": "http://VARTOAL.meb.k12.tr",
+      "enlem": 39.17183383475144,
+      "boylam": 41.446263400454654
+    }
+  ],
+  "meta": {
+    "title": "Muş Liseleri (High Schools in Muş) - Ücretsiz İndir",
+    "description": "Muş ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (18 kayıt) (High schools in Muş province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 18 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Muş Liseleri (High Schools in Muş) | ListBase",
+    "seo_description": "İndir Muş Liseleri (High Schools in Muş) — 18 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 18 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

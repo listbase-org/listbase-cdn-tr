@@ -1,0 +1,942 @@
+{
+  "id": "music-guitar-chords",
+  "name": "Kapsamlı Gitar Akor Tablosu Veri Seti",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "fingering",
+      "label": "Fingering (E-A-D-G-B-e)",
+      "type": "string"
+    },
+    {
+      "key": "fret_position",
+      "label": "Fret Position",
+      "type": "string"
+    },
+    {
+      "key": "fingers",
+      "label": "Finger Placement",
+      "type": "string"
+    },
+    {
+      "key": "difficulty",
+      "label": "Difficulty (EN)",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "Do Majör",
+      "type": "Majör",
+      "fingering": "x32010",
+      "fret_position": "Open",
+      "fingers": "0-3-2-0-1-0",
+      "difficulty": "Başlangıç",
+      "notes": "C-E-G",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "D",
+      "name": "Re Majör",
+      "type": "Majör",
+      "fingering": "xx0232",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-2",
+      "difficulty": "Başlangıç",
+      "notes": "D-F#-A",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "E",
+      "name": "Mi Majör",
+      "type": "Majör",
+      "fingering": "022100",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-0-0",
+      "difficulty": "Başlangıç",
+      "notes": "E-G#-B",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "F",
+      "name": "Fa Majör",
+      "type": "Majör",
+      "fingering": "133211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-2-1-1",
+      "difficulty": "Orta",
+      "notes": "F-A-C",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "G",
+      "name": "Sol Majör",
+      "type": "Majör",
+      "fingering": "320003",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-3",
+      "difficulty": "Başlangıç",
+      "notes": "G-B-D",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "A",
+      "name": "La Majör",
+      "type": "Majör",
+      "fingering": "x02220",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-0",
+      "difficulty": "Başlangıç",
+      "notes": "A-C#-E",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "B",
+      "name": "Si Majör",
+      "type": "Majör",
+      "fingering": "x24442",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-3-3-1",
+      "difficulty": "Orta",
+      "notes": "B-D#-F#",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "Cm",
+      "name": "Do Minör",
+      "type": "Minör",
+      "fingering": "x35543",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "Orta",
+      "notes": "C-Eb-G",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Dm",
+      "name": "Re Minör",
+      "type": "Minör",
+      "fingering": "xx0231",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-1",
+      "difficulty": "Başlangıç",
+      "notes": "D-F-A",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Em",
+      "name": "Mi Minör",
+      "type": "Minör",
+      "fingering": "022000",
+      "fret_position": "Open",
+      "fingers": "0-2-2-0-0-0",
+      "difficulty": "Başlangıç",
+      "notes": "E-G-B",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Fm",
+      "name": "Fa Minör",
+      "type": "Minör",
+      "fingering": "133111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-1-1-1",
+      "difficulty": "Orta",
+      "notes": "F-Ab-C",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Gm",
+      "name": "Sol Minör",
+      "type": "Minör",
+      "fingering": "355333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-4-1-1-1",
+      "difficulty": "Orta",
+      "notes": "G-Bb-D",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Am",
+      "name": "La Minör",
+      "type": "Minör",
+      "fingering": "x02210",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-1-0",
+      "difficulty": "Başlangıç",
+      "notes": "A-C-E",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Bm",
+      "name": "Si Minör",
+      "type": "Minör",
+      "fingering": "x24432",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "Orta",
+      "notes": "B-D-F#",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "C7",
+      "name": "Do Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "x32310",
+      "fret_position": "Open",
+      "fingers": "x-3-2-3-1-0",
+      "difficulty": "Başlangıç",
+      "notes": "C-E-G-Bb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "D7",
+      "name": "Re Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "xx0212",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-2",
+      "difficulty": "Başlangıç",
+      "notes": "D-F#-A-C",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "E7",
+      "name": "Mi Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "020100",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-0",
+      "difficulty": "Başlangıç",
+      "notes": "E-G#-B-D",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "F7",
+      "name": "Fa Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "131211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-2-1-1",
+      "difficulty": "Orta",
+      "notes": "F-A-C-Eb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "G7",
+      "name": "Sol Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "320001",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-1",
+      "difficulty": "Başlangıç",
+      "notes": "G-B-D-F",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "A7",
+      "name": "La Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "x02020",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-2-0",
+      "difficulty": "Başlangıç",
+      "notes": "A-C#-E-G",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Dominant 7'li",
+      "type": "Dominant 7'li",
+      "fingering": "x21202",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-0-2",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "B-D#-F#-A",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "x32000",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-0-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "C-E-G-B",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "xx0222",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-2-2",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "D-F#-A-C#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "021100",
+      "fret_position": "Open",
+      "fingers": "0-2-1-1-0-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "E-G#-B-D#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "1x2210",
+      "fret_position": "Open",
+      "fingers": "1-x-2-2-1-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "F-A-C-E",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "320002",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-2",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "G-B-D-F#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "x02120",
+      "fret_position": "Open",
+      "fingers": "x-0-2-1-2-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "A-C#-E-G#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Majör 7'li",
+      "type": "Majör 7'li",
+      "fingering": "x24342",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-2-4-1",
+      "difficulty": "Orta Seviye",
+      "notes": "B-D#-F#-A#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "x35343",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "Orta Seviye",
+      "notes": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "xx0211",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-1",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "D-F-A-C",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "020000",
+      "fret_position": "Open",
+      "fingers": "0-2-0-0-0-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "E-G-B-D",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "131111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "Orta Seviye",
+      "notes": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "353333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "Orta Seviye",
+      "notes": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "x02010",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-1-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "A-C-E-G",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Minör 7'li",
+      "type": "Minör 7'li",
+      "fingering": "x24232",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "Orta Seviye",
+      "notes": "B-D-F#-A",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C Suspended 2'li",
+      "type": "Suspended",
+      "fingering": "x30010",
+      "fret_position": "Open",
+      "fingers": "x-3-0-0-1-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "C-D-G",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C Suspended 4'lü",
+      "type": "Suspended",
+      "fingering": "x33011",
+      "fret_position": "Open",
+      "fingers": "x-3-3-0-1-1",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "C-F-G",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Suspended 2'li",
+      "type": "Suspended",
+      "fingering": "xx0230",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "D-E-A",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Suspended 4'lü",
+      "type": "Suspended",
+      "fingering": "xx0233",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-3",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "D-G-A",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Suspended 4'lü",
+      "type": "Suspended",
+      "fingering": "022200",
+      "fret_position": "Open",
+      "fingers": "0-2-2-2-0-0",
+      "difficulty": "Başlangıç Seviyesi",
+      "notes": "E-A-B",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Sus2",
+      "type": "Suspend",
+      "fingering": "x02200",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-0-0",
+      "difficulty": "Başlangıç",
+      "notes": "A-B-E",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Sus4",
+      "type": "Suspend",
+      "fingering": "x02230",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-3-0",
+      "difficulty": "Başlangıç",
+      "notes": "A-D-E",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C Eksik",
+      "type": "Eksik",
+      "fingering": "x3424x",
+      "fret_position": "3rd Fret",
+      "fingers": "x-2-4-2-4-x",
+      "difficulty": "Orta Düzey",
+      "notes": "C-Eb-Gb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D Eksik",
+      "type": "Eksik",
+      "fingering": "xx0131",
+      "fret_position": "Open",
+      "fingers": "x-x-0-1-3-1",
+      "difficulty": "Orta Düzey",
+      "notes": "D-F-Ab",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Eksik",
+      "type": "Eksik",
+      "fingering": "012020",
+      "fret_position": "Open",
+      "fingers": "0-1-2-0-2-0",
+      "difficulty": "Orta Düzey",
+      "notes": "E-G-Bb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Eksik",
+      "type": "Eksik",
+      "fingering": "1x0101",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-0-1-0-1",
+      "difficulty": "Orta Düzey",
+      "notes": "F-Ab-Cb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Eksik",
+      "type": "Eksik",
+      "fingering": "3x2323",
+      "fret_position": "3rd Fret",
+      "fingers": "2-x-1-2-1-2",
+      "difficulty": "Orta Düzey",
+      "notes": "G-Bb-Db",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Eksik",
+      "type": "Eksik",
+      "fingering": "x0121x",
+      "fret_position": "Open",
+      "fingers": "x-0-1-2-1-x",
+      "difficulty": "Orta Düzey",
+      "notes": "A-C-Eb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Bdim",
+      "name": "B Eksik",
+      "type": "Eksik",
+      "fingering": "x2343x",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-2-3-2-x",
+      "difficulty": "Orta Düzey",
+      "notes": "B-D-F",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Caug",
+      "name": "C Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "x32110",
+      "fret_position": "Open",
+      "fingers": "x-3-2-1-1-0",
+      "difficulty": "Orta Düzey",
+      "notes": "C-E-G#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "xx0332",
+      "fret_position": "Open",
+      "fingers": "x-x-0-3-3-2",
+      "difficulty": "Orta Düzey",
+      "notes": "D-F#-A#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "032110",
+      "fret_position": "Open",
+      "fingers": "0-3-2-1-1-0",
+      "difficulty": "Orta Düzey",
+      "notes": "E-G#-B#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "1x322x",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-3-2-2-x",
+      "difficulty": "Orta Düzey",
+      "notes": "F-A-C#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "321003",
+      "fret_position": "Open",
+      "fingers": "3-2-1-0-0-3",
+      "difficulty": "Orta Düzey",
+      "notes": "G-B-D#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "x03221",
+      "fret_position": "Open",
+      "fingers": "x-0-3-2-2-1",
+      "difficulty": "Orta Düzey",
+      "notes": "A-C#-E#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Baug",
+      "name": "B Artırılmış",
+      "type": "Artırılmış",
+      "fingering": "x21003",
+      "fret_position": "Open",
+      "fingers": "x-2-1-0-0-3",
+      "difficulty": "Orta Düzey",
+      "notes": "B-D#-Fx",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "C5",
+      "name": "C Power Akor",
+      "type": "Power Akor",
+      "fingering": "x355xx",
+      "fret_position": "3rd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "C-G",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "D5",
+      "name": "D Power Akor",
+      "type": "Power Akor",
+      "fingering": "x577xx",
+      "fret_position": "5th Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "D-A",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "E5",
+      "name": "E Power Akor",
+      "type": "Power Akor",
+      "fingering": "022xxx",
+      "fret_position": "Open",
+      "fingers": "0-2-2-x-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "E-B",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "F5",
+      "name": "F Power Akor",
+      "type": "Power Akor",
+      "fingering": "133xxx",
+      "fret_position": "1st Fret",
+      "fingers": "1-3-3-x-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "F-C",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "G5",
+      "name": "G Power Akoru",
+      "type": "Power Akoru",
+      "fingering": "355xxx",
+      "fret_position": "3rd Fret",
+      "fingers": "1-3-4-x-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "G-D",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "A5",
+      "name": "A Power Akoru",
+      "type": "Power Akoru",
+      "fingering": "x022xx",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "A-E",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "B5",
+      "name": "B Power Akoru",
+      "type": "Power Akoru",
+      "fingering": "x244xx",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Başlangıç",
+      "notes": "B-F#",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C Add 9 Akoru",
+      "type": "Add 9 Akoru",
+      "fingering": "x32030",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-3-0",
+      "difficulty": "Başlangıç",
+      "notes": "C-E-G-D",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Dadd9",
+      "name": "D Add 9 Akoru",
+      "type": "Add 9 Akoru",
+      "fingering": "x54030",
+      "fret_position": "4th Fret",
+      "fingers": "x-4-3-0-2-0",
+      "difficulty": "Orta",
+      "notes": "D-F#-A-E",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Eadd9",
+      "name": "E Add 9 Akoru",
+      "type": "Add 9 Akoru",
+      "fingering": "024100",
+      "fret_position": "Open",
+      "fingers": "0-2-4-1-0-0",
+      "difficulty": "Orta",
+      "notes": "E-G#-B-F#",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Gadd9",
+      "name": "G Add 9 Akoru",
+      "type": "Add 9 Akoru",
+      "fingering": "320203",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-3",
+      "difficulty": "Başlangıç",
+      "notes": "G-B-D-A",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Aadd9",
+      "name": "A Add 9 Akoru",
+      "type": "Add 9 Akoru",
+      "fingering": "x02420",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-0",
+      "difficulty": "Orta",
+      "notes": "A-C#-E-B",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "C6",
+      "name": "C Majör 6 Akoru",
+      "type": "Majör 6 Akoru",
+      "fingering": "x32210",
+      "fret_position": "Open",
+      "fingers": "x-3-2-2-1-0",
+      "difficulty": "Başlangıç",
+      "notes": "C-E-G-A",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "D6",
+      "name": "D Majör 6 Akoru",
+      "type": "Majör 6 Akoru",
+      "fingering": "xx0202",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-0-2",
+      "difficulty": "Başlangıç",
+      "notes": "D-F#-A-B",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "E6",
+      "name": "E Majör 6 Akoru",
+      "type": "Majör 6 Akoru",
+      "fingering": "022120",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-2-0",
+      "difficulty": "Başlangıç",
+      "notes": "E-G#-B-C#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "G6",
+      "name": "G Majör 6 Akoru",
+      "type": "Majör 6 Akoru",
+      "fingering": "320000",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-0",
+      "difficulty": "Başlangıç",
+      "notes": "G-B-D-E",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "A6",
+      "name": "A Majör 6 Akoru",
+      "type": "Majör 6 Akoru",
+      "fingering": "x02222",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-2",
+      "difficulty": "Başlangıç",
+      "notes": "A-C#-E-F#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "C9",
+      "name": "C Dominant 9 Akoru",
+      "type": "Dominant 9 Akoru",
+      "fingering": "x32330",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-3-0",
+      "difficulty": "Orta",
+      "notes": "C-E-G-Bb-D",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "D9",
+      "name": "D Dominant 9 Akoru",
+      "type": "Dominant 9 Akoru",
+      "fingering": "x54530",
+      "fret_position": "4th Fret",
+      "fingers": "x-2-1-2-1-0",
+      "difficulty": "Orta",
+      "notes": "D-F#-A-C-E",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "E9",
+      "name": "E Dominant 9 Akoru",
+      "type": "Dominant 9 Akoru",
+      "fingering": "020102",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-2",
+      "difficulty": "Orta",
+      "notes": "E-G#-B-D-F#",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "G9",
+      "name": "G Dominant 9 Akoru",
+      "type": "Dominant 9 Akoru",
+      "fingering": "320201",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-1",
+      "difficulty": "Orta",
+      "notes": "G-B-D-F-A",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "A9",
+      "name": "A Dominant 9 Akoru",
+      "type": "Dominant 9 Akoru",
+      "fingering": "x02423",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-3",
+      "difficulty": "Orta",
+      "notes": "A-C#-E-G-B",
+      "intervals": "1-3-5-b7-9"
+    }
+  ],
+  "meta": {
+    "seo_title": "Gitar Akor Tablosu Veri Seti - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "78 gitar akoru tablosunu ücretsiz indirin! Parmak pozisyonları, notalar ve zorluk seviyeleri dahil. Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Kapsamlı Gitar Akor Tablosu Veri Seti",
+    "description": "Bu veri seti, 78 yaygın gitar akorunu, sembollerini, tam adlarını, parmak pozisyonlarını, perde konumlarını, zorluk seviyelerini ve oluşturan notalar ile aralıkları içerir. Gitaristler, müzik eğitimcileri ve müzik uygulaması geliştiricileri için idealdir.",
+    "key_takeaways": [
+      "Çeşitli çalma stilleri için 78 temel gitar akoru veri noktasına erişin.",
+      "Her akor için ayrıntılı parmak pozisyonlarını, perde konumlarını ve notaları keşfedin.",
+      "Gitar öğreniminizi veya uygulama geliştirmenizi geliştirmek için çok yönlü bir kaynağı indirin.",
+      "Aşamalı öğrenme yolları oluşturmak için akor zorluk derecelendirmelerinden yararlanın."
+    ],
+    "keywords": [
+      "gitar akor tablosu excel",
+      "ücretsiz gitar akorları csv",
+      "gitar parmak pozisyonu veri",
+      "akor notaları pdf",
+      "başlangıç gitar akorları",
+      "müzik teorisi veri"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza veya Python komut dosyanıza aktararak bir gitar akoru arama uygulaması veya API oluşturun.",
+      "**Excel** dosyasını akorları zorluğa göre filtrelemek, özel pratik sayfaları oluşturmak veya akor ilişkilerini analiz etmek için kullanın.",
+      "**PDF** versiyonunu çalışma alanınızda veya sınıf eğitimleri için kullanışlı, çevrimdışı bir referans rehberi olarak yazdırın.",
+      "Bu verileri eğitim yazılımlarına veya etkileşimli web sitelerine entegre ederek kullanıcıların gitar akorlarını etkili bir şekilde öğrenmelerine yardımcı olun."
+    ]
+  },
+  "record_count": 78,
+  "title": "Kapsamlı Gitar Akor Tablosu Veri Seti"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "tr-erzurum-tcdd-istasyonlari",
+  "name": "ERZURUM TCDD Tren İstasyonları (Railway stations in ERZURUM)",
+  "title": "ERZURUM TCDD Tren İstasyonları (Railway stations in ERZURUM)",
+  "description": "ERZURUM ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ERZURUM province.) (8 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AŞKALE",
+      "il": "ERZURUM",
+      "kaynak_metin": "AŞKALE , ERZURUM",
+      "gidis_id": 463,
+      "donus_id": 463,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "ERZURUM",
+      "il": "ERZURUM",
+      "kaynak_metin": "ERZURUM , ERZURUM",
+      "gidis_id": 498,
+      "donus_id": 498,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "HASANKALE",
+      "il": "ERZURUM",
+      "kaynak_metin": "HASANKALE , ERZURUM",
+      "gidis_id": 515,
+      "donus_id": 515,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "HORASAN",
+      "il": "ERZURUM",
+      "kaynak_metin": "HORASAN , ERZURUM",
+      "gidis_id": 1153,
+      "donus_id": 1153,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 49
+    },
+    {
+      "istasyon": "ILICA",
+      "il": "ERZURUM",
+      "kaynak_metin": "ILICA , ERZURUM",
+      "gidis_id": 543,
+      "donus_id": 543,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "KANDİLLİ",
+      "il": "ERZURUM",
+      "kaynak_metin": "KANDİLLİ , ERZURUM",
+      "gidis_id": 522,
+      "donus_id": 522,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "KARASU",
+      "il": "ERZURUM",
+      "kaynak_metin": "KARASU , ERZURUM",
+      "gidis_id": 528,
+      "donus_id": 528,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖPRÜKÖY",
+      "il": "ERZURUM",
+      "kaynak_metin": "KÖPRÜKÖY , ERZURUM",
+      "gidis_id": "",
+      "donus_id": 562,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "ERZURUM TCDD Tren İstasyonları (Railway stations in ERZURUM) - Ücretsiz İndir",
+    "description": "ERZURUM ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ERZURUM province.) (8 kayıt.) İçerik 8 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ERZURUM TCDD Tren İstasyonları (Railway stations in ERZURUM) | ListBase",
+    "seo_description": "İndir ERZURUM TCDD Tren İstasyonları (Railway stations in ERZURUM) — 8 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 8 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

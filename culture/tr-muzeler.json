@@ -1,0 +1,934 @@
+{
+  "id": "tr-muzeler",
+  "name": "Türkiye'deki müzeler (Museums in Turkey)",
+  "title": "Türkiye'deki müzeler (Museums in Turkey)",
+  "description": "OpenStreetMap'ten Türkiye'deki 97 müzenin listesi; ad, şehir, koordinatlar ve web sitesi içerir.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A.Ü. Cumhuriyet Tarihi müzesi",
+      "name_en": "",
+      "city": "Eskişehir",
+      "country": "Turkey",
+      "latitude": 39.765536,
+      "longitude": 30.524169,
+      "website": ""
+    },
+    {
+      "name": "Adam Mickiewicz Müzesi",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.038782,
+      "longitude": 28.977147,
+      "website": ""
+    },
+    {
+      "name": "Alacahöyük Müzesi",
+      "name_en": "Alacahöyük Museum",
+      "city": "Alaca",
+      "country": "Turkey",
+      "latitude": 40.233252,
+      "longitude": 34.695765,
+      "website": ""
+    },
+    {
+      "name": "Alanya Kalesi (Kale)",
+      "name_en": "",
+      "city": "Alanya",
+      "country": "Turkey",
+      "latitude": 36.533106,
+      "longitude": 31.990564,
+      "website": ""
+    },
+    {
+      "name": "Arkeoloji Müzesi",
+      "name_en": "",
+      "city": "Afyonkarahisar",
+      "country": "Turkey",
+      "latitude": 38.747526,
+      "longitude": 30.550769,
+      "website": ""
+    },
+    {
+      "name": "Askeri Müze",
+      "name_en": "Military Museum",
+      "city": "Şişli",
+      "country": "Turkey",
+      "latitude": 41.048876,
+      "longitude": 28.988243,
+      "website": "http://www.askerimuze.tsk.tr/INGILIZCE/military_museum.htm"
+    },
+    {
+      "name": "Assos",
+      "name_en": "",
+      "city": "Behram",
+      "country": "Turkey",
+      "latitude": 39.491778,
+      "longitude": 26.336876,
+      "website": ""
+    },
+    {
+      "name": "ataturk Müzesi",
+      "name_en": "",
+      "city": "İzmir",
+      "country": "Turkey",
+      "latitude": 38.435702,
+      "longitude": 27.140489,
+      "website": ""
+    },
+    {
+      "name": "Atatürk Evi",
+      "name_en": "",
+      "city": "Hacıbektaş",
+      "country": "Turkey",
+      "latitude": 38.943036,
+      "longitude": 34.560345,
+      "website": ""
+    },
+    {
+      "name": "Atatürk Museum, Şişli",
+      "name_en": "",
+      "city": "Şişli",
+      "country": "Turkey",
+      "latitude": 41.056422,
+      "longitude": 28.987168,
+      "website": ""
+    },
+    {
+      "name": "Atatürk Müzesi",
+      "name_en": "",
+      "city": "Yıldırım",
+      "country": "Turkey",
+      "latitude": 40.195127,
+      "longitude": 29.039873,
+      "website": ""
+    },
+    {
+      "name": "Atatürk ve Etnografya Müzesi",
+      "name_en": "",
+      "city": "Denizli",
+      "country": "Turkey",
+      "latitude": 37.783011,
+      "longitude": 29.085058,
+      "website": ""
+    },
+    {
+      "name": "Atatürk ve Kurtuluş Savaşı Müzesi",
+      "name_en": "",
+      "city": "Ankara",
+      "country": "Turkey",
+      "latitude": 39.92489,
+      "longitude": 32.83769,
+      "website": ""
+    },
+    {
+      "name": "Aşiyan Museum",
+      "name_en": "",
+      "city": "Üsküdar",
+      "country": "Turkey",
+      "latitude": 41.084146,
+      "longitude": 29.054426,
+      "website": ""
+    },
+    {
+      "name": "Baksı Müzesi",
+      "name_en": "Baksi Museum",
+      "city": "Pazaryolu",
+      "country": "Turkey",
+      "latitude": 40.385706,
+      "longitude": 40.566437,
+      "website": "http://baksi.org/"
+    },
+    {
+      "name": "Bandırma Arkeoloji Müzesi",
+      "name_en": "",
+      "city": "Bandırma",
+      "country": "Turkey",
+      "latitude": 40.347192,
+      "longitude": 27.953434,
+      "website": ""
+    },
+    {
+      "name": "Batman Arkeoloji Müzesi",
+      "name_en": "",
+      "city": "Batman",
+      "country": "Turkey",
+      "latitude": 37.898867,
+      "longitude": 41.141075,
+      "website": "https://www.facebook.com/BatmanMuzesi/timeline?ref=page_internal"
+    },
+    {
+      "name": "Binbirdirek Sarnıcı",
+      "name_en": "Cistern of Philoxenos",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.007452,
+      "longitude": 28.97397,
+      "website": ""
+    },
+    {
+      "name": "Bitlis Etnografya Müzesi",
+      "name_en": "",
+      "city": "Bitlis",
+      "country": "Turkey",
+      "latitude": 38.408967,
+      "longitude": 42.109915,
+      "website": ""
+    },
+    {
+      "name": "Bursa Arkeoloji Müzesi",
+      "name_en": "",
+      "city": "Yıldırım",
+      "country": "Turkey",
+      "latitude": 40.195895,
+      "longitude": 29.041197,
+      "website": ""
+    },
+    {
+      "name": "Bursa Kent Müzesi",
+      "name_en": "",
+      "city": "Bursa",
+      "country": "Turkey",
+      "latitude": 40.182303,
+      "longitude": 29.066604,
+      "website": ""
+    },
+    {
+      "name": "Büyük Saray Mozaikleri Müzesi",
+      "name_en": "Great Palace Mosaic Museum",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.004269,
+      "longitude": 28.977449,
+      "website": ""
+    },
+    {
+      "name": "Chez Galip",
+      "name_en": "",
+      "city": "Avanos",
+      "country": "Turkey",
+      "latitude": 38.719778,
+      "longitude": 34.848574,
+      "website": "https://www.chezgalip.com/hair-museum-avanos/"
+    },
+    {
+      "name": "Church of St. Peter and St. Paul (Reji Kilisesi)",
+      "name_en": "",
+      "city": "Şanlıurfa",
+      "country": "Turkey",
+      "latitude": 37.150624,
+      "longitude": 38.793238,
+      "website": ""
+    },
+    {
+      "name": "City Museum",
+      "name_en": "",
+      "city": "Safranbolu",
+      "country": "Turkey",
+      "latitude": 41.245438,
+      "longitude": 32.690485,
+      "website": ""
+    },
+    {
+      "name": "Cumhuriyet Müzesi",
+      "name_en": "",
+      "city": "Ankara",
+      "country": "Turkey",
+      "latitude": 39.941529,
+      "longitude": 32.85159,
+      "website": "http://cumhuriyetmuzesi.gov.tr/index.php"
+    },
+    {
+      "name": "Dilek Peninsula National Park",
+      "name_en": "",
+      "city": "Atburgazı",
+      "country": "Turkey",
+      "latitude": 37.6318,
+      "longitude": 27.178055,
+      "website": ""
+    },
+    {
+      "name": "Edirne Museum",
+      "name_en": "",
+      "city": "Edirne",
+      "country": "Turkey",
+      "latitude": 41.678894,
+      "longitude": 26.560767,
+      "website": ""
+    },
+    {
+      "name": "Ehmedek Castle",
+      "name_en": "",
+      "city": "Alanya",
+      "country": "Turkey",
+      "latitude": 36.536663,
+      "longitude": 31.992773,
+      "website": ""
+    },
+    {
+      "name": "El - Cezeri Müzesi",
+      "name_en": "",
+      "city": "Mardin",
+      "country": "Turkey",
+      "latitude": 37.307505,
+      "longitude": 40.720212,
+      "website": ""
+    },
+    {
+      "name": "Ereğli Müzesi",
+      "name_en": "",
+      "city": "Ereğli",
+      "country": "Turkey",
+      "latitude": 37.515959,
+      "longitude": 34.047616,
+      "website": ""
+    },
+    {
+      "name": "Eski Cezaevi",
+      "name_en": "",
+      "city": "Sinop",
+      "country": "Turkey",
+      "latitude": 42.024542,
+      "longitude": 35.142965,
+      "website": ""
+    },
+    {
+      "name": "Etnoğrafya Müzesi",
+      "name_en": "Ethnographic Museum",
+      "city": "Göreme",
+      "country": "Turkey",
+      "latitude": 38.621304,
+      "longitude": 34.864852,
+      "website": ""
+    },
+    {
+      "name": "etnoğrafya müzesi",
+      "name_en": "",
+      "city": "Erdek",
+      "country": "Turkey",
+      "latitude": 40.406881,
+      "longitude": 27.791012,
+      "website": ""
+    },
+    {
+      "name": "Feza Gürsey Bilim Merkezi",
+      "name_en": "",
+      "city": "Mamak",
+      "country": "Turkey",
+      "latitude": 39.968375,
+      "longitude": 32.879879,
+      "website": ""
+    },
+    {
+      "name": "Folklorik Yörük Parkı Açık Hava Müzesi",
+      "name_en": "",
+      "city": "Kemer",
+      "country": "Turkey",
+      "latitude": 36.600438,
+      "longitude": 30.575966,
+      "website": ""
+    },
+    {
+      "name": "French Institute Exhibition",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.036281,
+      "longitude": 28.984165,
+      "website": ""
+    },
+    {
+      "name": "Galata Mevlevi House Museum",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.028192,
+      "longitude": 28.974439,
+      "website": ""
+    },
+    {
+      "name": "Galata Mevlevihanesi Müzesi",
+      "name_en": "Galata Mawlawi House Museum",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.027577,
+      "longitude": 28.974426,
+      "website": "http://www.galatamevlevihanesimuzesi.gov.tr/en/index.html"
+    },
+    {
+      "name": "Galatasaray Müzesi",
+      "name_en": "Galatasaray Museum",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.033482,
+      "longitude": 28.97694,
+      "website": ""
+    },
+    {
+      "name": "Gaziantep Müzesi",
+      "name_en": "",
+      "city": "Gaziantep",
+      "country": "Turkey",
+      "latitude": 37.069028,
+      "longitude": 37.37856,
+      "website": ""
+    },
+    {
+      "name": "Göreme Açık Hava Müzesi",
+      "name_en": "Göreme Open Air Museum",
+      "city": "Göreme",
+      "country": "Turkey",
+      "latitude": 38.639527,
+      "longitude": 34.845511,
+      "website": ""
+    },
+    {
+      "name": "Güray Yeraltı Seramik Müzesi",
+      "name_en": "Güray Underground Ceramics Museum",
+      "city": "Avanos",
+      "country": "Turkey",
+      "latitude": 38.709994,
+      "longitude": 34.834683,
+      "website": "http://www.guraymuze.com/"
+    },
+    {
+      "name": "Halı Müzesi",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.005682,
+      "longitude": 28.978669,
+      "website": ""
+    },
+    {
+      "name": "Haritacılık Müzesi",
+      "name_en": "",
+      "city": "Çankaya",
+      "country": "Turkey",
+      "latitude": 39.931782,
+      "longitude": 32.882102,
+      "website": ""
+    },
+    {
+      "name": "Hölenmuseum",
+      "name_en": "",
+      "city": "Döşemealtı",
+      "country": "Turkey",
+      "latitude": 37.076355,
+      "longitude": 30.570567,
+      "website": ""
+    },
+    {
+      "name": "Independence Museum",
+      "name_en": "",
+      "city": "Şanlıurfa",
+      "country": "Turkey",
+      "latitude": 37.157871,
+      "longitude": 38.787818,
+      "website": ""
+    },
+    {
+      "name": "Istanbul Photography Museum",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.004634,
+      "longitude": 28.967616,
+      "website": ""
+    },
+    {
+      "name": "İspirtohane",
+      "name_en": "",
+      "city": "Bahçelievler",
+      "country": "Turkey",
+      "latitude": 40.984892,
+      "longitude": 28.844602,
+      "website": ""
+    },
+    {
+      "name": "İstanbul Oyuncak Müzesi",
+      "name_en": "",
+      "city": "Ataşehir",
+      "country": "Turkey",
+      "latitude": 40.975941,
+      "longitude": 29.070617,
+      "website": ""
+    },
+    {
+      "name": "Jeoloji Müzesi",
+      "name_en": "",
+      "city": "Kütahya",
+      "country": "Turkey",
+      "latitude": 39.416111,
+      "longitude": 29.97444,
+      "website": ""
+    },
+    {
+      "name": "Karatepe Müzesi",
+      "name_en": "Museum of Karatepe, Hittites arts",
+      "city": "Kadirli",
+      "country": "Turkey",
+      "latitude": 37.296541,
+      "longitude": 36.250836,
+      "website": ""
+    },
+    {
+      "name": "Kartonpiyer müzesi",
+      "name_en": "stucco museum",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.029581,
+      "longitude": 28.978987,
+      "website": ""
+    },
+    {
+      "name": "Kaymakamlar Muze",
+      "name_en": "Historic House Museum",
+      "city": "Safranbolu",
+      "country": "Turkey",
+      "latitude": 41.244131,
+      "longitude": 32.694226,
+      "website": ""
+    },
+    {
+      "name": "Kaymaklı Yeraltı Şehri",
+      "name_en": "",
+      "city": "Derinkuyu",
+      "country": "Turkey",
+      "latitude": 38.460224,
+      "longitude": 34.752527,
+      "website": ""
+    },
+    {
+      "name": "Kent Müzesi",
+      "name_en": "",
+      "city": "Samsun",
+      "country": "Turkey",
+      "latitude": 41.286388,
+      "longitude": 36.339756,
+      "website": "http://www.samsunkentmuzesi.com"
+    },
+    {
+      "name": "Kerimoglu Türküsü Evi",
+      "name_en": "",
+      "city": "Yerkesik",
+      "country": "Turkey",
+      "latitude": 37.118147,
+      "longitude": 28.263902,
+      "website": ""
+    },
+    {
+      "name": "Key Car Museum",
+      "name_en": "",
+      "city": "Torbalı",
+      "country": "Turkey",
+      "latitude": 38.201582,
+      "longitude": 27.349296,
+      "website": ""
+    },
+    {
+      "name": "Konuralp Müzesi",
+      "name_en": "",
+      "city": "Konuralp",
+      "country": "Turkey",
+      "latitude": 40.90365,
+      "longitude": 31.15356,
+      "website": ""
+    },
+    {
+      "name": "Kossuth Evi",
+      "name_en": "",
+      "city": "Kütahya",
+      "country": "Turkey",
+      "latitude": 39.416281,
+      "longitude": 29.974069,
+      "website": ""
+    },
+    {
+      "name": "Kutahya Arkeoloji Muzesi",
+      "name_en": "",
+      "city": "Kütahya",
+      "country": "Turkey",
+      "latitude": 39.417038,
+      "longitude": 29.976083,
+      "website": ""
+    },
+    {
+      "name": "Kutahya Evliya Celebi Kultur Sanat Evi",
+      "name_en": "",
+      "city": "Kütahya",
+      "country": "Turkey",
+      "latitude": 39.416164,
+      "longitude": 29.98847,
+      "website": ""
+    },
+    {
+      "name": "Madamme Tussauds",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.03459,
+      "longitude": 28.97971,
+      "website": ""
+    },
+    {
+      "name": "MANİSA MÜZESİ",
+      "name_en": "",
+      "city": "Manisa",
+      "country": "Turkey",
+      "latitude": 38.610288,
+      "longitude": 27.42999,
+      "website": ""
+    },
+    {
+      "name": "Masumiyet Müzesi",
+      "name_en": "The Museum of Innocence",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.030906,
+      "longitude": 28.979788,
+      "website": "http://www.masumiyetmuzesi.org"
+    },
+    {
+      "name": "Medicine museum",
+      "name_en": "",
+      "city": "Amasya",
+      "country": "Turkey",
+      "latitude": 40.653779,
+      "longitude": 35.835266,
+      "website": ""
+    },
+    {
+      "name": "Merinos Tekstil Sanayi Müzesi",
+      "name_en": "",
+      "city": "Yıldırım",
+      "country": "Turkey",
+      "latitude": 40.199686,
+      "longitude": 29.051572,
+      "website": ""
+    },
+    {
+      "name": "Miniatürk Açıkhava Müzesi",
+      "name_en": "",
+      "city": "Şişli",
+      "country": "Turkey",
+      "latitude": 41.059005,
+      "longitude": 28.949068,
+      "website": "http://www.miniaturk.com.tr"
+    },
+    {
+      "name": "Mustafa Ayaz Müzesi ve Kültür Merkezi",
+      "name_en": "",
+      "city": "Ankara",
+      "country": "Turkey",
+      "latitude": 39.911475,
+      "longitude": 32.821325,
+      "website": ""
+    },
+    {
+      "name": "Nasreddin Hoca Arkeoloji ve Etnoğrafya Müzesi",
+      "name_en": "",
+      "city": "Akşehir",
+      "country": "Turkey",
+      "latitude": 38.356743,
+      "longitude": 31.411397,
+      "website": ""
+    },
+    {
+      "name": "old train",
+      "name_en": "",
+      "city": "İzmit",
+      "country": "Turkey",
+      "latitude": 40.762041,
+      "longitude": 29.915984,
+      "website": ""
+    },
+    {
+      "name": "Osmanlı Bankasi Museum",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.023836,
+      "longitude": 28.973617,
+      "website": ""
+    },
+    {
+      "name": "Osmanlı Halk Kıyafetleri ve Takıları Müzesi",
+      "name_en": "",
+      "city": "Yıldırım",
+      "country": "Turkey",
+      "latitude": 40.191853,
+      "longitude": 29.045857,
+      "website": ""
+    },
+    {
+      "name": "Pera Müzesi",
+      "name_en": "Pera Museum",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.031825,
+      "longitude": 28.975197,
+      "website": "http://www.peramuzesi.org.tr/"
+    },
+    {
+      "name": "Rahmi M. Koç Müzesi",
+      "name_en": "",
+      "city": "Çankaya",
+      "country": "Turkey",
+      "latitude": 39.937105,
+      "longitude": 32.863497,
+      "website": "http://www.rmk-museum.org.tr"
+    },
+    {
+      "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+      "name_en": "Sakıp Sabancı Museum",
+      "city": "Şişli",
+      "country": "Turkey",
+      "latitude": 41.106021,
+      "longitude": 29.055519,
+      "website": "http://www.sakipsabancimuzesi.org/en/"
+    },
+    {
+      "name": "Sadberk Hanım Müzesi",
+      "name_en": "Sadberk Hanım Museum",
+      "city": "Arıköy",
+      "country": "Turkey",
+      "latitude": 41.163,
+      "longitude": 29.048199,
+      "website": ""
+    },
+    {
+      "name": "Salim Mutlu Özel Harp Anılar Koleksiyonu",
+      "name_en": "",
+      "city": "İntepe",
+      "country": "Turkey",
+      "latitude": 40.094818,
+      "longitude": 26.225345,
+      "website": ""
+    },
+    {
+      "name": "Selçuk Efes Müzesi",
+      "name_en": "Ephesus Archaeological Museum",
+      "city": "Selçuk",
+      "country": "Turkey",
+      "latitude": 37.948994,
+      "longitude": 27.367854,
+      "website": ""
+    },
+    {
+      "name": "Silah Sanayi Müzesi",
+      "name_en": "",
+      "city": "Kırıkkale",
+      "country": "Turkey",
+      "latitude": 39.846857,
+      "longitude": 33.515344,
+      "website": ""
+    },
+    {
+      "name": "Silifke Müzesi",
+      "name_en": "",
+      "city": "Silifke",
+      "country": "Turkey",
+      "latitude": 36.373513,
+      "longitude": 33.942393,
+      "website": ""
+    },
+    {
+      "name": "Sinop Müzesi",
+      "name_en": "",
+      "city": "Sinop",
+      "country": "Turkey",
+      "latitude": 42.027682,
+      "longitude": 35.151487,
+      "website": ""
+    },
+    {
+      "name": "Siyavuşpaşa Kasrı",
+      "name_en": "",
+      "city": "Bahçelievler",
+      "country": "Turkey",
+      "latitude": 41.000586,
+      "longitude": 28.851435,
+      "website": ""
+    },
+    {
+      "name": "Siyavuşpaşa Çeşmesi",
+      "name_en": "",
+      "city": "Bahçelievler",
+      "country": "Turkey",
+      "latitude": 41.00094,
+      "longitude": 28.852052,
+      "website": ""
+    },
+    {
+      "name": "Suna &  İnan Kıraç Kaleiçi Museum",
+      "name_en": "",
+      "city": "Antalya",
+      "country": "Turkey",
+      "latitude": 36.884082,
+      "longitude": 30.707878,
+      "website": ""
+    },
+    {
+      "name": "Tarım Müzesi",
+      "name_en": "Museum of Agriculture",
+      "city": "Polatlı",
+      "country": "Turkey",
+      "latitude": 39.575591,
+      "longitude": 32.141783,
+      "website": ""
+    },
+    {
+      "name": "The Museum of Turkish Calligraphic Art",
+      "name_en": "",
+      "city": "Eminönü",
+      "country": "Turkey",
+      "latitude": 41.010005,
+      "longitude": 28.963213,
+      "website": "http://www.ibb.gov.tr/sites/ks/en-US/1-Places-To-Go/museum/Pages/museum-turkish-calligraphic-art.aspx"
+    },
+    {
+      "name": "Toys Museum",
+      "name_en": "",
+      "city": "Antalya",
+      "country": "Turkey",
+      "latitude": 36.885664,
+      "longitude": 30.701993,
+      "website": ""
+    },
+    {
+      "name": "Turkish Air Force Museum",
+      "name_en": "",
+      "city": "Bahçelievler",
+      "country": "Turkey",
+      "latitude": 40.963297,
+      "longitude": 28.826237,
+      "website": ""
+    },
+    {
+      "name": "Virgin Mary (Meryem Ana)",
+      "name_en": "",
+      "city": "Selçuk",
+      "country": "Turkey",
+      "latitude": 37.911716,
+      "longitude": 27.333519,
+      "website": ""
+    },
+    {
+      "name": "Yedi Kule Hisarı Müzesi",
+      "name_en": "",
+      "city": "Zeytinburnu",
+      "country": "Turkey",
+      "latitude": 40.993569,
+      "longitude": 28.923931,
+      "website": ""
+    },
+    {
+      "name": "Yıldız Seramik Fabrikası",
+      "name_en": "",
+      "city": "Üsküdar",
+      "country": "Turkey",
+      "latitude": 41.048285,
+      "longitude": 29.018819,
+      "website": ""
+    },
+    {
+      "name": "Zelve Open-Air Museum",
+      "name_en": "",
+      "city": "Göreme",
+      "country": "Turkey",
+      "latitude": 38.668128,
+      "longitude": 34.86479,
+      "website": ""
+    },
+    {
+      "name": "çağdaş cam sanatları müzesi",
+      "name_en": "",
+      "city": "Eskişehir",
+      "country": "Turkey",
+      "latitude": 39.76515,
+      "longitude": 30.521873,
+      "website": ""
+    },
+    {
+      "name": "Ödemiş Müzesi",
+      "name_en": "",
+      "city": "Hypaepa",
+      "country": "Turkey",
+      "latitude": 38.227881,
+      "longitude": 27.988805,
+      "website": ""
+    },
+    {
+      "name": "Şanlıurfa Müzesi",
+      "name_en": "Sanliurfa Museum",
+      "city": "Şanlıurfa",
+      "country": "Turkey",
+      "latitude": 37.160646,
+      "longitude": 38.788111,
+      "website": ""
+    },
+    {
+      "name": "ეთნოგრაფიული მუზეუმი Ethnographic Museum Этнографический Музей",
+      "name_en": "",
+      "city": "Camili",
+      "country": "Turkey",
+      "latitude": 41.498193,
+      "longitude": 41.836187,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki müzeler (Museums in Turkey) - Ücretsiz İndir",
+    "description": "OpenStreetMap'ten Türkiye'deki 97 müzenin listesi; ad, şehir, koordinatlar ve web sitesi içerir. İçerik 97 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Türkiye'deki müzeler (Museums in Turkey) | ListBase",
+    "seo_description": "İndir Türkiye'deki müzeler (Museums in Turkey) — 97 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 97 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: open data"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "tr-ankara-tcdd-istasyonlari",
+  "name": "ANKARA TCDD Tren İstasyonları (Railway stations in ANKARA)",
+  "title": "ANKARA TCDD Tren İstasyonları (Railway stations in ANKARA)",
+  "description": "ANKARA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ANKARA province.) (15 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ANKARA GAR",
+      "il": "ANKARA",
+      "kaynak_metin": "ANKARA GAR , ANKARA",
+      "gidis_id": 98,
+      "donus_id": 98,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 210
+    },
+    {
+      "istasyon": "BEYLİKKÖPRÜ",
+      "il": "ANKARA",
+      "kaynak_metin": "BEYLİKKÖPRÜ , ANKARA",
+      "gidis_id": 84,
+      "donus_id": 84,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 23
+    },
+    {
+      "istasyon": "ELMADAĞ",
+      "il": "ANKARA",
+      "kaynak_metin": "ELMADAĞ , ANKARA",
+      "gidis_id": 143,
+      "donus_id": 143,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 109
+    },
+    {
+      "istasyon": "ELMADAĞ YHT",
+      "il": "ANKARA",
+      "kaynak_metin": "ELMADAĞ YHT , ANKARA",
+      "gidis_id": 1392,
+      "donus_id": 1392,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ERYAMAN YHT",
+      "il": "ANKARA",
+      "kaynak_metin": "ERYAMAN YHT , ANKARA",
+      "gidis_id": 1306,
+      "donus_id": 1306,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 96
+    },
+    {
+      "istasyon": "KAYAŞ",
+      "il": "ANKARA",
+      "kaynak_metin": "KAYAŞ , ANKARA",
+      "gidis_id": "",
+      "donus_id": 1161,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MALIKÖY",
+      "il": "ANKARA",
+      "kaynak_metin": "MALIKÖY , ANKARA",
+      "gidis_id": "",
+      "donus_id": 181,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POLATLI",
+      "il": "ANKARA",
+      "kaynak_metin": "POLATLI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 188,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POLATLI YHT",
+      "il": "ANKARA",
+      "kaynak_metin": "POLATLI YHT , ANKARA",
+      "gidis_id": 244,
+      "donus_id": 244,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POYRAZ",
+      "il": "ANKARA",
+      "kaynak_metin": "POYRAZ , ANKARA",
+      "gidis_id": "",
+      "donus_id": 1045,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAZPINARI",
+      "il": "ANKARA",
+      "kaynak_metin": "SAZPINARI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 179,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİNCAN",
+      "il": "ANKARA",
+      "kaynak_metin": "SİNCAN , ANKARA",
+      "gidis_id": "",
+      "donus_id": 192,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TEMELLİ",
+      "il": "ANKARA",
+      "kaynak_metin": "TEMELLİ , ANKARA",
+      "gidis_id": "",
+      "donus_id": 196,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TÜRKOBASI",
+      "il": "ANKARA",
+      "kaynak_metin": "TÜRKOBASI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 228,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİDOĞAN DURAĞI",
+      "il": "ANKARA",
+      "kaynak_metin": "YENİDOĞAN DURAĞI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 1335,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "ANKARA TCDD Tren İstasyonları (Railway stations in ANKARA) - Ücretsiz İndir",
+    "description": "ANKARA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ANKARA province.) (15 kayıt.) İçerik 15 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ANKARA TCDD Tren İstasyonları (Railway stations in ANKARA) | ListBase",
+    "seo_description": "İndir ANKARA TCDD Tren İstasyonları (Railway stations in ANKARA) — 15 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 15 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

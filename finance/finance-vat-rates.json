@@ -1,0 +1,749 @@
+{
+  "id": "finance-vat-rates",
+  "name": "Kapsamlı Ülkelere Göre KDV/ÖTV Oranları Veri Seti",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "standard_rate",
+      "label": "Standard Rate (%)",
+      "type": "number"
+    },
+    {
+      "key": "reduced_rates",
+      "label": "Reduced Rates (%)",
+      "type": "string"
+    },
+    {
+      "key": "tax_name",
+      "label": "Tax Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "local_name",
+      "label": "Local Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Arjantin",
+      "iso_code": "AR",
+      "standard_rate": 21,
+      "reduced_rates": "10.5, 27",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Avustralya",
+      "iso_code": "AU",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Avusturya",
+      "iso_code": "AT",
+      "standard_rate": 20,
+      "reduced_rates": "10, 13",
+      "tax_name": "VAT",
+      "local_name": "USt (Umsatzsteuer)",
+      "region": "AB"
+    },
+    {
+      "country": "Bahreyn",
+      "iso_code": "BH",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Bangladeş",
+      "iso_code": "BD",
+      "standard_rate": 15,
+      "reduced_rates": "5, 7.5",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Belçika",
+      "iso_code": "BE",
+      "standard_rate": 21,
+      "reduced_rates": "6, 12",
+      "tax_name": "VAT",
+      "local_name": "BTW/TVA",
+      "region": "AB"
+    },
+    {
+      "country": "Brezilya",
+      "iso_code": "BR",
+      "standard_rate": 17,
+      "reduced_rates": "7, 12",
+      "tax_name": "ICMS",
+      "local_name": "ICMS",
+      "region": "Amerika"
+    },
+    {
+      "country": "Bulgaristan",
+      "iso_code": "BG",
+      "standard_rate": 20,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "ДДС (DDS)",
+      "region": "AB"
+    },
+    {
+      "country": "Kanada",
+      "iso_code": "CA",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST/TPS",
+      "region": "Amerika"
+    },
+    {
+      "country": "Şili",
+      "iso_code": "CL",
+      "standard_rate": 19,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Çin",
+      "iso_code": "CN",
+      "standard_rate": 13,
+      "reduced_rates": "6, 9",
+      "tax_name": "VAT",
+      "local_name": "增值税",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Kolombiya",
+      "iso_code": "CO",
+      "standard_rate": 19,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Kosta Rika",
+      "iso_code": "CR",
+      "standard_rate": 13,
+      "reduced_rates": "1, 2, 4",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Hırvatistan",
+      "iso_code": "HR",
+      "standard_rate": 25,
+      "reduced_rates": "5, 13",
+      "tax_name": "VAT",
+      "local_name": "PDV",
+      "region": "AB"
+    },
+    {
+      "country": "Kıbrıs",
+      "iso_code": "CY",
+      "standard_rate": 19,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "ΦΠΑ",
+      "region": "AB"
+    },
+    {
+      "country": "Çek Cumhuriyeti",
+      "iso_code": "CZ",
+      "standard_rate": 21,
+      "reduced_rates": "12, 15",
+      "tax_name": "VAT",
+      "local_name": "DPH",
+      "region": "AB"
+    },
+    {
+      "country": "Danimarka",
+      "iso_code": "DK",
+      "standard_rate": 25,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "moms",
+      "region": "AB"
+    },
+    {
+      "country": "Ekvador",
+      "iso_code": "EC",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Mısır",
+      "iso_code": "EG",
+      "standard_rate": 14,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "ضريبة القيمة المضافة",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Estonya",
+      "iso_code": "EE",
+      "standard_rate": 22,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "käibemaks",
+      "region": "AB"
+    },
+    {
+      "country": "Finlandiya",
+      "iso_code": "FI",
+      "standard_rate": 24,
+      "reduced_rates": "10, 14",
+      "tax_name": "VAT",
+      "local_name": "ALV",
+      "region": "AB"
+    },
+    {
+      "country": "Fransa",
+      "iso_code": "FR",
+      "standard_rate": 20,
+      "reduced_rates": "5.5, 10",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "AB"
+    },
+    {
+      "country": "Almanya",
+      "iso_code": "DE",
+      "standard_rate": 19,
+      "reduced_rates": "7",
+      "tax_name": "VAT",
+      "local_name": "MwSt",
+      "region": "AB"
+    },
+    {
+      "country": "Yunanistan",
+      "iso_code": "GR",
+      "standard_rate": 24,
+      "reduced_rates": "6, 13",
+      "tax_name": "VAT",
+      "local_name": "ΦΠΑ",
+      "region": "AB"
+    },
+    {
+      "country": "Hong Kong",
+      "iso_code": "HK",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Yok",
+      "local_name": "-",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Macaristan",
+      "iso_code": "HU",
+      "standard_rate": 27,
+      "reduced_rates": "5, 18",
+      "tax_name": "VAT",
+      "local_name": "ÁFA",
+      "region": "AB"
+    },
+    {
+      "country": "İzlanda",
+      "iso_code": "IS",
+      "standard_rate": 24,
+      "reduced_rates": "11",
+      "tax_name": "VAT",
+      "local_name": "VSK",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Hindistan",
+      "iso_code": "IN",
+      "standard_rate": 18,
+      "reduced_rates": "5, 12, 28",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Endonezya",
+      "iso_code": "ID",
+      "standard_rate": 11,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "PPN",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "İrlanda",
+      "iso_code": "IE",
+      "standard_rate": 23,
+      "reduced_rates": "9, 13.5",
+      "tax_name": "VAT",
+      "local_name": "VAT/CBL",
+      "region": "AB"
+    },
+    {
+      "country": "İsrail",
+      "iso_code": "IL",
+      "standard_rate": 17,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "מע\"מ",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "İtalya",
+      "iso_code": "IT",
+      "standard_rate": 22,
+      "reduced_rates": "4, 5, 10",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "AB"
+    },
+    {
+      "country": "Japonya",
+      "iso_code": "JP",
+      "standard_rate": 10,
+      "reduced_rates": "8",
+      "tax_name": "Tüketim Vergisi",
+      "local_name": "消費税",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Kenya",
+      "iso_code": "KE",
+      "standard_rate": 16,
+      "reduced_rates": "8",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Afrika"
+    },
+    {
+      "country": "Kuveyt",
+      "iso_code": "KW",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Yok",
+      "local_name": "-",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Letonya",
+      "iso_code": "LV",
+      "standard_rate": 21,
+      "reduced_rates": "5, 12",
+      "tax_name": "VAT",
+      "local_name": "PVN",
+      "region": "AB"
+    },
+    {
+      "country": "Litvanya",
+      "iso_code": "LT",
+      "standard_rate": 21,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "PVM",
+      "region": "AB"
+    },
+    {
+      "country": "Lüksemburg",
+      "iso_code": "LU",
+      "standard_rate": 17,
+      "reduced_rates": "3, 8",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "AB"
+    },
+    {
+      "country": "Malezya",
+      "iso_code": "MY",
+      "standard_rate": 10,
+      "reduced_rates": "5",
+      "tax_name": "SST",
+      "local_name": "SST",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Malta",
+      "iso_code": "MT",
+      "standard_rate": 18,
+      "reduced_rates": "5, 7",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "AB"
+    },
+    {
+      "country": "Meksika",
+      "iso_code": "MX",
+      "standard_rate": 16,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Fas",
+      "iso_code": "MA",
+      "standard_rate": 20,
+      "reduced_rates": "7, 10, 14",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "Afrika"
+    },
+    {
+      "country": "Hollanda",
+      "iso_code": "NL",
+      "standard_rate": 21,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "BTW",
+      "region": "AB"
+    },
+    {
+      "country": "Yeni Zelanda",
+      "iso_code": "NZ",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Nijerya",
+      "iso_code": "NG",
+      "standard_rate": 7.5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Afrika"
+    },
+    {
+      "country": "Norveç",
+      "iso_code": "NO",
+      "standard_rate": 25,
+      "reduced_rates": "12, 15",
+      "tax_name": "VAT",
+      "local_name": "MVA",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Umman",
+      "iso_code": "OM",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Pakistan",
+      "iso_code": "PK",
+      "standard_rate": 18,
+      "reduced_rates": "10",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Panama",
+      "iso_code": "PA",
+      "standard_rate": 7,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ITBMS",
+      "region": "Amerika"
+    },
+    {
+      "country": "Peru",
+      "iso_code": "PE",
+      "standard_rate": 18,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IGV",
+      "region": "Amerika"
+    },
+    {
+      "country": "Filipinler",
+      "iso_code": "PH",
+      "standard_rate": 12,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Polonya",
+      "iso_code": "PL",
+      "standard_rate": 23,
+      "reduced_rates": "5, 8",
+      "tax_name": "VAT",
+      "local_name": "PTU/VAT",
+      "region": "AB"
+    },
+    {
+      "country": "Portekiz",
+      "iso_code": "PT",
+      "standard_rate": 23,
+      "reduced_rates": "6, 13",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "AB"
+    },
+    {
+      "country": "Katar",
+      "iso_code": "QA",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Yok",
+      "local_name": "-",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Romanya",
+      "iso_code": "RO",
+      "standard_rate": 19,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "AB"
+    },
+    {
+      "country": "Rusya",
+      "iso_code": "RU",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "НДС",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Suudi Arabistan",
+      "iso_code": "SA",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ضريبة القيمة المضافة",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Sırbistan",
+      "iso_code": "RS",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "PDV",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Singapur",
+      "iso_code": "SG",
+      "standard_rate": 9,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Slovakya",
+      "iso_code": "SK",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "DPH",
+      "region": "AB"
+    },
+    {
+      "country": "Slovenya",
+      "iso_code": "SI",
+      "standard_rate": 22,
+      "reduced_rates": "5, 9.5",
+      "tax_name": "KDV",
+      "local_name": "DDV",
+      "region": "AB"
+    },
+    {
+      "country": "Güney Afrika",
+      "iso_code": "ZA",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "KDV",
+      "local_name": "VAT",
+      "region": "Afrika"
+    },
+    {
+      "country": "Güney Kore",
+      "iso_code": "KR",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "KDV",
+      "local_name": "부가가치세",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "İspanya",
+      "iso_code": "ES",
+      "standard_rate": 21,
+      "reduced_rates": "4, 10",
+      "tax_name": "KDV",
+      "local_name": "IVA",
+      "region": "AB"
+    },
+    {
+      "country": "İsveç",
+      "iso_code": "SE",
+      "standard_rate": 25,
+      "reduced_rates": "6, 12",
+      "tax_name": "KDV",
+      "local_name": "moms",
+      "region": "AB"
+    },
+    {
+      "country": "İsviçre",
+      "iso_code": "CH",
+      "standard_rate": 8.1,
+      "reduced_rates": "2.6, 3.8",
+      "tax_name": "KDV",
+      "local_name": "MWST/TVA/IVA",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Tayvan",
+      "iso_code": "TW",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "KDV",
+      "local_name": "營業稅",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Tayland",
+      "iso_code": "TH",
+      "standard_rate": 7,
+      "reduced_rates": "-",
+      "tax_name": "KDV",
+      "local_name": "ภาษีมูลค่าเพิ่ม",
+      "region": "Asya-Pasifik"
+    },
+    {
+      "country": "Türkiye",
+      "iso_code": "TR",
+      "standard_rate": 20,
+      "reduced_rates": "1, 10",
+      "tax_name": "KDV",
+      "local_name": "KDV",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Ukrayna",
+      "iso_code": "UA",
+      "standard_rate": 20,
+      "reduced_rates": "7",
+      "tax_name": "KDV",
+      "local_name": "ПДВ",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Birleşik Arap Emirlikleri",
+      "iso_code": "AE",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "KDV",
+      "local_name": "VAT",
+      "region": "Orta Doğu"
+    },
+    {
+      "country": "Birleşik Krallık",
+      "iso_code": "GB",
+      "standard_rate": 20,
+      "reduced_rates": "5",
+      "tax_name": "KDV",
+      "local_name": "VAT",
+      "region": "Avrupa"
+    },
+    {
+      "country": "Amerika Birleşik Devletleri",
+      "iso_code": "US",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Satış Vergisi",
+      "local_name": "Sales Tax (state/local)",
+      "region": "Amerika"
+    },
+    {
+      "country": "Uruguay",
+      "iso_code": "UY",
+      "standard_rate": 22,
+      "reduced_rates": "10",
+      "tax_name": "KDV",
+      "local_name": "IVA",
+      "region": "Amerika"
+    },
+    {
+      "country": "Vietnam",
+      "iso_code": "VN",
+      "standard_rate": 10,
+      "reduced_rates": "5",
+      "tax_name": "KDV",
+      "local_name": "GTGT",
+      "region": "Asya-Pasifik"
+    }
+  ],
+  "meta": {
+    "seo_title": "Küresel KDV/ÖTV Oranları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "75 ülke için standart ve indirimli oranlar dahil KDV/ÖTV oranlarını edinin. Vergi analizi için Excel, CSV ve PDF formatlarında ücretsiz indirilebilir.",
+    "title": "Kapsamlı Ülkelere Göre KDV/ÖTV Oranları Veri Seti",
+    "description": "Bu veri seti, dünya genelinde 75 ülke için Katma Değer Vergisi (KDV) ve Mal ve Hizmet Vergisi (ÖTV - Genel Tüketim Vergisi olarak da düşünülebilir) oranlarını sağlar. Standart, indirimli oranlar, yerel vergi adları ve bölgesel bilgileri içerir.",
+    "key_takeaways": [
+      "Dünya genelinde 75 ülke için güncel KDV ve ÖTV oranlarına erişim sağlayın.",
+      "Yerel vergi adlarıyla birlikte standart ve indirimli vergi yüzdelerini keşfedin.",
+      "Kapsamlı vergi verilerini birden fazla uygun formatta indirin.",
+      "Finansal analiz ve uyumluluk için ülkeye özgü vergi bilgilerinden yararlanın."
+    ],
+    "keywords": [
+      "ülkelere göre KDV oranları",
+      "küresel ÖTV oranları",
+      "satış vergisi verileri excel",
+      "ülke vergi oranları csv",
+      "küresel KDV listesi",
+      "indirimli KDV oranları"
+    ],
+    "use_cases": [
+      "Otomatik vergi uyumluluğu kontrolleri ve API entegrasyonları için **CSV** dosyasını SQL veritabanınıza veya Python betiğinize aktarın.",
+      "**Excel** dosyasını kullanarak Pivot Tablolar oluşturun, ülkeleri bölgeye göre filtreleyin ve vergi etkileri üzerinde finansal analizler yapın.",
+      "Uluslararası vergilendirme üzerine hızlı referans, şirket içi sunumlar veya sınıf tartışmaları için **PDF** sürümünü yazdırın.",
+      "İş planlaması ve pazara giriş stratejileri için küresel vergi eğilimlerini analiz edin ve farklı ekonomik bölgelerdeki KDV/ÖTV oranlarını karşılaştırın."
+    ]
+  },
+  "record_count": 75,
+  "title": "Kapsamlı Ülkelere Göre KDV/ÖTV Oranları Veri Seti"
+}

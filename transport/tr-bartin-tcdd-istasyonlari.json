@@ -1,0 +1,97 @@
+{
+  "id": "tr-bartin-tcdd-istasyonlari",
+  "name": "BARTIN TCDD Tren İstasyonları (Railway stations in BARTIN)",
+  "title": "BARTIN TCDD Tren İstasyonları (Railway stations in BARTIN)",
+  "description": "BARTIN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BARTIN province.) (4 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AKYAMAÇ",
+      "il": "BARTIN",
+      "kaynak_metin": "AKYAMAÇ , BARTIN",
+      "gidis_id": 217,
+      "donus_id": 217,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "DERECİKÖREN",
+      "il": "BARTIN",
+      "kaynak_metin": "DERECİKÖREN , BARTIN",
+      "gidis_id": 122,
+      "donus_id": 122,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "SEFERCİK",
+      "il": "BARTIN",
+      "kaynak_metin": "SEFERCİK , BARTIN",
+      "gidis_id": "",
+      "donus_id": 218,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÜÇBURGU",
+      "il": "BARTIN",
+      "kaynak_metin": "ÜÇBURGU , BARTIN",
+      "gidis_id": "",
+      "donus_id": 210,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "BARTIN TCDD Tren İstasyonları (Railway stations in BARTIN) - Ücretsiz İndir",
+    "description": "BARTIN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BARTIN province.) (4 kayıt.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "BARTIN TCDD Tren İstasyonları (Railway stations in BARTIN) | ListBase",
+    "seo_description": "İndir BARTIN TCDD Tren İstasyonları (Railway stations in BARTIN) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

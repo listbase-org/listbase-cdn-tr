@@ -1,0 +1,268 @@
+{
+  "id": "tr-nigde-liseler",
+  "name": "Niğde Liseleri (High Schools in Niğde)",
+  "title": "Niğde Liseleri (High Schools in Niğde)",
+  "description": "Niğde ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (16 kayıt) (High schools in Niğde province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Altunhisar 75.yıl Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Niğde - Altunhisar - Altunhisar 75.yıl Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Altunhisar",
+      "website": "http://altunhisar75yilcpal.meb.k12.tr",
+      "enlem": 38.00449729561543,
+      "boylam": 34.36361154689325
+    },
+    {
+      "okul_adi": "Altunhisar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Niğde - Altunhisar - Altunhisar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Niğde",
+      "ilce": "Altunhisar",
+      "website": "http://altunhisaranadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 37.99895131457472,
+      "boylam": 34.37292417659296
+    },
+    {
+      "okul_adi": "Bor Akın Gönen Anadolu Lisesi",
+      "tam_ad": "Niğde - Bor - Bor Akın Gönen Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Bor",
+      "website": "http://boranadolulisesi.meb.k12.tr",
+      "enlem": 37.884277190643466,
+      "boylam": 34.561816064257755
+    },
+    {
+      "okul_adi": "Bor Şehit Ramazan Konuş Fen Lisesi",
+      "tam_ad": "Niğde - Bor - Bor Şehit Ramazan Konuş Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Niğde",
+      "ilce": "Bor",
+      "website": "http://borfenlisesi.meb.k12.tr",
+      "enlem": 37.909955434013234,
+      "boylam": 34.57099994792475
+    },
+    {
+      "okul_adi": "Prof. Dr. Ali Yaramancı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Niğde - Bor - Prof. Dr. Ali Yaramancı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Bor",
+      "website": "http://aliyaramanci.meb.k12.tr",
+      "enlem": 37.82430103642056,
+      "boylam": 34.570313302416935
+    },
+    {
+      "okul_adi": "Zübeyde Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Niğde - Bor - Zübeyde Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Bor",
+      "website": "http://borkizmesleklisesi.meb.k12.tr",
+      "enlem": 37.89834080014078,
+      "boylam": 34.563039151568546
+    },
+    {
+      "okul_adi": "Şehit Nuri Pamir Anadolu Lisesi",
+      "tam_ad": "Niğde - Bor - Şehit Nuri Pamir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Bor",
+      "website": "http://snpal.meb.k12.tr",
+      "enlem": 37.88807911763907,
+      "boylam": 34.5612474359466
+    },
+    {
+      "okul_adi": "Dündarlı Anadolu Lisesi",
+      "tam_ad": "Niğde - Merkez - Dündarlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Merkez",
+      "website": "http://dundarlianadolu.meb.k12.tr",
+      "enlem": 38.08484154074517,
+      "boylam": 35.19219955577387
+    },
+    {
+      "okul_adi": "Hacı Zekiye Arslan Anadolu Lisesi",
+      "tam_ad": "Niğde - Merkez - Hacı Zekiye Arslan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Merkez",
+      "website": "http://hazal.meb.k12.tr",
+      "enlem": 37.984784332804175,
+      "boylam": 34.67112144603266
+    },
+    {
+      "okul_adi": "Niğde Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Niğde - Merkez - Niğde Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Niğde",
+      "ilce": "Merkez",
+      "website": "http://nigdeihl.meb.k12.tr",
+      "enlem": 37.97338872931708,
+      "boylam": 34.678899852175846
+    },
+    {
+      "okul_adi": "Ulukışla 75. Yıl Anadolu Lisesi",
+      "tam_ad": "Niğde - Ulukışla - Ulukışla 75. Yıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Ulukışla",
+      "website": "http://ulukislaanadolulisesi.meb.k12.tr",
+      "enlem": 37.553137365139676,
+      "boylam": 34.48282500876917
+    },
+    {
+      "okul_adi": "Ulukışla 75. Yıl Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Niğde - Ulukışla - Ulukışla 75. Yıl Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Ulukışla",
+      "website": "http://ulukisla75cpal.meb.k12.tr",
+      "enlem": 37.54583486654377,
+      "boylam": 34.48750814570917
+    },
+    {
+      "okul_adi": "Ulukışla Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Niğde - Ulukışla - Ulukışla Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Ulukışla",
+      "website": "http://ulukislaeml.meb.k12.tr",
+      "enlem": 37.54421860825418,
+      "boylam": 34.4923575796081
+    },
+    {
+      "okul_adi": "Çamardı 75.yıl Şehit Üsteğmen Murat Erdem Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Niğde - Çamardı - Çamardı 75.yıl Şehit Üsteğmen Murat Erdem Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Niğde",
+      "ilce": "Çamardı",
+      "website": "http://camardicpl.meb.k12.tr",
+      "enlem": 37.833190412832316,
+      "boylam": 34.991999474902286
+    },
+    {
+      "okul_adi": "Çamardı Şehit Muttalip Soylu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Niğde - Çamardı - Çamardı Şehit Muttalip Soylu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Niğde",
+      "ilce": "Çamardı",
+      "website": "http://camardiihl.meb.k12.tr",
+      "enlem": 37.833698829056644,
+      "boylam": 34.99418815745844
+    },
+    {
+      "okul_adi": "Çiftlik Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Niğde - Çiftlik - Çiftlik Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Niğde",
+      "ilce": "Çiftlik",
+      "website": "http://ciftlikaihl.meb.k12.tr",
+      "enlem": 38.179790524034395,
+      "boylam": 34.472208825488224
+    }
+  ],
+  "meta": {
+    "title": "Niğde Liseleri (High Schools in Niğde) - Ücretsiz İndir",
+    "description": "Niğde ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (16 kayıt) (High schools in Niğde province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 16 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Niğde Liseleri (High Schools in Niğde) | ListBase",
+    "seo_description": "İndir Niğde Liseleri (High Schools in Niğde) — 16 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 16 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "id": "time-zodiac-signs",
+  "name": "Kapsamlı Batı Burçları Veri Seti",
+  "category": "time",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    },
+    {
+      "key": "element",
+      "label": "Element (EN)",
+      "type": "string"
+    },
+    {
+      "key": "modality",
+      "label": "Modality",
+      "type": "string"
+    },
+    {
+      "key": "ruling_planet",
+      "label": "Ruling Planet",
+      "type": "string"
+    },
+    {
+      "key": "date_range",
+      "label": "Date Range",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "traits",
+      "label": "Personality Traits (EN)",
+      "type": "string"
+    },
+    {
+      "key": "compatible_signs",
+      "label": "Compatible Signs",
+      "type": "string"
+    },
+    {
+      "key": "lucky_numbers",
+      "label": "Lucky Numbers",
+      "type": "string"
+    },
+    {
+      "key": "lucky_colors",
+      "label": "Lucky Colors",
+      "type": "string"
+    },
+    {
+      "key": "body_part",
+      "label": "Body Part (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Koç",
+      "symbol": "♈",
+      "unicode": "U+2648",
+      "element": "Ateş",
+      "modality": "Cardinal",
+      "ruling_planet": "Mars",
+      "date_range": "Mar 21 - Apr 19",
+      "order": 1,
+      "traits": "Cesur, kararlı, özgüvenli, hevesli",
+      "compatible_signs": "Leo, Sagittarius, Gemini, Aquarius",
+      "lucky_numbers": "1, 8, 17",
+      "lucky_colors": "Red",
+      "body_part": "Baş"
+    },
+    {
+      "name": "Boğa",
+      "symbol": "♉",
+      "unicode": "U+2649",
+      "element": "Toprak",
+      "modality": "Fixed",
+      "ruling_planet": "Venus",
+      "date_range": "Apr 20 - May 20",
+      "order": 2,
+      "traits": "Güvenilir, sabırlı, pratik, sadık",
+      "compatible_signs": "Virgo, Capricorn, Cancer, Pisces",
+      "lucky_numbers": "2, 6, 9, 12, 24",
+      "lucky_colors": "Green, Pink",
+      "body_part": "Boğaz, Boyun"
+    },
+    {
+      "name": "İkizler",
+      "symbol": "♊",
+      "unicode": "U+264A",
+      "element": "Hava",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "May 21 - Jun 20",
+      "order": 3,
+      "traits": "Nazik, şefkatli, meraklı, uyumlu",
+      "compatible_signs": "Libra, Aquarius, Aries, Leo",
+      "lucky_numbers": "5, 7, 14, 23",
+      "lucky_colors": "Yellow",
+      "body_part": "Kollar, Eller, Akciğerler"
+    },
+    {
+      "name": "Yengeç",
+      "symbol": "♋",
+      "unicode": "U+264B",
+      "element": "Su",
+      "modality": "Cardinal",
+      "ruling_planet": "Moon",
+      "date_range": "Jun 21 - Jul 22",
+      "order": 4,
+      "traits": "Azimli, çok yaratıcı, sadık, duygusal",
+      "compatible_signs": "Scorpio, Pisces, Taurus, Virgo",
+      "lucky_numbers": "2, 3, 15, 20",
+      "lucky_colors": "White, Silver",
+      "body_part": "Göğüs, Mide"
+    },
+    {
+      "name": "Aslan",
+      "symbol": "♌",
+      "unicode": "U+264C",
+      "element": "Ateş",
+      "modality": "Fixed",
+      "ruling_planet": "Sun",
+      "date_range": "Jul 23 - Aug 22",
+      "order": 5,
+      "traits": "Yaratıcı, tutkulu, cömert, sıcakkanlı",
+      "compatible_signs": "Aries, Sagittarius, Gemini, Libra",
+      "lucky_numbers": "1, 3, 10, 19",
+      "lucky_colors": "Gold, Orange",
+      "body_part": "Kalp, Omurga"
+    },
+    {
+      "name": "Başak",
+      "symbol": "♍",
+      "unicode": "U+264D",
+      "element": "Toprak",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "Aug 23 - Sep 22",
+      "order": 6,
+      "traits": "Sadık, analitik, nazik, çalışkan",
+      "compatible_signs": "Taurus, Capricorn, Cancer, Scorpio",
+      "lucky_numbers": "5, 14, 15, 23, 32",
+      "lucky_colors": "Grey, Beige, Pale Yellow",
+      "body_part": "Sindirim Sistemi"
+    },
+    {
+      "name": "Terazi",
+      "symbol": "♎",
+      "unicode": "U+264E",
+      "element": "Hava",
+      "modality": "Cardinal",
+      "ruling_planet": "Venus",
+      "date_range": "Sep 23 - Oct 22",
+      "order": 7,
+      "traits": "İşbirlikçi, diplomatik, zarif, adil",
+      "compatible_signs": "Gemini, Aquarius, Leo, Sagittarius",
+      "lucky_numbers": "4, 6, 13, 15, 24",
+      "lucky_colors": "Pink, Blue",
+      "body_part": "Böbrekler, Bel"
+    },
+    {
+      "name": "Akrep",
+      "symbol": "♏",
+      "unicode": "U+264F",
+      "element": "Su",
+      "modality": "Fixed",
+      "ruling_planet": "Pluto, Mars",
+      "date_range": "Oct 23 - Nov 21",
+      "order": 8,
+      "traits": "Becerikli, cesur, tutkulu, inatçı",
+      "compatible_signs": "Cancer, Pisces, Virgo, Capricorn",
+      "lucky_numbers": "8, 11, 18, 22",
+      "lucky_colors": "Scarlet, Red, Rust",
+      "body_part": "Üreme Sistemi"
+    },
+    {
+      "name": "Yay",
+      "symbol": "♐",
+      "unicode": "U+2650",
+      "element": "Ateş",
+      "modality": "Mutable",
+      "ruling_planet": "Jupiter",
+      "date_range": "Nov 22 - Dec 21",
+      "order": 9,
+      "traits": "Cömert, idealist, harika mizah anlayışı",
+      "compatible_signs": "Aries, Leo, Libra, Aquarius",
+      "lucky_numbers": "3, 7, 9, 12, 21",
+      "lucky_colors": "Blue, Purple",
+      "body_part": "Kalçalar, Uyluklar"
+    },
+    {
+      "name": "Oğlak",
+      "symbol": "♑",
+      "unicode": "U+2651",
+      "element": "Toprak",
+      "modality": "Cardinal",
+      "ruling_planet": "Saturn",
+      "date_range": "Dec 22 - Jan 19",
+      "order": 10,
+      "traits": "Sorumlu, disiplinli, öz kontrol",
+      "compatible_signs": "Taurus, Virgo, Scorpio, Pisces",
+      "lucky_numbers": "4, 8, 13, 22",
+      "lucky_colors": "Brown, Black, Dark Green",
+      "body_part": "Dizler, Kemikler, Cilt"
+    },
+    {
+      "name": "Kova",
+      "symbol": "♒",
+      "unicode": "U+2652",
+      "element": "Hava",
+      "modality": "Fixed",
+      "ruling_planet": "Uranus, Saturn",
+      "date_range": "Jan 20 - Feb 18",
+      "order": 11,
+      "traits": "İlerici, orijinal, bağımsız, insancıl",
+      "compatible_signs": "Gemini, Libra, Aries, Sagittarius",
+      "lucky_numbers": "4, 7, 11, 22, 29",
+      "lucky_colors": "Blue, Silver",
+      "body_part": "Ayak Bilekleri, Dolaşım Sistemi"
+    },
+    {
+      "name": "Balık",
+      "symbol": "♓",
+      "unicode": "U+2653",
+      "element": "Su",
+      "modality": "Mutable",
+      "ruling_planet": "Neptune, Jupiter",
+      "date_range": "Feb 19 - Mar 20",
+      "order": 12,
+      "traits": "Şefkatli, sanatsal, sezgisel, nazik",
+      "compatible_signs": "Cancer, Scorpio, Taurus, Capricorn",
+      "lucky_numbers": "3, 9, 12, 15, 18, 24",
+      "lucky_colors": "Purple, Violet, Sea Green",
+      "body_part": "Ayaklar, Lenfatik Sistem"
+    }
+  ],
+  "meta": {
+    "seo_title": "Batı Burçları Verileri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "12 kayıttan oluşan Batı Burçları veri setini ücretsiz indirin. Özellikleri, elementleri, gezegenleri içerir. Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Kapsamlı Batı Burçları Veri Seti",
+    "description": "Bu veri seti, 12 Batı Burcunun tamamı hakkında adları, sembolleri, elementleri, modaliteleri, yönetici gezegenleri ve temel kişilik özellikleri dahil olmak üzere kapsamlı detaylar sunar. Astroloji meraklıları, geliştiriciler ve veri analistleri için paha biçilmez bir kaynaktır.",
+    "key_takeaways": [
+      "Tüm 12 Batı Burcu için ayrıntılı bilgilere anında erişin.",
+      "Her burcun elementini, modalitesini, yönetici gezegenini ve uyumlu burçlarını keşfedin.",
+      "Her burç için kapsamlı kişilik özelliklerini, şanslı sayıları ve renkleri indirin.",
+      "Dijital uygulamalarda burçlar için Unicode sembollerini kullanın."
+    ],
+    "keywords": [
+      "batı burçları verileri",
+      "astroloji işaretleri veri seti",
+      "burç kişilik özellikleri excel",
+      "ücretsiz burç verileri indir",
+      "burçlar listesi csv",
+      "göksel işaretler pdf"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını veritabanınıza aktarın veya astroloji temalı uygulamalar veya web siteleri oluşturmak için Python betikleriyle kullanın.",
+      "Astroloji çalışmaları için **Excel**'in filtreleme ve Pivot Tablo özelliklerini kullanarak burç trendlerini analiz edin ve özel raporlar oluşturun.",
+      "Eğitim ortamlarında, sunumlarda veya kişisel astroloji çalışmalarında hızlı bir referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "Bu yapılandırılmış veriyi eğitim materyallerine, mobil uygulamalara veya astrolojik araştırma projelerine entegre ederek daha derinlemesine bilgiler edinin."
+    ]
+  },
+  "record_count": 12,
+  "title": "Kapsamlı Batı Burçları Veri Seti"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tr-gaziantep-tcdd-istasyonlari",
+  "name": "GAZİANTEP TCDD Tren İstasyonları (Railway stations in GAZİANTEP)",
+  "title": "GAZİANTEP TCDD Tren İstasyonları (Railway stations in GAZİANTEP)",
+  "description": "GAZİANTEP ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in GAZİANTEP province.) (3 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "GAZİANTEP",
+      "il": "GAZİANTEP",
+      "kaynak_metin": "GAZİANTEP , GAZİANTEP",
+      "gidis_id": 840,
+      "donus_id": "",
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 3
+    },
+    {
+      "istasyon": "MUSTAFAYAVUZ",
+      "il": "GAZİANTEP",
+      "kaynak_metin": "MUSTAFAYAVUZ , GAZİANTEP",
+      "gidis_id": "",
+      "donus_id": 804,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NİZİP",
+      "il": "GAZİANTEP",
+      "kaynak_metin": "NİZİP , GAZİANTEP",
+      "gidis_id": 806,
+      "donus_id": 806,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "GAZİANTEP TCDD Tren İstasyonları (Railway stations in GAZİANTEP) - Ücretsiz İndir",
+    "description": "GAZİANTEP ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in GAZİANTEP province.) (3 kayıt.) İçerik 3 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "GAZİANTEP TCDD Tren İstasyonları (Railway stations in GAZİANTEP) | ListBase",
+    "seo_description": "İndir GAZİANTEP TCDD Tren İstasyonları (Railway stations in GAZİANTEP) — 3 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 3 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

@@ -1,0 +1,669 @@
+{
+  "id": "tech-html-entities",
+  "name": "HTML Karakter Varlıkları ve Özel Semboller Veri Kümesi",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "entity",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "entity": "&amp;",
+      "character": "&",
+      "code_point": "U+0026",
+      "decimal": "&#38;",
+      "name": "Ampersant",
+      "category": "Temel"
+    },
+    {
+      "entity": "&lt;",
+      "character": "<",
+      "code_point": "U+003C",
+      "decimal": "&#60;",
+      "name": "Küçüktür işareti",
+      "category": "Temel"
+    },
+    {
+      "entity": "&gt;",
+      "character": ">",
+      "code_point": "U+003E",
+      "decimal": "&#62;",
+      "name": "Büyüktür işareti",
+      "category": "Temel"
+    },
+    {
+      "entity": "&quot;",
+      "character": "\"",
+      "code_point": "U+0022",
+      "decimal": "&#34;",
+      "name": "Tırnak işareti",
+      "category": "Temel"
+    },
+    {
+      "entity": "&apos;",
+      "character": "'",
+      "code_point": "U+0027",
+      "decimal": "&#39;",
+      "name": "Kesme işareti",
+      "category": "Temel"
+    },
+    {
+      "entity": "&nbsp;",
+      "character": " ",
+      "code_point": "U+00A0",
+      "decimal": "&#160;",
+      "name": "Kesintisiz boşluk",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&ensp;",
+      "character": " ",
+      "code_point": "U+2002",
+      "decimal": "&#8194;",
+      "name": "En boşluk",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&emsp;",
+      "character": " ",
+      "code_point": "U+2003",
+      "decimal": "&#8195;",
+      "name": "Em boşluk",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&thinsp;",
+      "character": " ",
+      "code_point": "U+2009",
+      "decimal": "&#8201;",
+      "name": "İnce boşluk",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&shy;",
+      "character": "­",
+      "code_point": "U+00AD",
+      "decimal": "&#173;",
+      "name": "Yumuşak kısa çizgi",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&zwj;",
+      "character": "‍",
+      "code_point": "U+200D",
+      "decimal": "&#8205;",
+      "name": "Sıfır genişlik birleştirici",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&zwnj;",
+      "character": "‌",
+      "code_point": "U+200C",
+      "decimal": "&#8204;",
+      "name": "Sıfır genişlik birleştirmeyici",
+      "category": "Boşluk"
+    },
+    {
+      "entity": "&ndash;",
+      "character": "–",
+      "code_point": "U+2013",
+      "decimal": "&#8211;",
+      "name": "En kısa çizgi",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&mdash;",
+      "character": "—",
+      "code_point": "U+2014",
+      "decimal": "&#8212;",
+      "name": "Em kısa çizgi",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&lsquo;",
+      "character": "‘",
+      "code_point": "U+2018",
+      "decimal": "&#8216;",
+      "name": "Sol tek tırnak işareti",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&rsquo;",
+      "character": "’",
+      "code_point": "U+2019",
+      "decimal": "&#8217;",
+      "name": "Sağ tek tırnak işareti",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&ldquo;",
+      "character": "“",
+      "code_point": "U+201C",
+      "decimal": "&#8220;",
+      "name": "Sol çift tırnak işareti",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&rdquo;",
+      "character": "”",
+      "code_point": "U+201D",
+      "decimal": "&#8221;",
+      "name": "Sağ çift tırnak işareti",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&laquo;",
+      "character": "«",
+      "code_point": "U+00AB",
+      "decimal": "&#171;",
+      "name": "Sola dönük çift açılı tırnak",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&raquo;",
+      "character": "»",
+      "code_point": "U+00BB",
+      "decimal": "&#187;",
+      "name": "Sağa dönük çift açılı tırnak",
+      "category": "Noktalama"
+    },
+    {
+      "entity": "&hellip;",
+      "character": "…",
+      "code_point": "U+2026",
+      "decimal": "&#8230;",
+      "name": "Yatay Üç Nokta",
+      "category": "Noktalama İşaretleri"
+    },
+    {
+      "entity": "&bull;",
+      "character": "•",
+      "code_point": "U+2022",
+      "decimal": "&#8226;",
+      "name": "Madde İşareti",
+      "category": "Noktalama İşaretleri"
+    },
+    {
+      "entity": "&middot;",
+      "character": "·",
+      "code_point": "U+00B7",
+      "decimal": "&#183;",
+      "name": "Orta Nokta",
+      "category": "Noktalama İşaretleri"
+    },
+    {
+      "entity": "&copy;",
+      "character": "©",
+      "code_point": "U+00A9",
+      "decimal": "&#169;",
+      "name": "Telif Hakkı İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&reg;",
+      "character": "®",
+      "code_point": "U+00AE",
+      "decimal": "&#174;",
+      "name": "Tescilli İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&trade;",
+      "character": "™",
+      "code_point": "U+2122",
+      "decimal": "&#8482;",
+      "name": "Ticari Marka İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&deg;",
+      "character": "°",
+      "code_point": "U+00B0",
+      "decimal": "&#176;",
+      "name": "Derece İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&sect;",
+      "character": "§",
+      "code_point": "U+00A7",
+      "decimal": "&#167;",
+      "name": "Bölüm İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&para;",
+      "character": "¶",
+      "code_point": "U+00B6",
+      "decimal": "&#182;",
+      "name": "Paragraf İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&dagger;",
+      "character": "†",
+      "code_point": "U+2020",
+      "decimal": "&#8224;",
+      "name": "Hançer İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&Dagger;",
+      "character": "‡",
+      "code_point": "U+2021",
+      "decimal": "&#8225;",
+      "name": "Çift Hançer İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&prime;",
+      "character": "′",
+      "code_point": "U+2032",
+      "decimal": "&#8242;",
+      "name": "Tek Üst Tırnak İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&Prime;",
+      "character": "″",
+      "code_point": "U+2033",
+      "decimal": "&#8243;",
+      "name": "Çift Üst Tırnak İşareti",
+      "category": "Tipografi Sembolleri"
+    },
+    {
+      "entity": "&plus;",
+      "character": "+",
+      "code_point": "U+002B",
+      "decimal": "&#43;",
+      "name": "Artı İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&minus;",
+      "character": "−",
+      "code_point": "U+2212",
+      "decimal": "&#8722;",
+      "name": "Eksi İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&times;",
+      "character": "×",
+      "code_point": "U+00D7",
+      "decimal": "&#215;",
+      "name": "Çarpma İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&divide;",
+      "character": "÷",
+      "code_point": "U+00F7",
+      "decimal": "&#247;",
+      "name": "Bölme İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&plusmn;",
+      "character": "±",
+      "code_point": "U+00B1",
+      "decimal": "&#177;",
+      "name": "Artı Eksi İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&ne;",
+      "character": "≠",
+      "code_point": "U+2260",
+      "decimal": "&#8800;",
+      "name": "Eşit Değildir İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&le;",
+      "character": "≤",
+      "code_point": "U+2264",
+      "decimal": "&#8804;",
+      "name": "Küçük Eşit İşareti",
+      "category": "Matematik Sembolleri"
+    },
+    {
+      "entity": "&ge;",
+      "character": "≥",
+      "code_point": "U+2265",
+      "decimal": "&#8805;",
+      "name": "Büyüktür veya Eşittir",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&asymp;",
+      "character": "≈",
+      "code_point": "U+2248",
+      "decimal": "&#8776;",
+      "name": "Neredeyse Eşittir",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&infin;",
+      "character": "∞",
+      "code_point": "U+221E",
+      "decimal": "&#8734;",
+      "name": "Sonsuzluk",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&radic;",
+      "character": "√",
+      "code_point": "U+221A",
+      "decimal": "&#8730;",
+      "name": "Kare Kök",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&sum;",
+      "character": "∑",
+      "code_point": "U+2211",
+      "decimal": "&#8721;",
+      "name": "N-li Toplama",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&prod;",
+      "character": "∏",
+      "code_point": "U+220F",
+      "decimal": "&#8719;",
+      "name": "N-li Çarpım",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&int;",
+      "character": "∫",
+      "code_point": "U+222B",
+      "decimal": "&#8747;",
+      "name": "İntegral",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&permil;",
+      "character": "‰",
+      "code_point": "U+2030",
+      "decimal": "&#8240;",
+      "name": "Promil İşareti",
+      "category": "Matematik"
+    },
+    {
+      "entity": "&frac14;",
+      "character": "¼",
+      "code_point": "U+00BC",
+      "decimal": "&#188;",
+      "name": "Basit Kesir Çeyrek",
+      "category": "Kesirler"
+    },
+    {
+      "entity": "&frac12;",
+      "character": "½",
+      "code_point": "U+00BD",
+      "decimal": "&#189;",
+      "name": "Basit Kesir Yarım",
+      "category": "Kesirler"
+    },
+    {
+      "entity": "&frac34;",
+      "character": "¾",
+      "code_point": "U+00BE",
+      "decimal": "&#190;",
+      "name": "Basit Kesir Üç Çeyrek",
+      "category": "Kesirler"
+    },
+    {
+      "entity": "&cent;",
+      "character": "¢",
+      "code_point": "U+00A2",
+      "decimal": "&#162;",
+      "name": "Cent İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "entity": "&pound;",
+      "character": "£",
+      "code_point": "U+00A3",
+      "decimal": "&#163;",
+      "name": "Sterlin İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "entity": "&yen;",
+      "character": "¥",
+      "code_point": "U+00A5",
+      "decimal": "&#165;",
+      "name": "Yen İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "entity": "&euro;",
+      "character": "€",
+      "code_point": "U+20AC",
+      "decimal": "&#8364;",
+      "name": "Euro İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "entity": "&curren;",
+      "character": "¤",
+      "code_point": "U+00A4",
+      "decimal": "&#164;",
+      "name": "Para Birimi İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "entity": "&larr;",
+      "character": "←",
+      "code_point": "U+2190",
+      "decimal": "&#8592;",
+      "name": "Sola Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&uarr;",
+      "character": "↑",
+      "code_point": "U+2191",
+      "decimal": "&#8593;",
+      "name": "Yukarı Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&rarr;",
+      "character": "→",
+      "code_point": "U+2192",
+      "decimal": "&#8594;",
+      "name": "Sağa Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&darr;",
+      "character": "↓",
+      "code_point": "U+2193",
+      "decimal": "&#8595;",
+      "name": "Aşağı Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&harr;",
+      "character": "↔",
+      "code_point": "U+2194",
+      "decimal": "&#8596;",
+      "name": "Sol Sağ Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&lArr;",
+      "character": "⇐",
+      "code_point": "U+21D0",
+      "decimal": "&#8656;",
+      "name": "Sola Çift Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&rArr;",
+      "character": "⇒",
+      "code_point": "U+21D2",
+      "decimal": "&#8658;",
+      "name": "Sağa Çift Ok",
+      "category": "Oklar"
+    },
+    {
+      "entity": "&Agrave;",
+      "character": "À",
+      "code_point": "U+00C0",
+      "decimal": "&#192;",
+      "name": "Grave Aksanlı Latin Büyük Harf A",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Aacute;",
+      "character": "Á",
+      "code_point": "U+00C1",
+      "decimal": "&#193;",
+      "name": "Akut Aksanlı Latin Büyük Harf A",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Acirc;",
+      "character": "Â",
+      "code_point": "U+00C2",
+      "decimal": "&#194;",
+      "name": "Şapkalı Latin Büyük Harf A",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Atilde;",
+      "character": "Ã",
+      "code_point": "U+00C3",
+      "decimal": "&#195;",
+      "name": "Tildeli Latin Büyük Harf A",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Auml;",
+      "character": "Ä",
+      "code_point": "U+00C4",
+      "decimal": "&#196;",
+      "name": "Trema İşaretli Latin Büyük Harf A",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Ccedil;",
+      "character": "Ç",
+      "code_point": "U+00C7",
+      "decimal": "&#199;",
+      "name": "Sedilli Latin Büyük Harf C",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Egrave;",
+      "character": "È",
+      "code_point": "U+00C8",
+      "decimal": "&#200;",
+      "name": "Grave Aksanlı Latin Büyük Harf E",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Eacute;",
+      "character": "É",
+      "code_point": "U+00C9",
+      "decimal": "&#201;",
+      "name": "Akut Aksanlı Latin Büyük Harf E",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Ntilde;",
+      "character": "Ñ",
+      "code_point": "U+00D1",
+      "decimal": "&#209;",
+      "name": "Tildeli Latin Büyük Harf N",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Ouml;",
+      "character": "Ö",
+      "code_point": "U+00D6",
+      "decimal": "&#214;",
+      "name": "Trema İşaretli Latin Büyük Harf O",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&Uuml;",
+      "character": "Ü",
+      "code_point": "U+00DC",
+      "decimal": "&#220;",
+      "name": "Trema İşaretli Latin Büyük Harf U",
+      "category": "Aksanlı"
+    },
+    {
+      "entity": "&szlig;",
+      "character": "ß",
+      "code_point": "U+00DF",
+      "decimal": "&#223;",
+      "name": "Latin Küçük Harf Eszett",
+      "category": "Aksanlı"
+    }
+  ],
+  "meta": {
+    "seo_title": "HTML Karakter Varlıkları Listesi - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Gerekli semboller ve kodlar dahil 75 HTML karakter varlığını ücretsiz indirin. Geliştiriciler ve tasarımcılar için Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "HTML Karakter Varlıkları ve Özel Semboller Veri Kümesi",
+    "description": "Bu veri kümesi, 75 yaygın HTML karakter varlığının, ilgili karakteri, kod noktası, ondalık kodu, adı ve kategorisi dahil olmak üzere kapsamlı bir listesini sunar. Web geliştirme için temel bir kaynaktır.",
+    "key_takeaways": [
+      "75 HTML karakter varlığının ve ayrıntılarının tam listesine erişin.",
+      "&amp;, &lt;, &gt;, &quot; ve &apos; gibi temel sembolleri keşfedin.",
+      "Kolay referans ve entegrasyon için karakter kodlarını (kod noktası, ondalık) indirin.",
+      "Web uygulamalarında özel karakterlerin doğru görüntülenmesini sağlamak için bu veriyi kullanın."
+    ],
+    "keywords": [
+      "html karakter varlıkları",
+      "özel html karakterleri",
+      "html varlık kodları",
+      "web geliştirme karakterleri csv",
+      "html sembolleri excel",
+      "unicode html varlıkları"
+    ],
+    "use_cases": [
+      "Web uygulamanız veya CMS veritabanınıza **CSV** dosyasını aktararak özel karakterlerin doğru görüntülenmesini sağlayın veya içerik ayrıştırma için Python betiklerinde kullanın.",
+      "**Excel** dosyasını, dokümantasyon için karakter özelliklerini filtrelemek, sıralamak ve analiz etmek veya tasarım projeleri için belirli varlıkları hızla aramak için kullanın.",
+      "Kodlama oturumları sırasında hızlı, çevrimdışı bir referans kılavuzu olarak veya web tasarım derslerinde eğitim amaçlı olarak **PDF** sürümünü yazdırın.",
+      "Kullanıcı girişini doğrulamak ve temizlemek, HTML özel karakterlerini doğru şekilde kodlayarak çapraz site betik (XSS) saldırılarını önlemek için bu veri kümesinden yararlanın."
+    ]
+  },
+  "record_count": 75,
+  "title": "HTML Karakter Varlıkları ve Özel Semboller Veri Kümesi"
+}

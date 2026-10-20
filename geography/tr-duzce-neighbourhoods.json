@@ -1,0 +1,4860 @@
+{
+  "id": "tr-duzce-neighbourhoods",
+  "name": "Düzce Mahalleleri (Düzce Neighbourhoods)",
+  "title": "Düzce Mahalleleri (Düzce Neighbourhoods)",
+  "description": "Düzce ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (687 kayıt.) (All neighbourhoods (mahalle) in Düzce province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 687,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Acara Mah (doğancılar Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ahmetdağı Mah (tahirli Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akkaya Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Altunçay Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Arabacı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ayazlı Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Balatlı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Battallar Mah (karatavuk Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Beyhanlı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Beylik Ağacı Mah (kurukavak Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Beyören Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dadalı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Davutağa Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Deredibi Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dilaver Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Doğancılar Mah (doğancılar Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Döngelli Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Döngelli Mah (döngelli Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Edilli Ağzı Mah (edilli Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Edilli Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Esmahanım Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fakıllı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Giresunlular Mah (doğancılar Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Göktepe Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacı Yusuflar Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hemşin Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kalkın Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaburun 2 Mah (hasançavuş Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaburun Mah (hasançavuş Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah (karatavuk Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kepenç Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Keçikaya Mah (paşalar Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kirazyanı Mah (çayağzı Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Koçar Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Koçullu Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kumpınar Mah (çayağzı Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kurugöl Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kurukavak Mah (kurukavak Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (hasançavuş Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (karatavuk Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Küpler Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kınık Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Melenağzı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karatavuk Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Nazımbey Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ortanca Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Paşalar Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarıyayla Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Subaşı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tahirli Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah (beyhanlı Köyü)",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Akçakoca",
+      "postal_code": "81650",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çayağzı Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çiçekpınar Köyü",
+      "district_name": "Akçakoca",
+      "postal_code": "81652",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ali Usta Mah (çelikdere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Alt Mah (çelikdere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Arif Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (subaşı Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (kızılüzüm Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (yenitepe Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah (subaşı Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Elmalıdere Mah (yeşiltepe Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Esentepe Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Eskioğlu Mah (yeşiltepe Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fırınyanı Mah (ordulukaradere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (ordulukaradere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Harmankaya Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hatipoğlu Mah (kızılüzüm Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Iğdır Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kabaçayır Mah (avlayan Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kaşaltı Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kersen Düzü Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Korazoğlu Mah (dokuzdeğirmen Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kozlar Mah (avlayan Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuru Ali Mah (kızılüzüm Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuz Mah (ordulukaradere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Küreklik Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah (yeşiltepe Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah (çelikdere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah",
+      "district_name": "Cumayeri",
+      "postal_code": "81700",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (avlayan Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (büyükmelen Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dokuzdeğirmen Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hamascık Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kızılüzüm Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ordulukaradere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sırtpınar Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yenitepe Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çelikdere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mısırlık Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (ordulukaradere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Cumayeri",
+      "postal_code": "81700",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (yeşiltepe Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Osmancık Mah (avlayan Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Süleyman Hancı Mah (büyükmelen Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sıvazoğlu Mah (üvezbeli Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Taşlık Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tomas Mah (hamascık Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah",
+      "district_name": "Cumayeri",
+      "postal_code": "81700",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Cumayeri",
+      "postal_code": "81700",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarıavlayan Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çamlıpınar Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çevrik Mah",
+      "district_name": "Cumayeri",
+      "postal_code": "81700",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ören Köyü",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ören Mah (sırtpınar Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Öreniçi Mah (çelikdere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İmriz Mah (hamascık Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şakir Mah (ordulukaradere Köyü)",
+      "district_name": "Cumayeri",
+      "postal_code": "81702",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aksu Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Albayrak Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Alt Mah (bekiroğlu Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Açma Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Açma Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bakacak Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Balkaya Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bıçkı Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cevizlik Mah (hamamüstü Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cino Mah (yunusefendi Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cumakırı Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Deli Mehmet Mah (güzeldere Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Delihüseyin Mah (değirmentepe Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (hamamüstü Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (çamlıbel Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dursunlu Mah (değirmentepe Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Esen Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gölcük Mah (hamamüstü Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güzeldere Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacıoğlu Mah (bekiroğlu Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacısüleymanbey Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacıyakup Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaca Mah (çamlıbel Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karamahmut Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kemeryanı Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kum Mah (bekiroğlu Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kurtdüzü Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuyudüzü Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kızılcık Mah (değirmentepe Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (bekiroğlu Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (değirmentepe Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hamamüstü Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yunusefendi Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çamlıbel Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Muhapdede Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (hamamüstü Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarıdere Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Taşlık Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yanık 1 Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yanık 2 Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yazlık  Mah (yazlık Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yazlık Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yazıpınar Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Zekeriya Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çay Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İmamlar Mah",
+      "district_name": "Gölyaka",
+      "postal_code": "81800",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İçmeler Köyü",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şimşirlitepe Mah (saçmalıpınar Köyü)",
+      "district_name": "Gölyaka",
+      "postal_code": "81802",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Adaköy Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Adaköyü Mah (adaköy Köyü)",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ardıçdibi Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dededüzü Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Elmacık Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Gümüşova",
+      "postal_code": "81850",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacıkadirler Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacıkadirler Mah (hacıkadirler Köyü)",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Gümüşova",
+      "postal_code": "81850",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Halilbey Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kahveleryanı Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kahveleryanı Mah (kahveleryanı Köyü)",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Gümüşova",
+      "postal_code": "81850",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kıyıköy Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah",
+      "district_name": "Gümüşova",
+      "postal_code": "81850",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Gümüşova",
+      "postal_code": "81850",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Pazarcık Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Selamlar Mah (selamlar Köyü)",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sultaniye Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yakabaşı Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yakabaşı Mah (yakabaşı Köyü)",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Gümüşova",
+      "postal_code": "81850",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilyayla Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yongalık Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yıldıztepe Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çaybükü Köyü",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çaybükü Mah (çaybükü Köyü)",
+      "district_name": "Gümüşova",
+      "postal_code": "81852",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "28 Evler Mah (darıyeri Yörükler Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Alt Mah (hacıazizler Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Alt Mah (çatalçam Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Başyazıcıoğlu Dağ Evleri Mah (darıyeribakacak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bektaşlı Mah (bıçkıyanı Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bülbüldere Mah (çamoluk Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "D-100 Boludağı Karayolu Mah (darıyeribakacak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "D-100 Karayolu Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Degirmenyanı Mah (sarıçökek Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (çamlıca Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dereboyu Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dip Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Doğantepe Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Düzgöstek Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Düzormanı Mah (sarıçökek Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Eskiköy Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Eğreltili Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (üçköprü Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fenerbahçe Mah (üçköprü Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Köyü",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Mah (çatalçam Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güldere Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (sazköy Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacımehmet Mah (darıyerimengencik Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hamzalı Mah (bıçkıyanı Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hendanoğlu Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kahveci Mah (darıyerimengencik Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaçalı Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Koytaklı Mah (çamlıca Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kulubeyanı Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kumluca Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuzumlu Mah (bıçkıyanı Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mehmetpınar Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (altunköy Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (bıçkıyanı Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (darıyeri Yörükler Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (darıyeribakacak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (darıyerimengencik Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hacıazizler Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (muratbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sarıçökek Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sazköy Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (tavak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeşiltepe Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çamlıca Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çamoluk Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çatalçam Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Meşelik Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Oflu Mah (altunköy Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Onbaşı Mah (tavak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (hacıazizler Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Osmançavuş Mah (tavak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarıyer Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sinekli Mah (çakırsayvan Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Mah (yeşiltepe Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tahtalık Mah (sarıçökek Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Taşaltı Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tekirsu Mah (dipsizgöl Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tütekyatak Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ufuk Mah (üçköprü Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Velioğlu Aliosman Mah (muratbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Veyselusta Mah (tavak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Bilal Mah (muratbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah (üçköprü Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çakırsayvan Köyü",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah (çatalçam Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çaykara Mah (yeşiltepe Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çele Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çillioğlu Mah (sarıçökek Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çimenlikoruluk Mah (tavak Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Üst Mah (çatalçam Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İlhanlı Mah (yeniyurt Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şafak Mah (üçköprü Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şevki Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şimşir Mah",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81900",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah (darıyerihasanbey Köyü)",
+      "district_name": "Kaynaşlı",
+      "postal_code": "81902",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Afanoğlu Mah (yeni Aynalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akbıyıklar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aktarla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akçalar Mah (otluoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Akınlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Alaçam Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Altınpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Arapçiftliği Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aynalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aziziye Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Azmimilli Mah",
+      "district_name": "Merkez",
+      "postal_code": "81020",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Açmalar Mah (asar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ağaköyü Mah",
+      "district_name": "Merkez",
+      "postal_code": "81020",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yörük Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ballar Mah (boğaziçi Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bataklı Çiftlik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Beyciler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Beytepe Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bostanlık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bucakkurulu Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bük Mah (çınardüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Büyükaçma Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Capoğlu Mah (kabalak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cedidiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cuma Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (üçyol Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Osb2 Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Darıcı Mah",
+      "district_name": "Merkez",
+      "postal_code": "81020",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dedeler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Demetevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah (asar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Depo Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (kurtsuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Derelitütüncü Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Develi Besni Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Develi Mah (hacı Ahmetler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Değirmenbaşı Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Değirmenüstü Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dinler Mah (kabalak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dokuzpınar Mah (boğaziçi Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Doruk Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah (doğanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Duraklar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Efendi Mah (hocaoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Eminaçma Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Erdemli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Esentepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fabrika Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fevziçakmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Aksu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Fındıkçukuru Mah (uğur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gökçe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güldere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gümüşpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Günbaşı Mah (günbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gündolaması Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güzelbahçe Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gıcır Mah (otluoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacı Aliler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacımustafadüzü Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hacıyatağı Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hakkı Hoca Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hamamdağı Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hamamüstü Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hamza Mah (aybaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hasanlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hatipli Mah (hatipli Ketenciler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hatıplar Mah (sinirci Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hecinler Mah (esençam Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (üçyol Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kadıoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kaledibi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kalyoncu Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kara Ağaç Mah (günbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kara Hacımusa Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaca Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karadere Hasanağa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karasakal Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaçavuş Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaömer Mah (düverdüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kardelen Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kasım Mah (kemerkasım Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kavakbıçkı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kavaklar Mah (sinirci Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kazukoğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah (kemerkasım Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ketenciler Mah (hatipli Ketenciler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kiremitocağı Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kireçkuyusu Mah (güven Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kocayayla Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Konaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kozluk Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Koçyazı Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kurudere Mah (dağdibi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuruluk Mah (çınardüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuruoğlu Mah (ozanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kutlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuyumcuhacıali Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuşaçması Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuşyuvası Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Körpeşler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kürt Mah (ballıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Küçükahmet Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Küçükmehmet Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kırkacak Mah (güven Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kızılcık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mamure Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mergiç Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (asar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (aybaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (bahçe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ballıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dağdibi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (düverdüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (düz Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (esençam Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (eski Mengencik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (günbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (güven Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hacı Ahmetler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hocaoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (istilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kabalak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kaymakçı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kirazlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kurtsuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (muncurlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (nasırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (otluoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ozanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sinirci Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (taşköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (uğur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeni Aynalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeni Taşköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yörük Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çınardüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (üçyol Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mezarlık Mah (kabalak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mollaoğlu Mah (ozanlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Muncurlu Mah (muncurlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Muradiyemengencik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Musababa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Musababa Mah (musababa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Nalbantoğlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Nuhlar Mah (nasırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Nuhlar Mah (nuhlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Nusret Yılmaz Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Nusrettin Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (otluoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (yeni Aynalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Osmanca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Otlaklar Mah (kurtsuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ova Mah (yeni Aynalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ovapınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Paşakonağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Paşaormanı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Petekli Mah (kurtsuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Poyraz Mah (günbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Pınarlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sadık Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sallar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sancakdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sancaklar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Santral Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarayyeri Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarıkasım Mah (nasırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarıçam Mah (çınardüzü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Soğukpınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Suncuk Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tantan Kuyu Mah (kurtsuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tatil Köyü Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tekirpınar Mah (kabalak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tepe Altı Mah (güven Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Terzialiler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tokmaktarla Mah (nasırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tokuşlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tonyalı Mah (kurtsuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Turaplar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tütünlük Mah (samandere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tınaz Mah (yeni Taşköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Uzunali Mah (gölormanı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Uzunmustafa Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Uçuk Mah (uğur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yahyalar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yaka Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yamalı Mah (istilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yanık Mah (derdin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yayakbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yayla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yaylakapı Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah (boğaziçi Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Karaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (bahçe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kirazlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah (boğaziçi Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilçam Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilçam Mah (yeşilçam Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşilçimen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (günbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yörük Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Yahyalar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yunuslar Mah (kemerkasım Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yılankaya Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çakmanlar Mah (sinirci Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çakırhacı İbrahim Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çakırlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çalıcuma Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çam Mah (eski Mengencik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çamköy Mah",
+      "district_name": "Merkez",
+      "postal_code": "81040",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çamlıevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "81630",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah (uğur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çamlısu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81030",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Merkez",
+      "postal_code": "81020",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Mah (nasırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çayırtarla Mah (boğaziçi Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çiftepınarlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çimen Mah (yeni Taşköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çiçek Mah (istilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çobanoğlu Mah (yeni Aynalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çorak Mah (kaymakçı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çorak Mah (uğur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Özyanık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Üçkese Mah (esençam Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İslahiye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İslahiye Mah (islahiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (üçyol Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İstiklal Osb1 Mah (beyköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81600",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İzmirli Mah (kabalak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şaziye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şehit Bayram Gökmen Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şehit Hüseyin Kıl Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şehit Kemal Işıldak Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şehit Murat Demir Mah",
+      "district_name": "Merkez",
+      "postal_code": "81620",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şekerpınar Mah (boğaziçi Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "81610",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "81010",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şose Altı Mah (aydınpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "81100",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şıralık Mah",
+      "district_name": "Merkez",
+      "postal_code": "81020",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ahmetçiler Mah",
+      "district_name": "Yığılca",
+      "postal_code": "81950",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aksu Mah (hoşafoğlu Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Asar Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Yığılca",
+      "postal_code": "81950",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Avutluk Mah (dibektaş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aydın Mah (dutlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aydınyayla Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (hacılar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yılgın Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Belen Mah (hocatman Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dereiçi Mah (yılgın Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dokuz Mah (hacıyeri Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Doğancılar Mah (redifler Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Elmas Mah (dibektaş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah (tıraşlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gaziler Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gelenöz Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güney Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (geriş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (çamlı Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Güneyaltı Mah (güney Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hebeler Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karakiraz Mah (kırık Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kazaklar Mah (gökçeağaç Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kirseyanı Mah (hocatman Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuruca Mah (yeniyer Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuruhüseyin Mah (dibektaş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuzey Mah (çamlı Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mareşal Fevzi  Çakmak Mah",
+      "district_name": "Yığılca",
+      "postal_code": "81950",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mehmetköy Mah (aksaklar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Melen Kıyısı Mah (bekirler Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mengen Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (akçaören Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (bekirler Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dibektaş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (doğanlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dutlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (geriş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (gökçeağaç Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hacıyeri Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hocatman Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hoşafoğlu Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karakaş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kocaoğlu Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kırık Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (naşlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (redifler Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (tıraşlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeniyer Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çukurören Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Yığılca",
+      "postal_code": "81950",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (aksaklar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (hocaköy Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Osmancık Mah (yılgın Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Pınarcık Mah (kocaoğlu Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Resuller Mah (çukurören Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Salavat Mah (kırık Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Setlik Mah (geriş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tavukpınarı Mah (çamlı Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Turnacılar Mah (akçaören Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tuğrul Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Vayıslar Mah (doğanlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yaplar Mah (karakaş Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yaylatepe Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yoğunpelit Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Akçaören Mah (kocaoğlu Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (hacılar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (hocaköy Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yılgın Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (çamlı Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yörükler Mah (gökçeağaç Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çayırcık Mah (kırık Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çorak Mah (bekirler Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çırnık Mah (aksaklar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İsmailçayırı Mah (akçaören Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İğneler Köyü",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şaban Mah (gökçeağaç Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şabanlar Mah (gökçeağaç Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şerenaltı Mah (naşlar Köyü)",
+      "district_name": "Yığılca",
+      "postal_code": "81952",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Alimler Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Arabacı Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Bıçkıbaşı Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Dikmeli Mah (dikmeli Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Döngelli Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Esenli Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Gülebeler Mah (dikmeli Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Hızardere Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kafyayla Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kanal Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Karaçörtlen Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kavaklık Mah (kırkharman Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kiraztarla Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kocaveliler Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kuşoğlu Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Mahirağa Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (alacamescit Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dikmeli Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kırkharman Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yenivakıf Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orman Mah (alacamescit Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Sarımeşe Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah (söğütlü Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Topçular Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ulucami Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yenivakıf Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarıkaraköy Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Yukarıköy Mah (kırkharman Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çakallar Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çalılık Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Çilimli Osb Mah (söğütlü Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Ömercikler Mah (pırpır Köyü)",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "İshaklar Köyü",
+      "district_name": "Çilimli",
+      "postal_code": "81752",
+      "city_code": "81",
+      "city_name": "Düzce"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Çilimli",
+      "postal_code": "81750",
+      "city_code": "81",
+      "city_name": "Düzce"
+    }
+  ],
+  "meta": {
+    "title": "Düzce Mahalleleri (Düzce Neighbourhoods) - Ücretsiz İndir",
+    "description": "Düzce ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (687 kayıt.) (All neighbourhoods (mahalle) in Düzce province with their parent district and postal code.) İçerik 687 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Düzce Mahalleleri (Düzce Neighbourhoods) | ListBase",
+    "seo_description": "İndir Düzce Mahalleleri (Düzce Neighbourhoods) — 687 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 687 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

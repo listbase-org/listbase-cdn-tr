@@ -1,0 +1,97 @@
+{
+  "id": "tr-tekirdag-tcdd-istasyonlari",
+  "name": "TEKİRDAĞ TCDD Tren İstasyonları (Railway stations in TEKİRDAĞ)",
+  "title": "TEKİRDAĞ TCDD Tren İstasyonları (Railway stations in TEKİRDAĞ)",
+  "description": "TEKİRDAĞ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in TEKİRDAĞ province.) (4 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "MURATLI",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "MURATLI , TEKİRDAĞ",
+      "gidis_id": 1025,
+      "donus_id": 1025,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "VELİMEŞE",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "VELİMEŞE , TEKİRDAĞ",
+      "gidis_id": "",
+      "donus_id": 1016,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇERKEZKÖY",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "ÇERKEZKÖY , TEKİRDAĞ",
+      "gidis_id": 985,
+      "donus_id": 985,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "ÇORLU",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "ÇORLU , TEKİRDAĞ",
+      "gidis_id": 986,
+      "donus_id": 986,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    }
+  ],
+  "meta": {
+    "title": "TEKİRDAĞ TCDD Tren İstasyonları (Railway stations in TEKİRDAĞ) - Ücretsiz İndir",
+    "description": "TEKİRDAĞ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in TEKİRDAĞ province.) (4 kayıt.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "TEKİRDAĞ TCDD Tren İstasyonları (Railway stations in TEKİRDAĞ) | ListBase",
+    "seo_description": "İndir TEKİRDAĞ TCDD Tren İstasyonları (Railway stations in TEKİRDAĞ) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

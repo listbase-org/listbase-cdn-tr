@@ -1,0 +1,2592 @@
+{
+  "id": "tr-bilecik-neighbourhoods",
+  "name": "Bilecik Mahalleleri (Bilecik Neighbourhoods)",
+  "title": "Bilecik Mahalleleri (Bilecik Neighbourhoods)",
+  "description": "Bilecik ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (363 kayıt.) (All neighbourhoods (mahalle) in Bilecik province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 363,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "4 Eylül Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Aksutekke Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akçapınar Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Alibeydüzü Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Aşağıarmutlu Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bozalan Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Camiliyayla Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Darıdere Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Delielmacık Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dombayçayırı Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dübekli Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Düzağaç Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Düzdağ Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Eceköy Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Erikli Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gökçeli Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Göynücek Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Günyarık Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kandilli Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kapanalan Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karabayır Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaçayır Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kasımpaşa Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ketenlik Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kovalıca Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kozpınar Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kuyupınar Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kızılcapınar Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kızıltepe Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah (dodurga Beldesi)",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (cihangazi Köyü)",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Metristepe Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah (dodurga Beldesi)",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Muratdere Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah (dodurga Beldesi)",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Nanedere Mah (düzdağ Köyü)",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ormangüzle Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Poyra Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Poyra Mah (poyra Köyü)",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Poyraosb Mah (poyra Köyü)",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Revnak Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yediler Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yenidodurga Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeniçepni Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeniüreğil Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeşilçukurca Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ziya Gökalp Mah (dodurga Beldesi)",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çamyayla Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çaydere Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11302",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çokçapınar Köyü",
+      "district_name": "Bozüyük",
+      "postal_code": "11460",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İçköy Mah",
+      "district_name": "Bozüyük",
+      "postal_code": "11300",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akçakavak Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akçaöküz Mah (alıç Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Alıç Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Armutçuk Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Arıcaklar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Gölpazarı",
+      "postal_code": "11700",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (çımışkı Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Baltalı Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bayat Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bağışlar Mah (kavak Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bedi Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bolatlı Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bostancılar Mah (incirli Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Büyükbelen Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Büyüksusuz Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Büyüksürmeli Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Cansızlar Mah (sarıhacılar Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Demirhanlar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Derecikören Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereli Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dokuz Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Doğancılar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dumanlar Mah (kümbet Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Elmümin Mah (alıç Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gemici Mah (demirhanlar Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gökçeler Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gökçeözü Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Göldağı Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gözaçanlar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hacıdurmuşlar Mah (köprücek Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hacıköy Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaahmetler Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karacalar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kasımlar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Keskin Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kurşunlu Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kuşçuören Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Köprücek Mah (köprücek Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kümbet Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Küçüksusuz Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Küçükyenice Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Muratlar Mah (kavak Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Neçinler Mah (softalar Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ormancılar Mah (kavak Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Gölpazarı",
+      "postal_code": "11700",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Gölpazarı",
+      "postal_code": "11700",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sarıhacılar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Seyfiler Mah (taşçıahiler Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Softalar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Söğütcük Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Taşçıahiler Mah (taşçıahiler Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Tongurlar Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Türkmen Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Urgancılar Mah (tongurlar Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yağcı Mah (dokuz Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah (kavak Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çengeller Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çukurören Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çımışkı Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Üyük Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İncirli Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Gölpazarı",
+      "postal_code": "11700",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Gölpazarı",
+      "postal_code": "11700",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Şahinler Köyü",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Şıhlar Mah (kavak Köyü)",
+      "district_name": "Gölpazarı",
+      "postal_code": "11702",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Abadiye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Abbaslık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ahmetpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Alpağut Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ayvacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Aşağıköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Başköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Başköy Merkez Mah (başköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bekdemir Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Beyce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Beyce Mah (beyce Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Beşiktaş Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Cumalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Deresakarı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereşemsettin Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereşemsettin Mah (dereşemsettin Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Elmabahçe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Erkoca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ertuğrulgazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ertuğrulgazi Mah (vezirhan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11130",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (bayırköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11120",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah (bayırköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11120",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gazipaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gökpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gökpınar Mah (gökpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gülümbe Mah (gülümbe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hasandere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hürriyet 1.osb Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hürriyet 2.osb Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (gülümbe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kapaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karasu Mevki Mah (kurtköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kayalar Mah (vezirhan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11130",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kendirli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kepirler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Koyunköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (gülümbe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kurular Mah (gülümbe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kuyubaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Köprülü Mehmet Paşa Mah (vezirhan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11130",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Künceğiz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Küplü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Küplü Merkez Mah (küplü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kınık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kızıldamlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Necmiyeköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Okluca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Pelitözü Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sarmaşık Mah (bayırköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11120",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selbükü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selöz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selöz Mah (selöz Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sütlük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Taşçılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Taşçılar Mah (taşçılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (vezirhan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11130",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (yeniköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yunuslar Mah (gülümbe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çakırpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çakırpınar Mah (çakırpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah (selbükü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çukurören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İkizce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İlyasbey Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İlyasça Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (vezirhan Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "11130",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Merkez",
+      "postal_code": "11100",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Şükraniye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "11230",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Adliye Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akçapınar Mah (akçapınar Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Avdan Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ağlan Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Balçıkhisar Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Belenalan Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Benli Mah (sarıyazı Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bereket Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah (hisarcık Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Borcak Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Boyunkaya Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Büyükyenice Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Büyükyenice Mah (büyükyenice Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Camicedit Mah",
+      "district_name": "Osmaneli",
+      "postal_code": "11500",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Osmaneli",
+      "postal_code": "11500",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ciciler Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereyörük Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Düzmeşe Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ericek Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah (akçapınar Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Günüören Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Haceloğlu Mah",
+      "district_name": "Osmaneli",
+      "postal_code": "11500",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hisarcık Mah (hisarcık Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kazancı Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kaşıkçı Mah (soğucakpınar Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kızılöz Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Medetli Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Oğulpaşa Mah (oğulpaşa Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sarıyazı Mah (sarıyazı Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selimiye Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah (selimiye Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selimiyeosb Mah (selimiye Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selçik Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selçik Mah (selçik Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Soğucakpınar Mah (soğucakpınar Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeşilçimen Mah (oğulpaşa Köyü)",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çerkeşli Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Osmaneli",
+      "postal_code": "11502",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Osmaneli",
+      "postal_code": "11500",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ahmetler Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Alınca Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Arapdede Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Arapdede Mah (arapdede Köyü)",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Arpadere Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bahçesultan Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Beşikli Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bozcaarmut Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Bulduk Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Burçalık Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Büyükelmalı Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Demirköy Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereboğaz Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah (dereköy Köyü)",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Doğanlar Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dülgeroğlu Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Esemen Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Fıranlar Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Fıranlar Mah (fıranlar Köyü)",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Güde Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gümüşdere Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Günyurdu Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karadede Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaköy Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaköy Mah (karaköy Köyü)",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Küçükelmalı Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kınık Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Nazifpaşa Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Pamucakosb Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sarnıç Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sarıdayı Köyü",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah (demirköy Köyü)",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeni Yerleşim Yeri Mah (günyurdu Köyü)",
+      "district_name": "Pazaryeri",
+      "postal_code": "11802",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yüzbaşı Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Pazaryeri",
+      "postal_code": "11800",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akarbaşı Mah (çaltı Köyü)",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akçasu Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Balaban Mah",
+      "district_name": "Söğüt",
+      "postal_code": "11600",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Borcak Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Söğüt",
+      "postal_code": "11600",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereboyu Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dudaş Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dömez Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Geçitli Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gündüzbey Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Gür Mah (çaltı Köyü)",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hamitabat Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hayriye Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kayabalı Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kayhan Mah",
+      "district_name": "Söğüt",
+      "postal_code": "11600",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kepen Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Küreosb Mah (küre Köyü)",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kızılsaray Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (küre Köyü)",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Oluklu Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Söğüt",
+      "postal_code": "11600",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ortaca Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Rızapaşa Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Savcıbey Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sırhoca Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Tuzaklı Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Türkmenbaşı Mah",
+      "district_name": "Söğüt",
+      "postal_code": "11600",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yakacık Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Zemzemiye Köyü",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Şen Mah (çaltı Köyü)",
+      "district_name": "Söğüt",
+      "postal_code": "11602",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Aşağıboğaz Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Aşağıçaylı Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Batıbelenören Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Belkese Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Caferler Mah (caferler Köyü)",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Danişment Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Doğubelenören Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Esenköy Mah (esenköy Köyü)",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karahasanlar Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Katran Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kavacık Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kuşça Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kösüre Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Kükürt Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Nasuhlar Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Yenipazar",
+      "postal_code": "11780",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Selim Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Sorguncukahiler Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Tekeciler Mah (esenköy Köyü)",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Tohumlar Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ulucak Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Yenipazar",
+      "postal_code": "11780",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yukarıboğaz Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yukarıçaylı Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Yumaklı Köyü",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Yenipazar",
+      "postal_code": "11780",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çöte Mah",
+      "district_name": "Yenipazar",
+      "postal_code": "11780",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Ümitler Mah (caferler Köyü)",
+      "district_name": "Yenipazar",
+      "postal_code": "11782",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akkum Mah",
+      "district_name": "İnhisar",
+      "postal_code": "11640",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Akköy Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Güner Orbay Mah",
+      "district_name": "İnhisar",
+      "postal_code": "11640",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Harmanköy Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Hisarcık Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "İnhisar",
+      "postal_code": "11640",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Koyunlu Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (tarpak Köyü)",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Muratça Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Samrı Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Tozman Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "İnhisar",
+      "postal_code": "11640",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    },
+    {
+      "neighbourhood_name": "Çayköy Köyü",
+      "district_name": "İnhisar",
+      "postal_code": "11642",
+      "city_code": "11",
+      "city_name": "Bilecik"
+    }
+  ],
+  "meta": {
+    "title": "Bilecik Mahalleleri (Bilecik Neighbourhoods) - Ücretsiz İndir",
+    "description": "Bilecik ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (363 kayıt.) (All neighbourhoods (mahalle) in Bilecik province with their parent district and postal code.) İçerik 363 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bilecik Mahalleleri (Bilecik Neighbourhoods) | ListBase",
+    "seo_description": "İndir Bilecik Mahalleleri (Bilecik Neighbourhoods) — 363 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 363 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

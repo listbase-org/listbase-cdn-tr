@@ -1,0 +1,133 @@
+{
+  "id": "tr-nigde-tcdd-istasyonlari",
+  "name": "NİĞDE TCDD Tren İstasyonları (Railway stations in NİĞDE)",
+  "title": "NİĞDE TCDD Tren İstasyonları (Railway stations in NİĞDE)",
+  "description": "NİĞDE ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in NİĞDE province.) (8 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BOR",
+      "il": "NİĞDE",
+      "kaynak_metin": "BOR , NİĞDE",
+      "gidis_id": 109,
+      "donus_id": 109,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 26
+    },
+    {
+      "istasyon": "GÜMÜŞ",
+      "il": "NİĞDE",
+      "kaynak_metin": "GÜMÜŞ , NİĞDE",
+      "gidis_id": 799,
+      "donus_id": 799,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "HÜYÜK",
+      "il": "NİĞDE",
+      "kaynak_metin": "HÜYÜK , NİĞDE",
+      "gidis_id": 162,
+      "donus_id": 162,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "KARALAR",
+      "il": "NİĞDE",
+      "kaynak_metin": "KARALAR , NİĞDE",
+      "gidis_id": 156,
+      "donus_id": 156,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KEMERHİSAR",
+      "il": "NİĞDE",
+      "kaynak_metin": "KEMERHİSAR , NİĞDE",
+      "gidis_id": 184,
+      "donus_id": 184,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NİĞDE",
+      "il": "NİĞDE",
+      "kaynak_metin": "NİĞDE , NİĞDE",
+      "gidis_id": 185,
+      "donus_id": 185,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUKIŞLA",
+      "il": "NİĞDE",
+      "kaynak_metin": "ULUKIŞLA , NİĞDE",
+      "gidis_id": 828,
+      "donus_id": 828,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇİFTEHAN",
+      "il": "NİĞDE",
+      "kaynak_metin": "ÇİFTEHAN , NİĞDE",
+      "gidis_id": 1074,
+      "donus_id": 1074,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    }
+  ],
+  "meta": {
+    "title": "NİĞDE TCDD Tren İstasyonları (Railway stations in NİĞDE) - Ücretsiz İndir",
+    "description": "NİĞDE ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in NİĞDE province.) (8 kayıt.) İçerik 8 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "NİĞDE TCDD Tren İstasyonları (Railway stations in NİĞDE) | ListBase",
+    "seo_description": "İndir NİĞDE TCDD Tren İstasyonları (Railway stations in NİĞDE) — 8 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 8 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

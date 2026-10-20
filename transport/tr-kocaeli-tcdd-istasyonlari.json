@@ -1,0 +1,142 @@
+{
+  "id": "tr-kocaeli-tcdd-istasyonlari",
+  "name": "KOCAELİ TCDD Tren İstasyonları (Railway stations in KOCAELİ)",
+  "title": "KOCAELİ TCDD Tren İstasyonları (Railway stations in KOCAELİ)",
+  "description": "KOCAELİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KOCAELİ province.) (9 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BÜYÜKDERBENT YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "BÜYÜKDERBENT YHT , KOCAELİ",
+      "gidis_id": 794,
+      "donus_id": 794,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "DERİNCE YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "DERİNCE YHT , KOCAELİ",
+      "gidis_id": 1134,
+      "donus_id": 1134,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "DİLİSKELESİ YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "DİLİSKELESİ YHT , KOCAELİ",
+      "gidis_id": 1338,
+      "donus_id": 1338,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "GEBZE",
+      "il": "KOCAELİ",
+      "kaynak_metin": "GEBZE , KOCAELİ",
+      "gidis_id": 20,
+      "donus_id": 20,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 54
+    },
+    {
+      "istasyon": "HEREKE YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "HEREKE YHT , KOCAELİ",
+      "gidis_id": 1132,
+      "donus_id": 1132,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "KIRKİKİEVLER HT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "KIRKİKİEVLER HT , KOCAELİ",
+      "gidis_id": "",
+      "donus_id": 1394,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖSEKÖY",
+      "il": "KOCAELİ",
+      "kaynak_metin": "KÖSEKÖY , KOCAELİ",
+      "gidis_id": 1113,
+      "donus_id": 1113,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YARIMCA YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "YARIMCA YHT , KOCAELİ",
+      "gidis_id": 1133,
+      "donus_id": 1133,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İZMİT YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "İZMİT YHT , KOCAELİ",
+      "gidis_id": 1135,
+      "donus_id": 1135,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 62
+    }
+  ],
+  "meta": {
+    "title": "KOCAELİ TCDD Tren İstasyonları (Railway stations in KOCAELİ) - Ücretsiz İndir",
+    "description": "KOCAELİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KOCAELİ province.) (9 kayıt.) İçerik 9 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KOCAELİ TCDD Tren İstasyonları (Railway stations in KOCAELİ) | ListBase",
+    "seo_description": "İndir KOCAELİ TCDD Tren İstasyonları (Railway stations in KOCAELİ) — 9 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 9 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

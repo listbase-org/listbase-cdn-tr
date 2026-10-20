@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "Ortak Ağ Port Numaraları ve Hizmetleri Veri Seti",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "FTP Verisi",
+      "category": "Dosya Aktarımı",
+      "description": "Dosya Aktarım Protokolü - veri aktarımı"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "FTP Kontrolü",
+      "category": "Dosya Aktarımı",
+      "description": "Dosya Aktarım Protokolü - komut/kontrol"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "Uzaktan Erişim",
+      "description": "Secure Shell - şifreli uzaktan oturum açma"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "Uzaktan Erişim",
+      "description": "Telnet - şifresiz uzaktan oturum açma (eski)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "E-posta",
+      "description": "Basit Posta Aktarım Protokolü - e-posta gönderme"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "Ağ",
+      "description": "Domain Name System - ana bilgisayar adı çözümlemesi"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "DHCP Sunucusu",
+      "category": "Ağ",
+      "description": "Dinamik Ana Bilgisayar Yapılandırma Protokolü - sunucu"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "DHCP İstemcisi",
+      "category": "Ağ",
+      "description": "Dinamik Ana Bilgisayar Yapılandırma Protokolü - istemci"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "Dosya Aktarımı",
+      "description": "Basit Dosya Aktarım Protokolü"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "Web",
+      "description": "Köprü Metni Aktarım Protokolü - web trafiği"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "E-posta",
+      "description": "Postane Protokolü v3 - e-posta alma"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "Haberler",
+      "description": "Ağ Haber Aktarım Protokolü"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "Ağ",
+      "description": "Ağ Zaman Protokolü - zaman senkronizasyonu"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "Windows",
+      "description": "Microsoft RPC Uç Nokta Eşleyicisi"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "Windows",
+      "description": "NetBIOS Ad Hizmeti"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "Windows",
+      "description": "NetBIOS Datagram Hizmeti"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "Windows",
+      "description": "NetBIOS Oturum Hizmeti"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "E-posta",
+      "description": "İnternet Mesaj Erişim Protokolü"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "Ağ",
+      "description": "Basit Ağ Yönetim Protokolü"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "Ağ",
+      "description": "SNMP Trap - bildirimler"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "Ağ",
+      "description": "Sınır Ağ Geçidi Protokolü - yönlendirme"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Sohbet",
+      "description": "İnternet Aktarmalı Sohbet"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "Dizin",
+      "description": "Hafif Dizin Erişim Protokolü"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "Web",
+      "description": "HTTP Güvenli - şifreli web trafiği"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "Dosya Paylaşımı",
+      "description": "Sunucu Mesaj Bloğu - Windows dosya paylaşımı"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "E-posta",
+      "description": "SSL üzerinden SMTP (kullanımdan kaldırıldı, 587 kullanın)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "İnternet Anahtar Değişimi - IPsec VPN"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "Günlüğe Kaydetme",
+      "description": "Sistem Günlüğe Kaydetme Protokolü"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "Yazdırma",
+      "description": "Satır Yazıcı Daemonu - yazdırma"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "Ağ",
+      "description": "Yönlendirme Bilgi Protokolü"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "DHCPv6 İstemcisi",
+      "category": "Ağ",
+      "description": "IPv6 için DHCP - istemci"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "DHCPv6 Sunucusu",
+      "category": "Ağ",
+      "description": "IPv6 için DHCP - sunucu"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "SMTP Gönderimi",
+      "category": "E-posta",
+      "description": "Posta gönderimi (göndermek için tercih edilir)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "Dizin",
+      "description": "SSL/TLS üzerinden LDAP"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "E-posta",
+      "description": "SSL/TLS üzerinden IMAP"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "E-posta",
+      "description": "SSL/TLS üzerinden POP3"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "Proxy",
+      "description": "SOCKS proxy protokolü"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "OpenVPN varsayılan bağlantı noktası"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "Veritabanı",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "MSSQL Tarayıcı",
+      "category": "Veritabanı",
+      "description": "SQL Server Tarayıcı Hizmeti"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "Veritabanı",
+      "description": "Oracle Veritabanı dinleyicisi"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "Noktadan Noktaya Tünel Protokolü"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "Mesaj Kuyruklama Telemetri Taşıması"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "Dosya Paylaşımı",
+      "description": "Ağ Dosya Sistemi"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "Web Barındırma",
+      "description": "cPanel varsayılan portu"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "Web Barındırma",
+      "description": "SSL üzerinden cPanel"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "Dağıtık",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "Kapsayıcılar",
+      "description": "Docker REST API (şifresiz)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "Kapsayıcılar",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "Geliştirme",
+      "description": "Node.js/React/Rails geliştirme sunucusu"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "Veritabanı",
+      "description": "MySQL/MariaDB veritabanı"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "Uzaktan Erişim",
+      "description": "Uzak Masaüstü Protokolü (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "Web",
+      "description": "Alternatif HTTPS portu"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "Geliştirme",
+      "description": "Python Flask / UPnP keşfi"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "Veritabanı",
+      "description": "PostgreSQL veritabanı"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "Mesajlaşma",
+      "description": "RabbitMQ varsayılan portu"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "Uzaktan Erişim",
+      "description": "Sanal Ağ Hesaplama"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "Veritabanı",
+      "description": "Redis bellek içi veritabanı"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "Kapsayıcılar",
+      "description": "Kubernetes API sunucusu"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Sohbet",
+      "description": "IRC varsayılan portu"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "Alternatif HTTP",
+      "category": "Geliştirme",
+      "description": "Alternatif HTTP / Django geliştirme"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "HTTP Proxy",
+      "category": "Web",
+      "description": "HTTP proxy / alternatif HTTP"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "Alternatif HTTPS",
+      "category": "Web",
+      "description": "Alternatif HTTPS portu"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "Geliştirme",
+      "description": "Jupyter Notebook varsayılanı"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "Web",
+      "description": "PHP FastCGI Süreç Yöneticisi"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "İzleme",
+      "description": "Prometheus metrik sunucusu"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "Mesajlaşma",
+      "description": "Apache Kafka aracısı"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Arama",
+      "description": "Elasticsearch REST API'si"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Arama",
+      "description": "Elasticsearch düğüm iletişimi"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "Önbelleğe Alma",
+      "description": "Memcached önbellekleme sistemi"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "Veritabanı",
+      "description": "MongoDB veritabanı"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB Parça",
+      "category": "Veritabanı",
+      "description": "MongoDB parça sunucusu"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "MongoDB Yapılandırma",
+      "category": "Veritabanı",
+      "description": "MongoDB yapılandırma sunucusu"
+    }
+  ],
+  "meta": {
+    "seo_title": "Ortak Ağ Port Numaraları Listesi - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "73 ortak ağ port numarası (TCP/UDP), hizmet ve protokolleri içeren ücretsiz veri setini indirin. Excel, CSV, PDF formatlarında ağ yöneticileri, geliştiriciler ve öğrenciler için.",
+    "title": "Ortak Ağ Port Numaraları ve Hizmetleri Veri Seti",
+    "description": "Bu veri seti, ilgili protokoller (TCP/UDP), hizmetler, kategoriler ve açıklamalar dahil olmak üzere 73 ortak ağ port numarasının kapsamlı bir listesini sunar. Ağ profesyonelleri, geliştiriciler ve öğrenciler için idealdir.",
+    "key_takeaways": [
+      "73 temel TCP/UDP ağ port numarası ve hizmetlerinin derlenmiş listesine erişin.",
+      "Ortak ağ protokolleri için ayrıntılı açıklamaları ve kategorileri keşfedin.",
+      "Port numarası verilerini anında Excel, CSV veya PDF formatlarında indirin.",
+      "Bu veriyi ağ güvenliği denetimleri, yapılandırma ve öğrenme için kullanın."
+    ],
+    "keywords": [
+      "ortak ağ portları listesi",
+      "tcp udp port numaraları",
+      "ağ hizmetleri veri seti",
+      "port numaraları excel csv",
+      "ücretsiz port verisi indir",
+      "ağ protokol listesi"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza aktarın veya ağ otomasyonu ve analizi görevleri için Python betikleriyle kullanın.",
+      "**Excel** dosyasını port verilerini filtrelemek, sıralamak ve analiz etmek, ağ yönetimi için raporlar veya referans sayfaları oluşturmak için kullanın.",
+      "**PDF** sürümünü hızlı çevrimdışı referans, sınıf içi eğitim materyalleri veya dahili ağ dokümantasyonu için yazdırın.",
+      "Bilinmeyen ağ trafiğini hızlıca tanımlamak, güvenlik duvarlarını yapılandırmak veya bağlantı sorunlarını gidermek için bu veri setine başvurun."
+    ]
+  },
+  "record_count": 73,
+  "title": "Ortak Ağ Port Numaraları ve Hizmetleri Veri Seti"
+}

@@ -1,0 +1,361 @@
+{
+  "id": "tech-logic-gates",
+  "name": "Mantık Kapıları Doğruluk Tabloları Veri Seti",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "gate",
+      "label": "Gate Type",
+      "type": "string"
+    },
+    {
+      "key": "inputs",
+      "label": "Number of Inputs",
+      "type": "number"
+    },
+    {
+      "key": "input_a",
+      "label": "Input A",
+      "type": "number"
+    },
+    {
+      "key": "input_b",
+      "label": "Input B",
+      "type": "number"
+    },
+    {
+      "key": "output",
+      "label": "Output",
+      "type": "number"
+    },
+    {
+      "key": "expression",
+      "label": "Boolean Expression",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 1,
+      "expression": "¬A",
+      "description": "Girişi ters çevirir"
+    },
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 0,
+      "expression": "¬A",
+      "description": "Girişi ters çevirir"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Çıkış 1, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Çıkış 1, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Çıkış 1, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∧ B",
+      "description": "Çıkış 1, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∨ B",
+      "description": "Çıkış 1, herhangi bir giriş 1 ise"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Çıkış 1, herhangi bir giriş 1 ise"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Çıkış 1, herhangi bir giriş 1 ise"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Çıkış 1, herhangi bir giriş 1 ise"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "DEĞİL VE (NAND) - Çıkış 0, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "DEĞİL VE (NAND) - Çıkış 0, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "DEĞİL VE (NAND) - Çıkış 0, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∧ B)",
+      "description": "DEĞİL VE (NAND) - Çıkış 0, ancak her iki giriş de 1 ise"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∨ B)",
+      "description": "DEĞİL VEYA (NOR) - Çıkış 1, ancak her iki giriş de 0 ise"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "DEĞİL VEYA (NOR) - Çıkış 1, ancak her iki giriş de 0 ise"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "DEĞİL VEYA (NOR) - Çıkış 1, ancak her iki giriş de 0 ise"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "DEĞİL VEYA (NOR) - Çıkış 1, ancak her iki giriş de 0 ise"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Çıkış 1, eğer girişler farklıysa"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Çıkış 1, eğer girişler farklıysa"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Girişler farklıysa çıkış 1'dir"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Girişler farklıysa çıkış 1'dir"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Girişler aynıysa çıkış 1'dir"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Girişler aynıysa çıkış 1'dir"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Girişler aynıysa çıkış 1'dir"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Girişler aynıysa çıkış 1'dir"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 0,
+      "expression": "A",
+      "description": "Çıkış girişe eşittir (sinyal yükseltici)"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 1,
+      "expression": "A",
+      "description": "Çıkış girişe eşittir (sinyal yükseltici)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Mantıksal çıkarım (eğer A ise B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Mantıksal çıkarım (eğer A ise B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A → B",
+      "description": "Mantıksal çıkarım (eğer A ise B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Mantıksal çıkarım (eğer A ise B)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Mantık Kapıları Doğruluk Tabloları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Boolean ifadeli 32 mantık kapısı doğruluk tablosunu ücretsiz indirin. Dijital elektronik ve bilgisayar bilimi için önemlidir. Excel, CSV, PDF formatlarında.",
+    "title": "Mantık Kapıları Doğruluk Tabloları Veri Seti",
+    "description": "Bu veri seti, 32 yaygın mantık kapısı için giriş/çıkış durumları, Boolean ifadeleri ve açıklamalarını içeren kapsamlı doğruluk tabloları sunar. Dijital elektronikte öğrenme ve referans için idealdir.",
+    "key_takeaways": [
+      "32 temel mantık kapısı için doğruluk tablolarına erişin.",
+      "Her kapı için Boolean ifadelerini ve operasyonel açıklamaları keşfedin.",
+      "Dijital mantık tasarımı ve çalışması için kullanıma hazır verileri indirin.",
+      "Dijital devreleri simüle etmek için kapı türlerini, girişleri ve çıkışları kullanın."
+    ],
+    "keywords": [
+      "mantık kapıları doğruluk tabloları excel",
+      "boolean cebiri veri seti csv",
+      "dijital mantık kapıları pdf",
+      "elektronik doğruluk tablosu verisi",
+      "ücretsiz mantık kapıları indir"
+    ],
+    "use_cases": [
+      "Kapı davranışını programlı olarak analiz etmek veya dijital devre simülatörleri oluşturmak için **CSV** dosyasını Python betiklerinize veya SQL veritabanlarınıza aktarın.",
+      "Kapıları türe göre filtrelemek, özel doğruluk tablosu görünümleri oluşturmak veya eğitim amaçlı kapı mantığını hesaplamak için **Excel** dosyasını kullanın.",
+      "Sınıf referansı, çevrimdışı çalışma veya dijital elektronik temelleriyle ilgili sunumlara dahil etmek için **PDF** sürümünü yazdırın.",
+      "Mantık kapısı çıktılarını hızlı bir şekilde doğrulamak veya karmaşık dijital sistemler tasarlamak için temel bir kaynak olarak bu veri setinden yararlanın."
+    ]
+  },
+  "record_count": 32,
+  "title": "Mantık Kapıları Doğruluk Tabloları Veri Seti"
+}

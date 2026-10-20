@@ -1,0 +1,452 @@
+{
+  "id": "tech-social-media-sizes",
+  "name": "Sosyal Medya Resim Boyutları ve Ölçüleri Veri Kümesi",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "image_type",
+      "label": "Image Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (px)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "number"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "platform": "Facebook",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "180 × 180",
+      "width": 180,
+      "height": 180,
+      "aspect_ratio": "1:1",
+      "notes": "Masaüstünde 170x170 boyutunda görüntülenir"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Kapak Fotoğrafı",
+      "dimensions": "820 × 312",
+      "width": 820,
+      "height": 312,
+      "aspect_ratio": "2.63:1",
+      "notes": "Masaüstü görüntüleme boyutu"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Kapak Fotoğrafı (Mobil)",
+      "dimensions": "640 × 360",
+      "width": 640,
+      "height": 360,
+      "aspect_ratio": "16:9",
+      "notes": "Mobil görüntüleme"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Paylaşılan Resim",
+      "dimensions": "1200 × 630",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "notes": "Akış gönderi resmi"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Etkinlik Kapağı",
+      "dimensions": "1920 × 1005",
+      "width": 1920,
+      "height": 1005,
+      "aspect_ratio": "1.91:1",
+      "notes": "Etkinlik sayfası başlığı"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Hikayeler",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Tam ekran dikey"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Dairesel kırpma"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Kare Gönderi",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Standart akış gönderisi"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Dikey Gönderi",
+      "dimensions": "1080 × 1350",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "notes": "Dikey akış gönderisi"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Yatay Gönderi",
+      "dimensions": "1080 × 566",
+      "width": 1080,
+      "height": 566,
+      "aspect_ratio": "1.91:1",
+      "notes": "Yatay akış gönderisi"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Hikayeler/Reels",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Tam ekran dikey"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Dönen Görsel",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Çoklu görsel gönderisi"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "200x200 boyutunda görüntülenir"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Başlık Görseli",
+      "dimensions": "1500 × 500",
+      "width": 1500,
+      "height": 500,
+      "aspect_ratio": "3:1",
+      "notes": "Banner görseli"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Akış İçi Fotoğraf",
+      "dimensions": "1200 × 675",
+      "width": 1200,
+      "height": 675,
+      "aspect_ratio": "16:9",
+      "notes": "Tweet görseli"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Kart Görseli",
+      "dimensions": "1200 × 628",
+      "width": 1200,
+      "height": 628,
+      "aspect_ratio": "1.91:1",
+      "notes": "Bağlantı önizlemesi"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Kişisel profil"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Arka Plan Fotoğrafı",
+      "dimensions": "1584 × 396",
+      "width": 1584,
+      "height": 396,
+      "aspect_ratio": "4:1",
+      "notes": "Profil banner'ı"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Şirket Logosu",
+      "dimensions": "300 × 300",
+      "width": 300,
+      "height": 300,
+      "aspect_ratio": "1:1",
+      "notes": "Şirket sayfası"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Kapak Görseli",
+      "dimensions": "1128 × 191",
+      "width": 1128,
+      "height": 191,
+      "aspect_ratio": "5.9:1",
+      "notes": "Şirket sayfası banner'ı"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Paylaşılan Gönderi",
+      "dimensions": "1200 × 627",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1",
+      "notes": "Akış gönderisi"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Kanal Profili",
+      "dimensions": "800 × 800",
+      "width": 800,
+      "height": 800,
+      "aspect_ratio": "1:1",
+      "notes": "Kanal simgesi"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Kanal Afişi",
+      "dimensions": "2560 × 1440",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "notes": "Tam boyutlu afiş"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Video Küçük Resmi",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Özel küçük resim"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Shorts",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Dikey kısa videolar"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "200 × 200",
+      "width": 200,
+      "height": 200,
+      "aspect_ratio": "1:1",
+      "notes": "Profil resmi"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Video",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Standart video"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "165 × 165",
+      "width": 165,
+      "height": 165,
+      "aspect_ratio": "1:1",
+      "notes": "Profil resmi"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Pin Görseli",
+      "dimensions": "1000 × 1500",
+      "width": 1000,
+      "height": 1500,
+      "aspect_ratio": "2:3",
+      "notes": "Optimal pin boyutu"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Pano Kapağı",
+      "dimensions": "222 × 150",
+      "width": 222,
+      "height": 150,
+      "aspect_ratio": "3:2",
+      "notes": "Pano küçük resmi"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Snap/Hikaye",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Tam ekran içerik"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Geofiltre",
+      "dimensions": "1080 × 2340",
+      "width": 1080,
+      "height": 2340,
+      "aspect_ratio": "9:19.5",
+      "notes": "Özel filtre"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "500 × 500",
+      "width": 500,
+      "height": 500,
+      "aspect_ratio": "1:1",
+      "notes": "Profil resmi"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Durum",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Durum görseli"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Sunucu Simgesi",
+      "dimensions": "512 × 512",
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "notes": "Sunucu avatarı"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Sunucu Afişi",
+      "dimensions": "960 × 540",
+      "width": 960,
+      "height": 540,
+      "aspect_ratio": "16:9",
+      "notes": "Sunucu afişi"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Kullanıcı Avatarı",
+      "dimensions": "128 × 128",
+      "width": 128,
+      "height": 128,
+      "aspect_ratio": "1:1",
+      "notes": "Kullanıcı profili"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "256 × 256",
+      "width": 256,
+      "height": 256,
+      "aspect_ratio": "1:1",
+      "notes": "Kanal avatarı"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Profil Afişi",
+      "dimensions": "1200 × 480",
+      "width": 1200,
+      "height": 480,
+      "aspect_ratio": "2.5:1",
+      "notes": "Kanal afişi"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Video Küçük Resmi",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Yayın küçük resmi"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Profil Fotoğrafı",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Instagram ile aynı"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Gönderi Görseli",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Kare gönderi"
+    }
+  ],
+  "meta": {
+    "seo_title": "Sosyal Medya Resim Boyutları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "En popüler platformlar için 42 sosyal medya resim boyutu ve boyutunu ücretsiz indirin. Gönderi, profil, kapak için güncel özellikler. Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Sosyal Medya Resim Boyutları ve Ölçüleri Veri Kümesi",
+    "description": "Bu veri kümesi, çeşitli platformlarda 42 sosyal medya resim boyutu, ölçüleri ve en boy oranlarının kapsamlı bir listesini sunar. Profil fotoğrafları, kapak görselleri ve paylaşılan gönderiler için güncel özelliklere ulaşın.",
+    "key_takeaways": [
+      "Büyük sosyal medya platformları için güncel resim boyutu özelliklerine erişin.",
+      "42 resim türü için boyutları (genişlik, yükseklik), en boy oranlarını ve notları keşfedin.",
+      "Etkili sosyal medya görselleri tasarlamak için kullanıma hazır verileri indirin.",
+      "Sosyal medya içeriğinizi optimize etmek için temel yönergeleri edinin."
+    ],
+    "keywords": [
+      "sosyal medya resim boyutları excel",
+      "facebook resim ölçüleri csv",
+      "instagram gönderi boyutları pdf",
+      "youtube banner boyutu",
+      "sosyal medya tasarım yönergeleri",
+      "resim en boy oranı listesi"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını Python betiğinize veya API'nize aktararak, platform gereksinimlerine göre resim yüklemelerini dinamik olarak doğrulayın.",
+      "**Excel** dosyasını kullanarak platformlar arası en boy oranlarını karşılaştırmak için Pivot Tablolar oluşturun veya tasarım projelerinde hızlı başvuru için resim türüne göre filtreleyin.",
+      "**PDF** versiyonunu tasarım ekibiniz için hızlı, çevrimdışı bir referans rehberi olarak veya bir sosyal medya pazarlama atölyesinde el kitabı olarak yazdırın.",
+      "Bu verileri kullanarak görsel içeriği optimize edin, resimlerin her zaman profesyonel görünmesini ve herhangi bir sosyal medya platformuna mükemmel şekilde uymasını sağlayın."
+    ]
+  },
+  "record_count": 42,
+  "title": "Sosyal Medya Resim Boyutları ve Ölçüleri Veri Kümesi"
+}

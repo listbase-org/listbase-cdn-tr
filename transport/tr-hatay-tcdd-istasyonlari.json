@@ -1,0 +1,106 @@
+{
+  "id": "tr-hatay-tcdd-istasyonlari",
+  "name": "HATAY TCDD Tren İstasyonları (Railway stations in HATAY)",
+  "title": "HATAY TCDD Tren İstasyonları (Railway stations in HATAY)",
+  "description": "HATAY ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in HATAY province.) (5 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "DÖRTYOL",
+      "il": "HATAY",
+      "kaynak_metin": "DÖRTYOL , HATAY",
+      "gidis_id": 771,
+      "donus_id": 771,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "ERZİN",
+      "il": "HATAY",
+      "kaynak_metin": "ERZİN , HATAY",
+      "gidis_id": 775,
+      "donus_id": 775,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "PAYAS",
+      "il": "HATAY",
+      "kaynak_metin": "PAYAS , HATAY",
+      "gidis_id": "",
+      "donus_id": 809,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PAYAS ŞEHİR D. KM.38+075",
+      "il": "HATAY",
+      "kaynak_metin": "PAYAS ŞEHİR D. KM.38+075 , HATAY",
+      "gidis_id": "",
+      "donus_id": 855,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İSKENDERUN",
+      "il": "HATAY",
+      "kaynak_metin": "İSKENDERUN , HATAY",
+      "gidis_id": 787,
+      "donus_id": 787,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    }
+  ],
+  "meta": {
+    "title": "HATAY TCDD Tren İstasyonları (Railway stations in HATAY) - Ücretsiz İndir",
+    "description": "HATAY ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in HATAY province.) (5 kayıt.) İçerik 5 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "HATAY TCDD Tren İstasyonları (Railway stations in HATAY) | ListBase",
+    "seo_description": "İndir HATAY TCDD Tren İstasyonları (Railway stations in HATAY) — 5 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 5 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

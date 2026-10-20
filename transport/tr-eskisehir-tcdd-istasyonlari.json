@@ -1,0 +1,115 @@
+{
+  "id": "tr-eskisehir-tcdd-istasyonlari",
+  "name": "ESKİŞEHİR TCDD Tren İstasyonları (Railway stations in ESKİŞEHİR)",
+  "title": "ESKİŞEHİR TCDD Tren İstasyonları (Railway stations in ESKİŞEHİR)",
+  "description": "ESKİŞEHİR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ESKİŞEHİR province.) (6 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ALPU",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "ALPU , ESKİŞEHİR",
+      "gidis_id": 1040,
+      "donus_id": 1040,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "BEYLİKOVA",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "BEYLİKOVA , ESKİŞEHİR",
+      "gidis_id": 108,
+      "donus_id": 108,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 24
+    },
+    {
+      "istasyon": "BİÇER",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "BİÇER , ESKİŞEHİR",
+      "gidis_id": 87,
+      "donus_id": 87,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "ESKİŞEHİR",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "ESKİŞEHİR , ESKİŞEHİR",
+      "gidis_id": 93,
+      "donus_id": 93,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 102
+    },
+    {
+      "istasyon": "KIZILİNLER",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "KIZILİNLER , ESKİŞEHİR",
+      "gidis_id": 951,
+      "donus_id": 951,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YUNUSEMRE",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "YUNUSEMRE , ESKİŞEHİR",
+      "gidis_id": 107,
+      "donus_id": 107,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "ESKİŞEHİR TCDD Tren İstasyonları (Railway stations in ESKİŞEHİR) - Ücretsiz İndir",
+    "description": "ESKİŞEHİR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ESKİŞEHİR province.) (6 kayıt.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ESKİŞEHİR TCDD Tren İstasyonları (Railway stations in ESKİŞEHİR) | ListBase",
+    "seo_description": "İndir ESKİŞEHİR TCDD Tren İstasyonları (Railway stations in ESKİŞEHİR) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

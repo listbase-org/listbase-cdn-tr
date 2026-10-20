@@ -1,0 +1,205 @@
+{
+  "id": "tr-balikesir-tcdd-istasyonlari",
+  "name": "BALIKESİR TCDD Tren İstasyonları (Railway stations in BALIKESİR)",
+  "title": "BALIKESİR TCDD Tren İstasyonları (Railway stations in BALIKESİR)",
+  "description": "BALIKESİR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BALIKESİR province.) (16 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AKSAKAL",
+      "il": "BALIKESİR",
+      "kaynak_metin": "AKSAKAL , BALIKESİR",
+      "gidis_id": 281,
+      "donus_id": 281,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 23
+    },
+    {
+      "istasyon": "BALIKESİR (GÖKKÖY)",
+      "il": "BALIKESİR",
+      "kaynak_metin": "BALIKESİR (GÖKKÖY) , BALIKESİR",
+      "gidis_id": 1170,
+      "donus_id": 1170,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 37
+    },
+    {
+      "istasyon": "BALIKESİR",
+      "il": "BALIKESİR",
+      "kaynak_metin": "BALIKESİR , BALIKESİR",
+      "gidis_id": 1159,
+      "donus_id": 1159,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 55
+    },
+    {
+      "istasyon": "BANDIRMA ŞEHİR",
+      "il": "BALIKESİR",
+      "kaynak_metin": "BANDIRMA ŞEHİR , BALIKESİR",
+      "gidis_id": 293,
+      "donus_id": 293,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "DURSUNBEY",
+      "il": "BALIKESİR",
+      "kaynak_metin": "DURSUNBEY , BALIKESİR",
+      "gidis_id": 905,
+      "donus_id": 905,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 49
+    },
+    {
+      "istasyon": "GÜNDOĞAN",
+      "il": "BALIKESİR",
+      "kaynak_metin": "GÜNDOĞAN , BALIKESİR",
+      "gidis_id": 1307,
+      "donus_id": 1307,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "KUŞCENNETİ",
+      "il": "BALIKESİR",
+      "kaynak_metin": "KUŞCENNETİ , BALIKESİR",
+      "gidis_id": "",
+      "donus_id": 302,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KİREÇ",
+      "il": "BALIKESİR",
+      "kaynak_metin": "KİREÇ , BALIKESİR",
+      "gidis_id": 952,
+      "donus_id": 952,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MEZİTLER",
+      "il": "BALIKESİR",
+      "kaynak_metin": "MEZİTLER , BALIKESİR",
+      "gidis_id": "",
+      "donus_id": 945,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NUSRAT",
+      "il": "BALIKESİR",
+      "kaynak_metin": "NUSRAT , BALIKESİR",
+      "gidis_id": 947,
+      "donus_id": 947,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAVAŞTEPE",
+      "il": "BALIKESİR",
+      "kaynak_metin": "SAVAŞTEPE , BALIKESİR",
+      "gidis_id": "",
+      "donus_id": 391,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SOĞUCAK",
+      "il": "BALIKESİR",
+      "kaynak_metin": "SOĞUCAK , BALIKESİR",
+      "gidis_id": 377,
+      "donus_id": 377,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SUSURLUK",
+      "il": "BALIKESİR",
+      "kaynak_metin": "SUSURLUK , BALIKESİR",
+      "gidis_id": 379,
+      "donus_id": 379,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKÖY",
+      "il": "BALIKESİR",
+      "kaynak_metin": "YENİKÖY , BALIKESİR",
+      "gidis_id": 400,
+      "donus_id": 400,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇALIKÖY",
+      "il": "BALIKESİR",
+      "kaynak_metin": "ÇALIKÖY , BALIKESİR",
+      "gidis_id": 304,
+      "donus_id": 304,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇUKURHÜSEYİN",
+      "il": "BALIKESİR",
+      "kaynak_metin": "ÇUKURHÜSEYİN , BALIKESİR",
+      "gidis_id": 308,
+      "donus_id": 308,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    }
+  ],
+  "meta": {
+    "title": "BALIKESİR TCDD Tren İstasyonları (Railway stations in BALIKESİR) - Ücretsiz İndir",
+    "description": "BALIKESİR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BALIKESİR province.) (16 kayıt.) İçerik 16 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "BALIKESİR TCDD Tren İstasyonları (Railway stations in BALIKESİR) | ListBase",
+    "seo_description": "İndir BALIKESİR TCDD Tren İstasyonları (Railway stations in BALIKESİR) — 16 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 16 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

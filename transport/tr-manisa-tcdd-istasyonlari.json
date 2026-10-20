@@ -1,0 +1,376 @@
+{
+  "id": "tr-manisa-tcdd-istasyonlari",
+  "name": "MANİSA TCDD Tren İstasyonları (Railway stations in MANİSA)",
+  "title": "MANİSA TCDD Tren İstasyonları (Railway stations in MANİSA)",
+  "description": "MANİSA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in MANİSA province.) (35 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AHMETLİ",
+      "il": "MANİSA",
+      "kaynak_metin": "AHMETLİ , MANİSA",
+      "gidis_id": 1115,
+      "donus_id": 1115,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 56
+    },
+    {
+      "istasyon": "AKHİSAR",
+      "il": "MANİSA",
+      "kaynak_metin": "AKHİSAR , MANİSA",
+      "gidis_id": 280,
+      "donus_id": 280,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "AKKEÇİLİ DURAĞI",
+      "il": "MANİSA",
+      "kaynak_metin": "AKKEÇİLİ DURAĞI , MANİSA",
+      "gidis_id": 269,
+      "donus_id": 269,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "ALAŞEHİR",
+      "il": "MANİSA",
+      "kaynak_metin": "ALAŞEHİR , MANİSA",
+      "gidis_id": 1050,
+      "donus_id": 1050,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "BAKIR",
+      "il": "MANİSA",
+      "kaynak_metin": "BAKIR , MANİSA",
+      "gidis_id": 328,
+      "donus_id": 328,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 47
+    },
+    {
+      "istasyon": "CEBER KAMARA",
+      "il": "MANİSA",
+      "kaynak_metin": "CEBER KAMARA , MANİSA",
+      "gidis_id": 296,
+      "donus_id": 296,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "GÜMÜŞÇAY DURAĞI",
+      "il": "MANİSA",
+      "kaynak_metin": "GÜMÜŞÇAY DURAĞI , MANİSA",
+      "gidis_id": 270,
+      "donus_id": 270,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GÜMÜŞÇAYI",
+      "il": "MANİSA",
+      "kaynak_metin": "GÜMÜŞÇAYI , MANİSA",
+      "gidis_id": 324,
+      "donus_id": 324,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "HACIRAHMANLI",
+      "il": "MANİSA",
+      "kaynak_metin": "HACIRAHMANLI , MANİSA",
+      "gidis_id": 326,
+      "donus_id": 326,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "HOROZKÖY",
+      "il": "MANİSA",
+      "kaynak_metin": "HOROZKÖY , MANİSA",
+      "gidis_id": 330,
+      "donus_id": 330,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "KABAZLI",
+      "il": "MANİSA",
+      "kaynak_metin": "KABAZLI , MANİSA",
+      "gidis_id": 337,
+      "donus_id": 337,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "KAPAKLI",
+      "il": "MANİSA",
+      "kaynak_metin": "KAPAKLI , MANİSA",
+      "gidis_id": 338,
+      "donus_id": 338,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAAĞAÇLI",
+      "il": "MANİSA",
+      "kaynak_metin": "KARAAĞAÇLI , MANİSA",
+      "gidis_id": 340,
+      "donus_id": 340,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAVAKLIDERE",
+      "il": "MANİSA",
+      "kaynak_metin": "KAVAKLIDERE , MANİSA",
+      "gidis_id": "",
+      "donus_id": 311,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYIŞLAR",
+      "il": "MANİSA",
+      "kaynak_metin": "KAYIŞLAR , MANİSA",
+      "gidis_id": 343,
+      "donus_id": 343,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIRKAĞAÇ",
+      "il": "MANİSA",
+      "kaynak_metin": "KIRKAĞAÇ , MANİSA",
+      "gidis_id": 345,
+      "donus_id": 345,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KONAKLAR",
+      "il": "MANİSA",
+      "kaynak_metin": "KONAKLAR , MANİSA",
+      "gidis_id": 346,
+      "donus_id": 346,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖSEALİ",
+      "il": "MANİSA",
+      "kaynak_metin": "KÖSEALİ , MANİSA",
+      "gidis_id": 349,
+      "donus_id": 349,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KİLLİK",
+      "il": "MANİSA",
+      "kaynak_metin": "KİLLİK , MANİSA",
+      "gidis_id": "",
+      "donus_id": 1053,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MANİSA",
+      "il": "MANİSA",
+      "kaynak_metin": "MANİSA , MANİSA",
+      "gidis_id": 371,
+      "donus_id": 371,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MURADİYE",
+      "il": "MANİSA",
+      "kaynak_metin": "MURADİYE , MANİSA",
+      "gidis_id": "",
+      "donus_id": 355,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PİYADELER",
+      "il": "MANİSA",
+      "kaynak_metin": "PİYADELER , MANİSA",
+      "gidis_id": 284,
+      "donus_id": 284,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALİHLİ",
+      "il": "MANİSA",
+      "kaynak_metin": "SALİHLİ , MANİSA",
+      "gidis_id": 369,
+      "donus_id": 369,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARUHANLI",
+      "il": "MANİSA",
+      "kaynak_metin": "SARUHANLI , MANİSA",
+      "gidis_id": 390,
+      "donus_id": 390,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SOMA",
+      "il": "MANİSA",
+      "kaynak_metin": "SOMA , MANİSA",
+      "gidis_id": 1164,
+      "donus_id": 1164,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÜNNETÇİLER",
+      "il": "MANİSA",
+      "kaynak_metin": "SÜNNETÇİLER , MANİSA",
+      "gidis_id": "",
+      "donus_id": 403,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TURGUTLU",
+      "il": "MANİSA",
+      "kaynak_metin": "TURGUTLU , MANİSA",
+      "gidis_id": "",
+      "donus_id": 1163,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "URGANLI",
+      "il": "MANİSA",
+      "kaynak_metin": "URGANLI , MANİSA",
+      "gidis_id": 396,
+      "donus_id": 396,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YARAŞLI",
+      "il": "MANİSA",
+      "kaynak_metin": "YARAŞLI , MANİSA",
+      "gidis_id": 406,
+      "donus_id": 406,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKÖY D",
+      "il": "MANİSA",
+      "kaynak_metin": "YENİKÖY D , MANİSA",
+      "gidis_id": "",
+      "donus_id": 401,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YEŞİLKAVAK",
+      "il": "MANİSA",
+      "kaynak_metin": "YEŞİLKAVAK , MANİSA",
+      "gidis_id": 1056,
+      "donus_id": 1056,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇOBANHASAN",
+      "il": "MANİSA",
+      "kaynak_metin": "ÇOBANHASAN , MANİSA",
+      "gidis_id": 306,
+      "donus_id": 306,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇOBANİSA",
+      "il": "MANİSA",
+      "kaynak_metin": "ÇOBANİSA , MANİSA",
+      "gidis_id": 307,
+      "donus_id": 307,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 37
+    },
+    {
+      "istasyon": "İSHAKÇELEBİ",
+      "il": "MANİSA",
+      "kaynak_metin": "İSHAKÇELEBİ , MANİSA",
+      "gidis_id": 336,
+      "donus_id": 336,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "İSMAİLBEY",
+      "il": "MANİSA",
+      "kaynak_metin": "İSMAİLBEY , MANİSA",
+      "gidis_id": 1094,
+      "donus_id": 1094,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    }
+  ],
+  "meta": {
+    "title": "MANİSA TCDD Tren İstasyonları (Railway stations in MANİSA) - Ücretsiz İndir",
+    "description": "MANİSA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in MANİSA province.) (35 kayıt.) İçerik 35 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "MANİSA TCDD Tren İstasyonları (Railway stations in MANİSA) | ListBase",
+    "seo_description": "İndir MANİSA TCDD Tren İstasyonları (Railway stations in MANİSA) — 35 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 35 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

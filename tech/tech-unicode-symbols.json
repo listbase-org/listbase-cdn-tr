@@ -1,0 +1,554 @@
+{
+  "id": "tech-unicode-symbols",
+  "name": "Yaygın Unicode Sembolleri ve HTML Varlıkları Veri Kümesi",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "html_entity",
+      "label": "HTML Entity",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "←",
+      "code_point": "U+2190",
+      "html_entity": "&larr;",
+      "name": "Sola Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "→",
+      "code_point": "U+2192",
+      "html_entity": "&rarr;",
+      "name": "Sağa Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "↑",
+      "code_point": "U+2191",
+      "html_entity": "&uarr;",
+      "name": "Yukarı Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "↓",
+      "code_point": "U+2193",
+      "html_entity": "&darr;",
+      "name": "Aşağı Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "↔",
+      "code_point": "U+2194",
+      "html_entity": "&harr;",
+      "name": "Sol Sağ Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "↕",
+      "code_point": "U+2195",
+      "html_entity": "&varr;",
+      "name": "Yukarı Aşağı Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "⇐",
+      "code_point": "U+21D0",
+      "html_entity": "&lArr;",
+      "name": "Sola Çift Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "⇒",
+      "code_point": "U+21D2",
+      "html_entity": "&rArr;",
+      "name": "Sağa Çift Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "⇑",
+      "code_point": "U+21D1",
+      "html_entity": "&uArr;",
+      "name": "Yukarı Çift Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "⇓",
+      "code_point": "U+21D3",
+      "html_entity": "&dArr;",
+      "name": "Aşağı Çift Ok",
+      "category": "Oklar"
+    },
+    {
+      "symbol": "±",
+      "code_point": "U+00B1",
+      "html_entity": "&plusmn;",
+      "name": "Artı Eksi İşareti",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "×",
+      "code_point": "U+00D7",
+      "html_entity": "&times;",
+      "name": "Çarpma İşareti",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "÷",
+      "code_point": "U+00F7",
+      "html_entity": "&divide;",
+      "name": "Bölme İşareti",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "≠",
+      "code_point": "U+2260",
+      "html_entity": "&ne;",
+      "name": "Eşit Değildir",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "≈",
+      "code_point": "U+2248",
+      "html_entity": "&asymp;",
+      "name": "Neredeyse Eşittir",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "≤",
+      "code_point": "U+2264",
+      "html_entity": "&le;",
+      "name": "Küçük Eşittir",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "≥",
+      "code_point": "U+2265",
+      "html_entity": "&ge;",
+      "name": "Büyük Eşittir",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "∞",
+      "code_point": "U+221E",
+      "html_entity": "&infin;",
+      "name": "Sonsuzluk",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "√",
+      "code_point": "U+221A",
+      "html_entity": "&radic;",
+      "name": "Karekök",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "∑",
+      "code_point": "U+2211",
+      "html_entity": "&sum;",
+      "name": "N-Boyutlu Toplama",
+      "category": "Matematiksel İşleçler"
+    },
+    {
+      "symbol": "∏",
+      "code_point": "U+220F",
+      "html_entity": "&prod;",
+      "name": "N-li Çarpım",
+      "category": "Matematik Operatörleri"
+    },
+    {
+      "symbol": "∫",
+      "code_point": "U+222B",
+      "html_entity": "&int;",
+      "name": "İntegral",
+      "category": "Matematik Operatörleri"
+    },
+    {
+      "symbol": "∂",
+      "code_point": "U+2202",
+      "html_entity": "&part;",
+      "name": "Kısmi Türev",
+      "category": "Matematik Operatörleri"
+    },
+    {
+      "symbol": "∇",
+      "code_point": "U+2207",
+      "html_entity": "&nabla;",
+      "name": "Nabla",
+      "category": "Matematik Operatörleri"
+    },
+    {
+      "symbol": "α",
+      "code_point": "U+03B1",
+      "html_entity": "&alpha;",
+      "name": "Küçük Yunan Harfi Alfa",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "β",
+      "code_point": "U+03B2",
+      "html_entity": "&beta;",
+      "name": "Küçük Yunan Harfi Beta",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "γ",
+      "code_point": "U+03B3",
+      "html_entity": "&gamma;",
+      "name": "Küçük Yunan Harfi Gama",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "δ",
+      "code_point": "U+03B4",
+      "html_entity": "&delta;",
+      "name": "Küçük Yunan Harfi Delta",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "π",
+      "code_point": "U+03C0",
+      "html_entity": "&pi;",
+      "name": "Küçük Yunan Harfi Pi",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "σ",
+      "code_point": "U+03C3",
+      "html_entity": "&sigma;",
+      "name": "Küçük Yunan Harfi Sigma",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "θ",
+      "code_point": "U+03B8",
+      "html_entity": "&theta;",
+      "name": "Küçük Yunan Harfi Teta",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "λ",
+      "code_point": "U+03BB",
+      "html_entity": "&lambda;",
+      "name": "Küçük Yunan Harfi Lambda",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "μ",
+      "code_point": "U+03BC",
+      "html_entity": "&mu;",
+      "name": "Küçük Yunan Harfi Mü",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "Ω",
+      "code_point": "U+03A9",
+      "html_entity": "&Omega;",
+      "name": "Büyük Yunan Harfi Omega",
+      "category": "Yunan Harfleri"
+    },
+    {
+      "symbol": "$",
+      "code_point": "U+0024",
+      "html_entity": "&dollar;",
+      "name": "Dolar İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "€",
+      "code_point": "U+20AC",
+      "html_entity": "&euro;",
+      "name": "Euro İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "£",
+      "code_point": "U+00A3",
+      "html_entity": "&pound;",
+      "name": "Sterlin İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "¥",
+      "code_point": "U+00A5",
+      "html_entity": "&yen;",
+      "name": "Yen İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "₩",
+      "code_point": "U+20A9",
+      "html_entity": "&#8361;",
+      "name": "Won İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "₹",
+      "code_point": "U+20B9",
+      "html_entity": "&#8377;",
+      "name": "Hint Rupisi İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "฿",
+      "code_point": "U+0E3F",
+      "html_entity": "&#3647;",
+      "name": "Tayland Bahtı İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "₿",
+      "code_point": "U+20BF",
+      "html_entity": "&#8383;",
+      "name": "Bitcoin İşareti",
+      "category": "Para Birimi"
+    },
+    {
+      "symbol": "©",
+      "code_point": "U+00A9",
+      "html_entity": "&copy;",
+      "name": "Telif Hakkı İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "®",
+      "code_point": "U+00AE",
+      "html_entity": "&reg;",
+      "name": "Tescilli İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "™",
+      "code_point": "U+2122",
+      "html_entity": "&trade;",
+      "name": "Ticari Marka İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "°",
+      "code_point": "U+00B0",
+      "html_entity": "&deg;",
+      "name": "Derece İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "•",
+      "code_point": "U+2022",
+      "html_entity": "&bull;",
+      "name": "Madde İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "…",
+      "code_point": "U+2026",
+      "html_entity": "&hellip;",
+      "name": "Yatay Üç Nokta",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "†",
+      "code_point": "U+2020",
+      "html_entity": "&dagger;",
+      "name": "Hançer İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "‡",
+      "code_point": "U+2021",
+      "html_entity": "&Dagger;",
+      "name": "Çift Hançer İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "§",
+      "code_point": "U+00A7",
+      "html_entity": "&sect;",
+      "name": "Bölüm İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "¶",
+      "code_point": "U+00B6",
+      "html_entity": "&para;",
+      "name": "Paragraf İşareti",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "✓",
+      "code_point": "U+2713",
+      "html_entity": "&#10003;",
+      "name": "Onay İşareti",
+      "category": "Durum"
+    },
+    {
+      "symbol": "✗",
+      "code_point": "U+2717",
+      "html_entity": "&#10007;",
+      "name": "Oy Pusulası X'i",
+      "category": "Durum"
+    },
+    {
+      "symbol": "✔",
+      "code_point": "U+2714",
+      "html_entity": "&#10004;",
+      "name": "Kalın Onay İşareti",
+      "category": "Durum"
+    },
+    {
+      "symbol": "✘",
+      "code_point": "U+2718",
+      "html_entity": "&#10008;",
+      "name": "Kalın Oy Pusulası X'i",
+      "category": "Durum"
+    },
+    {
+      "symbol": "★",
+      "code_point": "U+2605",
+      "html_entity": "&#9733;",
+      "name": "Siyah Yıldız",
+      "category": "Durum"
+    },
+    {
+      "symbol": "☆",
+      "code_point": "U+2606",
+      "html_entity": "&#9734;",
+      "name": "Beyaz Yıldız",
+      "category": "Durum"
+    },
+    {
+      "symbol": "♥",
+      "code_point": "U+2665",
+      "html_entity": "&hearts;",
+      "name": "Siyah Kupa Sembolü",
+      "category": "Durum"
+    },
+    {
+      "symbol": "♦",
+      "code_point": "U+2666",
+      "html_entity": "&diams;",
+      "name": "Siyah Karo Sembolü",
+      "category": "Durum"
+    },
+    {
+      "symbol": "♣",
+      "code_point": "U+2663",
+      "html_entity": "&clubs;",
+      "name": "Siyah Sinek Sembolü",
+      "category": "Durum"
+    },
+    {
+      "symbol": "♠",
+      "code_point": "U+2660",
+      "html_entity": "&spades;",
+      "name": "Siyah Maça Sembolü",
+      "category": "Durum"
+    },
+    {
+      "symbol": "½",
+      "code_point": "U+00BD",
+      "html_entity": "&frac12;",
+      "name": "Adi Kesir Bir Yarım",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "⅓",
+      "code_point": "U+2153",
+      "html_entity": "&#8531;",
+      "name": "Adi Kesir Bir Üçte Bir",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "¼",
+      "code_point": "U+00BC",
+      "html_entity": "&frac14;",
+      "name": "Adi Kesir Bir Dörtte Bir",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "¾",
+      "code_point": "U+00BE",
+      "html_entity": "&frac34;",
+      "name": "Adi Kesir Üç Çeyrek",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "⅛",
+      "code_point": "U+215B",
+      "html_entity": "&#8539;",
+      "name": "Adi Kesir Bir Sekizde Bir",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "²",
+      "code_point": "U+00B2",
+      "html_entity": "&sup2;",
+      "name": "Üst Simge İki",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "³",
+      "code_point": "U+00B3",
+      "html_entity": "&sup3;",
+      "name": "Üst Simge Üç",
+      "category": "Kesirler"
+    },
+    {
+      "symbol": "¹",
+      "code_point": "U+00B9",
+      "html_entity": "&sup1;",
+      "name": "Üst Simge Bir",
+      "category": "Kesirler"
+    }
+  ],
+  "meta": {
+    "seo_title": "Yaygın Unicode Sembolleri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "70 yaygın Unicode sembolünü kod noktaları, HTML varlıkları ve kategorileriyle ücretsiz indirin. Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Yaygın Unicode Sembolleri ve HTML Varlıkları Veri Kümesi",
+    "description": "Bu veri kümesi, kolay başvuru için kod noktaları, HTML varlıkları, adları ve kategorileriyle birlikte 70 yaygın Unicode sembolünün derlenmiş bir listesini sunar.",
+    "key_takeaways": [
+      "70 temel Unicode sembolüne, kod noktalarına ve HTML varlıklarına erişin.",
+      "Oklar, Matematiksel Operatörler ve daha fazlası gibi çeşitli sembol kategorilerini keşfedin.",
+      "Web geliştirme, metin işleme ve tasarım projeleri için kullanıma hazır verileri indirin.",
+      "Dijital içeriği ve uluslararasılaşmayı geliştirmek için sembollerden yararlanın."
+    ],
+    "keywords": [
+      "unicode sembolleri listesi",
+      "html varlıkları csv",
+      "kod noktaları excel",
+      "özel karakterler indir",
+      "metin sembolleri pdf",
+      "yaygın unicode"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını web uygulamanıza veya veritabanınıza aktararak kullanıcı girişine veya kategoriye göre sembolleri dinamik olarak görüntüleyin.",
+      "**Excel** dosyasını kullanarak içerik oluşturma veya tasarım projeleriniz için belirli sembolleri veya HTML varlıklarını hızla filtreleyin ve bulun.",
+      "Yaygın Unicode sembolleri ve ilgili ayrıntıları için kullanışlı bir çevrimdışı başvuru kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "Farklı platformlarda ve uluslararası kitlelerde özel karakterlerin doğru görüntülenmesini sağlamak için veri kümesine başvurun."
+    ]
+  },
+  "record_count": 70,
+  "title": "Yaygın Unicode Sembolleri ve HTML Varlıkları Veri Kümesi"
+}

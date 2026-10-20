@@ -1,0 +1,364 @@
+{
+  "id": "tr-edirne-liseler",
+  "name": "Edirne Liseleri (High Schools in Edirne)",
+  "title": "Edirne Liseleri (High Schools in Edirne)",
+  "description": "Edirne ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (24 kayıt) (High schools in Edirne province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Enez Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Edirne - Enez - Enez Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Enez",
+      "website": "http://enezcpal.meb.k12.tr",
+      "enlem": 40.72540360356936,
+      "boylam": 26.086915341754093
+    },
+    {
+      "okul_adi": "Havsa Şehit Öğretmen Mehmet Birol Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Havsa - Havsa Şehit Öğretmen Mehmet Birol Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Havsa",
+      "website": "http://havsamtal.meb.k12.tr",
+      "enlem": 41.55200314874505,
+      "boylam": 26.818278638262882
+    },
+    {
+      "okul_adi": "Şahika Erkurt Anadolu Lisesi",
+      "tam_ad": "Edirne - Havsa - Şahika Erkurt Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Havsa",
+      "website": "http://sahikaerkurtanadolulisesi.meb.k12.tr",
+      "enlem": 41.54963455997211,
+      "boylam": 26.81474616899027
+    },
+    {
+      "okul_adi": "Keşan Fen Lisesi",
+      "tam_ad": "Edirne - Keşan - Keşan Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Edirne",
+      "ilce": "Keşan",
+      "website": "http://kesanfenlisesi.meb.k12.tr",
+      "enlem": 40.874436430376285,
+      "boylam": 26.682161895175113
+    },
+    {
+      "okul_adi": "Keşan Feride Mehmet Çuhacı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Keşan - Keşan Feride Mehmet Çuhacı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Keşan",
+      "website": "http://kesanferidemehmetcuhacilisesi.meb.k12.tr",
+      "enlem": 40.829414671458125,
+      "boylam": 26.608733741183414
+    },
+    {
+      "okul_adi": "Keşan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Keşan - Keşan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Keşan",
+      "website": "http://kesaneml.meb.k12.tr",
+      "enlem": 40.84175908584985,
+      "boylam": 26.628388968844547
+    },
+    {
+      "okul_adi": "Keşan İlhami Ertem Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Keşan - Keşan İlhami Ertem Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Keşan",
+      "website": "http://kesantml.meb.k12.tr",
+      "enlem": 40.86674527555912,
+      "boylam": 26.629622784991398
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Edirne - Keşan - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Keşan",
+      "website": "http://kesanmae.meb.k12.tr",
+      "enlem": 40.90908422052044,
+      "boylam": 26.587694493670597
+    },
+    {
+      "okul_adi": "Lalapaşa Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Edirne - Lalapaşa - Lalapaşa Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Lalapaşa",
+      "website": "http://lalapasalisesi.meb.k12.tr",
+      "enlem": 41.83679454166975,
+      "boylam": 26.73094591273798
+    },
+    {
+      "okul_adi": "Küplü Anadolu Lisesi",
+      "tam_ad": "Edirne - Meriç - Küplü Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Meriç",
+      "website": "http://kupluanadolulisesi.meb.k12.tr",
+      "enlem": 41.10456954719806,
+      "boylam": 26.349846927065983
+    },
+    {
+      "okul_adi": "Meriç Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Edirne - Meriç - Meriç Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Meriç",
+      "website": "http://mericcpl.meb.k12.tr",
+      "enlem": 41.19365455840309,
+      "boylam": 26.42302831782831
+    },
+    {
+      "okul_adi": "Edirne Lisesi",
+      "tam_ad": "Edirne - Merkez - Edirne Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://edirnelisesi.meb.k12.tr",
+      "enlem": 41.67216166493393,
+      "boylam": 26.55887482835783
+    },
+    {
+      "okul_adi": "Edirne Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Merkez - Edirne Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://edirneeml.meb.k12.tr",
+      "enlem": 41.67921712674402,
+      "boylam": 26.549585667987003
+    },
+    {
+      "okul_adi": "Edirne Süleyman Demirel Fen Lisesi",
+      "tam_ad": "Edirne - Merkez - Edirne Süleyman Demirel Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://esdfl.meb.k12.tr",
+      "enlem": 41.661698003542476,
+      "boylam": 26.513204184909
+    },
+    {
+      "okul_adi": "Edirne Yıldırım Beyazıt Anadolu Lisesi",
+      "tam_ad": "Edirne - Merkez - Edirne Yıldırım Beyazıt Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://eybal.meb.k12.tr",
+      "enlem": 41.68336780301729,
+      "boylam": 26.53318127765192
+    },
+    {
+      "okul_adi": "Hasan Rıza Güzel Sanatlar Lisesi",
+      "tam_ad": "Edirne - Merkez - Hasan Rıza Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://edirnegssl.meb.k12.tr",
+      "enlem": 41.64134386996857,
+      "boylam": 26.607135144610538
+    },
+    {
+      "okul_adi": "Hasan Sezai Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Edirne - Merkez - Hasan Sezai Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://edirnehasansezaiaihl.meb.k12.tr",
+      "enlem": 41.67960976974826,
+      "boylam": 26.576686707873478
+    },
+    {
+      "okul_adi": "Selimiye Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Merkez - Selimiye Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://selimiyemeslek.meb.k12.tr",
+      "enlem": 41.68096396907691,
+      "boylam": 26.558737365145817
+    },
+    {
+      "okul_adi": "İlhami Ertem Anadolu Lisesi",
+      "tam_ad": "Edirne - Merkez - İlhami Ertem Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "website": "http://eieal.meb.k12.tr",
+      "enlem": 41.66730047408772,
+      "boylam": 26.58359607829584
+    },
+    {
+      "okul_adi": "Muzaffer Atasay Anadolu Lisesi",
+      "tam_ad": "Edirne - Uzunköprü - Muzaffer Atasay Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Uzunköprü",
+      "website": "http://umaal.meb.k12.tr",
+      "enlem": 41.263145054013826,
+      "boylam": 26.71474537028803
+    },
+    {
+      "okul_adi": "Uzunköprü Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - Uzunköprü - Uzunköprü Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "Uzunköprü",
+      "website": "http://uzunkopruakml.meb.k12.tr",
+      "enlem": 41.26176193596419,
+      "boylam": 26.688357797999515
+    },
+    {
+      "okul_adi": "İpsala Anadolu Lisesi",
+      "tam_ad": "Edirne - İpsala - İpsala Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Edirne",
+      "ilce": "İpsala",
+      "website": "http://ipsalaanadolulisesi.meb.k12.tr",
+      "enlem": 40.92058486374183,
+      "boylam": 26.384527889628544
+    },
+    {
+      "okul_adi": "İpsala Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Edirne - İpsala - İpsala Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Edirne",
+      "ilce": "İpsala",
+      "website": "http://ipsalaihl.meb.k12.tr",
+      "enlem": 40.91466250530425,
+      "boylam": 26.377988664050235
+    },
+    {
+      "okul_adi": "Şehit Er Mustafa Aydın Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Edirne - İpsala - Şehit Er Mustafa Aydın Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Edirne",
+      "ilce": "İpsala",
+      "website": "http://semamtal.meb.k12.tr",
+      "enlem": 40.91106261956429,
+      "boylam": 26.381185857195987
+    }
+  ],
+  "meta": {
+    "title": "Edirne Liseleri (High Schools in Edirne) - Ücretsiz İndir",
+    "description": "Edirne ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (24 kayıt) (High schools in Edirne province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 24 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Edirne Liseleri (High Schools in Edirne) | ListBase",
+    "seo_description": "İndir Edirne Liseleri (High Schools in Edirne) — 24 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 24 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

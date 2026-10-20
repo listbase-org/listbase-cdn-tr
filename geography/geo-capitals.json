@@ -1,0 +1,1629 @@
+{
+  "id": "geo-capitals",
+  "name": "Dünya Başkentleri Veri Kümesi",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "capital": "Kabil",
+      "lat": 34.52,
+      "lng": 69.18
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Arnavutluk",
+      "capital": "Tiran",
+      "lat": 41.32,
+      "lng": 19.82
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Cezayir",
+      "capital": "Cezayir",
+      "lat": 36.75,
+      "lng": 3.05
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "lat": 42.5,
+      "lng": 1.52
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "capital": "Luanda",
+      "lat": -8.83,
+      "lng": 13.22
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua ve Barbuda",
+      "capital": "Saint John's",
+      "lat": 17.12,
+      "lng": -61.85
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Arjantin",
+      "capital": "Buenos Aires",
+      "lat": -34.58,
+      "lng": -58.67
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Ermenistan",
+      "capital": "Erivan",
+      "lat": 40.17,
+      "lng": 44.5
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Avustralya",
+      "capital": "Kanberra",
+      "lat": -35.27,
+      "lng": 149.13
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Avusturya",
+      "capital": "Viyana",
+      "lat": 48.2,
+      "lng": 16.37
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaycan",
+      "capital": "Bakü",
+      "lat": 40.38,
+      "lng": 49.87
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamalar",
+      "capital": "Nassau",
+      "lat": 25.08,
+      "lng": -77.35
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahreyn",
+      "capital": "Manama",
+      "lat": 26.23,
+      "lng": 50.57
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladeş",
+      "capital": "Dakka",
+      "lat": 23.72,
+      "lng": 90.4
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "capital": "Bridgetown",
+      "lat": 13.1,
+      "lng": -59.62
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "capital": "Minsk",
+      "lat": 53.9,
+      "lng": 27.57
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "capital": "Brüksel",
+      "lat": 50.83,
+      "lng": 4.33
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "capital": "Belmopan",
+      "lat": 17.25,
+      "lng": -88.77
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "lat": 6.48,
+      "lng": 2.62
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "lat": 27.47,
+      "lng": 89.63
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "capital": "Sucre",
+      "lat": -19.02,
+      "lng": -65.26
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "capital": "Saraybosna",
+      "lat": 43.87,
+      "lng": 18.42
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botsvana",
+      "capital": "Gaborone",
+      "lat": -24.63,
+      "lng": 25.9
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brezilya",
+      "capital": "Brasilia",
+      "lat": -15.79,
+      "lng": -47.88
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "capital": "Bandar Seri Begavan",
+      "lat": 4.88,
+      "lng": 114.93
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaristan",
+      "capital": "Sofya",
+      "lat": 42.68,
+      "lng": 23.32
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "lat": 12.37,
+      "lng": -1.52
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "capital": "Gitega",
+      "lat": -3.43,
+      "lng": 29.93
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboçya",
+      "capital": "Phnom Penh",
+      "lat": 11.55,
+      "lng": 104.92
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "capital": "Yaoundé",
+      "lat": 3.85,
+      "lng": 11.5
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "capital": "Ottawa",
+      "lat": 45.42,
+      "lng": -75.7
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Yeşil Burun Adaları",
+      "capital": "Praia",
+      "lat": 14.92,
+      "lng": -23.52
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "capital": "Bangui",
+      "lat": 4.37,
+      "lng": 18.58
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Çad",
+      "capital": "N'Djamena",
+      "lat": 12.1,
+      "lng": 15.03
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Şili",
+      "capital": "Santiago",
+      "lat": -33.45,
+      "lng": -70.67
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "capital": "Pekin",
+      "lat": 39.92,
+      "lng": 116.38
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombiya",
+      "capital": "Bogota",
+      "lat": 4.71,
+      "lng": -74.07
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "capital": "Moroni",
+      "lat": -11.7,
+      "lng": 43.23
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "capital": "San José",
+      "lat": 9.93,
+      "lng": -84.09
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Hırvatistan",
+      "capital": "Zagreb",
+      "lat": 45.8,
+      "lng": 16
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Küba",
+      "capital": "Havana",
+      "lat": 23.12,
+      "lng": -82.35
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kıbrıs",
+      "capital": "Lefkoşa",
+      "lat": 35.17,
+      "lng": 33.37
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Çekya",
+      "capital": "Prag",
+      "lat": 50.08,
+      "lng": 14.47
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Danimarka",
+      "capital": "Kopenhag",
+      "lat": 55.67,
+      "lng": 12.58
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Cibuti",
+      "capital": "Cibuti",
+      "lat": 11.58,
+      "lng": 43.15
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "capital": "Roseau",
+      "lat": 15.3,
+      "lng": -61.4
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominik Cumhuriyeti",
+      "capital": "Santo Domingo",
+      "lat": 18.47,
+      "lng": -69.9
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo DC",
+      "capital": "Kinşasa",
+      "lat": -4.32,
+      "lng": 15.3
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvador",
+      "capital": "Kito",
+      "lat": -0.22,
+      "lng": -78.5
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mısır",
+      "capital": "Kahire",
+      "lat": 30.05,
+      "lng": 31.25
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "lat": 13.7,
+      "lng": -89.2
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "capital": "Malabo",
+      "lat": 3.75,
+      "lng": 8.78
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "capital": "Asmara",
+      "lat": 15.33,
+      "lng": 38.93
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonya",
+      "capital": "Tallinn",
+      "lat": 59.43,
+      "lng": 24.72
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Esvatini",
+      "capital": "Mbabane",
+      "lat": -26.32,
+      "lng": 31.13
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiyopya",
+      "capital": "Addis Ababa",
+      "lat": 9.03,
+      "lng": 38.7
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "capital": "Suva",
+      "lat": -18.13,
+      "lng": 178.42
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandiya",
+      "capital": "Helsinki",
+      "lat": 60.17,
+      "lng": 24.93
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Fransa",
+      "capital": "Paris",
+      "lat": 48.87,
+      "lng": 2.33
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "capital": "Libreville",
+      "lat": 0.38,
+      "lng": 9.45
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambiya",
+      "capital": "Banjul",
+      "lat": 13.45,
+      "lng": -16.57
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gürcistan",
+      "capital": "Tiflis",
+      "lat": 41.68,
+      "lng": 44.83
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Almanya",
+      "capital": "Berlin",
+      "lat": 52.52,
+      "lng": 13.4
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Gana",
+      "capital": "Akra",
+      "lat": 5.55,
+      "lng": -0.22
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunanistan",
+      "capital": "Atina",
+      "lat": 37.98,
+      "lng": 23.73
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "capital": "St. George's",
+      "lat": 32.38,
+      "lng": -64.68
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "capital": "Guatemala Şehri",
+      "lat": 14.62,
+      "lng": -90.52
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gine",
+      "capital": "Konakri",
+      "lat": 9.5,
+      "lng": -13.7
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gine-Bissau",
+      "capital": "Bissau",
+      "lat": 11.85,
+      "lng": -15.58
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "lat": 6.8,
+      "lng": -58.15
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "capital": "Port-au-Prince",
+      "lat": 18.53,
+      "lng": -72.33
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "lat": 14.1,
+      "lng": -87.22
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Macaristan",
+      "capital": "Budapeşte",
+      "lat": 47.5,
+      "lng": 19.08
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "İzlanda",
+      "capital": "Reykjavik",
+      "lat": 64.15,
+      "lng": -21.95
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "capital": "Yeni Delhi",
+      "lat": 28.6,
+      "lng": 77.2
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Endonezya",
+      "capital": "Cakarta",
+      "lat": -6.17,
+      "lng": 106.82
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "İran",
+      "capital": "Tahran",
+      "lat": 35.7,
+      "lng": 51.42
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "capital": "Bağdat",
+      "lat": 33.33,
+      "lng": 44.4
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "İrlanda",
+      "capital": "Dublin",
+      "lat": 53.32,
+      "lng": -6.23
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "İsrail",
+      "capital": "Kudüs",
+      "lat": 31.77,
+      "lng": 35.23
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "İtalya",
+      "capital": "Roma",
+      "lat": 41.9,
+      "lng": 12.48
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Fildişi Sahili",
+      "capital": "Yamoussoukro",
+      "lat": 6.82,
+      "lng": -5.27
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "capital": "Kingston",
+      "lat": 17.99702,
+      "lng": -76.79358
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonya",
+      "capital": "Tokyo",
+      "lat": 35.68,
+      "lng": 139.75
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Ürdün",
+      "capital": "Amman",
+      "lat": 31.95,
+      "lng": 35.93
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "capital": "Astana",
+      "lat": 51.16,
+      "lng": 71.45
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "lat": -1.28,
+      "lng": 36.82
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "capital": "Güney Tarawa",
+      "lat": 1.33,
+      "lng": 172.98
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosova",
+      "capital": "Priştine",
+      "lat": 42.67,
+      "lng": 21.17
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuveyt",
+      "capital": "Kuveyt Şehri",
+      "lat": 29.37,
+      "lng": 47.97
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kırgızistan",
+      "capital": "Bişkek",
+      "lat": 42.87,
+      "lng": 74.6
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "capital": "Vientiane",
+      "lat": 17.97,
+      "lng": 102.6
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Letonya",
+      "capital": "Riga",
+      "lat": 56.95,
+      "lng": 24.1
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lübnan",
+      "capital": "Beyrut",
+      "lat": 33.87,
+      "lng": 35.5
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "lat": -29.32,
+      "lng": 27.48
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberya",
+      "capital": "Monrovia",
+      "lat": 6.3,
+      "lng": -10.8
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "capital": "Trablus",
+      "lat": 32.88,
+      "lng": 13.17
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Lihtenştayn",
+      "capital": "Vaduz",
+      "lat": 47.13,
+      "lng": 9.52
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litvanya",
+      "capital": "Vilnius",
+      "lat": 54.68,
+      "lng": 25.32
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "capital": "Lüksemburg",
+      "lat": 49.6,
+      "lng": 6.12
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "capital": "Antananarivo",
+      "lat": -18.92,
+      "lng": 47.52
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malavi",
+      "capital": "Lilongwe",
+      "lat": -13.97,
+      "lng": 33.78
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezya",
+      "capital": "Kuala Lumpur",
+      "lat": 3.17,
+      "lng": 101.7
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maldivler",
+      "capital": "Malé",
+      "lat": 4.17,
+      "lng": 73.51
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "capital": "Bamako",
+      "lat": 12.65,
+      "lng": -8
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "capital": "Valetta",
+      "lat": 35.88,
+      "lng": 14.5
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshall Adaları",
+      "capital": "Majuro",
+      "lat": 7.1,
+      "lng": 171.38
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Moritanya",
+      "capital": "Nouakchott",
+      "lat": 18.07,
+      "lng": -15.97
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "capital": "Port Louis",
+      "lat": -20.15,
+      "lng": 57.48
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksika",
+      "capital": "Meksiko Şehri",
+      "lat": 19.43,
+      "lng": -99.13
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezya",
+      "capital": "Palikir",
+      "lat": 6.92,
+      "lng": 158.15
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "capital": "Kişinev",
+      "lat": 47.01,
+      "lng": 28.9
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "capital": "Monako",
+      "lat": 43.73,
+      "lng": 7.42
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Moğolistan",
+      "capital": "Ulan Batur",
+      "lat": 47.92,
+      "lng": 106.91
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Karadağ",
+      "capital": "Podgorica",
+      "lat": 42.43,
+      "lng": 19.27
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "capital": "Rabat",
+      "lat": 34.02,
+      "lng": -6.82
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "capital": "Maputo",
+      "lat": -25.95,
+      "lng": 32.58
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "capital": "Naypyidaw",
+      "lat": 19.76,
+      "lng": 96.07
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "capital": "Windhoek",
+      "lat": -22.57,
+      "lng": 17.08
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "capital": "Yaren",
+      "lat": -0.55,
+      "lng": 166.92
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "capital": "Katmandu",
+      "lat": 27.72,
+      "lng": 85.32
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Hollanda",
+      "capital": "Amsterdam",
+      "lat": 52.35,
+      "lng": 4.92
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "capital": "Wellington",
+      "lat": -41.3,
+      "lng": 174.78
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "capital": "Managua",
+      "lat": 12.13,
+      "lng": -86.25
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Nijer",
+      "capital": "Niamey",
+      "lat": 13.52,
+      "lng": 2.12
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nijerya",
+      "capital": "Abuja",
+      "lat": 9.08,
+      "lng": 7.53
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Kuzey Kore",
+      "capital": "Pyongyang",
+      "lat": 39.02,
+      "lng": 125.75
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Kuzey Makedonya",
+      "capital": "Üsküp",
+      "lat": 42,
+      "lng": 21.43
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "capital": "Oslo",
+      "lat": 59.92,
+      "lng": 10.75
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Umman",
+      "capital": "Maskat",
+      "lat": 23.62,
+      "lng": 58.58
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "capital": "İslamabad",
+      "lat": 33.68,
+      "lng": 73.05
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "capital": "Ngerulmud",
+      "lat": 7.5,
+      "lng": 134.62
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "capital": "Panama Şehri",
+      "lat": 8.97,
+      "lng": -79.53
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "capital": "Port Moresby",
+      "lat": -9.45,
+      "lng": 147.18
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "capital": "Asunción",
+      "lat": -25.28,
+      "lng": -57.57
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "capital": "Lima",
+      "lat": -12.05,
+      "lng": -77.05
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipinler",
+      "capital": "Manila",
+      "lat": 14.6,
+      "lng": 120.97
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polonya",
+      "capital": "Varşova",
+      "lat": 52.25,
+      "lng": 21
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portekiz",
+      "capital": "Lizbon",
+      "lat": 38.72,
+      "lng": -9.13
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "capital": "Doha",
+      "lat": 25.28,
+      "lng": 51.53
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "capital": "Brazzaville",
+      "lat": -4.25,
+      "lng": 15.28
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Romanya",
+      "capital": "Bükreş",
+      "lat": 44.43,
+      "lng": 26.1
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "capital": "Moskova",
+      "lat": 55.75,
+      "lng": 37.6
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "capital": "Kigali",
+      "lat": -1.95,
+      "lng": 30.05
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts ve Nevis",
+      "capital": "Basseterre",
+      "lat": 17.3,
+      "lng": -62.72
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "capital": "Castries",
+      "lat": 14,
+      "lng": -61
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent ve Grenadinler",
+      "capital": "Kingstown",
+      "lat": 13.13,
+      "lng": -61.22
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "capital": "Apia",
+      "lat": -13.82,
+      "lng": -171.77
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "capital": "San Marino Şehri",
+      "lat": 43.94,
+      "lng": 12.45
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "São Tomé ve Príncipe",
+      "capital": "São Tomé",
+      "lat": 0.34,
+      "lng": 6.73
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Suudi Arabistan",
+      "capital": "Riyad",
+      "lat": 24.65,
+      "lng": 46.7
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "capital": "Dakar",
+      "lat": 14.73,
+      "lng": -17.63
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Sırbistan",
+      "capital": "Belgrad",
+      "lat": 44.83,
+      "lng": 20.5
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "capital": "Victoria",
+      "lat": -4.62,
+      "lng": 55.45
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "lat": 8.48,
+      "lng": -13.23
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "capital": "Singapur",
+      "lat": 1.28,
+      "lng": 103.85
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovakya",
+      "capital": "Bratislava",
+      "lat": 48.15,
+      "lng": 17.12
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenya",
+      "capital": "Ljubljana",
+      "lat": 46.05,
+      "lng": 14.52
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Solomon Adaları",
+      "capital": "Honiara",
+      "lat": -9.43,
+      "lng": 159.95
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somali",
+      "capital": "Mogadişu",
+      "lat": 2.07,
+      "lng": 45.33
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "capital": "Pretoria",
+      "lat": -25.7,
+      "lng": 28.22
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Güney Kore",
+      "capital": "Seul",
+      "lat": 37.55,
+      "lng": 126.98
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Güney Sudan",
+      "capital": "Cuba",
+      "lat": 4.85,
+      "lng": 31.62
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "capital": "Madrid",
+      "lat": 40.4,
+      "lng": -3.68
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "capital": "Sri Jayawardenepura Kotte",
+      "lat": 6.89,
+      "lng": 79.9
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "capital": "Hartum",
+      "lat": 15.6,
+      "lng": 32.53
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "capital": "Paramaribo",
+      "lat": 5.83,
+      "lng": -55.17
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "İsveç",
+      "capital": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.05
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "capital": "Bern",
+      "lat": 46.92,
+      "lng": 7.47
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriye",
+      "capital": "Şam",
+      "lat": 33.5,
+      "lng": 36.3
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tacikistan",
+      "capital": "Duşanbe",
+      "lat": 38.55,
+      "lng": 68.77
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanya",
+      "capital": "Dodoma",
+      "lat": -6.16,
+      "lng": 35.75
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tayland",
+      "capital": "Bangkok",
+      "lat": 13.75,
+      "lng": 100.52
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor-Leste",
+      "capital": "Dili",
+      "lat": -8.58,
+      "lng": 125.6
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "capital": "Lomé",
+      "lat": 6.14,
+      "lng": 1.21
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "capital": "Nuku'alofa",
+      "lat": -21.13,
+      "lng": -175.2
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad ve Tobago",
+      "capital": "Port of Spain",
+      "lat": 10.65,
+      "lng": -61.52
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunus",
+      "capital": "Tunus",
+      "lat": 36.8,
+      "lng": 10.18
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Türkiye",
+      "capital": "Ankara",
+      "lat": 39.93,
+      "lng": 32.87
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Türkmenistan",
+      "capital": "Aşkabat",
+      "lat": 37.95,
+      "lng": 58.38
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "capital": "Funafuti",
+      "lat": -8.52,
+      "lng": 179.22
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "capital": "Kampala",
+      "lat": 0.32,
+      "lng": 32.55
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrayna",
+      "capital": "Kiev",
+      "lat": 50.43,
+      "lng": 30.52
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Birleşik Arap Emirlikleri",
+      "capital": "Abu Dabi",
+      "lat": 24.47,
+      "lng": 54.37
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Birleşik Krallık",
+      "capital": "Londra",
+      "lat": 51.5,
+      "lng": -0.08
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Birleşik Devletleri",
+      "capital": "Washington, D.C.",
+      "lat": 38.89,
+      "lng": -77.05
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "lat": -34.85,
+      "lng": -56.17
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Özbekistan",
+      "capital": "Taşkent",
+      "lat": 41.32,
+      "lng": 69.25
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "capital": "Port Vila",
+      "lat": -17.73,
+      "lng": 168.32
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikan",
+      "capital": "Vatikan",
+      "lat": 41.9,
+      "lng": 12.45
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "lat": 10.48,
+      "lng": -66.87
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "capital": "Hanoi",
+      "lat": 21.03,
+      "lng": 105.85
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yemen",
+      "capital": "Sana",
+      "lat": 15.37,
+      "lng": 44.19
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambiya",
+      "capital": "Lusaka",
+      "lat": -15.42,
+      "lng": 28.28
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "capital": "Harare",
+      "lat": -17.82,
+      "lng": 31.03
+    }
+  ],
+  "meta": {
+    "seo_title": "Dünya Başkentleri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "195 dünya başkentinin kapsamlı listesini ücretsiz indirin. Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Dünya Başkentleri Veri Kümesi",
+    "description": "Bu veri kümesi, 195 dünya başkentinin ilgili ülke kodları, adları ve coğrafi koordinatları (enlem ve boylam) ile birlikte bir listesini sağlar. ISO Alpha-2 ve Alpha-3 kodlarını içerir.",
+    "key_takeaways": [
+      "Coğrafi koordinatlarla birlikte 195 dünya başkentinin eksiksiz bir listesine erişin.",
+      "ISO Alpha-2 ve Alpha-3 kodlarını kullanarak ülke ve başkent ilişkilerini keşfedin.",
+      "Bu veri kümesini size kolaylık sağlamak için Excel, CSV veya PDF formatında indirin.",
+      "Bu verileri coğrafi analiz ve uygulama geliştirme için kullanın."
+    ],
+    "keywords": [
+      "dünya başkentleri listesi excel",
+      "başkentler enlem boylam",
+      "iso 3166 ülke başkentleri",
+      "başkentler csv indir",
+      "dünya başkentleri veri kümesi",
+      "ücretsiz başkent verileri"
+    ],
+    "use_cases": [
+      "Coğrafi verileri uygulamalarınıza entegre etmek ve uzamsal sorgular gerçekleştirmek için **CSV** dosyasını SQL veritabanınıza aktarın.",
+      "Başkent dağılımlarını ve bölgesel eğilimleri analiz etmek için **Excel** dosyasını kullanarak Pivot Tablolar ve grafikler oluşturun.",
+      "Sınıf referansı veya sunumlar ve coğrafya dersleri sırasında hızlı bir kılavuz olarak **PDF** sürümünü yazdırın.",
+      "Mevcut herhangi bir formatta enlem ve boylam koordinatlarından yararlanarak etkileşimli haritalar ve coğrafi uygulamalar geliştirin."
+    ]
+  },
+  "record_count": 195,
+  "title": "Dünya Başkentleri Veri Kümesi"
+}

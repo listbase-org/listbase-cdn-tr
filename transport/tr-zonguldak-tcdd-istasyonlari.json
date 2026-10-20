@@ -1,0 +1,241 @@
+{
+  "id": "tr-zonguldak-tcdd-istasyonlari",
+  "name": "ZONGULDAK TCDD Tren İstasyonları (Railway stations in ZONGULDAK)",
+  "title": "ZONGULDAK TCDD Tren İstasyonları (Railway stations in ZONGULDAK)",
+  "description": "ZONGULDAK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ZONGULDAK province.) (20 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AHATLI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "AHATLI , ZONGULDAK",
+      "gidis_id": 80,
+      "donus_id": 80,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 40
+    },
+    {
+      "istasyon": "BAKACAKKADI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "BAKACAKKADI , ZONGULDAK",
+      "gidis_id": 214,
+      "donus_id": 214,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "FİLYOS",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "FİLYOS , ZONGULDAK",
+      "gidis_id": 129,
+      "donus_id": 129,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "GÖBÜ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "GÖBÜ , ZONGULDAK",
+      "gidis_id": 133,
+      "donus_id": 133,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 46
+    },
+    {
+      "istasyon": "GÖKÇEBEY",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "GÖKÇEBEY , ZONGULDAK",
+      "gidis_id": 1162,
+      "donus_id": 1162,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GÖKÇELER",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "GÖKÇELER , ZONGULDAK",
+      "gidis_id": 134,
+      "donus_id": 134,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "HAVALİMANI DURAĞI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "HAVALİMANI DURAĞI , ZONGULDAK",
+      "gidis_id": 1196,
+      "donus_id": 1196,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "IŞIKVEREN",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "IŞIKVEREN , ZONGULDAK",
+      "gidis_id": 148,
+      "donus_id": 148,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "KAPUZ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KAPUZ , ZONGULDAK",
+      "gidis_id": 152,
+      "donus_id": 152,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYIKÇILAR",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KAYIKÇILAR , ZONGULDAK",
+      "gidis_id": 160,
+      "donus_id": 160,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAZKÖY",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KAZKÖY , ZONGULDAK",
+      "gidis_id": 183,
+      "donus_id": 183,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KİLİMLİ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KİLİMLİ , ZONGULDAK",
+      "gidis_id": 166,
+      "donus_id": 166,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MUSLU",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "MUSLU , ZONGULDAK",
+      "gidis_id": 201,
+      "donus_id": 201,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALTUKOVA",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "SALTUKOVA , ZONGULDAK",
+      "gidis_id": 170,
+      "donus_id": 170,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TÜRKALİ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "TÜRKALİ , ZONGULDAK",
+      "gidis_id": 198,
+      "donus_id": 198,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ZONGULDAK (KİREMİTHANE)",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ZONGULDAK (KİREMİTHANE) , ZONGULDAK",
+      "gidis_id": 229,
+      "donus_id": 229,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ZONGULDAK",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ZONGULDAK , ZONGULDAK",
+      "gidis_id": 212,
+      "donus_id": 212,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇATALAĞZI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ÇATALAĞZI , ZONGULDAK",
+      "gidis_id": 118,
+      "donus_id": 118,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "ÇAYCUMA",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ÇAYCUMA , ZONGULDAK",
+      "gidis_id": 1098,
+      "donus_id": 1098,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "İNAĞZI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "İNAĞZI , ZONGULDAK",
+      "gidis_id": 164,
+      "donus_id": 164,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    }
+  ],
+  "meta": {
+    "title": "ZONGULDAK TCDD Tren İstasyonları (Railway stations in ZONGULDAK) - Ücretsiz İndir",
+    "description": "ZONGULDAK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ZONGULDAK province.) (20 kayıt.) İçerik 20 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ZONGULDAK TCDD Tren İstasyonları (Railway stations in ZONGULDAK) | ListBase",
+    "seo_description": "İndir ZONGULDAK TCDD Tren İstasyonları (Railway stations in ZONGULDAK) — 20 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 20 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

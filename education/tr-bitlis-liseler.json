@@ -1,0 +1,364 @@
+{
+  "id": "tr-bitlis-liseler",
+  "name": "Bitlis Liseleri (High Schools in Bitlis)",
+  "title": "Bitlis Liseleri (High Schools in Bitlis)",
+  "description": "Bitlis ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (24 kayıt) (High schools in Bitlis province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Adilcevaz Anadolu Lisesi",
+      "tam_ad": "Bitlis - Adilcevaz - Adilcevaz Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Adilcevaz",
+      "website": "http://adilcevazanadolu.meb.k12.tr",
+      "enlem": 38.808846478237356,
+      "boylam": 42.75419434680475
+    },
+    {
+      "okul_adi": "Adilcevaz Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Adilcevaz - Adilcevaz Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Adilcevaz",
+      "website": "http://adilcevazihl.meb.k12.tr",
+      "enlem": 38.80579906505899,
+      "boylam": 42.75212099923624
+    },
+    {
+      "okul_adi": "Adilcevaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Adilcevaz - Adilcevaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Adilcevaz",
+      "website": "http://adilcevazkml.meb.k12.tr",
+      "enlem": 38.79834928408787,
+      "boylam": 42.74128219260706
+    },
+    {
+      "okul_adi": "Ahlat Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Ahlat - Ahlat Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Ahlat",
+      "website": "http://ahlatimamhatip.meb.k12.tr",
+      "enlem": 38.75536615620055,
+      "boylam": 42.49107500686182
+    },
+    {
+      "okul_adi": "Ahlat Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Ahlat - Ahlat Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Ahlat",
+      "website": "http://ahlatkizanadoluihl.meb.k12.tr",
+      "enlem": 38.75609404875783,
+      "boylam": 42.49080678596033
+    },
+    {
+      "okul_adi": "Güroymak Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Güroymak - Güroymak Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Güroymak",
+      "website": "http://guroymakmtal.meb.k12.tr",
+      "enlem": 38.575219433574404,
+      "boylam": 42.02816328181757
+    },
+    {
+      "okul_adi": "Güroymak Selahaddin Eyyubi Anadolu  İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Güroymak - Güroymak Selahaddin Eyyubi Anadolu  İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Güroymak",
+      "website": "http://guroymakselahaddneyyubiaihl.meb.k12.tr",
+      "enlem": 38.571201613308304,
+      "boylam": 42.05262502803339
+    },
+    {
+      "okul_adi": "Güroymak Selahattin Rahime Dur Kiz Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Güroymak - Güroymak Selahattin Rahime Dur Kiz Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Güroymak",
+      "website": "http://guroymakselahattinrahimedur.meb.k12.tr",
+      "enlem": 38.573114090225914,
+      "boylam": 42.04905903114809
+    },
+    {
+      "okul_adi": "Güroymak İmkb Anadolu Lisesi",
+      "tam_ad": "Bitlis - Güroymak - Güroymak İmkb Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Güroymak",
+      "website": "http://guroymakimkb.meb.k12.tr",
+      "enlem": 38.56672219180888,
+      "boylam": 42.04466423167719
+    },
+    {
+      "okul_adi": "Fatma Aliye Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Hizan - Fatma Aliye Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Hizan",
+      "website": "http://hizanfatmaaliyemtal.meb.k12.tr",
+      "enlem": 38.22395479881936,
+      "boylam": 42.426755634684696
+    },
+    {
+      "okul_adi": "Hizan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Hizan - Hizan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Hizan",
+      "website": "http://hizanmtal.meb.k12.tr",
+      "enlem": 38.220147099413055,
+      "boylam": 42.41523286475672
+    },
+    {
+      "okul_adi": "Hizan Said Nursi Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Hizan - Hizan Said Nursi Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Hizan",
+      "website": "http://hizansaidnursiihl.meb.k12.tr",
+      "enlem": 38.21551100378906,
+      "boylam": 42.41533478869928
+    },
+    {
+      "okul_adi": "Bitlis Beş Minare Anadolu Lisesi",
+      "tam_ad": "Bitlis - Merkez - Bitlis Beş Minare Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://besminarelisesi.meb.k12.tr",
+      "enlem": 38.395317740641175,
+      "boylam": 42.108578590293064
+    },
+    {
+      "okul_adi": "Bitlis Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Merkez - Bitlis Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://bitliseml.meb.k12.tr",
+      "enlem": 38.40716877996961,
+      "boylam": 42.10786780490412
+    },
+    {
+      "okul_adi": "Bitlis Necibe Gencer Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Merkez - Bitlis Necibe Gencer Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://necibegencermtal.meb.k12.tr",
+      "enlem": 38.47276624209715,
+      "boylam": 42.159334031481876
+    },
+    {
+      "okul_adi": "Bitlis Spor Lisesi",
+      "tam_ad": "Bitlis - Merkez - Bitlis Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://bitlisziyaerensporlisesi.meb.k12.tr",
+      "enlem": 38.4682890905838,
+      "boylam": 42.15525707377924
+    },
+    {
+      "okul_adi": "Hikmet Kiler Fen Lisesi",
+      "tam_ad": "Bitlis - Merkez - Hikmet Kiler Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://hkfl.meb.k12.tr",
+      "enlem": 38.44431942403939,
+      "boylam": 42.14106014146341
+    },
+    {
+      "okul_adi": "İhlasiye Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Merkez - İhlasiye Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://bitlisihlasiyeaihl.meb.k12.tr",
+      "enlem": 38.44446227423876,
+      "boylam": 42.128671018023624
+    },
+    {
+      "okul_adi": "Şehit Tahsin Barutçu Anadolu Lisesi",
+      "tam_ad": "Bitlis - Merkez - Şehit Tahsin Barutçu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Merkez",
+      "website": "http://stahsinbarutcual.meb.k12.tr",
+      "enlem": 38.478083023391044,
+      "boylam": 42.16748794688715
+    },
+    {
+      "okul_adi": "Mutki Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Mutki - Mutki Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Mutki",
+      "website": "http://mutkiaihl.meb.k12.tr",
+      "enlem": 38.41080168657409,
+      "boylam": 41.923522261519565
+    },
+    {
+      "okul_adi": "Tatvan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Tatvan - Tatvan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Tatvan",
+      "website": "http://tatvaneml.meb.k12.tr",
+      "enlem": 38.51880680248731,
+      "boylam": 42.2906335271789
+    },
+    {
+      "okul_adi": "Tatvan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Tatvan - Tatvan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Tatvan",
+      "website": "http://tatvaneml.meb.k12.tr",
+      "enlem": 38.518824891131196,
+      "boylam": 42.2906335271789
+    },
+    {
+      "okul_adi": "Tatvan Seydi Ali Reis Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bitlis - Tatvan - Tatvan Seydi Ali Reis Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bitlis",
+      "ilce": "Tatvan",
+      "website": "http://seydialireis.meb.k12.tr",
+      "enlem": 38.50418457721063,
+      "boylam": 42.28453418387903
+    },
+    {
+      "okul_adi": "Tatvan Şehit Mehmet Ali Kılıç Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bitlis - Tatvan - Tatvan Şehit Mehmet Ali Kılıç Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bitlis",
+      "ilce": "Tatvan",
+      "website": "http://tatvanihl.meb.k12.tr",
+      "enlem": 38.4963401993918,
+      "boylam": 42.284217683215275
+    }
+  ],
+  "meta": {
+    "title": "Bitlis Liseleri (High Schools in Bitlis) - Ücretsiz İndir",
+    "description": "Bitlis ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (24 kayıt) (High schools in Bitlis province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 24 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bitlis Liseleri (High Schools in Bitlis) | ListBase",
+    "seo_description": "İndir Bitlis Liseleri (High Schools in Bitlis) — 24 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 24 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

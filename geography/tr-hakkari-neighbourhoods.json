@@ -1,0 +1,3110 @@
+{
+  "id": "tr-hakkari-neighbourhoods",
+  "name": "Hakkari Mahalleleri (Hakkari Neighbourhoods)",
+  "title": "Hakkari Mahalleleri (Hakkari Neighbourhoods)",
+  "description": "Hakkari ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (437 kayıt.) (All neighbourhoods (mahalle) in Hakkari province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 437,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akören Mah (uslu Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aralık Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Balkaya Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beşikağaç Mah (anadağ Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bölek Mah (anadağ Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gelişen Köyü",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gökçetaş Mah (anadağ Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gürmeşe Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Hacıbey Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karakoç Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Koryürek Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kütüklü Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Mordağ Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ortaklar Köyü",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Rize Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Serhatkale Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Su Çıktı Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Taşlıçay Mah (uslu Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Toklu Mah (gelişen Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ulaşan Mah (uslu Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Uslu Köyü",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Vapurtepe Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah (anadağ Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah (ortaklar Köyü)",
+      "district_name": "Derecik",
+      "postal_code": "30650",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Üçyan Mah",
+      "district_name": "Derecik",
+      "postal_code": "30600",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "1.harput Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "2.harput Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akbulut Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akkuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aksu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akçalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mezrası Mah (kavaklı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ayranlı Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ağaçdibi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ağaçsız Mah (oğul Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Derecik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kayacık Mah (bağışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Otluca Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağıkırbaşı Mah (kırıkdağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bahi Mah (ağaçdibi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah (geçimli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bayköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah (doğanyurt Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bağışlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Berçelan Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Biçenek Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Biçer Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Boybeyi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Boğazlı Mah (doğanyurt Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Budaklı Mah (bağışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bulak Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Cevizdibi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ceylanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dağ Komando Tugayı Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dağgöl Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Demirlimez Mah (akbulut Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Demirtaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereboyu Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Deren Mah (üzümcü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereüstü Mah (üzümcü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereşaban Mah (kırıkdağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dez Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dikilitaş Mah (boybeyi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dikmen Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dilek Mah (oğul Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah (ceylanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Doğanyurt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Elmacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Eski Ördekli Mah (ördekli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Eğercik Mah (akçalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gelinli Mah (ceylanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Geçitli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gipe Mah (ceylanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Göze Mah (oğul Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güzel Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Halife Derviş Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Hendek Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah (oğul Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Işık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Işıklar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kanatlı Mah (akçalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kavalköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kaymaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Keklikpınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Koçlu Mah (kaymaklı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köprücük Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köyceyiz Mah (kamışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kürüm Mah (sarıtaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Küçükköşk Mah (ışıklar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kırıkdağ Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Medrese Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kamışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Merzan Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Musahan Mah (bağışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Musahan Mah (sarıtaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Olgunlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Oluklu Mah (demirtaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Otlubel Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Otluca Dağ Komando Togayı Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Oğulcul Mah (bağışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Oğurlu Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Pehlivan Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Pınarca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Rez Mah (kırıkdağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sarıgül Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sarıtaş Bağlısı Mah (sarıtaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Seranüs Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Stoka Mah (olgunlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Su Ocağı Mah (doğanyurt Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sulak Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sümbül Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Mah (kaymaklı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sütçüler Mah (ceylanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Taşbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Taşlıca Işık Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah (ışık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Trafik Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tümsek Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Uyanık Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yapraklı Mah (ışık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yağmurlu Mah (demirtaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "30100",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kırıkdağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (olgunlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (ördekli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Oğul Mah (oğul Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeniyol Mah (akçalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeniyol Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşilbulak Mah (boybeyi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yoncalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Derecik Mah (aşağı Derecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Dereli Mah (olgunlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kayacık Mah (bağışlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Otluca Mah (otluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Çaltıkoru Mah (çaltıkoru Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yumrukaya Mah (akbulut Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yığınlı Mah (ceylanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Zavite Mah (konak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Zavite Mezrası Mah (konak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çaltıkoru Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çanaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Mah (ışıklar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çaylıca Mah (durankaya Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "30120",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çeltik Mezrası Mah (kavaklı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çetintaş Mah (akkuş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çimenli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Öğrencik Mah (demirtaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Üzümcü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İncir Mah (geçimli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "30110",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "A.güveç Mah (kısıklı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "A.olukbaşı Mah (akocak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "A.ölçek Mah (değerli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Adaklı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akalın Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akar Mah (dağlıca Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akocak Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aksu Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aktoprak Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akçalı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Alacık Mah (yeniışık Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Altınbaşak Mah (akpınar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Altınoluk Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Armutdüzü Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mah (onbaşılar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Arpalı Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ağaçlık Mah (onbaşılar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ağılcık Mah (onbaşılar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağıuluyol Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Basamak Mah (yeniışık Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bataklık Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bağdaş Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beşatlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beşbulak Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah (akpınar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beşpınar Mah (karlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bostancık Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bulaklı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bulgurlu Mah (güllüce Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bölük Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Cevizlik Mah (gürkavak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Daglıca Mah (dağlıca Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dalice Mah (dibekli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Damlacık Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dağdibi Mah (köşkönü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dedeler Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Demirkonak Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereiçi  Mah (birdik Mah) (akpınar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereiçi Mah (dilektaşı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereiçi Mah (onbaşılar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Değerli Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dibekli Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dilekli Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dilektaşı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dilimli Mah (bölük Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dize Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dişli Mah (değerli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Duraklı Mah (demirkonak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Duraklı Mah (güçlü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Duranlar Mah (akpınar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Erbaş Mah (köşkönü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ericik Mah (bağdaş Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Esen Yurt Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Eski Kışla Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gedikli Mah (bağdaş Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gove Mah (gürkavak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gökyurt Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güldalı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gümüşlü Mah (ortaç Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güngör Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gürdere Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gürkaynak Mah (salkımlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güvenli Mah (esendere Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güçlü Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kalemli Mah (kadıköy Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kamışlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kapılı Mah (ortaç Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karabağ Mah (karlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karabey Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah (tuğlu Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kargılı Mah (ortaç Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kayakonak Mah (bağdaş Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kazan Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kerem Zeydan Mah (büyükçiftlik Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30330",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Keçili Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kilimli Mah (karlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kolbaşı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Konak Mah (ortaç Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kornak Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kurucak Mah (köşkönü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (salkımlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köprücek Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köycük Mah (değerli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah (akocak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köşkönü Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kısıklı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kışlacık Mah (pınargözü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Mamak Mah (kadıköy Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (büyükçiftlik Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30330",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (esendere Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Mezarlık Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (yeniışık Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Miranava Mah (serindere Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Odabaşı Mah (dibekli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Onbaşılar Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ormanarası Mah (kolbaşı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ortaç Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ovaiçi Mah (akpınar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Pirbılan Mah (kısıklı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Pirinceyin Mah (ortaç Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Pınargözü Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah (salkımlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Salkımlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sarıtaş Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sarıyıldız Mah (esendere Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Serindere Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sualtı Mah (kısıklı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Suüstü Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sülük Mah (akocak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sürekli Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tarlacık Mah (sürekli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tatlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tatlıcak Mah (bağdaş Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Taşyazı Mah (sürekli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tepebaşı Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tokağaç Mah (gürkavak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tuğlu Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Vezirli Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Y.güveç Mah (serindere Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Y.uluyol Mah (aşağıuluyol Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Y.ölçek Mah (değerli Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yazılı Mah (yazılı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yemişli Mah (sarıtaş Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (aşağıuluyol Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeniışık Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşilce Mah (pınargözü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah (gökyurt Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah (gürkavak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah (büyükçiftlik Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30330",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşiltaş Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yoncalık Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Ulukbaşı Mah (yeniışık Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yumrutaş Mah (demirkonak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yürekli Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yılmaz Mah (esendere Beldesi)",
+      "district_name": "Yüksekova",
+      "postal_code": "30400",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah (beşatlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çakırkaya Mah (beşatlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çalımlı Mah (dilektaşı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çamdalı Mah (onbaşılar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çatalkaya Mah (bölük Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çatma Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (tuğlu Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çevreli Mah (yoncalık Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çimenli Mah (karlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çiçeközü Mah (karlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çobanpınar Mah (onbaşılar Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çukurca Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Örnekköy Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İkizler Mah (gürkavak Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İnanlı Köyü",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İnceyol Mah (pınargözü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İncirlik Mah (dağlıca Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İpek Mah",
+      "district_name": "Yüksekova",
+      "postal_code": "30300",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Şahince Mah (armutdüzü Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Şimte Mah (salkımlı Köyü)",
+      "district_name": "Yüksekova",
+      "postal_code": "30302",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Akkaya Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30720",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Cevizli Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çukurca",
+      "postal_code": "30700",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Emirşaban Mah",
+      "district_name": "Çukurca",
+      "postal_code": "30700",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Guzeldere Mah (gündeş Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Gündeş Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kayalık Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kaynak Mah (kayalık Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kazan Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Köprülü Mah (gündeş Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Meşeli Mah (kayalık Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Narlı Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Ormanlı Mah (gündeş Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sariyer Mah (akkaya Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30720",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşil Çeşme Mah",
+      "district_name": "Çukurca",
+      "postal_code": "30700",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarıakkaya Mah (akkaya Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30720",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çeltik Mah (kayalık Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çimenli Mah (gündeş Köyü)",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çığlı Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30720",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Köyü",
+      "district_name": "Çukurca",
+      "postal_code": "30702",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akbal Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Akkavak Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aktütün Mah (konur Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Alan Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Alkava Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kayacık Mah (boğazköy Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Korgan Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Aşağı Tuğlu Mah (yufkalı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Balova Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Balıklı Mah (tekeli Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bağlar Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beytera Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beyyurdu Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah",
+      "district_name": "Şemdinli",
+      "postal_code": "30800",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Binahere Mah (yufkalı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Bozyamaç Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Deravi Mah (bozyamaç Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereboyu Mah (altınsu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dereyanı Mah (konur Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Dinarte Mah (çubuklu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Durak Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Elde Mah (altınsu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah (yufkalı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Erdemli Mah (çatalca Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Erikli Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güleç Mah (tütünlü Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Günyazı Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güvenli Mah (çatalca Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güzelkaya Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Güzelkonak Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Harmanlı Mah (öveç Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Hazne Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Husrova Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah (öveç Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Şemdinli",
+      "postal_code": "30800",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kayalar Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kepenek Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kolita Mah (çubuklu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Konur Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Korgan Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Koçbaşı Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kula Mah (yufkalı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Kule Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Mağaraönü Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (altınsu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah (altınsu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Meşeli Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Moda Mah",
+      "district_name": "Şemdinli",
+      "postal_code": "30800",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Muşi Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Olgunlar Mah (günyazı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Oğlaklı Mah (tekeli Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Rüzgarlı Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Samanlı Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Sarıca Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Seçkin Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Mah (çatalca Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tanyolu Mah (tekeli Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tatlıca Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tekeli Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tuva Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tuğlu Mah (yufkalı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Türe Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Tütünlü Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Uğuraçan Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Veliköy Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Şemdinli",
+      "postal_code": "30800",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yaylapınar Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Şemdinli",
+      "postal_code": "30800",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeniceli Mah (günyazı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşilbayır Mah (uğuraçan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yeşilöz Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yiğitler Mah (günyazı Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yufkalı Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kayacık Mah (boğazköy Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kayalar Mah (kayalar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Yukarı Korgan Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Zorgeçit Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çalışkanlar Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çatalca Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çem Mah (bağlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çem Mah (boğazköy Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çevre Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Öveç Köyü",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Üstünağaç Mah (tekeli Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Üzümkıran Kampı Mah (korgan Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "Üçgöze Mah (çalışkanlar Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    },
+    {
+      "neighbourhood_name": "İncesu Mah (altınsu Köyü)",
+      "district_name": "Şemdinli",
+      "postal_code": "30802",
+      "city_code": "30",
+      "city_name": "Hakkari"
+    }
+  ],
+  "meta": {
+    "title": "Hakkari Mahalleleri (Hakkari Neighbourhoods) - Ücretsiz İndir",
+    "description": "Hakkari ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (437 kayıt.) (All neighbourhoods (mahalle) in Hakkari province with their parent district and postal code.) İçerik 437 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Hakkari Mahalleleri (Hakkari Neighbourhoods) | ListBase",
+    "seo_description": "İndir Hakkari Mahalleleri (Hakkari Neighbourhoods) — 437 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 437 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

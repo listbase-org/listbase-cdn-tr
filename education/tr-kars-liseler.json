@@ -1,0 +1,292 @@
+{
+  "id": "tr-kars-liseler",
+  "name": "Kars Liseleri (High Schools in Kars)",
+  "title": "Kars Liseleri (High Schools in Kars)",
+  "description": "Kars ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (18 kayıt) (High schools in Kars province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Akyaka İmkb Anadolu Lisesi",
+      "tam_ad": "Kars - Akyaka - Akyaka İmkb Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Akyaka",
+      "website": "http://imkbakyakaanadolulisesi.meb.k12.tr",
+      "enlem": 40.733546097821886,
+      "boylam": 43.62981757297052
+    },
+    {
+      "okul_adi": "Arpaçay Anadolu Lisesi",
+      "tam_ad": "Kars - Arpaçay - Arpaçay Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Arpaçay",
+      "website": "http://arpacayanadolulisesi.meb.k12.tr",
+      "enlem": 40.84632652499432,
+      "boylam": 43.334997204680576
+    },
+    {
+      "okul_adi": "Arpaçay Anadolu Lisesi",
+      "tam_ad": "Kars - Arpaçay - Arpaçay Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Arpaçay",
+      "website": "http://750940.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Mihralibey Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kars - Arpaçay - Mihralibey Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kars",
+      "ilce": "Arpaçay",
+      "website": "http://arpacayimamhatip.meb.k12.tr",
+      "enlem": 40.8469372515489,
+      "boylam": 43.334667292971744
+    },
+    {
+      "okul_adi": "Digor Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kars - Digor - Digor Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Digor",
+      "website": "http://cokprograml.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Kağızman Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kars - Kağızman - Kağızman Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kars",
+      "ilce": "Kağızman",
+      "website": "http://kagizmanihl.meb.k12.tr",
+      "enlem": 40.13109826914394,
+      "boylam": 43.11711868419184
+    },
+    {
+      "okul_adi": "Kağızman Fen Lisesi",
+      "tam_ad": "Kars - Kağızman - Kağızman Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Kars",
+      "ilce": "Kağızman",
+      "website": "http://kagizmanfenlisesi.meb.k12.tr",
+      "enlem": 40.1615736481843,
+      "boylam": 43.122933713336124
+    },
+    {
+      "okul_adi": "Karaurgan Fehim Yenice Çok Programlı Lisesi",
+      "tam_ad": "Kars - Sarıkamış - Karaurgan Fehim Yenice Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "website": "http://karaurganlisesi.meb.k12.tr",
+      "enlem": 40.24417212577099,
+      "boylam": 42.279733029742374
+    },
+    {
+      "okul_adi": "Kars Sarıkamış Spor Lisesi",
+      "tam_ad": "Kars - Sarıkamış - Kars Sarıkamış Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "website": "http://sargsvesporlisesi.meb.k12.tr",
+      "enlem": 40.32909097543727,
+      "boylam": 42.6277335561706
+    },
+    {
+      "okul_adi": "Kazım Karabekir Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kars - Sarıkamış - Kazım Karabekir Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "website": "http://kazimkarabekirmtal.meb.k12.tr",
+      "enlem": 40.332223467057325,
+      "boylam": 42.579335776705875
+    },
+    {
+      "okul_adi": "Sarıkamış Anadolu Lisesi",
+      "tam_ad": "Kars - Sarıkamış - Sarıkamış Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "website": "http://sarikamislisesi.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.85343352075741
+    },
+    {
+      "okul_adi": "Sarıkamış Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kars - Sarıkamış - Sarıkamış Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "website": "http://sarikamisimamhatip.meb.k12.tr",
+      "enlem": 40.33616545614643,
+      "boylam": 42.58400282039179
+    },
+    {
+      "okul_adi": "Sarıkamış Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kars - Sarıkamış - Sarıkamış Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "website": "http://sametal.meb.k12.tr",
+      "enlem": 40.33668067836754,
+      "boylam": 42.601576653857364
+    },
+    {
+      "okul_adi": "Osman Bakırcı Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kars - Selim - Osman Bakırcı Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kars",
+      "ilce": "Selim",
+      "website": "http://osmanbakircihl.meb.k12.tr",
+      "enlem": 40.4610497789411,
+      "boylam": 42.78937420024408
+    },
+    {
+      "okul_adi": "Selim Şehit Teğmen Gökhan Yaşartürk Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kars - Selim - Selim Şehit Teğmen Gökhan Yaşartürk Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Selim",
+      "website": "http://selimstgycpl.meb.k12.tr",
+      "enlem": 40.46533011875836,
+      "boylam": 42.79102644099726
+    },
+    {
+      "okul_adi": "Selim Şehit Teğmen Gökhan Yaşartürk Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kars - Selim - Selim Şehit Teğmen Gökhan Yaşartürk Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Selim",
+      "website": "http://selimstgycpl.meb.k12.tr",
+      "enlem": 40.46534820740224,
+      "boylam": 42.79102644099726
+    },
+    {
+      "okul_adi": "Kazım Karabekir Anadolu Lisesi",
+      "tam_ad": "Kars - Susuz - Kazım Karabekir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Susuz",
+      "website": "http://758138.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.85343352075741
+    },
+    {
+      "okul_adi": "Susuz Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kars - Susuz - Susuz Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kars",
+      "ilce": "Susuz",
+      "website": "http://karssusuzcpl.meb.k12.tr",
+      "enlem": 40.778557765465926,
+      "boylam": 43.13743909968866
+    }
+  ],
+  "meta": {
+    "title": "Kars Liseleri (High Schools in Kars) - Ücretsiz İndir",
+    "description": "Kars ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (18 kayıt) (High schools in Kars province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 18 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kars Liseleri (High Schools in Kars) | ListBase",
+    "seo_description": "İndir Kars Liseleri (High Schools in Kars) — 18 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 18 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

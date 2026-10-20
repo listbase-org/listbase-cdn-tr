@@ -1,0 +1,2494 @@
+{
+  "id": "tr-kirikkale-neighbourhoods",
+  "name": "Kırıkkale Mahalleleri (Kırıkkale Neighbourhoods)",
+  "title": "Kırıkkale Mahalleleri (Kırıkkale Neighbourhoods)",
+  "description": "Kırıkkale ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (349 kayıt.) (All neighbourhoods (mahalle) in Kırıkkale province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 349,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Atadönmez Mah",
+      "district_name": "Bahşılı",
+      "postal_code": "71460",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (karaahmetli Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bağevleri Mah (çamlıca Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Denizli Ercanlar Mah (küreboğazı Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Doğanay Mah",
+      "district_name": "Bahşılı",
+      "postal_code": "71460",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (karaahmetli Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Halim Şenses Mah",
+      "district_name": "Bahşılı",
+      "postal_code": "71460",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hidayet Doğruer Mah",
+      "district_name": "Bahşılı",
+      "postal_code": "71460",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hüseyin Onbaşı Mah",
+      "district_name": "Bahşılı",
+      "postal_code": "71460",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Küreboğazı Köyü",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Küçüksarıkayalar Köyü",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sarıkayalar Köyü",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (küreboğazı Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yaylaevi Mah (çamlıca Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşil Konak Mah (karaahmetli Köyü)",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Köyü",
+      "district_name": "Bahşılı",
+      "postal_code": "71462",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Akçakavak Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aydınşıh Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ayvaderesi Mah (kenanoba Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Azgın Yaylası Mah (kenanoba Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıkarakısık Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (koçubaba Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ballı Mah",
+      "district_name": "Balışeyh",
+      "postal_code": "71520",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Battaloba Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah (koçubaba Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Beyobası Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Beşbıçak Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bıyıkaydın Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Dikmen Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Dostlar Mah (koçubaba Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Eldelek Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Eldelek Mah (beyobası Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (mehmetbeyobası Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (kulaksız Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah (kulaksız Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hüseyinoba Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hıdırşıh Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Işıklar Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karahocalı Mah (kılevli Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karalı Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kargın Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kenanoba Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kuşburnu Mah (mehmetbeyobası Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kösedurak Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kılevli Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kırlangıç Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Mehmetbeyobası Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Mevki Mah (izzettin Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Oba Mah",
+      "district_name": "Balışeyh",
+      "postal_code": "71520",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Selamlı Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Toki Mah",
+      "district_name": "Balışeyh",
+      "postal_code": "71520",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ufuk Mah (kulaksız Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ulaklı Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Uzunlar Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yassıbağ Mah (kenanoba Köyü)",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Balışeyh",
+      "postal_code": "71520",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenilli Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıkarakısık Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "İzzettin Köyü",
+      "district_name": "Balışeyh",
+      "postal_code": "71522",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Akboğaz Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aktepe Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Alcılı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Arbişli Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Avşar Mah (büyükafşar Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah (büyükyağlı Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıihsangazili Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (büyükafşar Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (büyükyağlı Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Baraklı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bozköy Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Mah (büyükafşar Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Coğul Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (büyükyağlı Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Dağobası Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Derekışla Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Doğanören Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Elmalı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Evliyalı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fadılobası Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gökçebel Mah (çerikli Beldesi)",
+      "district_name": "Delice",
+      "postal_code": "71670",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gözükızıllı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gündüz Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıobası Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Halitli Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Herekli Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karabekir Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karaköseli Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karpuz Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (büyükafşar Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kavakköy Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kocabaş Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kurtoğlu Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kuzayyurt Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Küçükafşar Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çerikli Beldesi)",
+      "district_name": "Delice",
+      "postal_code": "71670",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Meşeyayla Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Delice",
+      "postal_code": "71700",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ocakbaşı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah (çerikli Beldesi)",
+      "district_name": "Delice",
+      "postal_code": "71670",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sarıyaka Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tatlıcak Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tavaözü Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Taşyazı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tekkeköy Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yaylayurt Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (büyükafşar Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (büyükyağlı Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (çerikli Beldesi)",
+      "district_name": "Delice",
+      "postal_code": "71670",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yerlikent Mah (çerikli Beldesi)",
+      "district_name": "Delice",
+      "postal_code": "71670",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yıldız Mah (büyükyağlı Köyü)",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çatallı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çatallıkarakoyunlu Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çongar Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "İmirli Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Şahcalı Köyü",
+      "district_name": "Delice",
+      "postal_code": "71702",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Akkoşan Köyü",
+      "district_name": "Karakeçili",
+      "postal_code": "71502",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hoca Ahmet Yesevi Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Mareşal Fevzi Çakmak Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sulubük Köyü",
+      "district_name": "Karakeçili",
+      "postal_code": "71502",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yavuz Sultan Selim Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilevler Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Karakeçili",
+      "postal_code": "71500",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Acıçiftliği Mah (ceritobası Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Altuntaş Mah",
+      "district_name": "Keskin",
+      "postal_code": "71800",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Armutlu Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aşağı Olunlu Mah (olunlu Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aşağışıh Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (konur Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Barak Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Barakobası Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Beşler Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bozkurt Mah",
+      "district_name": "Keskin",
+      "postal_code": "71800",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Büyükceceli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cabatobası Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cankurtaran Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cebrailli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ceritkale Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ceritobası Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cinali Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Danacıobası Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Dağsolaklısı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Efendiköy Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Elifoğlu Mah (barakobası Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Eminefendi Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Eroğlu Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Esatmüminli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Eskialibudak Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (köprüköy Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gazibeyli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Göktaş Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Göçbeyli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gülkonak Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Keskin",
+      "postal_code": "71800",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Güneş Mah (ceritmüminli Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Güzelyaka Mah (konur Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıaliobası Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıömersolaklısı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hamit Mevki Mah (cinali Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Haydardede Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karafakılı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (konur Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (köprüköy Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kasımağa Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kavlak Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kavurgalı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kayalaksolaklısı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kaçakköy Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Keskinkayalar Mah (çipideresi Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kevenli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Konurhacıobası Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kurşunkaya Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kuzugüdenli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Köşker Mah (büyükceceli Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kürek Mah (çipideresi Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Maden Mah",
+      "district_name": "Keskin",
+      "postal_code": "71800",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Müsellim Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Olunlu Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah (cankurtaran Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ortasöken Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Polatyurdu Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Seyfli Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Takazlı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tandoğan Mah (ceritmüminli Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Taşlık Mah (barakobası Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Topallar Mah (çipideresi Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Turhanlı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ufuk Mah (ceritmüminli Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Keskin",
+      "postal_code": "71800",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (köprüköy Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenialibudak Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Keskin",
+      "postal_code": "71800",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenimerden Mah (ceritobası Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşiltaş Mah (konur Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yoncalı Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çalış Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çamurabatmaz Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çipideresi Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ömerin Mah (barakobası Köyü)",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Üçevler Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Üçkuyu Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "İnziloğlu Köyü",
+      "district_name": "Keskin",
+      "postal_code": "71860",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Akşemsettin Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Altınova Mah (hacılar Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "71480",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aşağımahmutlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "71100",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "71300",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (hasandede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah (hasandede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Dağevi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Etiler Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fabrikalar Mah",
+      "district_name": "Merkez",
+      "postal_code": "71100",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gülevler Mah (hasandede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah (hasandede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gürler Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Güzeltepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıbey Mah (hacılar Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "71480",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hüseyin Kahya Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kaletepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karacaali Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Merkez",
+      "postal_code": "71300",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kazmaca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kimeski Mah",
+      "district_name": "Merkez",
+      "postal_code": "71300",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kırıkköyü Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kızıldere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kızılırmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "71300",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Pazarcık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah (ahılı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Merkez",
+      "postal_code": "71400",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah (hacılar Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "71480",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Selim Özer Mah",
+      "district_name": "Merkez",
+      "postal_code": "71300",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (ahılı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tepebaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ulaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah",
+      "district_name": "Merkez",
+      "postal_code": "71100",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Merkez",
+      "postal_code": "71200",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Merkez",
+      "postal_code": "71100",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yukarımahmutlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yuva Mah",
+      "district_name": "Merkez",
+      "postal_code": "71300",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çalılıöz Mah",
+      "district_name": "Merkez",
+      "postal_code": "71100",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çullu Mah",
+      "district_name": "Merkez",
+      "postal_code": "71100",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ömerli Mah (ahılı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "71010",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Akkuyu Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Alişeyhli Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ambardere Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ayvatlı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ağaylı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Barış Mah (hamzalı Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (hamzalı Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Danacı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Deredüzü Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Esenpınar Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Faraşlı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (güzelyurt Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (hamzalı Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kalekışla Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Koruköy Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (güzelyurt Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Körkuyu Mah (sofularçiftliği Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kıyıhalilinceli Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kıyıkavurgalı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah (güzelyurt Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sarıkızlı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sarımbey Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Sofularçiftliği Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yağbasan Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeniceli Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenihayat Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilli Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilyazı Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah (güzelyurt Köyü)",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yükselen Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yıldız Mah",
+      "district_name": "Sulakyurt",
+      "postal_code": "71900",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çayoba Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çevrimli Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "İmamoğluçeşmesi Köyü",
+      "district_name": "Sulakyurt",
+      "postal_code": "71902",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Aktaşlar Yaylası Mah (mahmutlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Alaaddin Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (kılıçlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Battalgazi Mah (ırmak Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bayraktepe Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Bedesten Köyü",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Mah (ırmak Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Doğanlık Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Emirler Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Enver Paşa Mah (kılıçlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (ırmak Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gedikardı Mah (hisarköy Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Güllük Çiftliği Mah (keçili Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Güzeren Mah (mahmutlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıbalı Köyü",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıbalıosb Mah (hacıbalı Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıbey Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hisarköy Köyü",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kadıoğlu Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kalecik Karadağ Mevkii Mah (mahmutlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Keçili Köyü",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Köyönü Mevkii Mah (hacıbalı Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kütüklü Mah (mahmutlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Mahmutlar Köyü",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Seyitali Mah (kılıçlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah (ırmak Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Vakağın Tepesi Mah (keçili Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yazı Mevkii Mah (hacıbalı Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşil Vadi Mah",
+      "district_name": "Yahşihan",
+      "postal_code": "71450",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilöz Mah (ırmak Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (hisarköy Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mah (bedesten Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mevkii Mah (bedesten Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Şehit Türker Mah (kılıçlar Köyü)",
+      "district_name": "Yahşihan",
+      "postal_code": "71452",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Alıcıyeniyapan Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Çelebi",
+      "postal_code": "71810",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Çelebi",
+      "postal_code": "71810",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Gülveren Mah",
+      "district_name": "Çelebi",
+      "postal_code": "71810",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Hacıyusuflu Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Halildede Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kaldırım Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karaağıl Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karabucak Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karahacılı Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Karayakup Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Kepirli Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Tilkili Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çelebi",
+      "postal_code": "71810",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "Yukarışıh Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    },
+    {
+      "neighbourhood_name": "İğdebeli Köyü",
+      "district_name": "Çelebi",
+      "postal_code": "71812",
+      "city_code": "71",
+      "city_name": "Kırıkkale"
+    }
+  ],
+  "meta": {
+    "title": "Kırıkkale Mahalleleri (Kırıkkale Neighbourhoods) - Ücretsiz İndir",
+    "description": "Kırıkkale ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (349 kayıt.) (All neighbourhoods (mahalle) in Kırıkkale province with their parent district and postal code.) İçerik 349 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kırıkkale Mahalleleri (Kırıkkale Neighbourhoods) | ListBase",
+    "seo_description": "İndir Kırıkkale Mahalleleri (Kırıkkale Neighbourhoods) — 349 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 349 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

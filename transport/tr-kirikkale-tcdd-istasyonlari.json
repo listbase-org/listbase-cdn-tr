@@ -1,0 +1,115 @@
+{
+  "id": "tr-kirikkale-tcdd-istasyonlari",
+  "name": "KIRIKKALE TCDD Tren İstasyonları (Railway stations in KIRIKKALE)",
+  "title": "KIRIKKALE TCDD Tren İstasyonları (Railway stations in KIRIKKALE)",
+  "description": "KIRIKKALE ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KIRIKKALE province.) (6 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BALIŞIH",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "BALIŞIH , KIRIKKALE",
+      "gidis_id": 105,
+      "donus_id": 105,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 78
+    },
+    {
+      "istasyon": "IRMAK",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "IRMAK , KIRIKKALE",
+      "gidis_id": 147,
+      "donus_id": 147,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 111
+    },
+    {
+      "istasyon": "KIRIKKALE",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "KIRIKKALE , KIRIKKALE",
+      "gidis_id": 168,
+      "donus_id": 168,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIRIKKALE YHT",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "KIRIKKALE YHT , KIRIKKALE",
+      "gidis_id": "",
+      "donus_id": 1346,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAHŞİHAN",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "YAHŞİHAN , KIRIKKALE",
+      "gidis_id": 205,
+      "donus_id": 205,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇERİKLİ",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "ÇERİKLİ , KIRIKKALE",
+      "gidis_id": 119,
+      "donus_id": 119,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 110
+    }
+  ],
+  "meta": {
+    "title": "KIRIKKALE TCDD Tren İstasyonları (Railway stations in KIRIKKALE) - Ücretsiz İndir",
+    "description": "KIRIKKALE ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KIRIKKALE province.) (6 kayıt.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KIRIKKALE TCDD Tren İstasyonları (Railway stations in KIRIKKALE) | ListBase",
+    "seo_description": "İndir KIRIKKALE TCDD Tren İstasyonları (Railway stations in KIRIKKALE) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

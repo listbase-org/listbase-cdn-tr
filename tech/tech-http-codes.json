@@ -1,0 +1,428 @@
+{
+  "id": "tech-http-codes",
+  "name": "HTTP Status Codes Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Status Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Status Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 100,
+      "name": "Devam Et",
+      "category": "Bilgilendirici",
+      "description": "Sunucu istek başlıklarını aldı ve istemci istek gövdesini göndermeye devam etmelidir."
+    },
+    {
+      "code": 101,
+      "name": "Protokol Değiştiriliyor",
+      "category": "Bilgilendirici",
+      "description": "Talep eden, sunucudan protokolleri değiştirmesini istedi ve sunucu da bunu yapmayı kabul etti."
+    },
+    {
+      "code": 102,
+      "name": "İşleniyor",
+      "category": "Bilgilendirici",
+      "description": "Sunucu isteği aldı ve işliyor, ancak henüz bir yanıt mevcut değil."
+    },
+    {
+      "code": 103,
+      "name": "Erken İpuçları",
+      "category": "Bilgilendirici",
+      "description": "Son HTTP mesajından önce bazı yanıt başlıklarını döndürmek için kullanılır."
+    },
+    {
+      "code": 200,
+      "name": "Tamam",
+      "category": "Başarılı",
+      "description": "İstek başarıyla tamamlandı. Anlamı kullanılan HTTP yöntemine bağlıdır."
+    },
+    {
+      "code": 201,
+      "name": "Oluşturuldu",
+      "category": "Başarılı",
+      "description": "İstek başarıyla tamamlandı ve sonuç olarak yeni bir kaynak oluşturuldu."
+    },
+    {
+      "code": 202,
+      "name": "Kabul Edildi",
+      "category": "Başarılı",
+      "description": "İstek alındı ancak henüz işleme konulmadı."
+    },
+    {
+      "code": 203,
+      "name": "Yetkili Olmayan Bilgi",
+      "category": "Başarılı",
+      "description": "Döndürülen meta veri, kaynak sunucudan elde edilenle tam olarak aynı değildir."
+    },
+    {
+      "code": 204,
+      "name": "İçerik Yok",
+      "category": "Başarılı",
+      "description": "Bu istek için gönderilecek içerik yok, ancak başlıklar faydalı olabilir."
+    },
+    {
+      "code": 205,
+      "name": "İçeriği Sıfırla",
+      "category": "Başarılı",
+      "description": "Kullanıcı aracısına bu isteği gönderen belgeyi sıfırlamasını söyler."
+    },
+    {
+      "code": 206,
+      "name": "Kısmi İçerik",
+      "category": "Başarılı",
+      "description": "İstemciden bir kaynağın yalnızca bir kısmını istemek için Range başlığı gönderildiğinde kullanılır."
+    },
+    {
+      "code": 207,
+      "name": "Çoklu Durum",
+      "category": "Başarılı",
+      "description": "Birden çok durum kodunun uygun olabileceği durumlarda, birden çok kaynak hakkında bilgi iletir."
+    },
+    {
+      "code": 208,
+      "name": "Zaten Bildirildi",
+      "category": "Başarılı",
+      "description": "Dahili üyeleri tekrar tekrar numaralandırmaktan kaçınmak için bir DAV: propstat yanıtı içinde kullanılır."
+    },
+    {
+      "code": 226,
+      "name": "IM Kullanıldı",
+      "category": "Başarılı",
+      "description": "Sunucu bir GET isteğini yerine getirdi ve yanıt, sonucun bir temsilidir."
+    },
+    {
+      "code": 300,
+      "name": "Çoklu Seçenekler",
+      "category": "Yönlendirme",
+      "description": "İstek birden fazla olası yanıta sahip. Kullanıcı aracısı bunlardan birini seçmelidir."
+    },
+    {
+      "code": 301,
+      "name": "Kalıcı Olarak Taşındı",
+      "category": "Yönlendirme",
+      "description": "İstenen kaynağın URL'si kalıcı olarak değiştirildi. Yeni URL yanıtta verilmiştir."
+    },
+    {
+      "code": 302,
+      "name": "Bulundu",
+      "category": "Yönlendirme",
+      "description": "İstenen kaynağın URI'si geçici olarak değiştirildi. Gelecekte ek değişiklikler yapılabilir."
+    },
+    {
+      "code": 303,
+      "name": "Başka Yere Bak",
+      "category": "Yönlendirme",
+      "description": "Sunucu, istemciyi istenen kaynağı başka bir URI'den bir GET isteğiyle alması için yönlendirmek amacıyla bu yanıtı gönderdi."
+    },
+    {
+      "code": 304,
+      "name": "Değiştirilmedi",
+      "category": "Yönlendirme",
+      "description": "Önbellekleme amacıyla kullanılır. İstemciye yanıtın değiştirilmediğini bildirir."
+    },
+    {
+      "code": 305,
+      "name": "Proxy Kullan",
+      "category": "Yönlendirme",
+      "description": "Kullanımdan kaldırıldı. İstenen bir yanıtın bir proxy aracılığıyla erişilmesi gerektiğini belirtmek için tanımlanmıştı."
+    },
+    {
+      "code": 307,
+      "name": "Geçici Yönlendirme",
+      "category": "Yönlendirme",
+      "description": "Sunucu, istemciyi istenen kaynağı aynı yöntemle başka bir URI'den alması için yönlendirmek üzere bu yanıtı gönderir."
+    },
+    {
+      "code": 308,
+      "name": "Kalıcı Yönlendirme",
+      "category": "Yönlendirme",
+      "description": "Kaynak artık Location başlığı tarafından belirtilen başka bir URI'de kalıcı olarak bulunmaktadır."
+    },
+    {
+      "code": 400,
+      "name": "Kötü İstek",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, bir istemci hatası olarak algılanan bir şey nedeniyle isteği işleyemez veya işlemeyecektir."
+    },
+    {
+      "code": 401,
+      "name": "Yetkisiz",
+      "category": "İstemci Hatası",
+      "description": "İstemci, istenen yanıtı almak için kendini doğrulamalıdır."
+    },
+    {
+      "code": 402,
+      "name": "Ödeme Gerekli",
+      "category": "İstemci Hatası",
+      "description": "Gelecekte kullanım için ayrılmıştır. Orijinal amacı dijital ödeme sistemleri içindi."
+    },
+    {
+      "code": 403,
+      "name": "Yasak",
+      "category": "İstemci Hatası",
+      "description": "İstemcinin içeriğe erişim hakları yoktur; sunucu, istenen kaynağı vermeyi reddediyor."
+    },
+    {
+      "code": 404,
+      "name": "Bulunamadı",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, istenen kaynağı bulamıyor. Bu aynı zamanda uç noktanın geçerli olduğu ancak kaynağın mevcut olmadığı anlamına da gelebilir."
+    },
+    {
+      "code": 405,
+      "name": "Yönteme İzin Verilmiyor",
+      "category": "İstemci Hatası",
+      "description": "İstek yöntemi sunucu tarafından bilinmektedir ancak hedef kaynak tarafından desteklenmemektedir."
+    },
+    {
+      "code": 406,
+      "name": "Kabul Edilemez",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, istek başlıklarında tanımlanan kabul edilebilir değerler listesiyle eşleşen bir yanıt üretemez."
+    },
+    {
+      "code": 407,
+      "name": "Proxy Kimlik Doğrulaması Gerekli",
+      "category": "İstemci Hatası",
+      "description": "401 Yetkisiz'e benzer ancak kimlik doğrulamanın bir proxy tarafından yapılması gerekmektedir."
+    },
+    {
+      "code": 408,
+      "name": "İstek Zaman Aşımı",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, bu kullanılmayan bağlantıyı kapatmak istemektedir."
+    },
+    {
+      "code": 409,
+      "name": "Çakışma",
+      "category": "İstemci Hatası",
+      "description": "Bu yanıt, bir isteğin sunucunun mevcut durumuyla çakıştığı zaman gönderilir."
+    },
+    {
+      "code": 410,
+      "name": "Gitmiş",
+      "category": "İstemci Hatası",
+      "description": "İstenen içerik, yönlendirme adresi olmaksızın sunucudan kalıcı olarak silinmiştir."
+    },
+    {
+      "code": 411,
+      "name": "Uzunluk Gerekli",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, Content-Length başlık alanı tanımlanmadığı ve sunucunun bunu gerektirdiği için isteği reddetti."
+    },
+    {
+      "code": 412,
+      "name": "Önkoşul Başarısız",
+      "category": "İstemci Hatası",
+      "description": "İstemci, başlıklarında sunucunun karşılamadığı önkoşullar belirtmiştir."
+    },
+    {
+      "code": 413,
+      "name": "Yük Çok Büyük",
+      "category": "İstemci Hatası",
+      "description": "İstek varlığı, sunucu tarafından tanımlanan sınırlardan daha büyüktür."
+    },
+    {
+      "code": 414,
+      "name": "URI Çok Uzun",
+      "category": "İstemci Hatası",
+      "description": "İstemci tarafından istenen URI, sunucunun yorumlamaya istekli olduğundan daha uzundur."
+    },
+    {
+      "code": 415,
+      "name": "Desteklenmeyen Medya Türü",
+      "category": "İstemci Hatası",
+      "description": "İstenen verinin medya formatı sunucu tarafından desteklenmemektedir."
+    },
+    {
+      "code": 416,
+      "name": "Aralık Tatmin Edilemez",
+      "category": "İstemci Hatası",
+      "description": "İstekteki Range başlık alanı tarafından belirtilen aralık karşılanamıyor."
+    },
+    {
+      "code": 417,
+      "name": "Beklenti Başarısız",
+      "category": "İstemci Hatası",
+      "description": "Expect istek başlık alanı tarafından belirtilen beklenti sunucu tarafından karşılanamıyor."
+    },
+    {
+      "code": 418,
+      "name": "Ben bir Çaydanlığım",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, çaydanlık ile kahve demleme girişimini reddediyor."
+    },
+    {
+      "code": 421,
+      "name": "Yanlış Yönlendirilmiş İstek",
+      "category": "İstemci Hatası",
+      "description": "İstek, yanıt üretemeyen bir sunucuya yönlendirildi."
+    },
+    {
+      "code": 422,
+      "name": "İşlenemeyen Varlık",
+      "category": "İstemci Hatası",
+      "description": "İstek doğru biçimlendirilmişti ancak anlamsal hatalar nedeniyle takip edilemedi."
+    },
+    {
+      "code": 423,
+      "name": "Kilitli",
+      "category": "İstemci Hatası",
+      "description": "Erişilmekte olan kaynak kilitli."
+    },
+    {
+      "code": 424,
+      "name": "Bağımlılık Hatası",
+      "category": "İstemci Hatası",
+      "description": "İstek, önceki bir isteğin başarısız olması nedeniyle başarısız oldu."
+    },
+    {
+      "code": 425,
+      "name": "Çok Erken",
+      "category": "İstemci Hatası",
+      "description": "Sunucunun tekrarlanabilecek bir isteği işlemeyi risk almak istemediğini belirtir."
+    },
+    {
+      "code": 426,
+      "name": "Yükseltme Gerekli",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, isteği mevcut protokolü kullanarak gerçekleştirmeyi reddeder ancak istemci yükseltme yaptıktan sonra gerçekleştirebilir."
+    },
+    {
+      "code": 428,
+      "name": "Önkoşul Gerekli",
+      "category": "İstemci Hatası",
+      "description": "Kaynak sunucu, isteğin koşullu olmasını gerektirir."
+    },
+    {
+      "code": 429,
+      "name": "Çok Fazla İstek",
+      "category": "İstemci Hatası",
+      "description": "Kullanıcı belirli bir süre içinde çok fazla istek gönderdi (oran sınırlaması)."
+    },
+    {
+      "code": 431,
+      "name": "İstek Başlık Alanları Çok Büyük",
+      "category": "İstemci Hatası",
+      "description": "Sunucu, başlık alanları çok büyük olduğu için isteği işlemeyi reddeder."
+    },
+    {
+      "code": 451,
+      "name": "Yasal Nedenlerle Kullanılamaz",
+      "category": "İstemci Hatası",
+      "description": "Kullanıcı aracısı, yasal olarak sağlanamayan bir kaynak istedi."
+    },
+    {
+      "code": 500,
+      "name": "Dahili Sunucu Hatası",
+      "category": "Sunucu Hatası",
+      "description": "Sunucu, nasıl ele alacağını bilmediği bir durumla karşılaştı."
+    },
+    {
+      "code": 501,
+      "name": "Uygulanmadı",
+      "category": "Sunucu Hatası",
+      "description": "İstek yöntemi sunucu tarafından desteklenmiyor ve işlenemiyor."
+    },
+    {
+      "code": 502,
+      "name": "Kötü Ağ Geçidi",
+      "category": "Sunucu Hatası",
+      "description": "Sunucu, bir ağ geçidi olarak çalışırken isteği işlemek için gereken geçersiz bir yanıt aldı."
+    },
+    {
+      "code": 503,
+      "name": "Hizmet Kullanılamıyor",
+      "category": "Sunucu Hatası",
+      "description": "Sunucu, isteği işlemeye hazır değil. Yaygın nedenler bakım veya aşırı yüklemedir."
+    },
+    {
+      "code": 504,
+      "name": "Ağ Geçidi Zaman Aşımı",
+      "category": "Sunucu Hatası",
+      "description": "Sunucu bir ağ geçidi olarak çalışıyor ve zamanında yanıt alamıyor."
+    },
+    {
+      "code": 505,
+      "name": "HTTP Sürümü Desteklenmiyor",
+      "category": "Sunucu Hatası",
+      "description": "İstekte kullanılan HTTP sürümü sunucu tarafından desteklenmiyor."
+    },
+    {
+      "code": 506,
+      "name": "Varyant da Anlaşıyor",
+      "category": "Sunucu Hatası",
+      "description": "Sunucuda dahili bir yapılandırma hatası var."
+    },
+    {
+      "code": 507,
+      "name": "Yetersiz Depolama Alanı",
+      "category": "Sunucu Hatası",
+      "description": "Sunucu, isteği tamamlamak için gereken temsili depolayamıyor."
+    },
+    {
+      "code": 508,
+      "name": "Döngü Algılandı",
+      "category": "Sunucu Hatası",
+      "description": "Sunucu, isteği işlerken sonsuz bir döngü algıladı."
+    },
+    {
+      "code": 510,
+      "name": "Uzatılmadı",
+      "category": "Sunucu Hatası",
+      "description": "Sunucunun isteği yerine getirebilmesi için isteğe daha fazla uzantı gereklidir."
+    },
+    {
+      "code": 511,
+      "name": "Ağ Kimlik Doğrulaması Gerekli",
+      "category": "Sunucu Hatası",
+      "description": "İstemcinin ağ erişimi elde etmek için kimlik doğrulaması yapması gerektiğini belirtir."
+    }
+  ],
+  "meta": {
+    "seo_title": "HTTP Status Codes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download HTTP Status Codes with 62 records. Available in Excel, CSV, and PDF formats.",
+    "title": "HTTP Status Codes Dataset",
+    "description": "HTTP Status Codes containing 62 records.",
+    "key_takeaways": [
+      "Access 62 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "http status codes excel",
+      "http status codes csv download",
+      "http status codes data",
+      "http status codes list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 62,
+  "title": "HTTP Status Codes Dataset"
+}

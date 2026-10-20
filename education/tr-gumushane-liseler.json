@@ -1,0 +1,328 @@
+{
+  "id": "tr-gumushane-liseler",
+  "name": "Gümüşhane Liseleri (High Schools in Gümüşhane)",
+  "title": "Gümüşhane Liseleri (High Schools in Gümüşhane)",
+  "description": "Gümüşhane ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (21 kayıt) (High schools in Gümüşhane province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Kelkit Abdulhamit Han Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Gümüşhane - Kelkit - Kelkit Abdulhamit Han Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Gümüşhane",
+      "ilce": "Kelkit",
+      "website": "http://kelkitaihl.meb.k12.tr",
+      "enlem": 40.136192119012264,
+      "boylam": 39.43132361545099
+    },
+    {
+      "okul_adi": "Kelkit Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kelkit - Kelkit Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kelkit",
+      "website": "http://kelkit15temmuzanadolu.meb.k12.tr",
+      "enlem": 40.12418692044393,
+      "boylam": 39.445018974681034
+    },
+    {
+      "okul_adi": "Kelkit Lokman Hekim Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kelkit - Kelkit Lokman Hekim Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kelkit",
+      "website": "http://kelkitlokmanhekimmtal.meb.k12.tr",
+      "enlem": 40.12232053071472,
+      "boylam": 39.43993887080683
+    },
+    {
+      "okul_adi": "Kelkit Muammer Ve Enver Şahin Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kelkit - Kelkit Muammer Ve Enver Şahin Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kelkit",
+      "website": "http://muammerveenversahinanadolulisesi.meb.k12.tr",
+      "enlem": 40.13580660749783,
+      "boylam": 39.43146309031977
+    },
+    {
+      "okul_adi": "Kelkit Nene Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kelkit - Kelkit Nene Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kelkit",
+      "website": "http://kelkitkml.meb.k12.tr",
+      "enlem": 40.12378083121589,
+      "boylam": 39.423287717242374
+    },
+    {
+      "okul_adi": "Kelkit Yaşar Ve İrfani Doğan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kelkit - Kelkit Yaşar Ve İrfani Doğan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kelkit",
+      "website": "http://yidteml.meb.k12.tr",
+      "enlem": 40.13851334424013,
+      "boylam": 39.43706354274286
+    },
+    {
+      "okul_adi": "Köse İmkb Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Köse - Köse İmkb Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Köse",
+      "website": "http://kosecpal.meb.k12.tr",
+      "enlem": 40.208414340700514,
+      "boylam": 39.64831700696482
+    },
+    {
+      "okul_adi": "Kürtün Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kürtün - Kürtün Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kürtün",
+      "website": "http://kurtunanadolulisesi.meb.k12.tr",
+      "enlem": 40.670591682760396,
+      "boylam": 39.14169868602289
+    },
+    {
+      "okul_adi": "Kürtün Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Gümüşhane - Kürtün - Kürtün Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Gümüşhane",
+      "ilce": "Kürtün",
+      "website": "http://kurtunaihl.meb.k12.tr",
+      "enlem": 40.70390230636614,
+      "boylam": 39.08505043162836
+    },
+    {
+      "okul_adi": "Kürtün İmkb Atatürk Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Kürtün - Kürtün İmkb Atatürk Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Kürtün",
+      "website": "http://kurtunataturkcpl.meb.k12.tr",
+      "enlem": 40.70329636363482,
+      "boylam": 39.0906401552154
+    },
+    {
+      "okul_adi": "Ali Fuat Kadirbeyoğlu Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Ali Fuat Kadirbeyoğlu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://afkanadolulisesi.meb.k12.tr",
+      "enlem": 40.459926335867145,
+      "boylam": 39.48781093730463
+    },
+    {
+      "okul_adi": "Fatih Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Fatih Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://fatihanadoluihl.meb.k12.tr",
+      "enlem": 40.467918852225594,
+      "boylam": 39.465993849177494
+    },
+    {
+      "okul_adi": "Gümüşhane Kanuni Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Gümüşhane Kanuni Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://gumushanekmtal.meb.k12.tr",
+      "enlem": 40.45764061712232,
+      "boylam": 39.49102422370447
+    },
+    {
+      "okul_adi": "Gümüşhane Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Gümüşhane Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://kizihl29.meb.k12.tr",
+      "enlem": 40.46241604815117,
+      "boylam": 39.473723975558414
+    },
+    {
+      "okul_adi": "Gümüşhane Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Gümüşhane Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://gumushaneteml.meb.k12.tr",
+      "enlem": 40.461885461466984,
+      "boylam": 39.47733959331049
+    },
+    {
+      "okul_adi": "Harşit Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Harşit Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://harsitlisesi29.meb.k12.tr",
+      "enlem": 40.432427246801026,
+      "boylam": 39.518119899172916
+    },
+    {
+      "okul_adi": "Mareşal Çakmak Sosyal Bilimler Lisesi",
+      "tam_ad": "Gümüşhane - Merkez - Mareşal Çakmak Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Gümüşhane",
+      "ilce": "Merkez",
+      "website": "http://maresal29.meb.k12.tr",
+      "enlem": 40.45897940467931,
+      "boylam": 39.48900183810724
+    },
+    {
+      "okul_adi": "Şehit Tamer Özdemir Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Torul - Şehit Tamer Özdemir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Torul",
+      "website": "http://torulanadolu.meb.k12.tr",
+      "enlem": 40.56183920272514,
+      "boylam": 39.2892416395141
+    },
+    {
+      "okul_adi": "Fatih Sultan Mehmet Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Şiran - Fatih Sultan Mehmet Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Şiran",
+      "website": "http://siranlisesi.meb.k12.tr",
+      "enlem": 40.19099860176005,
+      "boylam": 39.124277738471164
+    },
+    {
+      "okul_adi": "Şiran  Fen Lisesi",
+      "tam_ad": "Gümüşhane - Şiran - Şiran  Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Gümüşhane",
+      "ilce": "Şiran",
+      "website": "http://siranfenlisesi.meb.k12.tr",
+      "enlem": 40.19177309384367,
+      "boylam": 39.1231136597587
+    },
+    {
+      "okul_adi": "Şiran Şehit Teğmen Tuna Kara Anadolu Lisesi",
+      "tam_ad": "Gümüşhane - Şiran - Şiran Şehit Teğmen Tuna Kara Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Gümüşhane",
+      "ilce": "Şiran",
+      "website": "http://ssttkal.meb.k12.tr",
+      "enlem": 40.19526024757316,
+      "boylam": 39.12477394713892
+    }
+  ],
+  "meta": {
+    "title": "Gümüşhane Liseleri (High Schools in Gümüşhane) - Ücretsiz İndir",
+    "description": "Gümüşhane ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (21 kayıt) (High schools in Gümüşhane province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 21 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Gümüşhane Liseleri (High Schools in Gümüşhane) | ListBase",
+    "seo_description": "İndir Gümüşhane Liseleri (High Schools in Gümüşhane) — 21 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 21 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "id": "tr-usak-liseler",
+  "name": "Uşak Liseleri (High Schools in Uşak)",
+  "title": "Uşak Liseleri (High Schools in Uşak)",
+  "description": "Uşak ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (29 kayıt) (High schools in Uşak province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Durmuş Tanış Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Banaz - Durmuş Tanış Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Banaz",
+      "website": "http://banazihl.meb.k12.tr",
+      "enlem": 38.737831742901726,
+      "boylam": 29.763741103549137
+    },
+    {
+      "okul_adi": "Miyase Tanış Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Banaz - Miyase Tanış Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Banaz",
+      "website": "http://miyasetaniskizaihl.meb.k12.tr",
+      "enlem": 38.73878158162625,
+      "boylam": 29.763038364787235
+    },
+    {
+      "okul_adi": "Şehit Necati Sargın Anadolu Lisesi",
+      "tam_ad": "Uşak - Banaz - Şehit Necati Sargın Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Banaz",
+      "website": "http://banazsnsal.meb.k12.tr",
+      "enlem": 38.73698231695506,
+      "boylam": 29.750238863368168
+    },
+    {
+      "okul_adi": "Şehit Rıfat Gündüz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Banaz - Şehit Rıfat Gündüz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Banaz",
+      "website": "http://banazsml.meb.k12.tr",
+      "enlem": 38.73642579102964,
+      "boylam": 29.755318967242374
+    },
+    {
+      "okul_adi": "Şehit Sadık Kozak Anadolu Lisesi",
+      "tam_ad": "Uşak - Banaz - Şehit Sadık Kozak Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Banaz",
+      "website": "http://sskal.meb.k12.tr",
+      "enlem": 38.73214081462399,
+      "boylam": 29.785531369586124
+    },
+    {
+      "okul_adi": "Şehit Tuncay Durmuş Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Banaz - Şehit Tuncay Durmuş Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Banaz",
+      "website": "http://sehittuncaydurmusmtal.meb.k12.tr",
+      "enlem": 38.73450093108503,
+      "boylam": 29.759567586321964
+    },
+    {
+      "okul_adi": "Ahmet Avcı Anadolu Lisesi",
+      "tam_ad": "Uşak - Eşme - Ahmet Avcı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Eşme",
+      "website": "http://ahmetavciaol.meb.k12.tr",
+      "enlem": 38.390158841733125,
+      "boylam": 28.97659858836664
+    },
+    {
+      "okul_adi": "Eşme Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Eşme - Eşme Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Eşme",
+      "website": "http://esmeeml.meb.k12.tr",
+      "enlem": 38.39807152539426,
+      "boylam": 28.974141684909
+    },
+    {
+      "okul_adi": "Eşme Şehit Nihat Köylü Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Eşme - Eşme Şehit Nihat Köylü Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Eşme",
+      "website": "http://esmeasml.meb.k12.tr",
+      "enlem": 38.392984298950076,
+      "boylam": 28.995781747241153
+    },
+    {
+      "okul_adi": "Şehit Cemalettin Avcı Anadolu Lisesi",
+      "tam_ad": "Uşak - Eşme - Şehit Cemalettin Avcı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Eşme",
+      "website": "http://secal.meb.k12.tr",
+      "enlem": 38.4008966734132,
+      "boylam": 28.976523486514225
+    },
+    {
+      "okul_adi": "Şehit Mustafa Eğerci Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Eşme - Şehit Mustafa Eğerci Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Eşme",
+      "website": "http://esmeihl.meb.k12.tr",
+      "enlem": 38.40254462543693,
+      "boylam": 28.970290032763614
+    },
+    {
+      "okul_adi": "Karahallı Anadolu Lisesi",
+      "tam_ad": "Uşak - Karahallı - Karahallı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Karahallı",
+      "website": "http://karahallianadolulisesi.meb.k12.tr",
+      "enlem": 38.32509235973182,
+      "boylam": 29.536536542315616
+    },
+    {
+      "okul_adi": "Karahallı Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Karahallı - Karahallı Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Karahallı",
+      "website": "http://karahalliihl.meb.k12.tr",
+      "enlem": 38.320795443674065,
+      "boylam": 29.536547271151676
+    },
+    {
+      "okul_adi": "Ertuğrul Gazi Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Merkez - Ertuğrul Gazi Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://usakertugrulgaziaihl.meb.k12.tr",
+      "enlem": 38.66501222310144,
+      "boylam": 29.390096675112318
+    },
+    {
+      "okul_adi": "Fatih Sultan Mehmet Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Merkez - Fatih Sultan Mehmet Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://usakfsmmtal.meb.k12.tr",
+      "enlem": 38.67870349711291,
+      "boylam": 29.395672289271488
+    },
+    {
+      "okul_adi": "Necati Özen Anadolu Lisesi",
+      "tam_ad": "Uşak - Merkez - Necati Özen Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://noal.meb.k12.tr",
+      "enlem": 38.65225264600255,
+      "boylam": 29.39912161006464
+    },
+    {
+      "okul_adi": "Orhan Dengiz Anadolu Lisesi",
+      "tam_ad": "Uşak - Merkez - Orhan Dengiz Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://odal.meb.k12.tr",
+      "enlem": 38.67382454226322,
+      "boylam": 29.403713551898136
+    },
+    {
+      "okul_adi": "Sait-sabri Ağaoğlu Anadolu Lisesi",
+      "tam_ad": "Uşak - Merkez - Sait-sabri Ağaoğlu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://agaoglulisesi.meb.k12.tr",
+      "enlem": 38.66986250250418,
+      "boylam": 29.39184745921625
+    },
+    {
+      "okul_adi": "Tüprag Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Merkez - Tüprag Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://tupragaihl.meb.k12.tr",
+      "enlem": 38.68133757568422,
+      "boylam": 29.41398909463385
+    },
+    {
+      "okul_adi": "Uşak Fen Lisesi",
+      "tam_ad": "Uşak - Merkez - Uşak Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://usakfenlisesi.meb.k12.tr",
+      "enlem": 38.65731320035571,
+      "boylam": 29.389422742266788
+    },
+    {
+      "okul_adi": "Uşak Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Merkez - Uşak Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://usakkizaihl.meb.k12.tr",
+      "enlem": 38.66412008742988,
+      "boylam": 29.415778128047123
+    },
+    {
+      "okul_adi": "Uşak Türkiye Odalar Ve Borsalar Birliği Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Merkez - Uşak Türkiye Odalar Ve Borsalar Birliği Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://usakeml.meb.k12.tr",
+      "enlem": 38.67221211068265,
+      "boylam": 29.436431137461796
+    },
+    {
+      "okul_adi": "İzzettin Çalışlar Anadolu Lisesi",
+      "tam_ad": "Uşak - Merkez - İzzettin Çalışlar Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Merkez",
+      "website": "http://izzettincalislarlisesi.meb.k12.tr",
+      "enlem": 38.6799179491989,
+      "boylam": 29.41288134231104
+    },
+    {
+      "okul_adi": "Dursun Yalım Fen Lisesi",
+      "tam_ad": "Uşak - Sivaslı - Dursun Yalım Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Uşak",
+      "ilce": "Sivaslı",
+      "website": "http://dursunyalimfenlisesi.meb.k12.tr",
+      "enlem": 38.50163844920753,
+      "boylam": 29.684851972003116
+    },
+    {
+      "okul_adi": "Sivaslı Anadolu Lisesi",
+      "tam_ad": "Uşak - Sivaslı - Sivaslı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Sivaslı",
+      "website": "http://sivaslianadolulisesi.meb.k12.tr",
+      "enlem": 38.50225977151557,
+      "boylam": 29.678318110842838
+    },
+    {
+      "okul_adi": "Sivaslı Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Sivaslı - Sivaslı Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Sivaslı",
+      "website": "http://sivasliaihl.meb.k12.tr",
+      "enlem": 38.49709591653702,
+      "boylam": 29.689089862246647
+    },
+    {
+      "okul_adi": "Ulubey 15 Temmuz Şehitleri Anadolu Lisesi",
+      "tam_ad": "Uşak - Ulubey - Ulubey 15 Temmuz Şehitleri Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Ulubey",
+      "website": "http://ulubeyanadolu.meb.k12.tr",
+      "enlem": 38.42005599821919,
+      "boylam": 29.28747734202875
+    },
+    {
+      "okul_adi": "Ulubey Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Uşak - Ulubey - Ulubey Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Uşak",
+      "ilce": "Ulubey",
+      "website": "http://usml.meb.k12.tr",
+      "enlem": 38.421451345111315,
+      "boylam": 29.281136599917545
+    },
+    {
+      "okul_adi": "Ulubey Ümmü Baykan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Uşak - Ulubey - Ulubey Ümmü Baykan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Uşak",
+      "ilce": "Ulubey",
+      "website": "http://ummubaykanihl.meb.k12.tr",
+      "enlem": 38.423804881203644,
+      "boylam": 29.285116998095646
+    }
+  ],
+  "meta": {
+    "title": "Uşak Liseleri (High Schools in Uşak) - Ücretsiz İndir",
+    "description": "Uşak ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (29 kayıt) (High schools in Uşak province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 29 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Uşak Liseleri (High Schools in Uşak) | ListBase",
+    "seo_description": "İndir Uşak Liseleri (High Schools in Uşak) — 29 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 29 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

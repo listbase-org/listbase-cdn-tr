@@ -1,0 +1,463 @@
+{
+  "id": "math-derivative-formulas",
+  "name": "Kapsamlı Türev Formülleri ve Kuralları Veri Seti",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "derivative",
+      "label": "Derivative f'(x)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Temel Kurallar",
+      "function": "c (constant)",
+      "derivative": "0",
+      "condition": "-",
+      "notes": "Sabit kuralı"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "x",
+      "derivative": "1",
+      "condition": "-",
+      "notes": "Birim fonksiyon"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "c·f(x)",
+      "derivative": "c·f'(x)",
+      "condition": "c is constant",
+      "notes": "Sabit kat kuralı"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "f(x) + g(x)",
+      "derivative": "f'(x) + g'(x)",
+      "condition": "-",
+      "notes": "Toplam kuralı"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "f(x) - g(x)",
+      "derivative": "f'(x) - g'(x)",
+      "condition": "-",
+      "notes": "Fark kuralı"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "f(x)·g(x)",
+      "derivative": "f'(x)g(x) + f(x)g'(x)",
+      "condition": "-",
+      "notes": "Çarpım kuralı"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "f(x)/g(x)",
+      "derivative": "[f'(x)g(x) - f(x)g'(x)]/[g(x)]²",
+      "condition": "g(x) ≠ 0",
+      "notes": "Bölüm kuralı"
+    },
+    {
+      "category": "Temel Kurallar",
+      "function": "f(g(x))",
+      "derivative": "f'(g(x))·g'(x)",
+      "condition": "-",
+      "notes": "Zincir kuralı"
+    },
+    {
+      "category": "Üs",
+      "function": "x^n",
+      "derivative": "n·x^(n-1)",
+      "condition": "-",
+      "notes": "Üs kuralı"
+    },
+    {
+      "category": "Üs",
+      "function": "1/x",
+      "derivative": "-1/x²",
+      "condition": "x ≠ 0",
+      "notes": "x^(-1) ile aynı"
+    },
+    {
+      "category": "Üs",
+      "function": "1/x^n",
+      "derivative": "-n/x^(n+1)",
+      "condition": "x ≠ 0",
+      "notes": "Negatif üs"
+    },
+    {
+      "category": "Üs",
+      "function": "√x",
+      "derivative": "1/(2√x)",
+      "condition": "x > 0",
+      "notes": "Karekök"
+    },
+    {
+      "category": "Üs",
+      "function": "∜x (x^(1/n))",
+      "derivative": "1/(n·x^((n-1)/n))",
+      "condition": "x > 0",
+      "notes": "n'inci kök"
+    },
+    {
+      "category": "Üs",
+      "function": "x^x",
+      "derivative": "x^x(ln(x) + 1)",
+      "condition": "x > 0",
+      "notes": "Logaritmik türev alma"
+    },
+    {
+      "category": "Üstel",
+      "function": "e^x",
+      "derivative": "e^x",
+      "condition": "-",
+      "notes": "Doğal üstel"
+    },
+    {
+      "category": "Üstel",
+      "function": "a^x",
+      "derivative": "a^x·ln(a)",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Genel üstel"
+    },
+    {
+      "category": "Üstel",
+      "function": "e^(f(x))",
+      "derivative": "e^(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Üstel",
+      "function": "a^(f(x))",
+      "derivative": "a^(f(x))·ln(a)·f'(x)",
+      "condition": "a > 0",
+      "notes": "Zincir kuralı ile genel form"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "ln(x)",
+      "derivative": "1/x",
+      "condition": "x > 0",
+      "notes": "Doğal logaritma"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "log_a(x)",
+      "derivative": "1/(x·ln(a))",
+      "condition": "x > 0, a > 0",
+      "notes": "Genel logaritma"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "ln(f(x))",
+      "derivative": "f'(x)/f(x)",
+      "condition": "f(x) > 0",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "log_a(f(x))",
+      "derivative": "f'(x)/(f(x)·ln(a))",
+      "condition": "f(x) > 0",
+      "notes": "Zincir kuralıyla genel form"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "ln|x|",
+      "derivative": "1/x",
+      "condition": "x ≠ 0",
+      "notes": "Mutlak değer logaritması"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sin(x)",
+      "derivative": "cos(x)",
+      "condition": "-",
+      "notes": "Sinüs fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "cos(x)",
+      "derivative": "-sin(x)",
+      "condition": "-",
+      "notes": "Kosinüs fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "tan(x)",
+      "derivative": "sec²(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Tanjant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "cot(x)",
+      "derivative": "-csc²(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Kotanjant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sec(x)",
+      "derivative": "sec(x)tan(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Sekant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "csc(x)",
+      "derivative": "-csc(x)cot(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Kosekant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sin(f(x))",
+      "derivative": "cos(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "cos(f(x))",
+      "derivative": "-sin(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "tan(f(x))",
+      "derivative": "sec²(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arcsin(x)",
+      "derivative": "1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Arkosinüs fonksiyonu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arccos(x)",
+      "derivative": "-1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Arkkosinüs fonksiyonu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arctan(x)",
+      "derivative": "1/(1+x²)",
+      "condition": "-",
+      "notes": "Arktanjant fonksiyonu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arccot(x)",
+      "derivative": "-1/(1+x²)",
+      "condition": "-",
+      "notes": "Arkkotanjant fonksiyonu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arcsec(x)",
+      "derivative": "1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Arksekant fonksiyonu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arccsc(x)",
+      "derivative": "-1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Arkkosekant fonksiyonu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arcsin(f(x))",
+      "derivative": "f'(x)/√(1-[f(x)]²)",
+      "condition": "|f(x)| < 1",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "arctan(f(x))",
+      "derivative": "f'(x)/(1+[f(x)]²)",
+      "condition": "-",
+      "notes": "Zincir kuralı uygulandı"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sinh(x)",
+      "derivative": "cosh(x)",
+      "condition": "-",
+      "notes": "Hiperbolik sinüs"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "cosh(x)",
+      "derivative": "sinh(x)",
+      "condition": "-",
+      "notes": "Hiperbolik kosinüs"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "tanh(x)",
+      "derivative": "sech²(x)",
+      "condition": "-",
+      "notes": "Hiperbolik tanjant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "coth(x)",
+      "derivative": "-csch²(x)",
+      "condition": "x ≠ 0",
+      "notes": "Hiperbolik kotanjant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sech(x)",
+      "derivative": "-sech(x)tanh(x)",
+      "condition": "-",
+      "notes": "Hiperbolik sekant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "csch(x)",
+      "derivative": "-csch(x)coth(x)",
+      "condition": "x ≠ 0",
+      "notes": "Hiperbolik kosekant"
+    },
+    {
+      "category": "Ters Hiperbolik",
+      "function": "arcsinh(x)",
+      "derivative": "1/√(x²+1)",
+      "condition": "-",
+      "notes": "Ters hiperbolik sinüs"
+    },
+    {
+      "category": "Ters Hiperbolik",
+      "function": "arccosh(x)",
+      "derivative": "1/√(x²-1)",
+      "condition": "x > 1",
+      "notes": "Ters hiperbolik kosinüs"
+    },
+    {
+      "category": "Ters Hiperbolik",
+      "function": "arctanh(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Ters hiperbolik tanjant"
+    },
+    {
+      "category": "Ters Hiperbolik",
+      "function": "arccoth(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| > 1",
+      "notes": "Ters hiperbolik kotanjant"
+    },
+    {
+      "category": "Ters Hiperbolik",
+      "function": "arcsech(x)",
+      "derivative": "-1/(x√(1-x²))",
+      "condition": "0 < x < 1",
+      "notes": "Ters hiperbolik sekant"
+    },
+    {
+      "category": "Ters Hiperbolik",
+      "function": "arccsch(x)",
+      "derivative": "-1/(|x|√(1+x²))",
+      "condition": "x ≠ 0",
+      "notes": "Ters hiperbolik kosekant"
+    },
+    {
+      "category": "Özel",
+      "function": "|x|",
+      "derivative": "x/|x| = sgn(x)",
+      "condition": "x ≠ 0",
+      "notes": "Mutlak değer"
+    },
+    {
+      "category": "Özel",
+      "function": "[f(x)]^n",
+      "derivative": "n[f(x)]^(n-1)·f'(x)",
+      "condition": "-",
+      "notes": "Genelleştirilmiş üs kuralı"
+    },
+    {
+      "category": "Özel",
+      "function": "[f(x)]^g(x)",
+      "derivative": "[f(x)]^g(x)·[g'(x)ln(f(x)) + g(x)f'(x)/f(x)]",
+      "condition": "f(x) > 0",
+      "notes": "Logaritmik türev alma"
+    },
+    {
+      "category": "Özel",
+      "function": "e^(x²)",
+      "derivative": "2x·e^(x²)",
+      "condition": "-",
+      "notes": "Gauss formu"
+    },
+    {
+      "category": "Özel",
+      "function": "ln(ln(x))",
+      "derivative": "1/(x·ln(x))",
+      "condition": "x > 1",
+      "notes": "İç içe logaritma"
+    }
+  ],
+  "meta": {
+    "seo_title": "Türev Formülleri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Kalkülüs için 57 yaygın türev formülü ve kuralını ücretsiz indirin. Öğrenciler ve profesyoneller için Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Kapsamlı Türev Formülleri ve Kuralları Veri Seti",
+    "description": "Bu veri seti, temel kurallar, kuvvet kuralları, trigonometrik fonksiyonlar ve daha fazlasını içeren 57 yaygın türev formülü ve kuralının kapsamlı bir koleksiyonunu sunar. Her girişte fonksiyon, türevi, koşullar ve notlar listelenir.",
+    "key_takeaways": [
+      "Erişin 57 temel türev formülü ve türev kuralına.",
+      "Keşfedin kategorize edilmiş fonksiyonlar ve türevleriyle kalkülüs kavramlarını.",
+      "İndirin akademik çalışma veya profesyonel referans için hazır verileri.",
+      "Yararlanın her türev kuralı için ayrıntılı koşul ve notlardan."
+    ],
+    "keywords": [
+      "türev formülleri excel",
+      "türev kuralları csv",
+      "kalkülüs formülleri pdf",
+      "matematik türevler",
+      "türev tablosu",
+      "ücretsiz kalkülüs verisi"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını Python betiklerinize veya SQL veritabanınıza aktararak özel kalkülüs öğrenme uygulamaları veya çalışma araçları oluşturun.",
+      "**Excel** dosyasını kullanarak formülleri kategoriye göre filtreleyin, koşulları analiz edin veya kolayca çalışma kılavuzları oluşturun.",
+      "Sınavlar, sınıf dersleri veya kişisel çalışma oturumları sırasında hızlı çevrimdışı referans için **PDF** sürümünü yazdırın.",
+      "Mühendislik, fizik veya veri bilimi hesaplamalarındaki karmaşık fonksiyonların türevlerini hızlı bir şekilde doğrulamak için bu veri setine başvurun."
+    ]
+  },
+  "record_count": 57,
+  "title": "Kapsamlı Türev Formülleri ve Kuralları Veri Seti"
+}

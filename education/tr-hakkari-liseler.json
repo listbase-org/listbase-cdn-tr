@@ -1,0 +1,328 @@
+{
+  "id": "tr-hakkari-liseler",
+  "name": "Hakkari Liseleri (High Schools in Hakkari)",
+  "title": "Hakkari Liseleri (High Schools in Hakkari)",
+  "description": "Hakkari ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (21 kayıt) (High schools in Hakkari province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://ataturkmtl.meb.k12.tr",
+      "enlem": 37.566647439988245,
+      "boylam": 43.717938867945804
+    },
+    {
+      "okul_adi": "Cumhuriyet Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Cumhuriyet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkaricumhuriyetanadolulisesi.meb.k12.tr",
+      "enlem": 37.57714933079278,
+      "boylam": 43.74554416312708
+    },
+    {
+      "okul_adi": "Fatma Aliye Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Fatma Aliye Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://fatmaaliye.meb.k12.tr",
+      "enlem": 37.5562971645836,
+      "boylam": 43.73005708827509
+    },
+    {
+      "okul_adi": "Gazi Mustafa Kemal Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Gazi Mustafa Kemal Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://gmkal30.meb.k12.tr",
+      "enlem": 37.56204282934191,
+      "boylam": 43.74479649736418
+    },
+    {
+      "okul_adi": "Hakkari Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Hakkari Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkarianadolulisesi.meb.k12.tr",
+      "enlem": 37.58423089328243,
+      "boylam": 43.73372366799845
+    },
+    {
+      "okul_adi": "Hakkari Fen Lisesi",
+      "tam_ad": "Hakkari - Merkez - Hakkari Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkarifenlisesi.meb.k12.tr",
+      "enlem": 37.567047134193636,
+      "boylam": 43.72331937922968
+    },
+    {
+      "okul_adi": "Hakkari Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Hakkari Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkariticaret.meb.k12.tr",
+      "enlem": 37.574572890628986,
+      "boylam": 43.736928907771244
+    },
+    {
+      "okul_adi": "Hakkari Spor Lisesi",
+      "tam_ad": "Hakkari - Merkez - Hakkari Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkarisporlisesi.meb.k12.tr",
+      "enlem": 37.568203684067925,
+      "boylam": 43.7287267126037
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://maemtal.meb.k12.tr",
+      "enlem": 37.57837693490954,
+      "boylam": 43.73624896778597
+    },
+    {
+      "okul_adi": "Tobb Hüseyin Çelik Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Hakkari - Merkez - Tobb Hüseyin Çelik Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkariaihl.meb.k12.tr",
+      "enlem": 37.572859466052385,
+      "boylam": 43.740426508326664
+    },
+    {
+      "okul_adi": "Türk Telekom Sosyal Bilimler Lisesi",
+      "tam_ad": "Hakkari - Merkez - Türk Telekom Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkarisbl.meb.k12.tr",
+      "enlem": 37.567191703909714,
+      "boylam": 43.72325500621332
+    },
+    {
+      "okul_adi": "İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Merkez - İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Merkez",
+      "website": "http://hakkarisml.meb.k12.tr",
+      "enlem": 37.5670487006855,
+      "boylam": 43.71786023652635
+    },
+    {
+      "okul_adi": "Büyükçiftlik Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Hakkari - Yüksekova - Büyükçiftlik Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Yüksekova",
+      "website": "http://buyukciftlikcpl.meb.k12.tr",
+      "enlem": 37.58608540100133,
+      "boylam": 44.073991385836734
+    },
+    {
+      "okul_adi": "Esendere Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Hakkari - Yüksekova - Esendere Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Yüksekova",
+      "website": "http://esenderecpl.meb.k12.tr",
+      "enlem": 37.715249274889345,
+      "boylam": 44.60197350158228
+    },
+    {
+      "okul_adi": "Muharrem Malazgirt Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Yüksekova - Muharrem Malazgirt Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Yüksekova",
+      "website": "http://muharremmalazgirtmesleklisesi.meb.k12.tr",
+      "enlem": 37.57092065521984,
+      "boylam": 44.29505905284418
+    },
+    {
+      "okul_adi": "Çukurca Şehit Jandarma Üsteğmen Adnan Bahat Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Hakkari - Çukurca - Çukurca Şehit Jandarma Üsteğmen Adnan Bahat Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Çukurca",
+      "website": "http://adnanbahatcpl.meb.k12.tr",
+      "enlem": 37.25145789642141,
+      "boylam": 43.617060986895694
+    },
+    {
+      "okul_adi": "Mevlana Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Şemdinli - Mevlana Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Şemdinli",
+      "website": "http://semdinlikml.meb.k12.tr",
+      "enlem": 37.30454842815921,
+      "boylam": 44.57462703957094
+    },
+    {
+      "okul_adi": "Seyyid Abdullah Şemdini Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Hakkari - Şemdinli - Seyyid Abdullah Şemdini Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Hakkari",
+      "ilce": "Şemdinli",
+      "website": "http://sabdullahaihl.meb.k12.tr",
+      "enlem": 37.28762469205208,
+      "boylam": 44.5952411569549
+    },
+    {
+      "okul_adi": "İmkb Anadolu Lisesi",
+      "tam_ad": "Hakkari - Şemdinli - İmkb Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Şemdinli",
+      "website": "http://semdinliimkb.meb.k12.tr",
+      "enlem": 37.293066137037336,
+      "boylam": 44.58301028384699
+    },
+    {
+      "okul_adi": "Şemdinli Derecik İmkb Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Hakkari - Şemdinli - Şemdinli Derecik İmkb Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Şemdinli",
+      "website": "http://derecikimkbcpl.meb.k12.tr",
+      "enlem": 37.092463475211254,
+      "boylam": 44.30874904765619
+    },
+    {
+      "okul_adi": "Şemdinli Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Hakkari - Şemdinli - Şemdinli Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Hakkari",
+      "ilce": "Şemdinli",
+      "website": "http://semdinlimeslekiteknik.meb.k12.tr",
+      "enlem": 37.294918272451966,
+      "boylam": 44.58202859534754
+    }
+  ],
+  "meta": {
+    "title": "Hakkari Liseleri (High Schools in Hakkari) - Ücretsiz İndir",
+    "description": "Hakkari ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (21 kayıt) (High schools in Hakkari province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 21 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Hakkari Liseleri (High Schools in Hakkari) | ListBase",
+    "seo_description": "İndir Hakkari Liseleri (High Schools in Hakkari) — 21 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 21 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

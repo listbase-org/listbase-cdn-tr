@@ -1,0 +1,4327 @@
+{
+  "id": "tr-tcdd-istasyonlari",
+  "name": "TCDD Tren İstasyonları (Turkish Railway Stations, TCDD ticketing)",
+  "title": "TCDD Tren İstasyonları (Turkish Railway Stations, TCDD ticketing)",
+  "description": "TCDD bilet sisteminde yer alan tren istasyonları; il, bilet sistemi kimlikleri ve doğrudan varış sayısıyla. (Stations in the TCDD ticketing system with province and ticketing IDs.) (474 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 474,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ADANA (KİREMİTHANE)",
+      "il": "ADANA",
+      "kaynak_metin": "ADANA (KİREMİTHANE) , ADANA",
+      "gidis_id": 747,
+      "donus_id": 747,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "ADANA",
+      "il": "ADANA",
+      "kaynak_metin": "ADANA , ADANA",
+      "gidis_id": 753,
+      "donus_id": 753,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "ADAPAZARI",
+      "il": "SAKARYA",
+      "kaynak_metin": "ADAPAZARI , SAKARYA",
+      "gidis_id": 3,
+      "donus_id": 3,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "ADNANMENDERES HAVAALANI",
+      "il": "İZMİR",
+      "kaynak_metin": "ADNANMENDERES HAVAALANI , İZMİR",
+      "gidis_id": 300,
+      "donus_id": 300,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "AFYON A.ÇETİNKAYA",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "AFYON A.ÇETİNKAYA , AFYONKARAHİSAR",
+      "gidis_id": 873,
+      "donus_id": 873,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 68
+    },
+    {
+      "istasyon": "AHATLI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "AHATLI , ZONGULDAK",
+      "gidis_id": 80,
+      "donus_id": 80,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 40
+    },
+    {
+      "istasyon": "AHMETLER",
+      "il": "UŞAK",
+      "kaynak_metin": "AHMETLER , UŞAK",
+      "gidis_id": 279,
+      "donus_id": 279,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "AHMETLİ",
+      "il": "MANİSA",
+      "kaynak_metin": "AHMETLİ , MANİSA",
+      "gidis_id": 1115,
+      "donus_id": 1115,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 56
+    },
+    {
+      "istasyon": "AKDAĞMADENİ YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "AKDAĞMADENİ YHT , YOZGAT",
+      "gidis_id": 1378,
+      "donus_id": 1378,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "AKGEDİK",
+      "il": "SİVAS",
+      "kaynak_metin": "AKGEDİK , SİVAS",
+      "gidis_id": 1067,
+      "donus_id": 1067,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "AKHİSAR",
+      "il": "MANİSA",
+      "kaynak_metin": "AKHİSAR , MANİSA",
+      "gidis_id": 280,
+      "donus_id": 280,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "AKKEÇİLİ DURAĞI",
+      "il": "MANİSA",
+      "kaynak_metin": "AKKEÇİLİ DURAĞI , MANİSA",
+      "gidis_id": 269,
+      "donus_id": 269,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "AKSAKAL",
+      "il": "BALIKESİR",
+      "kaynak_metin": "AKSAKAL , BALIKESİR",
+      "gidis_id": 281,
+      "donus_id": 281,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 23
+    },
+    {
+      "istasyon": "AKYAKA",
+      "il": "KARS",
+      "kaynak_metin": "AKYAKA , KARS",
+      "gidis_id": 1147,
+      "donus_id": 1147,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 5
+    },
+    {
+      "istasyon": "AKYAMAÇ",
+      "il": "BARTIN",
+      "kaynak_metin": "AKYAMAÇ , BARTIN",
+      "gidis_id": 217,
+      "donus_id": 217,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "AKÇAMAĞARA",
+      "il": "SİVAS",
+      "kaynak_metin": "AKÇAMAĞARA , SİVAS",
+      "gidis_id": 630,
+      "donus_id": 630,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 95
+    },
+    {
+      "istasyon": "AKŞEHİR",
+      "il": "KONYA",
+      "kaynak_metin": "AKŞEHİR , KONYA",
+      "gidis_id": 893,
+      "donus_id": 893,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 29
+    },
+    {
+      "istasyon": "ALAYUNT",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALAYUNT , KÜTAHYA",
+      "gidis_id": 895,
+      "donus_id": 895,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "ALAYUNT MÜSELLES",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALAYUNT MÜSELLES , KÜTAHYA",
+      "gidis_id": 896,
+      "donus_id": 896,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "ALAŞEHİR",
+      "il": "MANİSA",
+      "kaynak_metin": "ALAŞEHİR , MANİSA",
+      "gidis_id": 1050,
+      "donus_id": 1050,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "ALP",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ALP , ERZİNCAN",
+      "gidis_id": 1059,
+      "donus_id": 1059,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "ALPU",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "ALPU , ESKİŞEHİR",
+      "gidis_id": 1040,
+      "donus_id": 1040,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "ALPULLU",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "ALPULLU , KIRKLARELİ",
+      "gidis_id": 976,
+      "donus_id": 976,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "ALÖVE",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALÖVE , KÜTAHYA",
+      "gidis_id": 878,
+      "donus_id": 878,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "ALİKÖY",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ALİKÖY , KÜTAHYA",
+      "gidis_id": 938,
+      "donus_id": 938,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "AMASYA",
+      "il": "AMASYA",
+      "kaynak_metin": "AMASYA , AMASYA",
+      "gidis_id": 461,
+      "donus_id": 461,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 42
+    },
+    {
+      "istasyon": "AMBAR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "AMBAR , DİYARBAKIR",
+      "gidis_id": 631,
+      "donus_id": 631,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "ANKARA GAR",
+      "il": "ANKARA",
+      "kaynak_metin": "ANKARA GAR , ANKARA",
+      "gidis_id": 98,
+      "donus_id": 98,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 210
+    },
+    {
+      "istasyon": "ARGITHAN",
+      "il": "KONYA",
+      "kaynak_metin": "ARGITHAN , KONYA",
+      "gidis_id": 1110,
+      "donus_id": 1110,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "ARIKBAŞI",
+      "il": "İZMİR",
+      "kaynak_metin": "ARIKBAŞI , İZMİR",
+      "gidis_id": 286,
+      "donus_id": 286,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 27
+    },
+    {
+      "istasyon": "ARIKÖREN",
+      "il": "KONYA",
+      "kaynak_metin": "ARIKÖREN , KONYA",
+      "gidis_id": 777,
+      "donus_id": 777,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "ARMUTLU DURAĞI",
+      "il": "UŞAK",
+      "kaynak_metin": "ARMUTLU DURAĞI , UŞAK",
+      "gidis_id": 404,
+      "donus_id": 404,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "ARTOVA",
+      "il": "TOKAT",
+      "kaynak_metin": "ARTOVA , TOKAT",
+      "gidis_id": 462,
+      "donus_id": 462,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "ARZUOĞLU",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ARZUOĞLU , DİYARBAKIR",
+      "gidis_id": 693,
+      "donus_id": 693,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "ARİFİYE",
+      "il": "SAKARYA",
+      "kaynak_metin": "ARİFİYE , SAKARYA",
+      "gidis_id": 5,
+      "donus_id": 5,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "ASMAKAYA",
+      "il": "BİNGÖL",
+      "kaynak_metin": "ASMAKAYA , BİNGÖL",
+      "gidis_id": 1308,
+      "donus_id": 1308,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 64
+    },
+    {
+      "istasyon": "ATMA",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ATMA , ERZİNCAN",
+      "gidis_id": 501,
+      "donus_id": 501,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "ATÇA",
+      "il": "AYDIN",
+      "kaynak_metin": "ATÇA , AYDIN",
+      "gidis_id": 287,
+      "donus_id": 287,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 44
+    },
+    {
+      "istasyon": "AVŞAR",
+      "il": "SİVAS",
+      "kaynak_metin": "AVŞAR , SİVAS",
+      "gidis_id": 464,
+      "donus_id": 464,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 67
+    },
+    {
+      "istasyon": "AYAZ",
+      "il": "AMASYA",
+      "kaynak_metin": "AYAZ , AMASYA",
+      "gidis_id": 611,
+      "donus_id": 611,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 27
+    },
+    {
+      "istasyon": "AYDIN",
+      "il": "AYDIN",
+      "kaynak_metin": "AYDIN , AYDIN",
+      "gidis_id": 288,
+      "donus_id": 288,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 43
+    },
+    {
+      "istasyon": "AYVACIK",
+      "il": "İZMİR",
+      "kaynak_metin": "AYVACIK , İZMİR",
+      "gidis_id": 289,
+      "donus_id": 289,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "AŞAĞI GÜNEŞ",
+      "il": "SİVAS",
+      "kaynak_metin": "AŞAĞI GÜNEŞ , SİVAS",
+      "gidis_id": 443,
+      "donus_id": 443,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "AŞKALE",
+      "il": "ERZURUM",
+      "kaynak_metin": "AŞKALE , ERZURUM",
+      "gidis_id": 463,
+      "donus_id": 463,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "BAHÇELİ (KM.755+290 S)",
+      "il": "SİVAS",
+      "kaynak_metin": "BAHÇELİ (KM.755+290 S) , SİVAS",
+      "gidis_id": 431,
+      "donus_id": 431,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 15
+    },
+    {
+      "istasyon": "BAHÇIVANOVA",
+      "il": "EDİRNE",
+      "kaynak_metin": "BAHÇIVANOVA , EDİRNE",
+      "gidis_id": 1008,
+      "donus_id": 1008,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 15
+    },
+    {
+      "istasyon": "BAKACAKKADI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "BAKACAKKADI , ZONGULDAK",
+      "gidis_id": 214,
+      "donus_id": 214,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "BAKIR",
+      "il": "MANİSA",
+      "kaynak_metin": "BAKIR , MANİSA",
+      "gidis_id": 328,
+      "donus_id": 328,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 47
+    },
+    {
+      "istasyon": "BALIKESİR (GÖKKÖY)",
+      "il": "BALIKESİR",
+      "kaynak_metin": "BALIKESİR (GÖKKÖY) , BALIKESİR",
+      "gidis_id": 1170,
+      "donus_id": 1170,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 37
+    },
+    {
+      "istasyon": "BALIKESİR",
+      "il": "BALIKESİR",
+      "kaynak_metin": "BALIKESİR , BALIKESİR",
+      "gidis_id": 1159,
+      "donus_id": 1159,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 55
+    },
+    {
+      "istasyon": "BALIKISIK",
+      "il": "KARABÜK",
+      "kaynak_metin": "BALIKISIK , KARABÜK",
+      "gidis_id": 104,
+      "donus_id": 104,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "BALIKÖY",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "BALIKÖY , KÜTAHYA",
+      "gidis_id": 1124,
+      "donus_id": 1124,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "BALIŞIH",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "BALIŞIH , KIRIKKALE",
+      "gidis_id": 105,
+      "donus_id": 105,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 78
+    },
+    {
+      "istasyon": "BANAZ",
+      "il": "UŞAK",
+      "kaynak_metin": "BANAZ , UŞAK",
+      "gidis_id": 290,
+      "donus_id": 290,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "BANDIRMA ŞEHİR",
+      "il": "BALIKESİR",
+      "kaynak_metin": "BANDIRMA ŞEHİR , BALIKESİR",
+      "gidis_id": 293,
+      "donus_id": 293,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "BARAKLI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "BARAKLI , AFYONKARAHİSAR",
+      "gidis_id": 883,
+      "donus_id": 883,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "BASKİL",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "BASKİL , ELAZIĞ",
+      "gidis_id": 632,
+      "donus_id": 632,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "BATMAN",
+      "il": "BATMAN",
+      "kaynak_metin": "BATMAN , BATMAN",
+      "gidis_id": 633,
+      "donus_id": 633,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 70
+    },
+    {
+      "istasyon": "BATTALGAZİ",
+      "il": "MALATYA",
+      "kaynak_metin": "BATTALGAZİ , MALATYA",
+      "gidis_id": 651,
+      "donus_id": 651,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 79
+    },
+    {
+      "istasyon": "BAYINDIR",
+      "il": "İZMİR",
+      "kaynak_metin": "BAYINDIR , İZMİR",
+      "gidis_id": 1150,
+      "donus_id": 1150,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "BAYINDIR MYO",
+      "il": "İZMİR",
+      "kaynak_metin": "BAYINDIR MYO , İZMİR",
+      "gidis_id": 276,
+      "donus_id": 276,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 26
+    },
+    {
+      "istasyon": "BAĞIŞTAŞ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "BAĞIŞTAŞ , ERZİNCAN",
+      "gidis_id": 465,
+      "donus_id": 465,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 61
+    },
+    {
+      "istasyon": "BEDİRLİ",
+      "il": "SİVAS",
+      "kaynak_metin": "BEDİRLİ , SİVAS",
+      "gidis_id": 487,
+      "donus_id": 487,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 83
+    },
+    {
+      "istasyon": "BELEMEDİK",
+      "il": "ADANA",
+      "kaynak_metin": "BELEMEDİK , ADANA",
+      "gidis_id": 762,
+      "donus_id": 762,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "BEYHAN",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "BEYHAN , ELAZIĞ",
+      "gidis_id": 656,
+      "donus_id": 656,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "BEYLİKKÖPRÜ",
+      "il": "ANKARA",
+      "kaynak_metin": "BEYLİKKÖPRÜ , ANKARA",
+      "gidis_id": 84,
+      "donus_id": 84,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 23
+    },
+    {
+      "istasyon": "BEYLİKOVA",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "BEYLİKOVA , ESKİŞEHİR",
+      "gidis_id": 108,
+      "donus_id": 108,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 24
+    },
+    {
+      "istasyon": "BEYTİKÖY",
+      "il": "İZMİR",
+      "kaynak_metin": "BEYTİKÖY , İZMİR",
+      "gidis_id": 299,
+      "donus_id": 299,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "BEŞİRİ",
+      "il": "BATMAN",
+      "kaynak_metin": "BEŞİRİ , BATMAN",
+      "gidis_id": 637,
+      "donus_id": 637,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 61
+    },
+    {
+      "istasyon": "BOLKUŞ",
+      "il": "KARABÜK",
+      "kaynak_metin": "BOLKUŞ , KARABÜK",
+      "gidis_id": 1041,
+      "donus_id": 1041,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "BOR",
+      "il": "NİĞDE",
+      "kaynak_metin": "BOR , NİĞDE",
+      "gidis_id": 109,
+      "donus_id": 109,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 26
+    },
+    {
+      "istasyon": "BORSA",
+      "il": "AMASYA",
+      "kaynak_metin": "BORSA , AMASYA",
+      "gidis_id": 469,
+      "donus_id": 469,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "BOSTANKAYA",
+      "il": "SİVAS",
+      "kaynak_metin": "BOSTANKAYA , SİVAS",
+      "gidis_id": 471,
+      "donus_id": 471,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 117
+    },
+    {
+      "istasyon": "BOZDEMİR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "BOZDEMİR , DİYARBAKIR",
+      "gidis_id": 682,
+      "donus_id": 682,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BOZKANAT",
+      "il": "BİNGÖL",
+      "kaynak_metin": "BOZKANAT , BİNGÖL",
+      "gidis_id": 1332,
+      "donus_id": 1332,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "BOZKURT",
+      "il": "DENİZLİ",
+      "kaynak_metin": "BOZKURT , DENİZLİ",
+      "gidis_id": 885,
+      "donus_id": 885,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 46
+    },
+    {
+      "istasyon": "BOZÜYÜK",
+      "il": "BİLECİK",
+      "kaynak_metin": "BOZÜYÜK , BİLECİK",
+      "gidis_id": 13,
+      "donus_id": 13,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BOZÜYÜK YHT",
+      "il": "BİLECİK",
+      "kaynak_metin": "BOZÜYÜK YHT , BİLECİK",
+      "gidis_id": 1145,
+      "donus_id": 1145,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "BOĞAZKÖPRÜ",
+      "il": "KAYSERİ",
+      "kaynak_metin": "BOĞAZKÖPRÜ , KAYSERİ",
+      "gidis_id": 1042,
+      "donus_id": 1042,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 128
+    },
+    {
+      "istasyon": "BOĞAZKÖY",
+      "il": "AMASYA",
+      "kaynak_metin": "BOĞAZKÖY , AMASYA",
+      "gidis_id": 470,
+      "donus_id": 470,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "BOĞAZİÇİ",
+      "il": "SAMSUN",
+      "kaynak_metin": "BOĞAZİÇİ , SAMSUN",
+      "gidis_id": 490,
+      "donus_id": 490,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "BUHARKENT",
+      "il": "AYDIN",
+      "kaynak_metin": "BUHARKENT , AYDIN",
+      "gidis_id": 301,
+      "donus_id": 301,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "BURDUR",
+      "il": "BURDUR",
+      "kaynak_metin": "BURDUR , BURDUR",
+      "gidis_id": 886,
+      "donus_id": 886,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "BURMAHAN (KM.801+150)",
+      "il": "SİVAS",
+      "kaynak_metin": "BURMAHAN (KM.801+150) , SİVAS",
+      "gidis_id": 1305,
+      "donus_id": 1305,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "BÜYÜKDERBENT YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "BÜYÜKDERBENT YHT , KOCAELİ",
+      "gidis_id": 794,
+      "donus_id": 794,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "BİLECİK",
+      "il": "BİLECİK",
+      "kaynak_metin": "BİLECİK , BİLECİK",
+      "gidis_id": 9,
+      "donus_id": 9,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "BİLECİK YHT",
+      "il": "BİLECİK",
+      "kaynak_metin": "BİLECİK YHT , BİLECİK",
+      "gidis_id": 1142,
+      "donus_id": 1142,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "BİSMİL",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "BİSMİL , DİYARBAKIR",
+      "gidis_id": 657,
+      "donus_id": 657,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 72
+    },
+    {
+      "istasyon": "BİÇER",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "BİÇER , ESKİŞEHİR",
+      "gidis_id": 87,
+      "donus_id": 87,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "CAFERLİ",
+      "il": "YOZGAT",
+      "kaynak_metin": "CAFERLİ , YOZGAT",
+      "gidis_id": 111,
+      "donus_id": 111,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "CEBECİLER",
+      "il": "KARABÜK",
+      "kaynak_metin": "CEBECİLER , KARABÜK",
+      "gidis_id": 113,
+      "donus_id": 113,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "CEBER KAMARA",
+      "il": "MANİSA",
+      "kaynak_metin": "CEBER KAMARA , MANİSA",
+      "gidis_id": 296,
+      "donus_id": 296,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "CEBESOY",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "CEBESOY , ERZİNCAN",
+      "gidis_id": 475,
+      "donus_id": 475,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "CEYHAN",
+      "il": "ADANA",
+      "kaynak_metin": "CEYHAN , ADANA",
+      "gidis_id": 765,
+      "donus_id": 765,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "CÜREK",
+      "il": "SİVAS",
+      "kaynak_metin": "CÜREK , SİVAS",
+      "gidis_id": 477,
+      "donus_id": 477,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "DAVUTLAR KÖYÜ",
+      "il": "UŞAK",
+      "kaynak_metin": "DAVUTLAR KÖYÜ , UŞAK",
+      "gidis_id": 1189,
+      "donus_id": 1189,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "DAZKIRI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "DAZKIRI , AFYONKARAHİSAR",
+      "gidis_id": 898,
+      "donus_id": 898,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "DAZLAK",
+      "il": "SİVAS",
+      "kaynak_metin": "DAZLAK , SİVAS",
+      "gidis_id": 506,
+      "donus_id": 506,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 23
+    },
+    {
+      "istasyon": "DEMİRDAĞ",
+      "il": "SİVAS",
+      "kaynak_metin": "DEMİRDAĞ , SİVAS",
+      "gidis_id": 508,
+      "donus_id": 508,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 56
+    },
+    {
+      "istasyon": "DEMİRLİKUYU",
+      "il": "SİİRT",
+      "kaynak_metin": "DEMİRLİKUYU , SİİRT",
+      "gidis_id": 701,
+      "donus_id": 701,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 61
+    },
+    {
+      "istasyon": "DEMİRİZ",
+      "il": "SİVAS",
+      "kaynak_metin": "DEMİRİZ , SİVAS",
+      "gidis_id": 1068,
+      "donus_id": 1068,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 98
+    },
+    {
+      "istasyon": "DENİZCİLER",
+      "il": "",
+      "kaynak_metin": "DENİZCİLER",
+      "gidis_id": 1339,
+      "donus_id": 1339,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 0
+    },
+    {
+      "istasyon": "DENİZLİ",
+      "il": "DENİZLİ",
+      "kaynak_metin": "DENİZLİ , DENİZLİ",
+      "gidis_id": 309,
+      "donus_id": 309,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 55
+    },
+    {
+      "istasyon": "DEREBAŞI",
+      "il": "İZMİR",
+      "kaynak_metin": "DEREBAŞI , İZMİR",
+      "gidis_id": 310,
+      "donus_id": 310,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 26
+    },
+    {
+      "istasyon": "DERECİKÖREN",
+      "il": "BARTIN",
+      "kaynak_metin": "DERECİKÖREN , BARTIN",
+      "gidis_id": 122,
+      "donus_id": 122,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "DERİNCE YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "DERİNCE YHT , KOCAELİ",
+      "gidis_id": 1134,
+      "donus_id": 1134,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "DEĞİRMENÖZÜ",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "DEĞİRMENÖZÜ , KÜTAHYA",
+      "gidis_id": 899,
+      "donus_id": 899,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 39
+    },
+    {
+      "istasyon": "DOYRANLI",
+      "il": "İZMİR",
+      "kaynak_metin": "DOYRANLI , İZMİR",
+      "gidis_id": 333,
+      "donus_id": 333,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "DUMLUPINAR",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "DUMLUPINAR , KÜTAHYA",
+      "gidis_id": 904,
+      "donus_id": 904,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "DURAK",
+      "il": "ADANA",
+      "kaynak_metin": "DURAK , ADANA",
+      "gidis_id": 772,
+      "donus_id": 772,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 22
+    },
+    {
+      "istasyon": "DURAKLI",
+      "il": "KARS",
+      "kaynak_metin": "DURAKLI , KARS",
+      "gidis_id": 555,
+      "donus_id": 555,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 5
+    },
+    {
+      "istasyon": "DURSUNBEY",
+      "il": "BALIKESİR",
+      "kaynak_metin": "DURSUNBEY , BALIKESİR",
+      "gidis_id": 905,
+      "donus_id": 905,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 49
+    },
+    {
+      "istasyon": "DUTLUK",
+      "il": "SİVAS",
+      "kaynak_metin": "DUTLUK , SİVAS",
+      "gidis_id": 620,
+      "donus_id": 620,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "DÖRTYOL",
+      "il": "HATAY",
+      "kaynak_metin": "DÖRTYOL , HATAY",
+      "gidis_id": 771,
+      "donus_id": 771,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "DÖĞER",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "DÖĞER , AFYONKARAHİSAR",
+      "gidis_id": 903,
+      "donus_id": 903,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 53
+    },
+    {
+      "istasyon": "DİLİSKELESİ YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "DİLİSKELESİ YHT , KOCAELİ",
+      "gidis_id": 1338,
+      "donus_id": 1338,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "DİNAR",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "DİNAR , AFYONKARAHİSAR",
+      "gidis_id": 1081,
+      "donus_id": 1081,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 61
+    },
+    {
+      "istasyon": "DİVRİĞİ",
+      "il": "SİVAS",
+      "kaynak_metin": "DİVRİĞİ , SİVAS",
+      "gidis_id": 1151,
+      "donus_id": 1151,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 64
+    },
+    {
+      "istasyon": "DİYARBAKIR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "DİYARBAKIR , DİYARBAKIR",
+      "gidis_id": 1109,
+      "donus_id": 1109,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 71
+    },
+    {
+      "istasyon": "EDİRNE",
+      "il": "EDİRNE",
+      "kaynak_metin": "EDİRNE , EDİRNE",
+      "gidis_id": 1006,
+      "donus_id": 1006,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "EKEREK",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "EKEREK , ELAZIĞ",
+      "gidis_id": 691,
+      "donus_id": 691,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 64
+    },
+    {
+      "istasyon": "EKİNOVA",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "EKİNOVA , AFYONKARAHİSAR",
+      "gidis_id": 907,
+      "donus_id": 907,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ELAZIĞ",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ELAZIĞ , ELAZIĞ",
+      "gidis_id": 647,
+      "donus_id": 647,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "ELMADAĞ",
+      "il": "ANKARA",
+      "kaynak_metin": "ELMADAĞ , ANKARA",
+      "gidis_id": 143,
+      "donus_id": 143,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 109
+    },
+    {
+      "istasyon": "ELMADAĞ YHT",
+      "il": "ANKARA",
+      "kaynak_metin": "ELMADAĞ YHT , ANKARA",
+      "gidis_id": 1392,
+      "donus_id": 1392,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ELİFLİ",
+      "il": "İZMİR",
+      "kaynak_metin": "ELİFLİ , İZMİR",
+      "gidis_id": 334,
+      "donus_id": 334,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "EMİRALEM",
+      "il": "İZMİR",
+      "kaynak_metin": "EMİRALEM , İZMİR",
+      "gidis_id": 335,
+      "donus_id": 335,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 68
+    },
+    {
+      "istasyon": "ERBAŞ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ERBAŞ , ERZİNCAN",
+      "gidis_id": 493,
+      "donus_id": 493,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "ERGANİ",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ERGANİ , DİYARBAKIR",
+      "gidis_id": 650,
+      "donus_id": 650,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 70
+    },
+    {
+      "istasyon": "ERYAMAN YHT",
+      "il": "ANKARA",
+      "kaynak_metin": "ERYAMAN YHT , ANKARA",
+      "gidis_id": 1306,
+      "donus_id": 1306,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 96
+    },
+    {
+      "istasyon": "ERZURUM",
+      "il": "ERZURUM",
+      "kaynak_metin": "ERZURUM , ERZURUM",
+      "gidis_id": 498,
+      "donus_id": 498,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "ERZİN",
+      "il": "HATAY",
+      "kaynak_metin": "ERZİN , HATAY",
+      "gidis_id": 775,
+      "donus_id": 775,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "ERZİNCAN",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ERZİNCAN , ERZİNCAN",
+      "gidis_id": 1152,
+      "donus_id": 1152,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "ERİÇ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ERİÇ , ERZİNCAN",
+      "gidis_id": 495,
+      "donus_id": 495,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "ESKİŞEHİR",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "ESKİŞEHİR , ESKİŞEHİR",
+      "gidis_id": 93,
+      "donus_id": 93,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 102
+    },
+    {
+      "istasyon": "EVCİLER",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "EVCİLER , AFYONKARAHİSAR",
+      "gidis_id": 1125,
+      "donus_id": 1125,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 56
+    },
+    {
+      "istasyon": "EŞME",
+      "il": "UŞAK",
+      "kaynak_metin": "EŞME , UŞAK",
+      "gidis_id": 316,
+      "donus_id": 316,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "FEN LİSESİ DURAĞI",
+      "il": "İZMİR",
+      "kaynak_metin": "FEN LİSESİ DURAĞI , İZMİR",
+      "gidis_id": 881,
+      "donus_id": 881,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "FIRAT",
+      "il": "SİVAS",
+      "kaynak_metin": "FIRAT , SİVAS",
+      "gidis_id": 652,
+      "donus_id": 652,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 86
+    },
+    {
+      "istasyon": "FURUNLU",
+      "il": "İZMİR",
+      "kaynak_metin": "FURUNLU , İZMİR",
+      "gidis_id": 317,
+      "donus_id": 317,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 29
+    },
+    {
+      "istasyon": "FİLYOS",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "FİLYOS , ZONGULDAK",
+      "gidis_id": 129,
+      "donus_id": 129,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "GAZLIGÖL",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "GAZLIGÖL , AFYONKARAHİSAR",
+      "gidis_id": 917,
+      "donus_id": 917,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "GAZİANTEP",
+      "il": "GAZİANTEP",
+      "kaynak_metin": "GAZİANTEP , GAZİANTEP",
+      "gidis_id": 840,
+      "donus_id": "",
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 3
+    },
+    {
+      "istasyon": "GAZİEMİR",
+      "il": "İZMİR",
+      "kaynak_metin": "GAZİEMİR , İZMİR",
+      "gidis_id": 318,
+      "donus_id": 318,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 63
+    },
+    {
+      "istasyon": "GEBZE",
+      "il": "KOCAELİ",
+      "kaynak_metin": "GEBZE , KOCAELİ",
+      "gidis_id": 20,
+      "donus_id": 20,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 54
+    },
+    {
+      "istasyon": "GEMİCİ",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "GEMİCİ , ELAZIĞ",
+      "gidis_id": 624,
+      "donus_id": 624,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "GENÇ",
+      "il": "BİNGÖL",
+      "kaynak_metin": "GENÇ , BİNGÖL",
+      "gidis_id": 1122,
+      "donus_id": 1122,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "GERMENCİK",
+      "il": "AYDIN",
+      "kaynak_metin": "GERMENCİK , AYDIN",
+      "gidis_id": 321,
+      "donus_id": 321,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "GERMİYAN",
+      "il": "SAMSUN",
+      "kaynak_metin": "GERMİYAN , SAMSUN",
+      "gidis_id": 503,
+      "donus_id": 503,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GEZİN",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "GEZİN , ELAZIĞ",
+      "gidis_id": 655,
+      "donus_id": 655,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 67
+    },
+    {
+      "istasyon": "GONCALI",
+      "il": "DENİZLİ",
+      "kaynak_metin": "GONCALI , DENİZLİ",
+      "gidis_id": 322,
+      "donus_id": 322,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "GÖBÜ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "GÖBÜ , ZONGULDAK",
+      "gidis_id": 133,
+      "donus_id": 133,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 46
+    },
+    {
+      "istasyon": "GÖKÇEBEY",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "GÖKÇEBEY , ZONGULDAK",
+      "gidis_id": 1162,
+      "donus_id": 1162,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GÖKÇEDAĞ",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "GÖKÇEDAĞ , KÜTAHYA",
+      "gidis_id": 910,
+      "donus_id": 910,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "GÖKÇELER",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "GÖKÇELER , ZONGULDAK",
+      "gidis_id": 134,
+      "donus_id": 134,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GÖLCÜK",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "GÖLCÜK , ELAZIĞ",
+      "gidis_id": 677,
+      "donus_id": 677,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 62
+    },
+    {
+      "istasyon": "GÖÇENTAŞI",
+      "il": "SİVAS",
+      "kaynak_metin": "GÖÇENTAŞI , SİVAS",
+      "gidis_id": 472,
+      "donus_id": 472,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 54
+    },
+    {
+      "istasyon": "GÜLLÜBAĞ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "GÜLLÜBAĞ , ERZİNCAN",
+      "gidis_id": 509,
+      "donus_id": 509,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 57
+    },
+    {
+      "istasyon": "GÜMÜŞ",
+      "il": "NİĞDE",
+      "kaynak_metin": "GÜMÜŞ , NİĞDE",
+      "gidis_id": 799,
+      "donus_id": 799,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "GÜMÜŞGÜN",
+      "il": "ISPARTA",
+      "kaynak_metin": "GÜMÜŞGÜN , ISPARTA",
+      "gidis_id": 933,
+      "donus_id": 933,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "GÜMÜŞÇAY DURAĞI",
+      "il": "MANİSA",
+      "kaynak_metin": "GÜMÜŞÇAY DURAĞI , MANİSA",
+      "gidis_id": 270,
+      "donus_id": 270,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "GÜMÜŞÇAYI",
+      "il": "MANİSA",
+      "kaynak_metin": "GÜMÜŞÇAYI , MANİSA",
+      "gidis_id": 324,
+      "donus_id": 324,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "GÜNDOĞAN",
+      "il": "BALIKESİR",
+      "kaynak_metin": "GÜNDOĞAN , BALIKESİR",
+      "gidis_id": 1307,
+      "donus_id": 1307,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 14
+    },
+    {
+      "istasyon": "GÜNEYKÖY",
+      "il": "UŞAK",
+      "kaynak_metin": "GÜNEYKÖY , UŞAK",
+      "gidis_id": 1052,
+      "donus_id": 1052,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "GÜNEŞ",
+      "il": "SİVAS",
+      "kaynak_metin": "GÜNEŞ , SİVAS",
+      "gidis_id": 510,
+      "donus_id": 510,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 57
+    },
+    {
+      "istasyon": "GÜNYAZI",
+      "il": "OSMANİYE",
+      "kaynak_metin": "GÜNYAZI , OSMANİYE",
+      "gidis_id": 829,
+      "donus_id": 829,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "GÜRGÜR",
+      "il": "İZMİR",
+      "kaynak_metin": "GÜRGÜR , İZMİR",
+      "gidis_id": 325,
+      "donus_id": 325,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "GÜZELBEYLİ",
+      "il": "TOKAT",
+      "kaynak_metin": "GÜZELBEYLİ , TOKAT",
+      "gidis_id": 582,
+      "donus_id": 582,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "GÜZELYURT",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "GÜZELYURT , KÜTAHYA",
+      "gidis_id": 916,
+      "donus_id": 916,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 2
+    },
+    {
+      "istasyon": "HACIBAYRAM",
+      "il": "AMASYA",
+      "kaynak_metin": "HACIBAYRAM , AMASYA",
+      "gidis_id": 511,
+      "donus_id": 511,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "HACIKIRI",
+      "il": "ADANA",
+      "kaynak_metin": "HACIKIRI , ADANA",
+      "gidis_id": 781,
+      "donus_id": 781,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "HACIRAHMANLI",
+      "il": "MANİSA",
+      "kaynak_metin": "HACIRAHMANLI , MANİSA",
+      "gidis_id": 326,
+      "donus_id": 326,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "HASANKALE",
+      "il": "ERZURUM",
+      "kaynak_metin": "HASANKALE , ERZURUM",
+      "gidis_id": 515,
+      "donus_id": 515,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "HAVALİMANI DURAĞI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "HAVALİMANI DURAĞI , ZONGULDAK",
+      "gidis_id": 1196,
+      "donus_id": 1196,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "HAVZA",
+      "il": "SAMSUN",
+      "kaynak_metin": "HAVZA , SAMSUN",
+      "gidis_id": 516,
+      "donus_id": 516,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 37
+    },
+    {
+      "istasyon": "HEKİMHAN",
+      "il": "MALATYA",
+      "kaynak_metin": "HEKİMHAN , MALATYA",
+      "gidis_id": 660,
+      "donus_id": 660,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 96
+    },
+    {
+      "istasyon": "HEREKE YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "HEREKE YHT , KOCAELİ",
+      "gidis_id": 1132,
+      "donus_id": 1132,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "HODAN",
+      "il": "BİNGÖL",
+      "kaynak_metin": "HODAN , BİNGÖL",
+      "gidis_id": 724,
+      "donus_id": 724,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 24
+    },
+    {
+      "istasyon": "HORASAN",
+      "il": "ERZURUM",
+      "kaynak_metin": "HORASAN , ERZURUM",
+      "gidis_id": 1153,
+      "donus_id": 1153,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 49
+    },
+    {
+      "istasyon": "HOROZKÖY",
+      "il": "MANİSA",
+      "kaynak_metin": "HOROZKÖY , MANİSA",
+      "gidis_id": 330,
+      "donus_id": 330,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "HORSUNLU",
+      "il": "AYDIN",
+      "kaynak_metin": "HORSUNLU , AYDIN",
+      "gidis_id": 331,
+      "donus_id": 331,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "HÜYÜK",
+      "il": "NİĞDE",
+      "kaynak_metin": "HÜYÜK , NİĞDE",
+      "gidis_id": 162,
+      "donus_id": 162,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "HİMMETDEDE",
+      "il": "KAYSERİ",
+      "kaynak_metin": "HİMMETDEDE , KAYSERİ",
+      "gidis_id": 141,
+      "donus_id": 141,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 78
+    },
+    {
+      "istasyon": "IBRICAK",
+      "il": "KARABÜK",
+      "kaynak_metin": "IBRICAK , KARABÜK",
+      "gidis_id": 237,
+      "donus_id": 237,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "ILGIN",
+      "il": "KONYA",
+      "kaynak_metin": "ILGIN , KONYA",
+      "gidis_id": 1111,
+      "donus_id": 1111,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "ILICA",
+      "il": "ERZURUM",
+      "kaynak_metin": "ILICA , ERZURUM",
+      "gidis_id": 543,
+      "donus_id": 543,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "IRMAK",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "IRMAK , KIRIKKALE",
+      "gidis_id": 147,
+      "donus_id": 147,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 111
+    },
+    {
+      "istasyon": "ISPARTA",
+      "il": "ISPARTA",
+      "kaynak_metin": "ISPARTA , ISPARTA",
+      "gidis_id": 920,
+      "donus_id": 920,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "ISPARTAKULE",
+      "il": "İSTANBUL",
+      "kaynak_metin": "ISPARTAKULE , İSTANBUL",
+      "gidis_id": 1086,
+      "donus_id": 1086,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "IŞIKVEREN",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "IŞIKVEREN , ZONGULDAK",
+      "gidis_id": 148,
+      "donus_id": 148,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "KABAKÇA",
+      "il": "İSTANBUL",
+      "kaynak_metin": "KABAKÇA , İSTANBUL",
+      "gidis_id": 995,
+      "donus_id": 995,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "KABAZLI",
+      "il": "MANİSA",
+      "kaynak_metin": "KABAZLI , MANİSA",
+      "gidis_id": 337,
+      "donus_id": 337,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "KADINHAN",
+      "il": "KONYA",
+      "kaynak_metin": "KADINHAN , KONYA",
+      "gidis_id": 924,
+      "donus_id": 924,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "KAKLIK",
+      "il": "DENİZLİ",
+      "kaynak_metin": "KAKLIK , DENİZLİ",
+      "gidis_id": 925,
+      "donus_id": 925,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "KALIN",
+      "il": "SİVAS",
+      "kaynak_metin": "KALIN , SİVAS",
+      "gidis_id": 520,
+      "donus_id": 520,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 67
+    },
+    {
+      "istasyon": "KANDİLLİ",
+      "il": "ERZURUM",
+      "kaynak_metin": "KANDİLLİ , ERZURUM",
+      "gidis_id": 522,
+      "donus_id": 522,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "KANLICA",
+      "il": "NEVŞEHİR",
+      "kaynak_metin": "KANLICA , NEVŞEHİR",
+      "gidis_id": 151,
+      "donus_id": 151,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 78
+    },
+    {
+      "istasyon": "KAPAKLI",
+      "il": "MANİSA",
+      "kaynak_metin": "KAPAKLI , MANİSA",
+      "gidis_id": 338,
+      "donus_id": 338,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAPUZ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KAPUZ , ZONGULDAK",
+      "gidis_id": 152,
+      "donus_id": 152,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAALİ",
+      "il": "AYDIN",
+      "kaynak_metin": "KARAALİ , AYDIN",
+      "gidis_id": 341,
+      "donus_id": 341,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAAĞAÇLI",
+      "il": "MANİSA",
+      "kaynak_metin": "KARAAĞAÇLI , MANİSA",
+      "gidis_id": 340,
+      "donus_id": 340,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARABÜK",
+      "il": "KARABÜK",
+      "kaynak_metin": "KARABÜK , KARABÜK",
+      "gidis_id": 153,
+      "donus_id": 153,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAKUYU",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "KARAKUYU , AFYONKARAHİSAR",
+      "gidis_id": 926,
+      "donus_id": 926,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARALAR",
+      "il": "NİĞDE",
+      "kaynak_metin": "KARALAR , NİĞDE",
+      "gidis_id": 156,
+      "donus_id": 156,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAMAN",
+      "il": "KARAMAN",
+      "kaynak_metin": "KARAMAN , KARAMAN",
+      "gidis_id": "",
+      "donus_id": 791,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAOSMAN",
+      "il": "YOZGAT",
+      "kaynak_metin": "KARAOSMAN , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 155,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARASENİR",
+      "il": "NEVŞEHİR",
+      "kaynak_metin": "KARASENİR , NEVŞEHİR",
+      "gidis_id": "",
+      "donus_id": 158,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARASU",
+      "il": "ERZURUM",
+      "kaynak_metin": "KARASU , ERZURUM",
+      "gidis_id": 528,
+      "donus_id": 528,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAURGAN",
+      "il": "KARS",
+      "kaynak_metin": "KARAURGAN , KARS",
+      "gidis_id": "",
+      "donus_id": 529,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAÖZÜ",
+      "il": "KAYSERİ",
+      "kaynak_metin": "KARAÖZÜ , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 545,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARAİSALIBUCAĞI",
+      "il": "ADANA",
+      "kaynak_metin": "KARAİSALIBUCAĞI , ADANA",
+      "gidis_id": "",
+      "donus_id": 789,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARPUZLU",
+      "il": "İZMİR",
+      "kaynak_metin": "KARPUZLU , İZMİR",
+      "gidis_id": 342,
+      "donus_id": 342,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KARS",
+      "il": "KARS",
+      "kaynak_metin": "KARS , KARS",
+      "gidis_id": "",
+      "donus_id": 532,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAVAK",
+      "il": "SAMSUN",
+      "kaynak_metin": "KAVAK , SAMSUN",
+      "gidis_id": 533,
+      "donus_id": 533,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAVAKLIDERE",
+      "il": "MANİSA",
+      "kaynak_metin": "KAVAKLIDERE , MANİSA",
+      "gidis_id": "",
+      "donus_id": 311,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYABAŞI",
+      "il": "AMASYA",
+      "kaynak_metin": "KAYABAŞI , AMASYA",
+      "gidis_id": 534,
+      "donus_id": 534,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYABEYLİ",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "KAYABEYLİ , KIRKLARELİ",
+      "gidis_id": 996,
+      "donus_id": 996,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYADİBİ",
+      "il": "KARABÜK",
+      "kaynak_metin": "KAYADİBİ , KARABÜK",
+      "gidis_id": "",
+      "donus_id": 161,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYAŞ",
+      "il": "ANKARA",
+      "kaynak_metin": "KAYAŞ , ANKARA",
+      "gidis_id": "",
+      "donus_id": 1161,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYIKÇILAR",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KAYIKÇILAR , ZONGULDAK",
+      "gidis_id": 160,
+      "donus_id": 160,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYIŞLAR",
+      "il": "MANİSA",
+      "kaynak_metin": "KAYIŞLAR , MANİSA",
+      "gidis_id": 343,
+      "donus_id": 343,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYSERİ (İNCESU)",
+      "il": "KAYSERİ",
+      "kaynak_metin": "KAYSERİ (İNCESU) , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 165,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYSERİ",
+      "il": "KAYSERİ",
+      "kaynak_metin": "KAYSERİ , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 182,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAZKÖY",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KAZKÖY , ZONGULDAK",
+      "gidis_id": 183,
+      "donus_id": 183,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAŞINHAN",
+      "il": "KONYA",
+      "kaynak_metin": "KAŞINHAN , KONYA",
+      "gidis_id": 793,
+      "donus_id": 793,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KEMAH",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "KEMAH , ERZİNCAN",
+      "gidis_id": 535,
+      "donus_id": 535,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KEMALİYE ÇALTI",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "KEMALİYE ÇALTI , ERZİNCAN",
+      "gidis_id": 479,
+      "donus_id": 479,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KEMERHİSAR",
+      "il": "NİĞDE",
+      "kaynak_metin": "KEMERHİSAR , NİĞDE",
+      "gidis_id": 184,
+      "donus_id": 184,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KEÇİBORLU",
+      "il": "ISPARTA",
+      "kaynak_metin": "KEÇİBORLU , ISPARTA",
+      "gidis_id": "",
+      "donus_id": 1126,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIRIKKALE",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "KIRIKKALE , KIRIKKALE",
+      "gidis_id": 168,
+      "donus_id": 168,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIRIKKALE YHT",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "KIRIKKALE YHT , KIRIKKALE",
+      "gidis_id": "",
+      "donus_id": 1346,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIRKAĞAÇ",
+      "il": "MANİSA",
+      "kaynak_metin": "KIRKAĞAÇ , MANİSA",
+      "gidis_id": 345,
+      "donus_id": 345,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIRKİKİEVLER HT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "KIRKİKİEVLER HT , KOCAELİ",
+      "gidis_id": "",
+      "donus_id": 1394,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIZILCA",
+      "il": "AMASYA",
+      "kaynak_metin": "KIZILCA , AMASYA",
+      "gidis_id": 538,
+      "donus_id": 538,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIZILİNLER",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "KIZILİNLER , ESKİŞEHİR",
+      "gidis_id": 951,
+      "donus_id": 951,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIZOĞLU",
+      "il": "TOKAT",
+      "kaynak_metin": "KIZOĞLU , TOKAT",
+      "gidis_id": "",
+      "donus_id": 539,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KM 11+100",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "KM 11+100 , DİYARBAKIR",
+      "gidis_id": "",
+      "donus_id": 758,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KM. 251+485",
+      "il": "DENİZLİ",
+      "kaynak_metin": "KM. 251+485 , DENİZLİ",
+      "gidis_id": "",
+      "donus_id": 1207,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KM.102+600",
+      "il": "BATMAN",
+      "kaynak_metin": "KM.102+600 , BATMAN",
+      "gidis_id": "",
+      "donus_id": 627,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KONAKLAR",
+      "il": "MANİSA",
+      "kaynak_metin": "KONAKLAR , MANİSA",
+      "gidis_id": 346,
+      "donus_id": 346,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KONYA",
+      "il": "KONYA",
+      "kaynak_metin": "KONYA , KONYA",
+      "gidis_id": "",
+      "donus_id": 796,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KUNDUZ",
+      "il": "TOKAT",
+      "kaynak_metin": "KUNDUZ , TOKAT",
+      "gidis_id": "",
+      "donus_id": 563,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KURFALLI",
+      "il": "İSTANBUL",
+      "kaynak_metin": "KURFALLI , İSTANBUL",
+      "gidis_id": 1002,
+      "donus_id": 1002,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KURT",
+      "il": "MUŞ",
+      "kaynak_metin": "KURT , MUŞ",
+      "gidis_id": "",
+      "donus_id": 669,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KURTALAN",
+      "il": "SİİRT",
+      "kaynak_metin": "KURTALAN , SİİRT",
+      "gidis_id": "",
+      "donus_id": 670,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KURUDERE",
+      "il": "KARS",
+      "kaynak_metin": "KURUDERE , KARS",
+      "gidis_id": "",
+      "donus_id": 564,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KUYUCAK",
+      "il": "AYDIN",
+      "kaynak_metin": "KUYUCAK , AYDIN",
+      "gidis_id": 370,
+      "donus_id": 370,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KUŞCENNETİ",
+      "il": "BALIKESİR",
+      "kaynak_metin": "KUŞCENNETİ , BALIKESİR",
+      "gidis_id": "",
+      "donus_id": 302,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KUŞSARAYI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "KUŞSARAYI , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 636,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "Kelebek",
+      "il": "ADANA",
+      "kaynak_metin": "Kelebek , ADANA",
+      "gidis_id": 1396,
+      "donus_id": 1396,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖLEMEN",
+      "il": "KARABÜK",
+      "kaynak_metin": "KÖLEMEN , KARABÜK",
+      "gidis_id": "",
+      "donus_id": 226,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖMÜR İŞLETMELERİ",
+      "il": "AMASYA",
+      "kaynak_metin": "KÖMÜR İŞLETMELERİ , AMASYA",
+      "gidis_id": "",
+      "donus_id": 482,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖPRÜKÖY",
+      "il": "ERZURUM",
+      "kaynak_metin": "KÖPRÜKÖY , ERZURUM",
+      "gidis_id": "",
+      "donus_id": 562,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖSEALİ",
+      "il": "MANİSA",
+      "kaynak_metin": "KÖSEALİ , MANİSA",
+      "gidis_id": 349,
+      "donus_id": 349,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖSEKÖY",
+      "il": "KOCAELİ",
+      "kaynak_metin": "KÖSEKÖY , KOCAELİ",
+      "gidis_id": 1113,
+      "donus_id": 1113,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖŞK",
+      "il": "AYDIN",
+      "kaynak_metin": "KÖŞK , AYDIN",
+      "gidis_id": "",
+      "donus_id": 350,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÜRK",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "KÜRK , ELAZIĞ",
+      "gidis_id": 673,
+      "donus_id": 673,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÜTAHYA",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "KÜTAHYA , KÜTAHYA",
+      "gidis_id": 937,
+      "donus_id": 937,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KİLLİK",
+      "il": "MANİSA",
+      "kaynak_metin": "KİLLİK , MANİSA",
+      "gidis_id": "",
+      "donus_id": 1053,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KİLİMLİ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "KİLİMLİ , ZONGULDAK",
+      "gidis_id": 166,
+      "donus_id": 166,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KİREÇ",
+      "il": "BALIKESİR",
+      "kaynak_metin": "KİREÇ , BALIKESİR",
+      "gidis_id": 952,
+      "donus_id": 952,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "LADİK",
+      "il": "SAMSUN",
+      "kaynak_metin": "LADİK , SAMSUN",
+      "gidis_id": "",
+      "donus_id": 565,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "LÜLEBURGAZ",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "LÜLEBURGAZ , KIRKLARELİ",
+      "gidis_id": "",
+      "donus_id": 1128,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MADEN",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "MADEN , ELAZIĞ",
+      "gidis_id": 675,
+      "donus_id": 675,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MALATYA",
+      "il": "MALATYA",
+      "kaynak_metin": "MALATYA , MALATYA",
+      "gidis_id": "",
+      "donus_id": 696,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MALIKÖY",
+      "il": "ANKARA",
+      "kaynak_metin": "MALIKÖY , ANKARA",
+      "gidis_id": "",
+      "donus_id": 181,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MANİSA",
+      "il": "MANİSA",
+      "kaynak_metin": "MANİSA , MANİSA",
+      "gidis_id": 371,
+      "donus_id": 371,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MENDERES",
+      "il": "İZMİR",
+      "kaynak_metin": "MENDERES , İZMİR",
+      "gidis_id": 303,
+      "donus_id": 303,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MENEMEN",
+      "il": "İZMİR",
+      "kaynak_metin": "MENEMEN , İZMİR",
+      "gidis_id": "",
+      "donus_id": 373,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MERCAN",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "MERCAN , ERZİNCAN",
+      "gidis_id": 1154,
+      "donus_id": 1154,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MEZİTLER",
+      "il": "BALIKESİR",
+      "kaynak_metin": "MEZİTLER , BALIKESİR",
+      "gidis_id": "",
+      "donus_id": 945,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MEŞELİDÜZ",
+      "il": "SAMSUN",
+      "kaynak_metin": "MEŞELİDÜZ , SAMSUN",
+      "gidis_id": "",
+      "donus_id": 549,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MURADİYE",
+      "il": "MANİSA",
+      "kaynak_metin": "MURADİYE , MANİSA",
+      "gidis_id": "",
+      "donus_id": 355,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MURATBAĞI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "MURATBAĞI , ELAZIĞ",
+      "gidis_id": 671,
+      "donus_id": 671,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MURATLI",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "MURATLI , TEKİRDAĞ",
+      "gidis_id": 1025,
+      "donus_id": 1025,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MUSLU",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "MUSLU , ZONGULDAK",
+      "gidis_id": 201,
+      "donus_id": 201,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MUSTAFAYAVUZ",
+      "il": "GAZİANTEP",
+      "kaynak_metin": "MUSTAFAYAVUZ , GAZİANTEP",
+      "gidis_id": "",
+      "donus_id": 804,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MUŞ",
+      "il": "MUŞ",
+      "kaynak_metin": "MUŞ , MUŞ",
+      "gidis_id": "",
+      "donus_id": 685,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MİTHATPAŞA",
+      "il": "SAKARYA",
+      "kaynak_metin": "MİTHATPAŞA , SAKARYA",
+      "gidis_id": "",
+      "donus_id": 44,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NAZİLLİ",
+      "il": "AYDIN",
+      "kaynak_metin": "NAZİLLİ , AYDIN",
+      "gidis_id": "",
+      "donus_id": 358,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NUSRAT",
+      "il": "BALIKESİR",
+      "kaynak_metin": "NUSRAT , BALIKESİR",
+      "gidis_id": 947,
+      "donus_id": 947,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NİZİP",
+      "il": "GAZİANTEP",
+      "kaynak_metin": "NİZİP , GAZİANTEP",
+      "gidis_id": 806,
+      "donus_id": 806,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NİĞDE",
+      "il": "NİĞDE",
+      "kaynak_metin": "NİĞDE , NİĞDE",
+      "gidis_id": 185,
+      "donus_id": 185,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ORTAKLAR",
+      "il": "AYDIN",
+      "kaynak_metin": "ORTAKLAR , AYDIN",
+      "gidis_id": 362,
+      "donus_id": 362,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "OTURAK",
+      "il": "UŞAK",
+      "kaynak_metin": "OTURAK , UŞAK",
+      "gidis_id": "",
+      "donus_id": 363,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "OVASARAY",
+      "il": "AMASYA",
+      "kaynak_metin": "OVASARAY , AMASYA",
+      "gidis_id": 553,
+      "donus_id": 553,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "OYMAPINAR",
+      "il": "ANTALYA",
+      "kaynak_metin": "OYMAPINAR , ANTALYA",
+      "gidis_id": "",
+      "donus_id": 1312,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PALU",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "PALU , ELAZIĞ",
+      "gidis_id": 686,
+      "donus_id": 686,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PAMUKÖREN",
+      "il": "İZMİR",
+      "kaynak_metin": "PAMUKÖREN , İZMİR",
+      "gidis_id": "",
+      "donus_id": 320,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PANCAR",
+      "il": "İZMİR",
+      "kaynak_metin": "PANCAR , İZMİR",
+      "gidis_id": 365,
+      "donus_id": 365,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PAYAS",
+      "il": "HATAY",
+      "kaynak_metin": "PAYAS , HATAY",
+      "gidis_id": "",
+      "donus_id": 809,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PAYAS ŞEHİR D. KM.38+075",
+      "il": "HATAY",
+      "kaynak_metin": "PAYAS ŞEHİR D. KM.38+075 , HATAY",
+      "gidis_id": "",
+      "donus_id": 855,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PEHLİVANKÖY",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "PEHLİVANKÖY , KIRKLARELİ",
+      "gidis_id": "",
+      "donus_id": 1009,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PINARLI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "PINARLI , ELAZIĞ",
+      "gidis_id": 687,
+      "donus_id": 687,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PINARLI DURAĞI",
+      "il": "İZMİR",
+      "kaynak_metin": "PINARLI DURAĞI , İZMİR",
+      "gidis_id": "",
+      "donus_id": 263,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POLATLI",
+      "il": "ANKARA",
+      "kaynak_metin": "POLATLI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 188,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POLATLI YHT",
+      "il": "ANKARA",
+      "kaynak_metin": "POLATLI YHT , ANKARA",
+      "gidis_id": 244,
+      "donus_id": 244,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POYRAZ",
+      "il": "ANKARA",
+      "kaynak_metin": "POYRAZ , ANKARA",
+      "gidis_id": "",
+      "donus_id": 1045,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POZANTI",
+      "il": "ADANA",
+      "kaynak_metin": "POZANTI , ADANA",
+      "gidis_id": "",
+      "donus_id": 810,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PİRİBEYLER",
+      "il": "BURSA",
+      "kaynak_metin": "PİRİBEYLER , BURSA",
+      "gidis_id": "",
+      "donus_id": 1201,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PİYADELER",
+      "il": "MANİSA",
+      "kaynak_metin": "PİYADELER , MANİSA",
+      "gidis_id": 284,
+      "donus_id": 284,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "RAHOVA",
+      "il": "BİTLİS",
+      "kaynak_metin": "RAHOVA , BİTLİS",
+      "gidis_id": "",
+      "donus_id": 711,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SABUNCUPINAR",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "SABUNCUPINAR , KÜTAHYA",
+      "gidis_id": 970,
+      "donus_id": 970,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALAT",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "SALAT , DİYARBAKIR",
+      "gidis_id": 688,
+      "donus_id": 688,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALLAR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "SALLAR , DİYARBAKIR",
+      "gidis_id": 689,
+      "donus_id": 689,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALTUKOVA",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "SALTUKOVA , ZONGULDAK",
+      "gidis_id": 170,
+      "donus_id": 170,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALUCA",
+      "il": "AMASYA",
+      "kaynak_metin": "SALUCA , AMASYA",
+      "gidis_id": 608,
+      "donus_id": 608,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALİHLİ",
+      "il": "MANİSA",
+      "kaynak_metin": "SALİHLİ , MANİSA",
+      "gidis_id": 369,
+      "donus_id": 369,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAMSUN",
+      "il": "SAMSUN",
+      "kaynak_metin": "SAMSUN , SAMSUN",
+      "gidis_id": "",
+      "donus_id": 557,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SANDAL",
+      "il": "SİVAS",
+      "kaynak_metin": "SANDAL , SİVAS",
+      "gidis_id": 500,
+      "donus_id": 500,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SANDIKLI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "SANDIKLI , AFYONKARAHİSAR",
+      "gidis_id": 1160,
+      "donus_id": 1160,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAPANCA",
+      "il": "SAKARYA",
+      "kaynak_metin": "SAPANCA , SAKARYA",
+      "gidis_id": "",
+      "donus_id": 69,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARAYKÖY",
+      "il": "DENİZLİ",
+      "kaynak_metin": "SARAYKÖY , DENİZLİ",
+      "gidis_id": 388,
+      "donus_id": 388,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARAYÖNÜ",
+      "il": "KONYA",
+      "kaynak_metin": "SARAYÖNÜ , KONYA",
+      "gidis_id": "",
+      "donus_id": 955,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARIKAMIŞ",
+      "il": "KARS",
+      "kaynak_metin": "SARIKAMIŞ , KARS",
+      "gidis_id": "",
+      "donus_id": 579,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARIKENT",
+      "il": "YOZGAT",
+      "kaynak_metin": "SARIKENT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 115,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARIOĞLAN",
+      "il": "KAYSERİ",
+      "kaynak_metin": "SARIOĞLAN , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 1157,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SART",
+      "il": "İZMİR",
+      "kaynak_metin": "SART , İZMİR",
+      "gidis_id": 389,
+      "donus_id": 389,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARUHANLI",
+      "il": "MANİSA",
+      "kaynak_metin": "SARUHANLI , MANİSA",
+      "gidis_id": 390,
+      "donus_id": 390,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAVAŞTEPE",
+      "il": "BALIKESİR",
+      "kaynak_metin": "SAVAŞTEPE , BALIKESİR",
+      "gidis_id": "",
+      "donus_id": 391,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAZLIK",
+      "il": "MALATYA",
+      "kaynak_metin": "SAZLIK , MALATYA",
+      "gidis_id": "",
+      "donus_id": 1310,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAZLIKÖY",
+      "il": "AYDIN",
+      "kaynak_metin": "SAZLIKÖY , AYDIN",
+      "gidis_id": "",
+      "donus_id": 374,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAZPINARI",
+      "il": "ANKARA",
+      "kaynak_metin": "SAZPINARI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 179,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SEFERCİK",
+      "il": "BARTIN",
+      "kaynak_metin": "SEFERCİK , BARTIN",
+      "gidis_id": "",
+      "donus_id": 218,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SEKİLİ",
+      "il": "YOZGAT",
+      "kaynak_metin": "SEKİLİ , YOZGAT",
+      "gidis_id": 1101,
+      "donus_id": 1101,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SELÇUK",
+      "il": "İZMİR",
+      "kaynak_metin": "SELÇUK , İZMİR",
+      "gidis_id": 375,
+      "donus_id": 375,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SELÇUKLU YHT (KONYA)",
+      "il": "KONYA",
+      "kaynak_metin": "SELÇUKLU YHT (KONYA) , KONYA",
+      "gidis_id": "",
+      "donus_id": 1336,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SEYİTHASAN",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "SEYİTHASAN , DİYARBAKIR",
+      "gidis_id": 722,
+      "donus_id": 722,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SICAKSU",
+      "il": "BİTLİS",
+      "kaynak_metin": "SICAKSU , BİTLİS",
+      "gidis_id": "",
+      "donus_id": 1071,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SOMA",
+      "il": "MANİSA",
+      "kaynak_metin": "SOMA , MANİSA",
+      "gidis_id": 1164,
+      "donus_id": 1164,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SORGUN YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "SORGUN YHT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 1377,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SOĞUCAK",
+      "il": "BALIKESİR",
+      "kaynak_metin": "SOĞUCAK , BALIKESİR",
+      "gidis_id": 377,
+      "donus_id": 377,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SOĞUKSU",
+      "il": "MALATYA",
+      "kaynak_metin": "SOĞUKSU , MALATYA",
+      "gidis_id": "",
+      "donus_id": 1311,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SUBAŞI",
+      "il": "SİVAS",
+      "kaynak_metin": "SUBAŞI , SİVAS",
+      "gidis_id": 1119,
+      "donus_id": 1119,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SULTANDAĞI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "SULTANDAĞI , AFYONKARAHİSAR",
+      "gidis_id": 959,
+      "donus_id": 959,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SULTANHİSAR",
+      "il": "AYDIN",
+      "kaynak_metin": "SULTANHİSAR , AYDIN",
+      "gidis_id": "",
+      "donus_id": 1055,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SULUOVA",
+      "il": "AMASYA",
+      "kaynak_metin": "SULUOVA , AMASYA",
+      "gidis_id": 569,
+      "donus_id": 569,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SUSURLUK",
+      "il": "BALIKESİR",
+      "kaynak_metin": "SUSURLUK , BALIKESİR",
+      "gidis_id": 379,
+      "donus_id": 379,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SUVEREN",
+      "il": "BİNGÖL",
+      "kaynak_metin": "SUVEREN , BİNGÖL",
+      "gidis_id": 718,
+      "donus_id": 718,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÖKE",
+      "il": "AYDIN",
+      "kaynak_metin": "SÖKE , AYDIN",
+      "gidis_id": "",
+      "donus_id": 378,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÜNGÜTAŞI",
+      "il": "KARS",
+      "kaynak_metin": "SÜNGÜTAŞI , KARS",
+      "gidis_id": "",
+      "donus_id": 568,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÜNNETÇİLER",
+      "il": "MANİSA",
+      "kaynak_metin": "SÜNNETÇİLER , MANİSA",
+      "gidis_id": "",
+      "donus_id": 403,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÜTLAÇ",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "SÜTLAÇ , AFYONKARAHİSAR",
+      "gidis_id": 961,
+      "donus_id": 961,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİNCAN",
+      "il": "ANKARA",
+      "kaynak_metin": "SİNCAN , ANKARA",
+      "gidis_id": "",
+      "donus_id": 192,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİNEKLİ",
+      "il": "İSTANBUL",
+      "kaynak_metin": "SİNEKLİ , İSTANBUL",
+      "gidis_id": "",
+      "donus_id": 1013,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİVAS",
+      "il": "SİVAS",
+      "kaynak_metin": "SİVAS , SİVAS",
+      "gidis_id": 566,
+      "donus_id": 566,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİVAS(ADATEPE)",
+      "il": "SİVAS",
+      "kaynak_metin": "SİVAS(ADATEPE) , SİVAS",
+      "gidis_id": "",
+      "donus_id": 556,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİVRİCE",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "SİVRİCE , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 716,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TABUR",
+      "il": "",
+      "kaynak_metin": "TABUR",
+      "gidis_id": "",
+      "donus_id": 617,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TATVAN GAR",
+      "il": "BİTLİS",
+      "kaynak_metin": "TATVAN GAR , BİTLİS",
+      "gidis_id": "",
+      "donus_id": 712,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TAVŞANLI",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "TAVŞANLI , KÜTAHYA",
+      "gidis_id": "",
+      "donus_id": 962,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TAYYAKADIN",
+      "il": "EDİRNE",
+      "kaynak_metin": "TAYYAKADIN , EDİRNE",
+      "gidis_id": 1030,
+      "donus_id": 1030,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TAŞKESİK",
+      "il": "İZMİR",
+      "kaynak_metin": "TAŞKESİK , İZMİR",
+      "gidis_id": 383,
+      "donus_id": 383,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TECER",
+      "il": "SİVAS",
+      "kaynak_metin": "TECER , SİVAS",
+      "gidis_id": 574,
+      "donus_id": 574,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TEMELLİ",
+      "il": "ANKARA",
+      "kaynak_metin": "TEMELLİ , ANKARA",
+      "gidis_id": "",
+      "donus_id": 196,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TEPEKÖY",
+      "il": "İZMİR",
+      "kaynak_metin": "TEPEKÖY , İZMİR",
+      "gidis_id": 386,
+      "donus_id": 386,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TINAZTEPE",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "TINAZTEPE , AFYONKARAHİSAR",
+      "gidis_id": 963,
+      "donus_id": 963,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOKAT",
+      "il": "TOKAT",
+      "kaynak_metin": "TOKAT , TOKAT",
+      "gidis_id": 1395,
+      "donus_id": 1395,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOKAT(YEŞİLYURT)",
+      "il": "TOKAT",
+      "kaynak_metin": "TOKAT(YEŞİLYURT) , TOKAT",
+      "gidis_id": "",
+      "donus_id": 551,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOKI DURAĞI",
+      "il": "İZMİR",
+      "kaynak_metin": "TOKI DURAĞI , İZMİR",
+      "gidis_id": 392,
+      "donus_id": 392,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOPDAĞI",
+      "il": "KARS",
+      "kaynak_metin": "TOPDAĞI , KARS",
+      "gidis_id": "",
+      "donus_id": 585,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOPRAKKALE",
+      "il": "OSMANİYE",
+      "kaynak_metin": "TOPRAKKALE , OSMANİYE",
+      "gidis_id": "",
+      "donus_id": 825,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOPULYURDU",
+      "il": "SİVAS",
+      "kaynak_metin": "TOPULYURDU , SİVAS",
+      "gidis_id": "",
+      "donus_id": 1065,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TORBALI",
+      "il": "İZMİR",
+      "kaynak_metin": "TORBALI , İZMİR",
+      "gidis_id": 410,
+      "donus_id": 410,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TURGUTLU",
+      "il": "MANİSA",
+      "kaynak_metin": "TURGUTLU , MANİSA",
+      "gidis_id": "",
+      "donus_id": 1163,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TURHAL",
+      "il": "TOKAT",
+      "kaynak_metin": "TURHAL , TOKAT",
+      "gidis_id": "",
+      "donus_id": 1158,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TÜRKALİ",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "TÜRKALİ , ZONGULDAK",
+      "gidis_id": 198,
+      "donus_id": 198,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TÜRKOBASI",
+      "il": "ANKARA",
+      "kaynak_metin": "TÜRKOBASI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 228,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TİRE",
+      "il": "İZMİR",
+      "kaynak_metin": "TİRE , İZMİR",
+      "gidis_id": 409,
+      "donus_id": 409,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULAM",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ULAM , DİYARBAKIR",
+      "gidis_id": 704,
+      "donus_id": 704,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULAŞŞEHİR",
+      "il": "SİVAS",
+      "kaynak_metin": "ULAŞŞEHİR , SİVAS",
+      "gidis_id": 420,
+      "donus_id": 420,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUKAYA",
+      "il": "BİNGÖL",
+      "kaynak_metin": "ULUKAYA , BİNGÖL",
+      "gidis_id": 1333,
+      "donus_id": 1333,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUKIŞLA",
+      "il": "NİĞDE",
+      "kaynak_metin": "ULUKIŞLA , NİĞDE",
+      "gidis_id": 828,
+      "donus_id": 828,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUKÖY",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ULUKÖY , KÜTAHYA",
+      "gidis_id": 965,
+      "donus_id": 965,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUOVA",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ULUOVA , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 706,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UMURLU",
+      "il": "AYDIN",
+      "kaynak_metin": "UMURLU , AYDIN",
+      "gidis_id": "",
+      "donus_id": 395,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "URGANLI",
+      "il": "MANİSA",
+      "kaynak_metin": "URGANLI , MANİSA",
+      "gidis_id": 396,
+      "donus_id": 396,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UYANIK",
+      "il": "BİNGÖL",
+      "kaynak_metin": "UYANIK , BİNGÖL",
+      "gidis_id": 1334,
+      "donus_id": 1334,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UZUNKÖPRÜ",
+      "il": "EDİRNE",
+      "kaynak_metin": "UZUNKÖPRÜ , EDİRNE",
+      "gidis_id": "",
+      "donus_id": 1015,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UĞUR",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "UĞUR , DİYARBAKIR",
+      "gidis_id": 635,
+      "donus_id": 635,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UŞAK",
+      "il": "UŞAK",
+      "kaynak_metin": "UŞAK , UŞAK",
+      "gidis_id": 397,
+      "donus_id": 397,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "VELİMEŞE",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "VELİMEŞE , TEKİRDAĞ",
+      "gidis_id": "",
+      "donus_id": 1016,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAHŞİHAN",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "YAHŞİHAN , KIRIKKALE",
+      "gidis_id": 205,
+      "donus_id": 205,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAHŞİLER",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "YAHŞİLER , ERZİNCAN",
+      "gidis_id": 445,
+      "donus_id": 445,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAKAKÖY",
+      "il": "İZMİR",
+      "kaynak_metin": "YAKAKÖY , İZMİR",
+      "gidis_id": 399,
+      "donus_id": 399,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAKAPINAR",
+      "il": "ADANA",
+      "kaynak_metin": "YAKAPINAR , ADANA",
+      "gidis_id": 802,
+      "donus_id": 802,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAMANLAR",
+      "il": "MALATYA",
+      "kaynak_metin": "YAMANLAR , MALATYA",
+      "gidis_id": "",
+      "donus_id": 1309,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YARAŞLI",
+      "il": "MANİSA",
+      "kaynak_metin": "YARAŞLI , MANİSA",
+      "gidis_id": 406,
+      "donus_id": 406,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YARIMCA YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "YARIMCA YHT , KOCAELİ",
+      "gidis_id": 1133,
+      "donus_id": 1133,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAYLICA",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "YAYLICA , DİYARBAKIR",
+      "gidis_id": 683,
+      "donus_id": 683,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAZIHAN",
+      "il": "MALATYA",
+      "kaynak_metin": "YAZIHAN , MALATYA",
+      "gidis_id": 1123,
+      "donus_id": 1123,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAĞDONDURAN",
+      "il": "SİVAS",
+      "kaynak_metin": "YAĞDONDURAN , SİVAS",
+      "gidis_id": 154,
+      "donus_id": 154,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİ KARASAR",
+      "il": "SİVAS",
+      "kaynak_metin": "YENİ KARASAR , SİVAS",
+      "gidis_id": 1089,
+      "donus_id": 1089,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİCE",
+      "il": "MERSİN",
+      "kaynak_metin": "YENİCE , MERSİN",
+      "gidis_id": "",
+      "donus_id": 1077,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİCE D",
+      "il": "TOKAT",
+      "kaynak_metin": "YENİCE D , TOKAT",
+      "gidis_id": "",
+      "donus_id": 598,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİDOĞAN DURAĞI",
+      "il": "ANKARA",
+      "kaynak_metin": "YENİDOĞAN DURAĞI , ANKARA",
+      "gidis_id": "",
+      "donus_id": 1335,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİFAKILI",
+      "il": "YOZGAT",
+      "kaynak_metin": "YENİFAKILI , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 127,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKANGAL",
+      "il": "SİVAS",
+      "kaynak_metin": "YENİKANGAL , SİVAS",
+      "gidis_id": 456,
+      "donus_id": 456,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKÖY",
+      "il": "BALIKESİR",
+      "kaynak_metin": "YENİKÖY , BALIKESİR",
+      "gidis_id": 400,
+      "donus_id": 400,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKÖY D",
+      "il": "MANİSA",
+      "kaynak_metin": "YENİKÖY D , MANİSA",
+      "gidis_id": "",
+      "donus_id": 401,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKÖŞK",
+      "il": "",
+      "kaynak_metin": "YENİKÖŞK",
+      "gidis_id": "",
+      "donus_id": 1340,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİÇUBUK",
+      "il": "SİVAS",
+      "kaynak_metin": "YENİÇUBUK , SİVAS",
+      "gidis_id": 502,
+      "donus_id": 502,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YERKÖY",
+      "il": "YOZGAT",
+      "kaynak_metin": "YERKÖY , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 209,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YERKÖY YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "YERKÖY YHT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 1390,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YEŞİLHİSAR",
+      "il": "KAYSERİ",
+      "kaynak_metin": "YEŞİLHİSAR , KAYSERİ",
+      "gidis_id": "",
+      "donus_id": 211,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YEŞİLKAVAK",
+      "il": "MANİSA",
+      "kaynak_metin": "YEŞİLKAVAK , MANİSA",
+      "gidis_id": 1056,
+      "donus_id": 1056,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YEŞİLYENİCE",
+      "il": "KARABÜK",
+      "kaynak_metin": "YEŞİLYENİCE , KARABÜK",
+      "gidis_id": "",
+      "donus_id": 220,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YILDIRIMKEMAL",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "YILDIRIMKEMAL , AFYONKARAHİSAR",
+      "gidis_id": 967,
+      "donus_id": 967,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YILDIZELİ",
+      "il": "SİVAS",
+      "kaynak_metin": "YILDIZELİ , SİVAS",
+      "gidis_id": 586,
+      "donus_id": 586,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YILDIZELİ YHT",
+      "il": "SİVAS",
+      "kaynak_metin": "YILDIZELİ YHT , SİVAS",
+      "gidis_id": "",
+      "donus_id": 1389,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YOLÇATI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "YOLÇATI , ELAZIĞ",
+      "gidis_id": 707,
+      "donus_id": 707,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YOZGAT YHT",
+      "il": "YOZGAT",
+      "kaynak_metin": "YOZGAT YHT , YOZGAT",
+      "gidis_id": "",
+      "donus_id": 1347,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YUNUSEMRE",
+      "il": "ESKİŞEHİR",
+      "kaynak_metin": "YUNUSEMRE , ESKİŞEHİR",
+      "gidis_id": 107,
+      "donus_id": 107,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YURT",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "YURT , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 708,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ZONGULDAK (KİREMİTHANE)",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ZONGULDAK (KİREMİTHANE) , ZONGULDAK",
+      "gidis_id": 229,
+      "donus_id": 229,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ZONGULDAK",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ZONGULDAK , ZONGULDAK",
+      "gidis_id": 212,
+      "donus_id": 212,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ZİLE",
+      "il": "TOKAT",
+      "kaynak_metin": "ZİLE , TOKAT",
+      "gidis_id": "",
+      "donus_id": 587,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇADIRKAYA",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ÇADIRKAYA , ERZİNCAN",
+      "gidis_id": 1063,
+      "donus_id": 1063,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "ÇAKŞUR",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ÇAKŞUR , ERZİNCAN",
+      "gidis_id": 1060,
+      "donus_id": 1060,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 22
+    },
+    {
+      "istasyon": "ÇALIKÖY",
+      "il": "BALIKESİR",
+      "kaynak_metin": "ÇALIKÖY , BALIKESİR",
+      "gidis_id": 304,
+      "donus_id": 304,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇAMLARALTI",
+      "il": "KARABÜK",
+      "kaynak_metin": "ÇAMLARALTI , KARABÜK",
+      "gidis_id": 213,
+      "donus_id": 213,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "ÇAMLIK",
+      "il": "İZMİR",
+      "kaynak_metin": "ÇAMLIK , İZMİR",
+      "gidis_id": 1116,
+      "donus_id": 1116,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 49
+    },
+    {
+      "istasyon": "ÇARDAK",
+      "il": "DENİZLİ",
+      "kaynak_metin": "ÇARDAK , DENİZLİ",
+      "gidis_id": 891,
+      "donus_id": 891,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    },
+    {
+      "istasyon": "ÇATAL",
+      "il": "İZMİR",
+      "kaynak_metin": "ÇATAL , İZMİR",
+      "gidis_id": 1155,
+      "donus_id": 1155,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇATALAĞZI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ÇATALAĞZI , ZONGULDAK",
+      "gidis_id": 118,
+      "donus_id": 118,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "ÇATALCA",
+      "il": "İSTANBUL",
+      "kaynak_metin": "ÇATALCA , İSTANBUL",
+      "gidis_id": 1085,
+      "donus_id": 1085,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 19
+    },
+    {
+      "istasyon": "ÇAVUŞCUGÖL",
+      "il": "KONYA",
+      "kaynak_metin": "ÇAVUŞCUGÖL , KONYA",
+      "gidis_id": 892,
+      "donus_id": 892,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 29
+    },
+    {
+      "istasyon": "ÇAY",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "ÇAY , AFYONKARAHİSAR",
+      "gidis_id": 912,
+      "donus_id": 912,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 44
+    },
+    {
+      "istasyon": "ÇAYCUMA",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "ÇAYCUMA , ZONGULDAK",
+      "gidis_id": 1098,
+      "donus_id": 1098,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇAĞLAR",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ÇAĞLAR , ELAZIĞ",
+      "gidis_id": 658,
+      "donus_id": 658,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "ÇELİKALAN",
+      "il": "SAMSUN",
+      "kaynak_metin": "ÇELİKALAN , SAMSUN",
+      "gidis_id": 424,
+      "donus_id": 424,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇERKEZKÖY",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "ÇERKEZKÖY , TEKİRDAĞ",
+      "gidis_id": 985,
+      "donus_id": 985,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "ÇERİKLİ",
+      "il": "KIRIKKALE",
+      "kaynak_metin": "ÇERİKLİ , KIRIKKALE",
+      "gidis_id": 119,
+      "donus_id": 119,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 110
+    },
+    {
+      "istasyon": "ÇETİNKAYA",
+      "il": "SİVAS",
+      "kaynak_metin": "ÇETİNKAYA , SİVAS",
+      "gidis_id": 484,
+      "donus_id": 484,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 133
+    },
+    {
+      "istasyon": "ÇOBANHASAN",
+      "il": "MANİSA",
+      "kaynak_metin": "ÇOBANHASAN , MANİSA",
+      "gidis_id": 306,
+      "donus_id": 306,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇOBANİSA",
+      "il": "MANİSA",
+      "kaynak_metin": "ÇOBANİSA , MANİSA",
+      "gidis_id": 307,
+      "donus_id": 307,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 37
+    },
+    {
+      "istasyon": "ÇORLU",
+      "il": "TEKİRDAĞ",
+      "kaynak_metin": "ÇORLU , TEKİRDAĞ",
+      "gidis_id": 986,
+      "donus_id": 986,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "ÇUKURBÜK",
+      "il": "SAMSUN",
+      "kaynak_metin": "ÇUKURBÜK , SAMSUN",
+      "gidis_id": 505,
+      "donus_id": 505,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇUKURHÜSEYİN",
+      "il": "BALIKESİR",
+      "kaynak_metin": "ÇUKURHÜSEYİN , BALIKESİR",
+      "gidis_id": 308,
+      "donus_id": 308,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇUMRA",
+      "il": "KONYA",
+      "kaynak_metin": "ÇUMRA , KONYA",
+      "gidis_id": 770,
+      "donus_id": 770,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 40
+    },
+    {
+      "istasyon": "ÇÖLTEPE",
+      "il": "DİYARBAKIR",
+      "kaynak_metin": "ÇÖLTEPE , DİYARBAKIR",
+      "gidis_id": 642,
+      "donus_id": 642,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 74
+    },
+    {
+      "istasyon": "ÇÖĞÜRLER",
+      "il": "KÜTAHYA",
+      "kaynak_metin": "ÇÖĞÜRLER , KÜTAHYA",
+      "gidis_id": 915,
+      "donus_id": 915,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 39
+    },
+    {
+      "istasyon": "ÇİFTEHAN",
+      "il": "NİĞDE",
+      "kaynak_metin": "ÇİFTEHAN , NİĞDE",
+      "gidis_id": 1074,
+      "donus_id": 1074,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "ÇİFTLİK",
+      "il": "SAMSUN",
+      "kaynak_metin": "ÇİFTLİK , SAMSUN",
+      "gidis_id": 921,
+      "donus_id": 921,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "ÇİZÖZÜ",
+      "il": "SİVAS",
+      "kaynak_metin": "ÇİZÖZÜ , SİVAS",
+      "gidis_id": 416,
+      "donus_id": 416,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇİĞDEM",
+      "il": "SİVAS",
+      "kaynak_metin": "ÇİĞDEM , SİVAS",
+      "gidis_id": 638,
+      "donus_id": 638,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "ÇİĞLİ",
+      "il": "İZMİR",
+      "kaynak_metin": "ÇİĞLİ , İZMİR",
+      "gidis_id": 305,
+      "donus_id": 305,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 91
+    },
+    {
+      "istasyon": "ÖDEMİŞ GAR",
+      "il": "İZMİR",
+      "kaynak_metin": "ÖDEMİŞ GAR , İZMİR",
+      "gidis_id": 1054,
+      "donus_id": 1054,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÖDEMİŞ ŞEHİR",
+      "il": "İZMİR",
+      "kaynak_metin": "ÖDEMİŞ ŞEHİR , İZMİR",
+      "gidis_id": "",
+      "donus_id": 1148,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÖZEL İDARE",
+      "il": "AMASYA",
+      "kaynak_metin": "ÖZEL İDARE , AMASYA",
+      "gidis_id": "",
+      "donus_id": 552,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÜÇBURGU",
+      "il": "BARTIN",
+      "kaynak_metin": "ÜÇBURGU , BARTIN",
+      "gidis_id": "",
+      "donus_id": 210,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İHSANİYE",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "İHSANİYE , AFYONKARAHİSAR",
+      "gidis_id": 922,
+      "donus_id": 922,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 47
+    },
+    {
+      "istasyon": "İLKKURŞUN",
+      "il": "İZMİR",
+      "kaynak_metin": "İLKKURŞUN , İZMİR",
+      "gidis_id": 351,
+      "donus_id": 351,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 22
+    },
+    {
+      "istasyon": "İLİÇ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "İLİÇ , ERZİNCAN",
+      "gidis_id": 1130,
+      "donus_id": 1130,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "İNAY",
+      "il": "UŞAK",
+      "kaynak_metin": "İNAY , UŞAK",
+      "gidis_id": 352,
+      "donus_id": 352,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "İNAĞZI",
+      "il": "ZONGULDAK",
+      "kaynak_metin": "İNAĞZI , ZONGULDAK",
+      "gidis_id": 164,
+      "donus_id": 164,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "İNCİRLİK",
+      "il": "ADANA",
+      "kaynak_metin": "İNCİRLİK , ADANA",
+      "gidis_id": 786,
+      "donus_id": 786,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "İNCİRLİOVA",
+      "il": "AYDIN",
+      "kaynak_metin": "İNCİRLİOVA , AYDIN",
+      "gidis_id": 353,
+      "donus_id": 353,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 42
+    },
+    {
+      "istasyon": "İSABEYLİ",
+      "il": "AYDIN",
+      "kaynak_metin": "İSABEYLİ , AYDIN",
+      "gidis_id": 354,
+      "donus_id": 354,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "İSHAKÇELEBİ",
+      "il": "MANİSA",
+      "kaynak_metin": "İSHAKÇELEBİ , MANİSA",
+      "gidis_id": 336,
+      "donus_id": 336,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "İSKENDERUN",
+      "il": "HATAY",
+      "kaynak_metin": "İSKENDERUN , HATAY",
+      "gidis_id": 787,
+      "donus_id": 787,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "İSMAİLBEY",
+      "il": "MANİSA",
+      "kaynak_metin": "İSMAİLBEY , MANİSA",
+      "gidis_id": 1094,
+      "donus_id": 1094,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "İSTANBUL(BAKIRKÖY)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(BAKIRKÖY) , İSTANBUL",
+      "gidis_id": 1328,
+      "donus_id": 1328,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 24
+    },
+    {
+      "istasyon": "İSTANBUL(BOSTANCI)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(BOSTANCI) , İSTANBUL",
+      "gidis_id": 1323,
+      "donus_id": 1323,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 46
+    },
+    {
+      "istasyon": "İSTANBUL(HALKALI)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(HALKALI) , İSTANBUL",
+      "gidis_id": 992,
+      "donus_id": 992,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "İSTANBUL(PENDİK)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(PENDİK) , İSTANBUL",
+      "gidis_id": 48,
+      "donus_id": 48,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 71
+    },
+    {
+      "istasyon": "İSTANBUL(SÖĞÜTLÜÇEŞME)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(SÖĞÜTLÜÇEŞME) , İSTANBUL",
+      "gidis_id": 1325,
+      "donus_id": 1325,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 68
+    },
+    {
+      "istasyon": "İZMİR (BASMANE)",
+      "il": "İZMİR",
+      "kaynak_metin": "İZMİR (BASMANE) , İZMİR",
+      "gidis_id": 312,
+      "donus_id": 312,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 145
+    },
+    {
+      "istasyon": "İZMİT YHT",
+      "il": "KOCAELİ",
+      "kaynak_metin": "İZMİT YHT , KOCAELİ",
+      "gidis_id": 1135,
+      "donus_id": 1135,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 62
+    },
+    {
+      "istasyon": "ŞAHNALAR",
+      "il": "KARS",
+      "kaynak_metin": "ŞAHNALAR , KARS",
+      "gidis_id": "",
+      "donus_id": 570,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ŞARKIŞLA",
+      "il": "SİVAS",
+      "kaynak_metin": "ŞARKIŞLA , SİVAS",
+      "gidis_id": 571,
+      "donus_id": 571,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ŞEFAATLİ",
+      "il": "YOZGAT",
+      "kaynak_metin": "ŞEFAATLİ , YOZGAT",
+      "gidis_id": 194,
+      "donus_id": 194,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ŞEFKAT",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ŞEFKAT , ELAZIĞ",
+      "gidis_id": 719,
+      "donus_id": 719,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ŞEHİTLİK",
+      "il": "ADANA",
+      "kaynak_metin": "ŞEHİTLİK , ADANA",
+      "gidis_id": 836,
+      "donus_id": 836,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "TCDD Tren İstasyonları (Turkish Railway Stations, TCDD ticketing) - Ücretsiz İndir",
+    "description": "TCDD bilet sisteminde yer alan tren istasyonları; il, bilet sistemi kimlikleri ve doğrudan varış sayısıyla. (Stations in the TCDD ticketing system with province and ticketing IDs.) (474 kayıt.) İçerik 474 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "TCDD Tren İstasyonları (Turkish Railway Stations, TCDD ticketing) | ListBase",
+    "seo_description": "İndir TCDD Tren İstasyonları (Turkish Railway Stations, TCDD ticketing) — 474 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 474 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

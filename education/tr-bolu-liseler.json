@@ -1,0 +1,484 @@
+{
+  "id": "tr-bolu-liseler",
+  "name": "Bolu Liseleri (High Schools in Bolu)",
+  "title": "Bolu Liseleri (High Schools in Bolu)",
+  "description": "Bolu ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (34 kayıt) (High schools in Bolu province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Dörtdivan Anadolu Lisesi",
+      "tam_ad": "Bolu - Dörtdivan - Dörtdivan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Dörtdivan",
+      "website": "http://dortdivanal.meb.k12.tr",
+      "enlem": 40.72202517199117,
+      "boylam": 32.05463996305002
+    },
+    {
+      "okul_adi": "Dörtdivan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Dörtdivan - Dörtdivan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Dörtdivan",
+      "website": "http://dortdivan.meb.k12.tr",
+      "enlem": 40.72210648403108,
+      "boylam": 32.05509325637354
+    },
+    {
+      "okul_adi": "Esentepe Aşçılık Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - Esentepe Aşçılık Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://esentepeascilik.meb.k12.tr",
+      "enlem": 40.79828063419332,
+      "boylam": 32.216449586291446
+    },
+    {
+      "okul_adi": "Gerede Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - Gerede Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://geredeanadolulisesi.meb.k12.tr",
+      "enlem": 40.799401445029396,
+      "boylam": 32.18772312774195
+    },
+    {
+      "okul_adi": "Gerede Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bolu - Gerede - Gerede Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://geredeihl.meb.k12.tr",
+      "enlem": 40.800018695090074,
+      "boylam": 32.189241258044376
+    },
+    {
+      "okul_adi": "Gerede Fen Lisesi",
+      "tam_ad": "Bolu - Gerede - Gerede Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://geredeaol.meb.k12.tr",
+      "enlem": 40.79527546827212,
+      "boylam": 32.18110880031122
+    },
+    {
+      "okul_adi": "Gerede Hacı Sadık Öztosun Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - Gerede Hacı Sadık Öztosun Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://geredehsoal.meb.k12.tr",
+      "enlem": 40.79743595265237,
+      "boylam": 32.19285687579645
+    },
+    {
+      "okul_adi": "Gerede Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - Gerede Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://geredeeml.meb.k12.tr",
+      "enlem": 40.795746557326616,
+      "boylam": 32.20434209479822
+    },
+    {
+      "okul_adi": "Nimet Meto Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - Nimet Meto Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://nimetmetomtal.meb.k12.tr",
+      "enlem": 40.80009534334008,
+      "boylam": 32.190593761940136
+    },
+    {
+      "okul_adi": "Ramazandede Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - Ramazandede Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://ramazandede.meb.k12.tr",
+      "enlem": 40.80126942103502,
+      "boylam": 32.19211658610834
+    },
+    {
+      "okul_adi": "İbrahim Hilmi Koçbeyoğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Gerede - İbrahim Hilmi Koçbeyoğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Gerede",
+      "website": "http://ihksml.meb.k12.tr",
+      "enlem": 40.799251192501316,
+      "boylam": 32.19022831096186
+    },
+    {
+      "okul_adi": "Akşemsettin Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bolu - Göynük - Akşemsettin Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bolu",
+      "ilce": "Göynük",
+      "website": "http://akimam.meb.k12.tr",
+      "enlem": 40.408576888864424,
+      "boylam": 30.78666051997675
+    },
+    {
+      "okul_adi": "Orhan Çalış Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Göynük - Orhan Çalış Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Göynük",
+      "website": "http://orhancaliscpl.meb.k12.tr",
+      "enlem": 40.39372331979322,
+      "boylam": 30.779568759341373
+    },
+    {
+      "okul_adi": "Kıbrıscık Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Kıbrıscık - Kıbrıscık Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Kıbrıscık",
+      "website": "http://kibriscikcpl.meb.k12.tr",
+      "enlem": 40.407523030767905,
+      "boylam": 31.856164542575016
+    },
+    {
+      "okul_adi": "Aşcılar Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Mengen - Aşcılar Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Mengen",
+      "website": "http://ascilikokulu.meb.k12.tr",
+      "enlem": 40.94659884958068,
+      "boylam": 32.07249006404413
+    },
+    {
+      "okul_adi": "Gentaş Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Mengen - Gentaş Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Mengen",
+      "website": "http://mengencpl.meb.k12.tr",
+      "enlem": 40.93761932610448,
+      "boylam": 32.06373533381952
+    },
+    {
+      "okul_adi": "Mengen Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bolu - Mengen - Mengen Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bolu",
+      "ilce": "Mengen",
+      "website": "http://mengenihl.meb.k12.tr",
+      "enlem": 40.93936994272704,
+      "boylam": 32.08334764613642
+    },
+    {
+      "okul_adi": "Bolu Anadolu Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://boluanadolulisesi.meb.k12.tr",
+      "enlem": 40.73467511440778,
+      "boylam": 31.611418334384098
+    },
+    {
+      "okul_adi": "Bolu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://boluanadoluihl.meb.k12.tr",
+      "enlem": 40.72689965326004,
+      "boylam": 31.584950295825138
+    },
+    {
+      "okul_adi": "Bolu Atatürk Anadolu Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://baal14.meb.k12.tr",
+      "enlem": 40.72695656752987,
+      "boylam": 31.613542643923893
+    },
+    {
+      "okul_adi": "Bolu Fen Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://bolufenlisesi.meb.k12.tr",
+      "enlem": 40.733062372881825,
+      "boylam": 31.579221097369327
+    },
+    {
+      "okul_adi": "Bolu Güzel Sanatlar Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://boluagsl.meb.k12.tr",
+      "enlem": 40.7449552956362,
+      "boylam": 31.549105254550113
+    },
+    {
+      "okul_adi": "Bolu Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://bolukizaihl.meb.k12.tr",
+      "enlem": 40.72260655089272,
+      "boylam": 31.596086827654972
+    },
+    {
+      "okul_adi": "Bolu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://boluticaret.meb.k12.tr",
+      "enlem": 40.73112337290461,
+      "boylam": 31.614915934939518
+    },
+    {
+      "okul_adi": "Bolu Sosyal Bilimler  Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Sosyal Bilimler  Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://bolusbl.meb.k12.tr",
+      "enlem": 40.74366286634769,
+      "boylam": 31.622039882083072
+    },
+    {
+      "okul_adi": "Bolu Spor Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://bolusporlisesi.meb.k12.tr",
+      "enlem": 40.73392413251158,
+      "boylam": 31.617405024905338
+    },
+    {
+      "okul_adi": "Bolu Türkiye Odalar Ve Borsalar Birliği Zübeyde Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Merkez - Bolu Türkiye Odalar Ve Borsalar Birliği Zübeyde Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://bolu.meb.k12.tr",
+      "enlem": 40.71728857425248,
+      "boylam": 31.57862564696802
+    },
+    {
+      "okul_adi": "Canip Baysal Anadolu Lisesi",
+      "tam_ad": "Bolu - Merkez - Canip Baysal Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "website": "http://canipbaysalanadolulisesi.meb.k12.tr",
+      "enlem": 40.74125676756656,
+      "boylam": 31.590936986346378
+    },
+    {
+      "okul_adi": "Mudurnu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bolu - Mudurnu - Mudurnu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bolu",
+      "ilce": "Mudurnu",
+      "website": "http://mudurnuanadoluihl.meb.k12.tr",
+      "enlem": 40.48834438409014,
+      "boylam": 31.201874522109165
+    },
+    {
+      "okul_adi": "Mudurnu Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Mudurnu - Mudurnu Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Mudurnu",
+      "website": "http://mudurnucpl.meb.k12.tr",
+      "enlem": 40.487381533972155,
+      "boylam": 31.202445832629337
+    },
+    {
+      "okul_adi": "Taşkesti Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Mudurnu - Taşkesti Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Mudurnu",
+      "website": "http://taskesticpl.meb.k12.tr",
+      "enlem": 40.57766607959783,
+      "boylam": 31.01256689204706
+    },
+    {
+      "okul_adi": "Seben Çok Programlı Lisesi",
+      "tam_ad": "Bolu - Seben - Seben Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bolu",
+      "ilce": "Seben",
+      "website": "http://sebencpl.meb.k12.tr",
+      "enlem": 40.411762871123216,
+      "boylam": 31.572225896258487
+    },
+    {
+      "okul_adi": "Yaşar Çelik Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bolu - Yeniçağa - Yaşar Çelik Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Yeniçağa",
+      "website": "http://yasarcelikcpal.meb.k12.tr",
+      "enlem": 40.77199300764748,
+      "boylam": 32.037674991030826
+    },
+    {
+      "okul_adi": "Yeniçağa Aşçılar Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bolu - Yeniçağa - Yeniçağa Aşçılar Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bolu",
+      "ilce": "Yeniçağa",
+      "website": "http://yenicagaascilik.meb.k12.tr",
+      "enlem": 40.772813637849794,
+      "boylam": 32.03952035083307
+    }
+  ],
+  "meta": {
+    "title": "Bolu Liseleri (High Schools in Bolu) - Ücretsiz İndir",
+    "description": "Bolu ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (34 kayıt) (High schools in Bolu province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 34 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bolu Liseleri (High Schools in Bolu) | ListBase",
+    "seo_description": "İndir Bolu Liseleri (High Schools in Bolu) — 34 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 34 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

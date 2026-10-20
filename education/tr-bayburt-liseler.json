@@ -1,0 +1,220 @@
+{
+  "id": "tr-bayburt-liseler",
+  "name": "Bayburt Liseleri (High Schools in Bayburt)",
+  "title": "Bayburt Liseleri (High Schools in Bayburt)",
+  "description": "Bayburt ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (12 kayıt) (High schools in Bayburt province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Aydıntepe Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bayburt - Aydıntepe - Aydıntepe Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Aydıntepe",
+      "website": "http://aydintepecpl.meb.k12.tr",
+      "enlem": 40.394327984499036,
+      "boylam": 40.154602733988895
+    },
+    {
+      "okul_adi": "Demirözü Gökçedere Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bayburt - Demirözü - Demirözü Gökçedere Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Demirözü",
+      "website": "http://gokcederecokprogramlilisesi.meb.k12.tr",
+      "enlem": 40.13241893354915,
+      "boylam": 39.74781355037226
+    },
+    {
+      "okul_adi": "Mustafa Köseoğlu Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bayburt - Demirözü - Mustafa Köseoğlu Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Demirözü",
+      "website": "http://mustafakoseoglucpl.meb.k12.tr",
+      "enlem": 40.15790026917911,
+      "boylam": 39.889970628161564
+    },
+    {
+      "okul_adi": "Bayburt Fen Lisesi",
+      "tam_ad": "Bayburt - Merkez - Bayburt Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://bayburtfenlisesi.meb.k12.tr",
+      "enlem": 40.24118296487356,
+      "boylam": 40.24926057233347
+    },
+    {
+      "okul_adi": "Bayburt Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bayburt - Merkez - Bayburt Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://bayburtkizaihl.meb.k12.tr",
+      "enlem": 40.2692922388227,
+      "boylam": 40.22416314258112
+    },
+    {
+      "okul_adi": "Bayburt Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Bayburt Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://bayburteml.meb.k12.tr",
+      "enlem": 40.23400844023262,
+      "boylam": 40.256242362399234
+    },
+    {
+      "okul_adi": "Bayburt Millî İrade Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Bayburt Millî İrade Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://bal.meb.k12.tr",
+      "enlem": 40.26603402829699,
+      "boylam": 40.20795187129511
+    },
+    {
+      "okul_adi": "Kop Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Kop Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://kopmtal.meb.k12.tr",
+      "enlem": 40.24138770613174,
+      "boylam": 40.24633964671625
+    },
+    {
+      "okul_adi": "Korkut Ata Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Korkut Ata Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://korkutataanadolulisesi.meb.k12.tr",
+      "enlem": 40.257443634315685,
+      "boylam": 40.224895385642185
+    },
+    {
+      "okul_adi": "Rekabet Kurumu Kız Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Rekabet Kurumu Kız Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://rkbal.meb.k12.tr",
+      "enlem": 40.26926154033534,
+      "boylam": 40.21145483626856
+    },
+    {
+      "okul_adi": "Çoruh Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Çoruh Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://coruhmtal.meb.k12.tr",
+      "enlem": 40.2573883673493,
+      "boylam": 40.22586902751459
+    },
+    {
+      "okul_adi": "Şehit Sebahattin Bozo Anadolu Lisesi",
+      "tam_ad": "Bayburt - Merkez - Şehit Sebahattin Bozo Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bayburt",
+      "ilce": "Merkez",
+      "website": "http://sebahattinbozolisesi.meb.k12.tr",
+      "enlem": 40.24922678315279,
+      "boylam": 40.22480291937177
+    }
+  ],
+  "meta": {
+    "title": "Bayburt Liseleri (High Schools in Bayburt) - Ücretsiz İndir",
+    "description": "Bayburt ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (12 kayıt) (High schools in Bayburt province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 12 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bayburt Liseleri (High Schools in Bayburt) | ListBase",
+    "seo_description": "İndir Bayburt Liseleri (High Schools in Bayburt) — 12 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 12 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

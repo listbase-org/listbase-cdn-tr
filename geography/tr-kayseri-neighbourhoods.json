@@ -1,0 +1,5077 @@
+{
+  "id": "tr-kayseri-neighbourhoods",
+  "name": "Kayseri Mahalleleri (Kayseri Neighbourhoods)",
+  "title": "Kayseri Mahalleleri (Kayseri Neighbourhoods)",
+  "description": "Kayseri ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (718 kayıt.) (All neighbourhoods (mahalle) in Kayseri province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 718,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akin Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alevkışla Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ganişeyh Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Girinci Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gömürgen Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gömürgen Yeni Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gümüşsu Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kululu Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Manavuz Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şen Mah",
+      "district_name": "Akkışla",
+      "postal_code": "38830",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akmescit Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akçatı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Asmakaya Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ağcalı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bayramlı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyüktuzhisar Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Camiicedit Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Camiikebir Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dağardı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dervişağa Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Doğanlar Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ekinciler Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Elbaşı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Emirören Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gergeme Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Girveli Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güllüce Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hazarşah Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kahveci Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karahıdır Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karatay Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kardeşler Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Koyunabdal Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kösehacılı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Musaşeyh Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Pirahmet Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Samağır Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sultanhanı Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sıvgın Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Topsöğüt Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yakutiye Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yağmurbey Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Süksün Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yünören Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İbrahimbey Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İğdecik Mah",
+      "district_name": "Bünyan",
+      "postal_code": "38600",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Abdulbaki Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alpaslan Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ayvazhacı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ayşepınar Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağıeverek Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşık Seyrani Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçebaşı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükkünye Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Camiicedit Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Derebaşı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dereşimli Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Develi Camikebir Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "E.camiikebir Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Epçe Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eşelik Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Feneseaşağı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Feneseyukarı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gömedi Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gümüşören Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güneyaşağı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güneyyukarı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Harman Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Havadan Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hoşça Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kabaklı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kopçullu Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kozluca Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kulpak Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Köseler Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçükkünye Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kılıçkaya Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızık Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Millidere Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mustafa Asım Köksal Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sarıca Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Satı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sindelhöyük Camikebir Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sindelhöyük Fatih Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sindelhöyük Yenice Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Soysallı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşcı Bucak Merkezi Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tombak Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yazıbaşı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yedek Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenihayat Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yüzevler Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Zile Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çadıryeri Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çataloluk Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çaylıca Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çayırözü Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çomaklı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çukuryurt Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çöten Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Öksüt Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İbrahimağa Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İncesu Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İzmirli Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şahmelik Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şht.üstğm.hasan Şahan Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şıhlı Mah",
+      "district_name": "Develi",
+      "postal_code": "38400",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Acırlı Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alparslan Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Beyler Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyüktoraman Hürriyet Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyüktoraman İstiklal Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Darılı Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karaşeyh Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Cumhuriyet Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Fatih Sultan Mehmet Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kepiç Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuruhüyük Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Menteşe Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Silahtar Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İsabey Mah",
+      "district_name": "Felahiye",
+      "postal_code": "38750",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akdam Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akyazı Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Beğendik Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Erciyes Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hürmetci Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38315",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karpuzsekisi Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38315",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sakarçiftliği Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38315",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yediağaç Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Hacılar",
+      "postal_code": "38310",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ahi Evran Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38080",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akcatepe Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akin Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alsancak Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38030",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Amarat Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Argıncık Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38030",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Barsama Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bayramhacı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Beyazşehir Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38080",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Beydeğirmeni Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Boyacı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Boğazköprü Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38050",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cırgalan Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38030",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dadağı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Doruklu Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Düver Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ebiç Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Elagöz Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Emmiler Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Erciyesevler Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38020",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Erkilet Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ertuğrul Gazi Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38050",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eskiömerler Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eyim Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38020",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fevzioğlu Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38030",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "General Emir Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38050",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gevher Nesibe Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38010",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gömeç Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güneşli Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hacı Saki Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38010",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hasan Arpa Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hasancı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Himmetdede Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hoca Ahmet Yesevi Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Höbek Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hırkaköy Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kalkancık Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karahöyük Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karakimse Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38030",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kaşköy Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kocasinan Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38080",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuşcağız Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuşçu Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızık Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mahzemin Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mimarsinan Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38020",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mollahacı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Molu Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Obruk Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Oruçreis Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38050",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Oymaağaç Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sahabiye Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38015",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Salur Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38010",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sancaktepe Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Saray Bosna Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Seyrani Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Talatpaşa Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38030",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşhan Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Turgut Reis Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Uğurevler Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38020",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Vatan Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yakut Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38080",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yavuzlar Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yazır Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yemliha Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarıhasinli Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38090",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yüreğil Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38095",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yıldızevler Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38020",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ziyagökalp Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38060",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Zümrüt Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38040",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çevril Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38055",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şeker Mah",
+      "district_name": "Kocasinan",
+      "postal_code": "38070",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "19 Mayıs Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "30 Ağustos Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alpaslan Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38140",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Altınoluk Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38120",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Anafartalar Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Anbar Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Anbar Sb Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aydınlıkevler Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38120",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ağırnas Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Battalgazi Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bağpınar Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38190",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Becen Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyük Bürüngüz Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38110",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Danişmentgazi Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Demokrasi Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Erenköy Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38130",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Esenyurt Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eğribucak Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38120",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Germir Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gesi Fatih Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38180",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gesi Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38190",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gökkent Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38140",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gülük Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38120",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gürpınar Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güzelköy Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38190",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hisarcık Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38155",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hunat Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38140",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38120",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayabağ Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38190",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayseriosb Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kazımkarabekir Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38130",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Keykubat Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kocatepe Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38140",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçük Bürüngüz Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kılıçaslan Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38140",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kıranardı Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38155",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mimarsinan Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mimarsinan Osb Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Osman Kavuncu Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38130",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Osmanlı Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sarımsaklı Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tacettinveli Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38150",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tavlusun Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Turan Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38195",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tınaztepe Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38170",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Vekse Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38190",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38120",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38190",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Beyazıt Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38140",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İldem Cumhuriyet Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38180",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şirintepe Mah",
+      "district_name": "Melikgazi",
+      "postal_code": "38165",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alagazili Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alamescit Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Altıkesek Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Arslanbeyli Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Artmak Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Avşarpotuklu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aygörmez Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağıbeyçayırı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağıborandere Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağıkaragöz Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağıkızılçevlik Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Beserek Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükgümüşgün Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükgürleğen Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükkabaktepe Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükkaramanlı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükkaramuklu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükkömarmut Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükpotuklu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cabe Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cinahmet Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cinliören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Demircili Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Demirciören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Devederesi Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dikilitaş Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dilciler Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Emeğil Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Esenköy Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eskitekke Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eskiyassıpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Eğrisöğüt Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fakıekinciliği Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gebelek Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gölcük Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gümüşgün Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Halitbeyören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Han Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hassa Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hasırcı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hayriye Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hilmiye Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kadılı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kaftangiyen Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kaman Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karaboğaz Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karahacılı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karahalka Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kavakköy Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kavlaklar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayaaltı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayaönü Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kaynar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kazancık Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kerimoğlu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kurbağalık Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kurttepe Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuşçular Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Köşkerli Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçükkömarmut Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçükpotuklu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kılıçkışla Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kılıçmehmet Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kırkgeçit Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızıldere Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılhan Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Malakköy Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Melikgazi Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Methiye Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Olukkaya Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Oruçoğlu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Panlı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Pazarsu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Pazarören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Paşalı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Pulpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Saçayağı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Saçlı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Serinyurt Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Solaklar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tahtaköprü Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşlıgeçit Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşlıoğlu Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tersakan Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tözgün Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Uzunpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Uzunyol Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yahyabey Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yarımtepe Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yağlıpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenicami Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeniocak Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeregeçen Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarıbeyçayırı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarıborandere Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarıkaragöz Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarıkızılçevlik Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yusuflar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çakılkaya Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çaybaşı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çukuryurt Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çördüklü Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Örenşehir Bucak Merkezi Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Üçpınar Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İnliören Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İğdelipayaslı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şabanlı Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Pınarbaşı",
+      "postal_code": "38700",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alamettin Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bakarcak Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Burunören Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Düzencik Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ebülhayır Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güzelyazı Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kadılı Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karaözü Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karpınar Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Keklikoğlu Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılpınar Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Muratbeyli Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Palas Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sofumahmut Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tatılı Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yahyalı Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yerlikuyu Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ömerhacılı Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ömürlü Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Üzerlik Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İğdeli Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şenyurt Mah",
+      "district_name": "Sarıoğlan",
+      "postal_code": "38820",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akoluk Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Altısöğüt Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Avşarobası Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ayranlık Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyük Söbeçimen Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyük Örtülü Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dallıkavak Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Damızlık Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Darıdere Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dayoluk Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Değirmentaş Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fettahdere Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gümüşali Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Günesen Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karayurt Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kurdini Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kurudere Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuşçu Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçük Kabaktepe Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçük Söbeçimen Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçük Örtülü Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kırkısrak Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kıskaçlı Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılpınar Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mollahüseyinler Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Oğlakkaya Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sancakağıl Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tavla Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tekneli Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yaylacı Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yedioluk Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çatalpınar Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çavdar Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çağşak Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çörekdere Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ördekli Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İmirzaağa Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İncedere Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İncemağara Mah",
+      "district_name": "Sarız",
+      "postal_code": "38660",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akçakaya Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alaybeyli Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ardıç Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Başakpınar Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cebir Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Endürlük Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Han Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Harman Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kamber Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kepez Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kiçiköy Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Koçcağız Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuruköprü Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mengücek Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sakaltutan Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sosun Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Süleymanlı Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tablakaya Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yamaçlı Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yazyurdu Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Talas",
+      "postal_code": "38280",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Zincidere Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çatakdere Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çevlik Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çömlekçi Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Talas",
+      "postal_code": "38300",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akdere Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akmezar Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Arslantaş Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Avşarsöğütlü Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bektaş Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bostanlık Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Böke Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükcanlı Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Culha Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cücün Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dadaloğlu Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dağyurdu Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ekinli Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Emiruşağı Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Göktepe Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gülveren Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güzelce Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güzelsu Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hacıpaşa Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kapukaya Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karamuklu Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karaören Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kesir Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kevenağıl Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuşcağız Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kömür Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küçükcanlı Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılören Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Melikören Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Pusatlı Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sarımehmetli Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Süvegenler Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tahtakemer Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tatar Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Toklar Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Turanlı Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yavuzselim Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşilbağ Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çanakpınar Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çayinli Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çukurağaç Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Üçkonak Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İcadiye Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İmamkullu Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İncili Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şiraz Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şıhbarak Mah",
+      "district_name": "Tomarza",
+      "postal_code": "38900",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "100.yıl Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "75.yıl Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Avlağa Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ağcaşar Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Balcıçakırı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büyükçakır Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Delialiuşağı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Denizovası Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Derebağ Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dikme Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fetullah Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fevziçakmak Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gazibeyli Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kapuzbaşı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karaköy Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kavacık Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kocahacılı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kopçu Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuzoluk Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Madazı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mustafabeyli Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Senirköy Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Seydili Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Süleymanfakılı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşhan Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yerköy Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yuları Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çavdaruşağı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çiğilli Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çubukharmanı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İlyaslı Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İsmet Mah",
+      "district_name": "Yahyalı",
+      "postal_code": "38500",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Akköy Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Araplı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Başköy Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Beyleryukarı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Büget Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Derbentbaşı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Erdemli Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fevzioğlu Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gülbayır Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güzelöz Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karacabey Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Keler Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Keşlik Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kovalı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuzey Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kuşçu Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Musahacılı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Ovaçiftlik Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Soğanlı Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çadırkaya Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İdris Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "İçmece Mah",
+      "district_name": "Yeşilhisar",
+      "postal_code": "38800",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Alparslan Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Aşağı Boğaziçi Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Evler Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kermelik Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küpeli Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Taşlık Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tuğlaşah Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yukarı Boğaziçi Mah",
+      "district_name": "Özvatan",
+      "postal_code": "38770",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bahçesaray Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Bulgurcu Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Dokuzpınar Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Fırınönü Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Garipçe Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Gönenkent Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Hamurcu Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karahüyük Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karakoyunlu Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Karamustafapaşa Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Küllü Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılören Aşağı Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılören Tabaklı Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Kızılören Ötebatan Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sarıkürklü Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Semerkent Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Sultansazı Osb Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Süksün Cumhuriyet Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Süksün Hürriyet Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Süksün Zafer Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Tahirinli Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Vali İhsan Aras Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yarım Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Yeni Camii Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Çardaklı Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Örenşehir Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Üçkuyu Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    },
+    {
+      "neighbourhood_name": "Şeyhşaban Mah",
+      "district_name": "İncesu",
+      "postal_code": "38560",
+      "city_code": "38",
+      "city_name": "Kayseri"
+    }
+  ],
+  "meta": {
+    "title": "Kayseri Mahalleleri (Kayseri Neighbourhoods) - Ücretsiz İndir",
+    "description": "Kayseri ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (718 kayıt.) (All neighbourhoods (mahalle) in Kayseri province with their parent district and postal code.) İçerik 718 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kayseri Mahalleleri (Kayseri Neighbourhoods) | ListBase",
+    "seo_description": "İndir Kayseri Mahalleleri (Kayseri Neighbourhoods) — 718 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 718 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

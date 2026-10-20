@@ -1,0 +1,316 @@
+{
+  "id": "tr-bingol-liseler",
+  "name": "Bingöl Liseleri (High Schools in Bingöl)",
+  "title": "Bingöl Liseleri (High Schools in Bingöl)",
+  "description": "Bingöl ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (20 kayıt) (High schools in Bingöl province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Adaklı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bingöl - Adaklı - Adaklı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Adaklı",
+      "website": "http://adaklilisesi.meb.k12.tr",
+      "enlem": 39.226550553944996,
+      "boylam": 40.48424085750116
+    },
+    {
+      "okul_adi": "Genç Anadolu Lisesi",
+      "tam_ad": "Bingöl - Genç - Genç Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Genç",
+      "website": "http://gencanadolulisesi.meb.k12.tr",
+      "enlem": 38.75133751316354,
+      "boylam": 40.56099495067133
+    },
+    {
+      "okul_adi": "Genç Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Genç - Genç Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Genç",
+      "website": "http://gencimamhatiplisesi.meb.k12.tr",
+      "enlem": 38.758474289257556,
+      "boylam": 40.558124987025394
+    },
+    {
+      "okul_adi": "Şehit Mehmet Koçdağı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bingöl - Genç - Şehit Mehmet Koçdağı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Genç",
+      "website": "http://sehitmehmetkocdagimtal.meb.k12.tr",
+      "enlem": 38.747306550865545,
+      "boylam": 40.55096483006014
+    },
+    {
+      "okul_adi": "Şehit Murat Yıldırım Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bingöl - Genç - Şehit Murat Yıldırım Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Genç",
+      "website": "http://genckml.meb.k12.tr",
+      "enlem": 38.74742369672772,
+      "boylam": 40.5530287898971
+    },
+    {
+      "okul_adi": "Karlıova Anadolu Lisesi",
+      "tam_ad": "Bingöl - Karlıova - Karlıova Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Karlıova",
+      "website": "http://karliovaanadolulisesi.meb.k12.tr",
+      "enlem": 39.292659192505546,
+      "boylam": 41.009310094256534
+    },
+    {
+      "okul_adi": "Karlıova Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Karlıova - Karlıova Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Karlıova",
+      "website": "http://karliovaihl.meb.k12.tr",
+      "enlem": 39.30260996079062,
+      "boylam": 41.01944884433283
+    },
+    {
+      "okul_adi": "Karlıova Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bingöl - Karlıova - Karlıova Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Karlıova",
+      "website": "http://karliovaktml.meb.k12.tr",
+      "enlem": 39.29522278182882,
+      "boylam": 41.00919744147791
+    },
+    {
+      "okul_adi": "Şehit Hacı Alan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Karlıova - Şehit Hacı Alan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Karlıova",
+      "website": "http://sehithacialanaihl.meb.k12.tr",
+      "enlem": 39.29942188363804,
+      "boylam": 41.01486226691736
+    },
+    {
+      "okul_adi": "Kiğı Fuat Dağıstan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bingöl - Kığı - Kiğı Fuat Dağıstan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Kığı",
+      "website": "http://kigifdlisesi.meb.k12.tr",
+      "enlem": 39.310928165835826,
+      "boylam": 40.347466973204746
+    },
+    {
+      "okul_adi": "15 Temmuz Milli İrade Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Merkez - 15 Temmuz Milli İrade Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "website": "http://15temmuzmilliiradeaihl.meb.k12.tr",
+      "enlem": 38.89730669335614,
+      "boylam": 40.51765313519968
+    },
+    {
+      "okul_adi": "Cumhuriyet Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Merkez - Cumhuriyet Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "website": "http://cumhuriyetkizihl.meb.k12.tr",
+      "enlem": 38.90715737002222,
+      "boylam": 40.483241264470735
+    },
+    {
+      "okul_adi": "Rabia Hatun Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Merkez - Rabia Hatun Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "website": "http://rabiahatunkizihl.meb.k12.tr",
+      "enlem": 38.88416681615617,
+      "boylam": 40.507694093127384
+    },
+    {
+      "okul_adi": "Rekabet Kurumu Anadolu Lisesi",
+      "tam_ad": "Bingöl - Merkez - Rekabet Kurumu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "website": "http://bingolrekabetkurumulisesi.meb.k12.tr",
+      "enlem": 38.90026669242994,
+      "boylam": 40.49432596339716
+    },
+    {
+      "okul_adi": "Selahaddin Eyyubi Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Merkez - Selahaddin Eyyubi Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "website": "http://selahaddineyyubiihl.meb.k12.tr",
+      "enlem": 38.89633652576957,
+      "boylam": 40.51334081365599
+    },
+    {
+      "okul_adi": "Solhan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bingöl - Solhan - Solhan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bingöl",
+      "ilce": "Solhan",
+      "website": "http://solhananadoluihl.meb.k12.tr",
+      "enlem": 38.96303217864914,
+      "boylam": 41.05498006715311
+    },
+    {
+      "okul_adi": "Solhan Farabi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bingöl - Solhan - Solhan Farabi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Solhan",
+      "website": "http://solhanfarabismtal.meb.k12.tr",
+      "enlem": 38.963912278052604,
+      "boylam": 41.05190625562204
+    },
+    {
+      "okul_adi": "Öğretmen Hüseyin Artunç Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bingöl - Solhan - Öğretmen Hüseyin Artunç Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Solhan",
+      "website": "http://huseyinartuncmtal.meb.k12.tr",
+      "enlem": 38.96915093735953,
+      "boylam": 41.05141004695429
+    },
+    {
+      "okul_adi": "Yayladere Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bingöl - Yayladere - Yayladere Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Yayladere",
+      "website": "http://yayladerelisesi.meb.k12.tr",
+      "enlem": 39.23492765204744,
+      "boylam": 40.076974240679874
+    },
+    {
+      "okul_adi": "Yedisu Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bingöl - Yedisu - Yedisu Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bingöl",
+      "ilce": "Yedisu",
+      "website": "http://yedisucpl.meb.k12.tr",
+      "enlem": 39.4346213469554,
+      "boylam": 40.54666659011377
+    }
+  ],
+  "meta": {
+    "title": "Bingöl Liseleri (High Schools in Bingöl) - Ücretsiz İndir",
+    "description": "Bingöl ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (20 kayıt) (High schools in Bingöl province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 20 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bingöl Liseleri (High Schools in Bingöl) | ListBase",
+    "seo_description": "İndir Bingöl Liseleri (High Schools in Bingöl) — 20 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 20 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

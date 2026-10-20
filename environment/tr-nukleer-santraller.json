@@ -1,0 +1,198 @@
+{
+  "id": "tr-nukleer-santraller",
+  "name": "Türkiye'deki nükleer santraller",
+  "title": "Türkiye'deki nükleer santraller",
+  "description": "Türkiye'deki nükleer santraller — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "string"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akkuyu-1",
+      "latitude": 36.144444,
+      "longitude": 33.541111,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-509",
+      "construction_start": "2018-04-03",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1114,
+      "iaea_id": 553,
+      "data_source": "WNA/Wikipedia/IAEA"
+    },
+    {
+      "name": "Akkuyu-2",
+      "latitude": 36.144444,
+      "longitude": 33.541111,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-509",
+      "construction_start": "2020-04-08",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1114,
+      "iaea_id": 1080,
+      "data_source": "Wikipedia/IAEA"
+    },
+    {
+      "name": "Akkuyu-3",
+      "latitude": 36.144444,
+      "longitude": 33.541111,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-509",
+      "construction_start": "2021-03-10",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1114,
+      "iaea_id": 1081,
+      "data_source": "Wikipedia/IAEA"
+    },
+    {
+      "name": "Akkuyu-4",
+      "latitude": 36.144444,
+      "longitude": 33.541111,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-509",
+      "construction_start": "2022-07-21",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1114,
+      "iaea_id": 1082,
+      "data_source": "Wikipedia/IAEA"
+    },
+    {
+      "name": "Sinop-1",
+      "latitude": 42,
+      "longitude": 35,
+      "status": "Planned",
+      "reactor_type": "PWR",
+      "reactor_model": "ATMEA-1",
+      "construction_start": "",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": "",
+      "iaea_id": "",
+      "data_source": "Wikipedia"
+    },
+    {
+      "name": "Sinop-2",
+      "latitude": 42,
+      "longitude": 35,
+      "status": "Planned",
+      "reactor_type": "PWR",
+      "reactor_model": "ATMEA-1",
+      "construction_start": "",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": "",
+      "iaea_id": "",
+      "data_source": "Wikipedia"
+    },
+    {
+      "name": "Sinop-3",
+      "latitude": 42,
+      "longitude": 35,
+      "status": "Planned",
+      "reactor_type": "PWR",
+      "reactor_model": "ATMEA-1",
+      "construction_start": "",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": "",
+      "iaea_id": "",
+      "data_source": "Wikipedia"
+    },
+    {
+      "name": "Sinop-4",
+      "latitude": 42,
+      "longitude": 35,
+      "status": "Planned",
+      "reactor_type": "PWR",
+      "reactor_model": "ATMEA-1",
+      "construction_start": "",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": "",
+      "iaea_id": "",
+      "data_source": "Wikipedia"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki nükleer santraller - Ücretsiz İndir",
+    "description": "Türkiye'deki nükleer santraller — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). İçerik 8 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Türkiye'deki nükleer santraller | ListBase",
+    "seo_description": "İndir Türkiye'deki nükleer santraller — 8 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 8 kayıt / 12 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: open data"
+    ]
+  }
+}

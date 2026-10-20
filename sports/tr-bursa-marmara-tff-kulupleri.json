@@ -1,0 +1,106 @@
+{
+  "id": "tr-bursa-marmara-tff-kulupleri",
+  "name": "BURSA/MARMARA Bölgesi Futbol Kulüpleri (BURSA/MARMARA Region Football Clubs)",
+  "title": "BURSA/MARMARA Bölgesi Futbol Kulüpleri (BURSA/MARMARA Region Football Clubs)",
+  "description": "TFF kayıtlarında BURSA/MARMARA bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (4 kayıt.) (Süper Lig and TFF 1st League clubs registered in the BURSA/MARMARA region, 2020-21 season.)",
+  "category": "sports",
+  "source": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "source_url": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "kulup",
+      "label": "Kulup",
+      "type": "string"
+    },
+    {
+      "key": "tff_id",
+      "label": "Tff Id",
+      "type": "number"
+    },
+    {
+      "key": "sehir",
+      "label": "Sehir",
+      "type": "string"
+    },
+    {
+      "key": "bolge",
+      "label": "Bolge",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "adres",
+      "label": "Adres",
+      "type": "string"
+    },
+    {
+      "key": "logo_url",
+      "label": "Logo Url",
+      "type": "string"
+    },
+    {
+      "key": "stadyum",
+      "label": "Stadyum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kulup": "BALIKESİRSPOR",
+      "tff_id": 137,
+      "sehir": "BURSA",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(266)2391235",
+      "adres": "G.ÇEŞME MAH. ESKİ KEPSUT YOLU AHP TES. YANI BALIKESİRSPOR T.",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000137_120x120.png",
+      "stadyum": "BALIKESİR ATATÜRK"
+    },
+    {
+      "kulup": "BURSASPOR",
+      "tff_id": 159,
+      "sehir": "BURSA",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(224)4136300",
+      "adres": "ÖZLÜCE TESİSLERİ İZMİR YOLU 4.KM NİLÜFER BURSA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000159_120x120.png",
+      "stadyum": "BURSA BÜYÜKŞEHİR BELEDİYE STADYUMU"
+    },
+    {
+      "kulup": "ESKİŞEHİRSPOR",
+      "tff_id": 1,
+      "sehir": "ESKİŞEHİR",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(0222)3229890",
+      "adres": "VALİ HANEFİ DEMİRKOL TESİSLERİ ÇEVREYOLU POLİS EVİ YANI",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000001_120x120.png",
+      "stadyum": "ESKİŞEHİR YENİ STADYUM"
+    },
+    {
+      "kulup": "ROYAL HASTANESİ BANDIRMASPOR",
+      "tff_id": 132,
+      "sehir": "BALIKESİR",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(266)721 47 84",
+      "adres": "HAYDAR ÇAVUŞ MAH. İSTİKLAL CD. NO:10,5 BANDIRMA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000132_120x120.png",
+      "stadyum": "BANDIRMA 17 EYLÜL"
+    }
+  ],
+  "meta": {
+    "title": "BURSA/MARMARA Bölgesi Futbol Kulüpleri (BURSA/MARMARA Region Football Clubs) - Ücretsiz İndir",
+    "description": "TFF kayıtlarında BURSA/MARMARA bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (4 kayıt.) (Süper Lig and TFF 1st League clubs registered in the BURSA/MARMARA region, 2020-21 season.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "BURSA/MARMARA Bölgesi Futbol Kulüpleri (BURSA/MARMARA Region Football Clubs) | ListBase",
+    "seo_description": "İndir BURSA/MARMARA Bölgesi Futbol Kulüpleri (BURSA/MARMARA Region Football Clubs) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 8 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/kadocolak/turkey-football-super-league-json-data-set"
+    ]
+  }
+}

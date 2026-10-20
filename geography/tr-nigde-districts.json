@@ -1,0 +1,82 @@
+{
+  "id": "tr-nigde-districts",
+  "name": "Niğde İlçeleri (Niğde Districts)",
+  "title": "Niğde İlçeleri (Niğde Districts)",
+  "description": "Niğde ilinin ilçeleri. (Districts (ilçe) of Niğde province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Altunhisar",
+      "slug": "altunhisar",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "district_name": "Bor",
+      "slug": "bor",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "district_name": "Ulukışla",
+      "slug": "ulukisla",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "district_name": "Çamardı",
+      "slug": "camardi",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "district_name": "Çiftlik",
+      "slug": "ciftlik",
+      "city_code": "51",
+      "city_name": "Niğde"
+    }
+  ],
+  "meta": {
+    "title": "Niğde İlçeleri (Niğde Districts) - Ücretsiz İndir",
+    "description": "Niğde ilinin ilçeleri. (Districts (ilçe) of Niğde province in Türkiye.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Niğde İlçeleri (Niğde Districts) | ListBase",
+    "seo_description": "İndir Niğde İlçeleri (Niğde Districts) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

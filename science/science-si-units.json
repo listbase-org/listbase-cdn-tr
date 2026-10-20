@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "Uluslararası Birimler Sistemi (SI Birimleri) Veri Kümesi",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "metre",
+      "symbol": "m",
+      "quantity": "uzunluk",
+      "type": "Base Unit",
+      "definition": "Işığın 1/299.792.458 saniyede katettiği mesafe",
+      "dimension": "L"
+    },
+    {
+      "name": "kilogram",
+      "symbol": "kg",
+      "quantity": "kütle",
+      "type": "Base Unit",
+      "definition": "Planck sabiti h = 6.62607015×10⁻³⁴ J·s ile tanımlanır",
+      "dimension": "M"
+    },
+    {
+      "name": "saniye",
+      "symbol": "s",
+      "quantity": "zaman",
+      "type": "Base Unit",
+      "definition": "Sezyum-133 radyasyonunun 9.192.631.770 periyodu",
+      "dimension": "T"
+    },
+    {
+      "name": "amper",
+      "symbol": "A",
+      "quantity": "elektrik akımı",
+      "type": "Base Unit",
+      "definition": "Temel yük e = 1.602176634×10⁻¹⁹ C ile tanımlanır",
+      "dimension": "I"
+    },
+    {
+      "name": "kelvin",
+      "symbol": "K",
+      "quantity": "termodinamik sıcaklık",
+      "type": "Base Unit",
+      "definition": "Boltzmann sabiti k = 1.380649×10⁻²³ J/K ile tanımlanır",
+      "dimension": "Θ"
+    },
+    {
+      "name": "mol",
+      "symbol": "mol",
+      "quantity": "madde miktarı",
+      "type": "Base Unit",
+      "definition": "Tam olarak 6.02214076×10²³ temel varlık",
+      "dimension": "N"
+    },
+    {
+      "name": "kandela",
+      "symbol": "cd",
+      "quantity": "ışık şiddeti",
+      "type": "Base Unit",
+      "definition": "540 THz'de ışık etkinliği Kcd = 683 lm/W",
+      "dimension": "J"
+    },
+    {
+      "name": "hertz",
+      "symbol": "Hz",
+      "quantity": "frekans",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "newton",
+      "symbol": "N",
+      "quantity": "kuvvet",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "pascal",
+      "symbol": "Pa",
+      "quantity": "basınç, gerilim",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "joule",
+      "symbol": "J",
+      "quantity": "enerji, iş, ısı",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "watt",
+      "symbol": "W",
+      "quantity": "güç, ışıma akısı",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "coulomb",
+      "symbol": "C",
+      "quantity": "elektrik yükü",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "volt",
+      "symbol": "V",
+      "quantity": "elektrik potansiyeli",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "kapasitans",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "ohm",
+      "symbol": "Ω",
+      "quantity": "elektrik direnci",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "siemens",
+      "symbol": "S",
+      "quantity": "elektrik iletkenliği",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "manyetik akı",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "manyetik akı yoğunluğu",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "henry",
+      "symbol": "H",
+      "quantity": "indüktans",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "derece Celsius",
+      "symbol": "°C",
+      "quantity": "sıcaklık",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "lümen",
+      "symbol": "lm",
+      "quantity": "ışık akısı",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "lüks",
+      "symbol": "lx",
+      "quantity": "aydınlatma şiddeti",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "bekerel",
+      "symbol": "Bq",
+      "quantity": "radyoaktivite",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (saniyedeki bozunma sayısı)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "gray",
+      "symbol": "Gy",
+      "quantity": "soğurulan doz",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "sievert",
+      "symbol": "Sv",
+      "quantity": "eşdeğer doz",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "katal",
+      "symbol": "kat",
+      "quantity": "katalitik aktivite",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "radyan",
+      "symbol": "rad",
+      "quantity": "düzlem açı",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (boyutsuz)",
+      "dimension": "1"
+    },
+    {
+      "name": "steradyan",
+      "symbol": "sr",
+      "quantity": "katı açı",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (boyutsuz)",
+      "dimension": "1"
+    },
+    {
+      "name": "quetta",
+      "symbol": "Q",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "ronna",
+      "symbol": "R",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "yotta",
+      "symbol": "Y",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "zetta",
+      "symbol": "Z",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "exa",
+      "symbol": "E",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "peta",
+      "symbol": "P",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "tera",
+      "symbol": "T",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "giga",
+      "symbol": "G",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "mega",
+      "symbol": "M",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "kilo",
+      "symbol": "k",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "hekto",
+      "symbol": "h",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "SI öneki",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "SI Birimleri & Tanımları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Tanım, sembol ve boyutlarıyla 53 SI Birimini ücretsiz indirin. Bilim, eğitim ve geliştirme için Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Uluslararası Birimler Sistemi (SI Birimleri) Veri Kümesi",
+    "description": "Bu kapsamlı veri kümesi, adları, sembolleri, nicelikleri, türleri, tanımları ve boyutları dahil olmak üzere 53 temel ve türetilmiş SI birimini içerir. Bilim, mühendislik ve eğitim için önemli bir kaynaktır.",
+    "key_takeaways": [
+      "Temel ve türetilmiş birimler dahil 53 kapsamlı SI Birimine erişin.",
+      "Her birim için kesin tanımları, sembolleri, nicelikleri ve boyutları keşfedin.",
+      "Birim verilerini esnek Excel, CSV veya yazdırılabilir PDF formatlarında indirin.",
+      "Bilimsel araştırma ve eğitim materyalleri için doğru SI birim bilgilerinden yararlanın."
+    ],
+    "keywords": [
+      "si birimleri listesi excel",
+      "uluslararası birimler sistemi csv",
+      "temel türetilmiş birim tanımları",
+      "metrik sistem veri indir",
+      "fiziksel nicelikler boyutları",
+      "bilim eğitim kaynakları"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktararak bilimsel uygulamaları veya birim dönüştürme araçlarını destekleyin.",
+      "**Excel** dosyasını Pivot Tablolar oluşturmak, birimleri türe göre filtrelemek veya mühendislik projeleri ve araştırmaları için özel raporlar oluşturmak için kullanın.",
+      "**PDF** sürümünü sınıf referansı, eğitim posterleri veya laboratuvar deneyleri sırasında hızlı çevrimdışı danışma için yazdırın.",
+      "Hassas ölçüm birimleri ve temel tanımlarını gerektiren herhangi bir projede doğruluğu ve tutarlılığı sağlamak için bu veri kümesini referans alın."
+    ]
+  },
+  "record_count": 53,
+  "title": "Uluslararası Birimler Sistemi (SI Birimleri) Veri Kümesi"
+}

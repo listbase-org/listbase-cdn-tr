@@ -1,0 +1,82 @@
+{
+  "id": "tr-mus-districts",
+  "name": "Muş İlçeleri (Muş Districts)",
+  "title": "Muş İlçeleri (Muş Districts)",
+  "description": "Muş ilinin ilçeleri. (Districts (ilçe) of Muş province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Bulanık",
+      "slug": "bulanik",
+      "city_code": "49",
+      "city_name": "Muş"
+    },
+    {
+      "district_name": "Hasköy",
+      "slug": "haskoy",
+      "city_code": "49",
+      "city_name": "Muş"
+    },
+    {
+      "district_name": "Korkut",
+      "slug": "korkut",
+      "city_code": "49",
+      "city_name": "Muş"
+    },
+    {
+      "district_name": "Malazgirt",
+      "slug": "malazgirt",
+      "city_code": "49",
+      "city_name": "Muş"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "49",
+      "city_name": "Muş"
+    },
+    {
+      "district_name": "Varto",
+      "slug": "varto",
+      "city_code": "49",
+      "city_name": "Muş"
+    }
+  ],
+  "meta": {
+    "title": "Muş İlçeleri (Muş Districts) - Ücretsiz İndir",
+    "description": "Muş ilinin ilçeleri. (Districts (ilçe) of Muş province in Türkiye.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Muş İlçeleri (Muş Districts) | ListBase",
+    "seo_description": "İndir Muş İlçeleri (Muş Districts) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

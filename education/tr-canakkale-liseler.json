@@ -1,0 +1,592 @@
+{
+  "id": "tr-canakkale-liseler",
+  "name": "Çanakkale Liseleri (High Schools in Çanakkale)",
+  "title": "Çanakkale Liseleri (High Schools in Çanakkale)",
+  "description": "Çanakkale ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (43 kayıt) (High schools in Çanakkale province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Ayvacık Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ayvacık - Ayvacık Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ayvacık",
+      "website": "http://ayvacikal.meb.k12.tr",
+      "enlem": 39.60590583686469,
+      "boylam": 26.39473369493021
+    },
+    {
+      "okul_adi": "Ayvacık Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Ayvacık - Ayvacık Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Ayvacık",
+      "website": "http://ayvacikihl.meb.k12.tr",
+      "enlem": 39.609646103239996,
+      "boylam": 26.404598859686985
+    },
+    {
+      "okul_adi": "Gülpınar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ayvacık - Gülpınar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ayvacık",
+      "website": "http://gulpinarlisesi.meb.k12.tr",
+      "enlem": 39.5292996413209,
+      "boylam": 26.11996015681757
+    },
+    {
+      "okul_adi": "Küçükkuyu Fernur Sözen Anadolu  Lisesi",
+      "tam_ad": "Çanakkale - Ayvacık - Küçükkuyu Fernur Sözen Anadolu  Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Çanakkale",
+      "ilce": "Ayvacık",
+      "website": "http://fernursozenanadolulisesi.meb.k12.tr",
+      "enlem": 39.55261507744599,
+      "boylam": 26.61185583247675
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ayvacık - Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ayvacık",
+      "website": "http://maemtal17.meb.k12.tr",
+      "enlem": 39.597060646338846,
+      "boylam": 26.403780785937442
+    },
+    {
+      "okul_adi": "Bayramiç Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Bayramiç - Bayramiç Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Bayramiç",
+      "website": "http://bayramicihl.meb.k12.tr",
+      "enlem": 39.812346365172516,
+      "boylam": 26.61512276305689
+    },
+    {
+      "okul_adi": "Biga Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Biga - Biga Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Biga",
+      "website": "http://bigaanadolu.meb.k12.tr",
+      "enlem": 40.23712896046208,
+      "boylam": 27.263938394923343
+    },
+    {
+      "okul_adi": "Biga Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Biga - Biga Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Biga",
+      "website": "http://bigaaihl.meb.k12.tr",
+      "enlem": 40.23814657933672,
+      "boylam": 27.230842617888584
+    },
+    {
+      "okul_adi": "Biga Atatürk Fen Lisesi",
+      "tam_ad": "Çanakkale - Biga - Biga Atatürk Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Çanakkale",
+      "ilce": "Biga",
+      "website": "http://bafl.meb.k12.tr",
+      "enlem": 40.22711371021155,
+      "boylam": 27.247674820561542
+    },
+    {
+      "okul_adi": "Hamdibey Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Biga - Hamdibey Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Biga",
+      "website": "http://bigahtml.meb.k12.tr",
+      "enlem": 40.227783350939305,
+      "boylam": 27.249191609759464
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Biga - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Biga",
+      "website": "http://bimael.meb.k12.tr",
+      "enlem": 40.227357402863355,
+      "boylam": 27.247217503924503
+    },
+    {
+      "okul_adi": "Gazi Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Bozcaada - Gazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Bozcaada",
+      "website": "http://bozcaadagazi.meb.k12.tr",
+      "enlem": 39.832040268950465,
+      "boylam": 26.072313395877018
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Eceabat - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Eceabat",
+      "website": "http://eceabatmaeal.meb.k12.tr",
+      "enlem": 40.181699908478876,
+      "boylam": 26.359717456240787
+    },
+    {
+      "okul_adi": "Ezine Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Ezine - Ezine Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Ezine",
+      "website": "http://ezineihl.meb.k12.tr",
+      "enlem": 39.78269186648876,
+      "boylam": 26.327766982455387
+    },
+    {
+      "okul_adi": "Ezine Celalettin Topçu Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ezine - Ezine Celalettin Topçu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ezine",
+      "website": "http://ectal.meb.k12.tr",
+      "enlem": 39.77104913628755,
+      "boylam": 26.349718181033268
+    },
+    {
+      "okul_adi": "Ezine Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ezine - Ezine Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ezine",
+      "website": "http://ezinecpl.meb.k12.tr",
+      "enlem": 39.78309586355046,
+      "boylam": 26.34320577754511
+    },
+    {
+      "okul_adi": "Geyikli Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ezine - Geyikli Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ezine",
+      "website": "http://geyiklicpl.meb.k12.tr",
+      "enlem": 39.803185541087686,
+      "boylam": 26.202218142886295
+    },
+    {
+      "okul_adi": "Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Ezine - Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Ezine",
+      "website": "http://ezinemeslek.meb.k12.tr",
+      "enlem": 39.790441600495114,
+      "boylam": 26.338002292056217
+    },
+    {
+      "okul_adi": "Anafartalar Özel Eğitim Meslek Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Anafartalar Özel Eğitim Meslek Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://anafartalaroeml.meb.k12.tr",
+      "enlem": 40.41480166749844,
+      "boylam": 26.671872941393985
+    },
+    {
+      "okul_adi": "Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://geliboluamtal.meb.k12.tr",
+      "enlem": 40.4159452650017,
+      "boylam": 26.664899197955265
+    },
+    {
+      "okul_adi": "Ecebey Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Ecebey Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://ecebeymtal.meb.k12.tr",
+      "enlem": 40.40778007705474,
+      "boylam": 26.66564753427042
+    },
+    {
+      "okul_adi": "Gelibolu Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Gelibolu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://gelibolual.meb.k12.tr",
+      "enlem": 40.4073875795745,
+      "boylam": 26.640699453661682
+    },
+    {
+      "okul_adi": "Gelibolu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Gelibolu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://gail.meb.k12.tr",
+      "enlem": 40.407761988410854,
+      "boylam": 26.66564753427042
+    },
+    {
+      "okul_adi": "Gelibolu Fen Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Gelibolu Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://gelibolufenlisesi.meb.k12.tr",
+      "enlem": 40.40955108021747,
+      "boylam": 26.664086488623752
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gelibolu - Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "website": "http://gelibolueml.meb.k12.tr",
+      "enlem": 40.415444943485625,
+      "boylam": 26.671593991656437
+    },
+    {
+      "okul_adi": "Gökçeada Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gökçeada - Gökçeada Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gökçeada",
+      "website": "http://gokceadaanadolulisesi.meb.k12.tr",
+      "enlem": 40.19706317095187,
+      "boylam": 25.90883543862833
+    },
+    {
+      "okul_adi": "Gökçeada Atatürk Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gökçeada - Gökçeada Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gökçeada",
+      "website": "http://gokceadaogretmenlisesi.meb.k12.tr",
+      "enlem": 40.19552593578985,
+      "boylam": 25.91057447660819
+    },
+    {
+      "okul_adi": "Gökçeada Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Gökçeada - Gökçeada Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Gökçeada",
+      "website": "http://gokceadaeml.meb.k12.tr",
+      "enlem": 40.196330165644675,
+      "boylam": 25.902846655905478
+    },
+    {
+      "okul_adi": "Hüseyin Akif Terzioğlu Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Lapseki - Hüseyin Akif Terzioğlu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Lapseki",
+      "website": "http://hatal.meb.k12.tr",
+      "enlem": 40.33937939715385,
+      "boylam": 26.674308387179508
+    },
+    {
+      "okul_adi": "Lapseki Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Lapseki - Lapseki Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Lapseki",
+      "website": "http://lapsekiaihl.meb.k12.tr",
+      "enlem": 40.34132618995037,
+      "boylam": 26.682127697010174
+    },
+    {
+      "okul_adi": "Ali Haydar Önder Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Merkez - Ali Haydar Önder Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "website": "http://ahoal.meb.k12.tr",
+      "enlem": 40.16314379308628,
+      "boylam": 26.412701813120975
+    },
+    {
+      "okul_adi": "Vahit Tuna Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Merkez - Vahit Tuna Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "website": "http://vtal.meb.k12.tr",
+      "enlem": 40.16678819311119,
+      "boylam": 26.410389748950138
+    },
+    {
+      "okul_adi": "Çanakkale Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Merkez - Çanakkale Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "website": "http://canakkaleanadolulisesi.meb.k12.tr",
+      "enlem": 40.14938841755382,
+      "boylam": 26.4178570188476
+    },
+    {
+      "okul_adi": "Çanakkale Kepez Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Merkez - Çanakkale Kepez Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "website": "http://ckalekepezmtal.meb.k12.tr",
+      "enlem": 40.09508387246203,
+      "boylam": 26.3892566241218
+    },
+    {
+      "okul_adi": "Çanakkale Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Merkez - Çanakkale Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "website": "http://ceml.meb.k12.tr",
+      "enlem": 40.15118845971021,
+      "boylam": 26.408748237033024
+    },
+    {
+      "okul_adi": "Çanakkale İbrahim Bodur Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Merkez - Çanakkale İbrahim Bodur Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "website": "http://cibal.meb.k12.tr",
+      "enlem": 40.141561369835394,
+      "boylam": 26.408203748603
+    },
+    {
+      "okul_adi": "Hamdibey Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Yenice - Hamdibey Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Yenice",
+      "website": "http://hamdibeycpl.meb.k12.tr",
+      "enlem": 39.85241627934102,
+      "boylam": 27.250693646807804
+    },
+    {
+      "okul_adi": "Kalkım Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Yenice - Kalkım Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Yenice",
+      "website": "http://yenicekalkimcplise.meb.k12.tr",
+      "enlem": 39.81331471203115,
+      "boylam": 27.20535358562006
+    },
+    {
+      "okul_adi": "Mehmet Bodur Anadolu  İmam Hatip Lisesi",
+      "tam_ad": "Çanakkale - Yenice - Mehmet Bodur Anadolu  İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çanakkale",
+      "ilce": "Yenice",
+      "website": "http://mehmetboduraihl.meb.k12.tr",
+      "enlem": 39.933925658607414,
+      "boylam": 27.254663316149845
+    },
+    {
+      "okul_adi": "Pazarköy Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Yenice - Pazarköy Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Yenice",
+      "website": "http://pazarkoylisesi.meb.k12.tr",
+      "enlem": 39.849203968491615,
+      "boylam": 27.406669465441837
+    },
+    {
+      "okul_adi": "Yenice Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Yenice - Yenice Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Yenice",
+      "website": "http://yenicemetem.meb.k12.tr",
+      "enlem": 39.92921981714078,
+      "boylam": 27.263353673358097
+    },
+    {
+      "okul_adi": "Çan Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Çan - Çan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Çan",
+      "website": "http://cananadolulisesi.meb.k12.tr",
+      "enlem": 40.02835244070941,
+      "boylam": 27.046116200823917
+    },
+    {
+      "okul_adi": "Çan İbrahim Bodur Anadolu Lisesi",
+      "tam_ad": "Çanakkale - Çan - Çan İbrahim Bodur Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çanakkale",
+      "ilce": "Çan",
+      "website": "http://ibodural.meb.k12.tr",
+      "enlem": 40.024104971693596,
+      "boylam": 27.04450151099695
+    }
+  ],
+  "meta": {
+    "title": "Çanakkale Liseleri (High Schools in Çanakkale) - Ücretsiz İndir",
+    "description": "Çanakkale ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (43 kayıt) (High schools in Çanakkale province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 43 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Çanakkale Liseleri (High Schools in Çanakkale) | ListBase",
+    "seo_description": "İndir Çanakkale Liseleri (High Schools in Çanakkale) — 43 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 43 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

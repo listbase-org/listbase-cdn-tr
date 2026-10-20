@@ -1,0 +1,4076 @@
+{
+  "id": "tr-isparta-neighbourhoods",
+  "name": "Isparta Mahalleleri (Isparta Neighbourhoods)",
+  "title": "Isparta Mahalleleri (Isparta Neighbourhoods)",
+  "description": "Isparta ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (575 kayıt.) (All neighbourhoods (mahalle) in Isparta province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 575,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akçaşar Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eldere Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Elecik Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karacahisar Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karağı Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Katip Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Koçular Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kösre Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mantaklar Mah (yakaafşar Köyü)",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazarcık Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sofular Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Terziler Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yaka Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yakaafşar Köyü)",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarıyaylabel Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Köyü",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İmamlar Mah (yakaafşar Köyü)",
+      "district_name": "Aksu",
+      "postal_code": "32512",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Aksu",
+      "postal_code": "32510",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Altunba Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bayat Köyü",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gezirler Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Harmanören Köyü",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hıdır Mah (islamköy Köyü)",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kapıcak Köyü",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Müftü Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Müftü Mah (islamköy Köyü)",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Onaç Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (islamköy Köyü)",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pembeli Köyü",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sinan Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sökmen Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (islamköy Köyü)",
+      "district_name": "Atabey",
+      "postal_code": "32672",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çeşme Mah",
+      "district_name": "Atabey",
+      "postal_code": "32670",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akdoğan Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akmescit Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Altınkum Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ağa Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ağa Mah (sarıidris Beldesi)",
+      "district_name": "Eğirdir",
+      "postal_code": "32550",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ağılköy Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Gökdere Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (pazarköy Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bademli Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçıvan Mah (yuvalı Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Baklan Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Balkırı Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağbuyan Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağören Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağıcık Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağıllı Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Baş Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah (sevinçbey Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Boyalı Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Camii Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cirbeli Mah (haymana Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (gökçehöyük Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Demirkapı Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Deniz Altı Mah (haymana Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (sarıidris Beldesi)",
+      "district_name": "Eğirdir",
+      "postal_code": "32550",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah (sipahiler Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eyüpler Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Göktaş Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hacıramazanlar Mah (eyüpler Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hacışeyh Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hamam Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Harmanyeri Mah (ağılköy Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Havutlu Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Haymana Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (gökçehöyük Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (sarıidris Beldesi)",
+      "district_name": "Eğirdir",
+      "postal_code": "32550",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (akdoğan Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Katip Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Koca Cesme Mah (haymana Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Konya Bucağı Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kubbeli Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kırıntı Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kızılçubuk Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mahmatlar Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (beydere Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sipahiler Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Poyraz Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pınar Pazarı Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah (beydere Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sekibağ Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Serpil Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sevinçbey Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Seydim Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sorkuncak Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tepeli Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yazla Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yelliler Mah (yuvalı Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (pazarköy Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeşilada Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yokuşbaşı Mah (barla Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Gökdere Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (pazarköy Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yılgıncak Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (gökçehöyük Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çaltı Arası Mah (serpil Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çay Köyü",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (eyüpler Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İmaret Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Eğirdir",
+      "postal_code": "32500",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (gökçehöyük Köyü)",
+      "district_name": "Eğirdir",
+      "postal_code": "32502",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (sarıidris Beldesi)",
+      "district_name": "Eğirdir",
+      "postal_code": "32550",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "17 Eylül Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Afşar Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akdağ Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (bağıllı Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yenice Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Evler Mah (yaka Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Balcı Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yaka Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Esinyurt Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hanönü Mah (yeşilköy Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Haydarpaşa Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hüseyin Avni Paşa Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah (yenice Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Keçili Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Köke Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kırevler Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kızdaşı Mah (yenice Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Madenli Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Muharrem Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (yaka Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Selçuk Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yakadibi Mah (yenice Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Gelendost",
+      "postal_code": "32900",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (bağıllı Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yaka Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (bağıllı Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yaka Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yenice Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çaltı Köyü",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çay Mah (yaka Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah (bağıllı Köyü)",
+      "district_name": "Gelendost",
+      "postal_code": "32902",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Alaca Mescit Mah",
+      "district_name": "Gönen",
+      "postal_code": "32090",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Baladız Mah (güneykent Beldesi)",
+      "district_name": "Gönen",
+      "postal_code": "32720",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Gönen",
+      "postal_code": "32090",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Köyü",
+      "district_name": "Gönen",
+      "postal_code": "32092",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Göletevleri Mah",
+      "district_name": "Gönen",
+      "postal_code": "32090",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kasap Mah",
+      "district_name": "Gönen",
+      "postal_code": "32090",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Koçtepe Köyü",
+      "district_name": "Gönen",
+      "postal_code": "32092",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kızılcık Köyü",
+      "district_name": "Gönen",
+      "postal_code": "32092",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Musalla Mah",
+      "district_name": "Gönen",
+      "postal_code": "32090",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (güneykent Beldesi)",
+      "district_name": "Gönen",
+      "postal_code": "32720",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Gönen",
+      "postal_code": "32090",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Senirce Mah (senirce Köyü)",
+      "district_name": "Gönen",
+      "postal_code": "32092",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (güneykent Beldesi)",
+      "district_name": "Gönen",
+      "postal_code": "32720",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (güneykent Beldesi)",
+      "district_name": "Gönen",
+      "postal_code": "32720",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İğdecik Mah (iğdecik Köyü)",
+      "district_name": "Gönen",
+      "postal_code": "32092",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ardıçlı Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Camii Kebir Mah (aydoğmuş Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (incesu Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (senir Beldesi)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32750",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gülköy Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (aydoğmuş Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hacı Köyü Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hasanbey Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (incesu Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaplanlı Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kavak Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaya Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kozluca Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (aydoğmuş Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuyucak Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuşçular Mah (senir Beldesi)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32750",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kükürt Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kılıç Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (senir Beldesi)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32750",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Saracık Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah (senir Beldesi)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32750",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Toki Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tuzla Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (senir Beldesi)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32750",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (kılıç Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenitepe Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kılıç Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32700",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çukurören Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Özbahçe Köyü",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (incesu Köyü)",
+      "district_name": "Keçiborlu",
+      "postal_code": "32702",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Absarı Mah (kadılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akkent Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aliköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Anadolu Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ayazmana Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ağıl Mah (darıören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (deregümü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sav Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "32120",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (yakaören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Batıkent Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Binbirevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bozanönü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bucakdere Mah (darıören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bögürtlenli Mah (darıderesi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Büyükhacılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Davraz Mah",
+      "district_name": "Merkez",
+      "postal_code": "32300",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Derebogazı  Mah (karahafız Mah) (küçükkışla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dereboğazı Mah (kışlaköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Doğancı Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Emre Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (sav Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "32120",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gazi Kemal Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gelincik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gülcü Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gülevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gülistan Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Güney Bahçe Evleri Mah (küçükgökçeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Güneyce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Halife Sultan Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Halıkent Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hocantı Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hızırbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Işıkkent Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Merkez",
+      "postal_code": "32300",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah (küçükkışla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Çeşme Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaynarpınar Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kayıköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kemal Mah (kuleönü Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "32110",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kepeci Mah",
+      "district_name": "Merkez",
+      "postal_code": "32300",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Keçeci Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kolcubeli Mah (kadılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kutlubey Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuzey Bahçeevleri Mah (küçükgökçeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Merkez Mah (darıören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Merkez Mah (kadılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Küçükgökçeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Küçükhacılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kırkayak Mah (büyükgökçeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kışlaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mehmet Tönge Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yakaören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Modern Evler Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Muzaffer Türkeş Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (büyükgökçeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (kuleönü Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "32110",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (yakaören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pirimehmet Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sarıyer Mah (darıören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sermet Mah",
+      "district_name": "Merkez",
+      "postal_code": "32300",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sidre Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sülübey Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tilkilik Mah (darıören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Turan Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Vatan Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Vatanosb Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Merkez",
+      "postal_code": "32100",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yazısöğüt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yağcıoğlu Mah (darıderesi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yedişehitler Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenicami Mah (kuleönü Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "32110",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (darıderesi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (deregümü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (sav Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "32120",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çatal Mah (büyükgökçeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çelebiler Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çobanisa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çukurköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çünür Mah",
+      "district_name": "Merkez",
+      "postal_code": "32200",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çıkrıklı Mah (darıören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İmrezi Mah (küçükkışla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İskender Mah",
+      "district_name": "Merkez",
+      "postal_code": "32040",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Merkez",
+      "postal_code": "32300",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Şekerler Mah (kadılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "32005",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "16 Haziran Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (gençali Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yassıören Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Başköy Köyü",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bozdurmuş Mah (gençali Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bülbül Mah (akkeçili Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Büyükçeşme Mah (uluğbey Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Camii Mah (büyükkabaca Beldesi)",
+      "district_name": "Senirkent",
+      "postal_code": "32610",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (büyükkabaca Beldesi)",
+      "district_name": "Senirkent",
+      "postal_code": "32610",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eski Köy Mah (gençali Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karababa Mah (akkeçili Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (büyükkabaca Beldesi)",
+      "district_name": "Senirkent",
+      "postal_code": "32610",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kayaağzı Mah (karip Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuzyaka Mah (akkeçili Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kıbrıs Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karip Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Onkuyu Mah (gençali Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (büyükkabaca Beldesi)",
+      "district_name": "Senirkent",
+      "postal_code": "32610",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ortayazı Köyü",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sultan Süleyman Mah (büyükkabaca Beldesi)",
+      "district_name": "Senirkent",
+      "postal_code": "32610",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Süleyman Demirel Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Taşmescit Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Turgutlar Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Türbe Mah (uluğbey Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (uluğbey Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (gençali Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yassıören Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (büyükkabaca Beldesi)",
+      "district_name": "Senirkent",
+      "postal_code": "32610",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çanlar Mah (yassıören Köyü)",
+      "district_name": "Senirkent",
+      "postal_code": "32602",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Şehler Mah",
+      "district_name": "Senirkent",
+      "postal_code": "32600",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ayvapınarı Mah (ayvalıpınar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağıyaylabel Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Başkoz Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bekirağalar Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Belen Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Belence Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Beydili Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Birlik Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Boğazköy Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bucakdere Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kesme Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Camii Mah (kasımlar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Darıbükü Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Derindere Mah (kesme Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Güldallı Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gümü Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (kasımlar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hacıahmetler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hacıaliler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karadiken Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuz Mah (ayvalıpınar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuzca Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (ayvalıpınar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kızılbelen Mah (kesme Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Melikler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Müezzinler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pınarköy Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Saray Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sarımehmetler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sağrak Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Sütçüler",
+      "postal_code": "32950",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çandır Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çobanisa Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çukurca Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çökek Mah (kesme Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çürük Belen Mah (kasımlar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çıraklar Mah (ayvalıpınar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Öbektaş Mah (ayvalıpınar Köyü)",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İbişler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İncedere Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Şehler Köyü",
+      "district_name": "Sütçüler",
+      "postal_code": "32952",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dere Köyü",
+      "district_name": "Uluborlu",
+      "postal_code": "32652",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Güreşyeri Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hamideli Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kabaağaç Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kösehasan Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Küçükkabaca Köyü",
+      "district_name": "Uluborlu",
+      "postal_code": "32652",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Namazgah Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Serenler Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Taşköprü Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Topraklık Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Zincirli Mah",
+      "district_name": "Uluborlu",
+      "postal_code": "32650",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İleydağı Köyü",
+      "district_name": "Uluborlu",
+      "postal_code": "32652",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İnhisar Köyü",
+      "district_name": "Uluborlu",
+      "postal_code": "32652",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Abacılar Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akköprü Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Akçaşar Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Altıkapı Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ardıçlı Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ayvalı Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (celeptaş Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (kumdanlı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (körküler Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sağırköy Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sücüllü Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (çetince Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Yukarı Mah (aşağıkaşıkara Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağıkaşıkara Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahtiyar Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (dedeçam Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bolatlık Mah (tokmacık Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (bağkonak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (çetince Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Debbağlar Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Deliktaş Mah (sücüllü Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dere Gültepe Mah (aşağıkaşıkara Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (tokmacık Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eski Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eski Mah (körküler Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eskigeçit Mah (hüyüklü Beldesi)",
+      "district_name": "Yalvaç",
+      "postal_code": "32430",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eyüpler Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Eğirler Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (bağkonak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (yukarıkaşıkara Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (özgüney Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gökçay Mah (tokmacık Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gökçeali Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Görgü Bayram Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Görgü Camii Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Görgüorta Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gülkent Mah (tokmacık Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gümüşlü Mah (aşağıtırtar Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Harman Mah (kuyucak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Harman Mah (sücüllü Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Harman Mah (yukarıkaşıkara Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Harman Mah (özbayat Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hisarardı Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Hurşitler Mah (sücüllü Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (bağkonak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (çetince Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaşaşağı Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaşcami Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaşhacıbey Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kaşyukarı Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Koruyaka Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kurusarı Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuzyaka Mah (özbayat Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kuşku Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Küçüktepe Mah (aşağıtırtar Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kırkbaş Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Leblebiciler Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mescit Mah (hüyüklü Beldesi)",
+      "district_name": "Yalvaç",
+      "postal_code": "32430",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mezarlık Mah (aşağıtırtar Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah (çetince Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Müderris Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Mısırlı Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Nalbant Mah (hüyüklü Beldesi)",
+      "district_name": "Yalvaç",
+      "postal_code": "32430",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (dedeçam Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kumdanlı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kuyucak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (özbayat Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Aşağı Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (körküler Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (özgüney Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pazar Yukarı Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Salur Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah (özgüney Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Taşevi Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah (bağlarbaşı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Terziler Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Tolyüzü Mah (aşağıtırtar Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ulucamii Mah (bağkonak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yanarık Mah (hüyüklü Beldesi)",
+      "district_name": "Yalvaç",
+      "postal_code": "32430",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yarıkkaya Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (tokmacık Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (yukarıkaşıkara Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (bağkonak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (dedeçam Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hüyüklü Beldesi)",
+      "district_name": "Yalvaç",
+      "postal_code": "32430",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kumdanlı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kuyucak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (körküler Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (sücüllü Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (tokmacık Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yağcılar Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yukarıkaşıkara Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (çetince Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (özbayat Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (özgüney Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (bağlarbaşı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (celeptaş Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (ileği Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kozluçay Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kumdanlı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kuyucak Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (sağırköy Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (sücüllü Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (çetince Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarıtırtar Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yusuflar Mah (bağlarbaşı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çakırçal Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çamharman Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Yalvaç",
+      "postal_code": "32400",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (kumdanlı Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İleği Köyü",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "İslibucağı Mah (aşağıtırtar Köyü)",
+      "district_name": "Yalvaç",
+      "postal_code": "32402",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gölkonak Köyü",
+      "district_name": "Yenişarbademli",
+      "postal_code": "32852",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Yenişarbademli",
+      "postal_code": "32850",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Yenişarbademli",
+      "postal_code": "32850",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenicami Mah",
+      "district_name": "Yenişarbademli",
+      "postal_code": "32850",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Yenişarbademli",
+      "postal_code": "32850",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Alcıklar Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Arak Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Armutlu Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aslandoğmuş Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Asılkale Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (göksöğüt Köyü)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (çiçekpınar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32820",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağıdinek Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Aşağıkale Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Başdeğirmen Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Belceğiz Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Beyköy Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Bölükler Mah (çarıksaraylar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32810",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (çarıksaraylar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32810",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fakılar Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Fele Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Gedikli Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Karayaka Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kerkük Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Köprü Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Kıyakdede Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Muratbağı Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (çiçekpınar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32820",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Salur Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Suvar Mah (çarıksaraylar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32810",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ulu Mah (çarıksaraylar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32810",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ulvikale Mah",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32800",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yakaemir Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (göksöğüt Köyü)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yenicekale Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (göksöğüt Köyü)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Yukarıdinek Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çaltı Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çavundur Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çeltek Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çukur Mah (çarıksaraylar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32810",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Çördük Mah (çiçekpınar Beldesi)",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32820",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Ördekci Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    },
+    {
+      "neighbourhood_name": "Örenköy Köyü",
+      "district_name": "Şarkikaraağaç",
+      "postal_code": "32802",
+      "city_code": "32",
+      "city_name": "Isparta"
+    }
+  ],
+  "meta": {
+    "title": "Isparta Mahalleleri (Isparta Neighbourhoods) - Ücretsiz İndir",
+    "description": "Isparta ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (575 kayıt.) (All neighbourhoods (mahalle) in Isparta province with their parent district and postal code.) İçerik 575 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Isparta Mahalleleri (Isparta Neighbourhoods) | ListBase",
+    "seo_description": "İndir Isparta Mahalleleri (Isparta Neighbourhoods) — 575 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 575 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

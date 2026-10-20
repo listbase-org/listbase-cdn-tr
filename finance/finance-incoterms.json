@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "Incoterms 2020 Kuralları ve Tanımları Veri Seti",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode (EN)",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "İşyerinde Teslim (Ex Works)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "Yok (mallar tesiste mevcuttur)",
+      "buyer_pays": "Tüm nakliye, sigorta, gümrük masrafları",
+      "description": "Alıcı malları satıcının yerinden alır"
+    },
+    {
+      "code": "FCA",
+      "name": "Taşıyıcıya Teslim (Free Carrier)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "Taşıyıcıya teslim, ihracat gümrük masrafları",
+      "buyer_pays": "Ana taşıma, sigorta, ithalat gümrük masrafları",
+      "description": "Satıcı malları taşıyıcıya veya belirlenen yere teslim eder"
+    },
+    {
+      "code": "CPT",
+      "name": "Navlun Ödenmiş Olarak (Carriage Paid To)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Varış yerine nakliye, ihracat gümrük masrafları",
+      "buyer_pays": "Sigorta, ithalat gümrük masrafları, boşaltma",
+      "description": "Satıcı taşıma ücretini öder, risk taşıyıcıya devredildiğinde geçer"
+    },
+    {
+      "code": "CIP",
+      "name": "Navlun ve Sigorta Ödenmiş Olarak (Carriage and Insurance Paid To)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Navlun, varış yerine sigorta, ihracat gümrük masrafları",
+      "buyer_pays": "İthalat gümrük masrafları, boşaltma",
+      "description": "CPT gibidir ancak satıcı sigorta masraflarını da öder"
+    },
+    {
+      "code": "DAP",
+      "name": "Belirlenen Yerde Teslim (Delivered at Place)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Varış yerine tüm nakliye, ihracat gümrük masrafları",
+      "buyer_pays": "Boşaltma, ithalat gümrük masrafları",
+      "description": "Satıcı malları boşaltmaya hazır olarak teslim eder"
+    },
+    {
+      "code": "DPU",
+      "name": "Belirlenen Yerde Boşaltılmış Teslim (Delivered at Place Unloaded)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "Tüm nakliye, boşaltma, ihracat gümrük masrafları",
+      "buyer_pays": "İthalat gümrük masrafları",
+      "description": "Satıcı malları varış yerinde boşaltır"
+    },
+    {
+      "code": "DDP",
+      "name": "Gümrük Vergileri Ödenmiş Olarak Teslim (Delivered Duty Paid)",
+      "category": "Herhangi Bir Taşıma Şekli",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "İthalat vergisi dahil her şey",
+      "buyer_pays": "Sadece boşaltma",
+      "description": "Satıcı için maksimum yükümlülük"
+    },
+    {
+      "code": "FAS",
+      "name": "Gemi Yanında Teslim (Free Alongside Ship)",
+      "category": "Deniz/Su Yolu",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "Limana nakliye, ihracat gümrük masrafları",
+      "buyer_pays": "Yükleme, navlun, sigorta, ithalat gümrük masrafları",
+      "description": "Satıcı malları geminin yanına teslim eder"
+    },
+    {
+      "code": "FOB",
+      "name": "Gemiye Yüklenmiş Teslim (Free on Board)",
+      "category": "Deniz/Su Yolu",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "Gemiye yükleme, ihracat gümrük masrafları",
+      "buyer_pays": "Navlun, sigorta, ithalat gümrük masrafları",
+      "description": "Satıcı malları gemiye yükler"
+    },
+    {
+      "code": "CFR",
+      "name": "Mal Bedeli ve Navlun (Cost and Freight)",
+      "category": "Deniz/Su Yolu",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Varış yerine navlun, ihracat gümrük masrafları",
+      "buyer_pays": "Sigorta, ithalat gümrük masrafları, boşaltma",
+      "description": "Satıcı navlun ücretini öder, risk yüklemede geçer"
+    },
+    {
+      "code": "CIF",
+      "name": "Mal Bedeli, Sigorta ve Navlun (Cost, Insurance and Freight)",
+      "category": "Deniz/Su Yolu",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Navlun, sigorta, ihracat gümrük masrafları",
+      "buyer_pays": "İthalat gümrük masrafları, boşaltma",
+      "description": "CFR gibidir ancak satıcı sigorta masraflarını da öder"
+    }
+  ],
+  "meta": {
+    "seo_title": "Incoterms 2020 Kuralları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Uluslararası ticaret için Incoterms 2020 kurallarını ücretsiz indirin. Risk transferi ve maliyet tahsisi dahil 11 temel terimi edinin. Excel, CSV, PDF formatında ücretsiz.",
+    "title": "Incoterms 2020 Kuralları ve Tanımları Veri Seti",
+    "description": "Bu veri seti, uluslararası ticarette teslimat, risk transferi ve maliyet tahsisi sorumluluklarını detaylandıran 11 Incoterms 2020 kuralının kısa bir listesini sunar. Alıcılar ve satıcılar için tüm önemli yönleri kapsar.",
+    "key_takeaways": [
+      "Küresel ticaret için 11 Incoterms 2020 kuralına erişin.",
+      "Tanımları, taşıma modlarını ve risk transfer noktalarını keşfedin.",
+      "Satıcı ve alıcı maliyet sorumluluklarını anlayın.",
+      "Uluslararası nakliye anlaşmalarını basitleştirin."
+    ],
+    "keywords": [
+      "incoterms 2020 listesi",
+      "uluslararası ticaret terimleri",
+      "nakliye kuralları 2020",
+      "incoterms excel indir",
+      "ticaret terimleri csv",
+      "lojistik tanımları"
+    ],
+    "use_cases": [
+      "Uluslararası gönderiler için sözleşme maddesi oluşturmayı ve uygunluk kontrollerini otomatikleştirmek üzere **CSV** dosyasını ERP veya lojistik sisteminize aktarın.",
+      "Taşıma moduna göre terimleri filtrelemek, maliyet tahsisini analiz etmek ve satış veya tedarik ekipleriniz için eğitim materyalleri hazırlamak amacıyla **Excel** dosyasını kullanın.",
+      "Depolarda, sınıflarda veya sözleşme görüşmeleri sırasında hızlı, çevrimdışı bir referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "Bu veriyi, öğrencilere küresel tedarik zinciri yönetimi ve ticaret düzenlemeleri hakkında bilgi vermek için eğitim amaçlı kullanın."
+    ]
+  },
+  "record_count": 11,
+  "title": "Incoterms 2020 Kuralları ve Tanımları Veri Seti"
+}

@@ -1,0 +1,4895 @@
+{
+  "id": "tr-usak-neighbourhoods",
+  "name": "Uşak Mahalleleri (Uşak Neighbourhoods)",
+  "title": "Uşak Mahalleleri (Uşak Neighbourhoods)",
+  "description": "Uşak ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (692 kayıt.) (All neighbourhoods (mahalle) in Uşak province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 692,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "31 Ağustos Mah",
+      "district_name": "Banaz",
+      "postal_code": "64500",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ahat Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alaba Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Asfalt Mah (kaplangı Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Avgan Mah (yazıtepe Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ayrancı Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (derbent Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (hatıplar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (kızılhisar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bahadır Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Balcıdamı Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Baltalı Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Banaz Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Barış Mah (kızılcasöğüt Beldesi)",
+      "district_name": "Banaz",
+      "postal_code": "64520",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bağkonak Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Boduçdamı Mah (ulupınar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Corum Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Banaz",
+      "postal_code": "64500",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kızılcasöğüt Beldesi)",
+      "district_name": "Banaz",
+      "postal_code": "64520",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Danaoğlu Mah (kızılhisar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Depremevleri Mah (dümenler Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Depremevleri Mah (halaçlar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (bahadır Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (düzlüce Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah. (yeşilyurt Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dilek Mah",
+      "district_name": "Banaz",
+      "postal_code": "64500",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Düzkışla Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Düzlüce Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Emek Mah (kızılcasöğüt Beldesi)",
+      "district_name": "Banaz",
+      "postal_code": "64520",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fakıdamı Mah (ulupınar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gebekavak Mah (derbent Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gedikler Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güllüçam Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gürlek Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Halaçlar Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Halıyazı Mah (hatıplar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hamamboğazı Mah",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hanönü Mah (derbent Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hasanköy Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kaplangı Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karacahisar Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karaköse Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kavacık Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kayaardı Mah (gürlek Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kayılı Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kozviran Mah (büyükoturak Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kükürt Mah (kuşdemir Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küçükler Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küçükoturak Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kızılcaören Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (büyükoturak Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dümenler Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kuşdemir Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yazıtepe Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Muratlı Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mıstıkdamları Mah (kuşdemir Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Nohutova Mah (derbent Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (derbent Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ovacık Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Paşacık Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sarıyazı Mah (hatıplar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Susuz Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (gürlek Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yeşilyurt Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Mahalle (yazıtepe Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yenicami Mah (kızılhisar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah (kızılhisar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (derbent Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (hatıplar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kızılhisar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamlar Mah (kızılhisar Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamsu Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çöğürlü Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Öksüz Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İmrez Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İslam Mah",
+      "district_name": "Banaz",
+      "postal_code": "64500",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şaban Köyü",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Banaz",
+      "postal_code": "64500",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şirindere Mah (kaplangı Köyü)",
+      "district_name": "Banaz",
+      "postal_code": "64502",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Abacılar Mah (dereköy Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Abdil Çavuş Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Abdurrahmanlı Mah (saraycık Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ahmet Çavuşlar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akçaköy Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alahabalı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aliağalar Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aliağalar Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alibeyli Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alıçlı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Amcalar Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Araplar Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Armutlu Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Arzular Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Arıklı Mah (alahabalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aydoğanlar Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aydınlı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aydınlı Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ağabey Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (karabacaklı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşılık Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah (takmak Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Balabancı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bayerler Mah (armutlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bekir Damları Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bekişli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Beterler Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozlar Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozlar Merkez Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Caberler Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Camili Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cemal Mah (cemalçavuş Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cemalçavuş Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cevizli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Coşlu Mah (köseler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Eşme",
+      "postal_code": "64600",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dağdelen Mah (takmak Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Delibaşlı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (kocabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (manavlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Derebeyler Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dereli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dervişli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Devecioğlu Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Doğular Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dumanlar Mah (takmak Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Düdükçü Mah (kocabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Düzköy Mah (aydınlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dıyılılar Mah (dervişli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Efeler Mah (cemalçavuş Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ekerli Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Elma Gediği Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Elvanlar Mah",
+      "district_name": "Eşme",
+      "postal_code": "64600",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Emirli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eski Köy Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eşeli Mah (köseler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eşmetaş Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Faraşatlar Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Farsakdere Mah (delibaşlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fırtınalar Mah (delibaşlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gedik Tavukçuluk Mah (aydınlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gedikler Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gençler-1 Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gençler-2 Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gerali Mah (dereköy Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gökbel Mah (hamamdere Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gökçukur Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güllübağ Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güney Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güzel Ahmetler Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güzel Köy Mah (karacaömerli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Hüseyinli Mah (dervişli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Kırlar Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Yeşiller Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Yeşiller Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı İsmailler Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıbekirli Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıbekirli Mah (saraycık Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıbiller Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıkadirli Mah (kolankaya Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacımahmutlu Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacışerifli Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hakkı Hocalar Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Halillikler Mah (armutlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hamamdere Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hameli Mah (kocabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hardallı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Harmandalı Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hazırlar Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Helimli Mah (dervişli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hemitli Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hocalar Mah (karabacaklı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (yeleğen Beldesi)",
+      "district_name": "Eşme",
+      "postal_code": "64610",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hıdırlar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah (saraycık Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kandemirler Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kara Musalar Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kara İmamlar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karaahmetli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karacaömerli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Mah (güllü Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karamahmutlu Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah (katrancılar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Katrancılar Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kayadamları Mah (cemalçavuş Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kayalı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kazaklar Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Keklikli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Keleş Ali Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah",
+      "district_name": "Eşme",
+      "postal_code": "64600",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kestelli Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Koca Ahmetler Mah (dereköy Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kocahüseyinler Mah (alahabalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kolankaya Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Konak Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kozaklar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kuzyaka Mah (karaahmetli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kuşlular Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köprü Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köylüoğlu Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Mah (saraycık Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kıranköy Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kırlar Mah (narıncalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kıyalar Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Manavlı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Memili Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ahmetler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karabacaklı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Meryem Oğlu Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mestanlar Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mestanlar Mah (keklikli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mestanlı Mah (delibaşlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Molla Osmanlı Mah (dereköy Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Molla Süleymanlı Mah (dervişli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mollahalil Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Musalar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Musalar Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Müdürlü Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mıçıklı Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Narlı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Nazlı Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Neslihanlar Mah (armutlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Notular Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Orta Mahalle (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Osmanoğlu Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Oymalı Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Palalı Mah (alahabalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Piştavlı Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Poslu Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Recepler Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sandal Mah (ağabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Saraçlar Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sarıahmetli Mah (köseler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sarıhasan Mah (köylüoğlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sarılar Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sepetler Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sihirbazlı Mah (aydınlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Süleyman Hocalar Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Takmak Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tatlar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Taş Mah (güllü Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Taşdibi Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Taşköy Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Taşçılar Mah (manavlı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tepe Damları Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (kocabey Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tepeli Mah (köseler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tomlu Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Topallar/uzun Tarla Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Topuzlu Mah (köylüoğlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tozlutepe Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tülüler Mah (armutlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Uluyayla Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Uzunlu Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Velibeyler Mah (davutlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yahyalar Mah (dervişli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yaylaköy Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah (keklikli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Şehitli Mah (şehitli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (bozlar Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeşilkavak Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yörük Koç Mah (karabacaklı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yıldırımlar Mah (yeleğen Beldesi)",
+      "district_name": "Eşme",
+      "postal_code": "64610",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Zabdiyeli Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çabar Damı Mah (takmak Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çakırlar Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çatal Mah (hamamdere Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Mah (alahabalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Mah (köseler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çaykışla Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çobanlar Mah (kolankaya Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çolaklar Mah (saraycık Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çöneler Mah (poslu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çürükler Mah (eşmeli Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ömer Ağalar Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ömerler Mah (armutlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ünallı Mah (çaykışla Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Üçeylül Mah",
+      "district_name": "Eşme",
+      "postal_code": "64600",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İbrahim Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İlikli Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İsahocalar Mah (köylüoğlu Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İsalar Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Eşme",
+      "postal_code": "64600",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (ahmetler Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (güney Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (yeleğen Beldesi)",
+      "district_name": "Eşme",
+      "postal_code": "64610",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şalvarlı Mah (oymalı Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şehitalibey Mah",
+      "district_name": "Eşme",
+      "postal_code": "64600",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şehitli Köyü",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şerif Damları Mah (günyaka Köyü)",
+      "district_name": "Eşme",
+      "postal_code": "64602",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alfaklar Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Beki Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Boğaz Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Coğuplu Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Delihıdırlı Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (paşalar Köyü)",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Derincik Mah (coğuplu Köyü)",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dumanlı Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Duraklı Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karayakuplu Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karbasan Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kaykıllı Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Konak Osb Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Külköy Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kırkyaren Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Paşalar Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah (alfaklar Köyü)",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yedideğirmen Mah (duraklı Köyü)",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Karahallı",
+      "postal_code": "64700",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çokaklı Köyü",
+      "district_name": "Karahallı",
+      "postal_code": "64702",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Abdallar Mah (sorkun Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Abdiler Mah (karakuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Abdiller Mah (zahman Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ada Mah (eynihan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Adıyalar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akbıyıkoğlu Mah (çamyazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akkaya Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah (örencik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alibey Mah (koyunbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alicikler Mah (dışkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alicikler Mah (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alişanlar Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alişanlar Mah (sorkun Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Alişanlar Mah (yeniköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Altınbaşak Mah (koyunbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Altıntaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Arafat Mah (akbulak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Araplar Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ardıçtepe Mah (buğdaylı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aybey Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (mende Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (mesudiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Babacanlar Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Baldıran Mah (çatalbayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bağrı Açıklar Mah (akbulak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Baştarla Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Başyiğitler Mah (mende Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Belkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Beylerhan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Beylerhan Mah (beylerhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Boyalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozkurt Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozkuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozkuş Mah (bozkuş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bozlar Mah (karakuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Celangöz Mah (bozkuş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ciğerdede Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dağyenice Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dedeler Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Delihacılar Mah (ortabağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Demirören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (kayağıl Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (yavi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dikilitaş Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dikmenler Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dolayköy Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dumanlar Mah (yeniköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Durak Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Duraklar Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Durhoca Mah (taşkonak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dünek Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Efeler Mah (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Elifcikler Mah (sarıdere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Elmacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Elmalıdere Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eminoğlu Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ersöğüt Bağ Evleri Mah (dağdemirler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eseler Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eski Köy Mah (eğlence Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eskigüney Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eskisaray Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eskisaray Mah (eskisaray Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eynehan Köy Merkezi Mah (eynihan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eğridere Mah (eskisaray Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fakılı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gacarlar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gazahmet Deresi Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Geyikler Mah (çatalbayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gökdere Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gökçetepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Göl Mah (göğem Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Göçük Mah (eğlence Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Göçükler Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Göğem Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gücer Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gücer Mah (gücer Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güldezler Mah (bozköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Güneli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Aptiler Mah (akbulak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Hüseyinler Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Muslular Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı İmamlar Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Şerifler Mah (köprübaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıaliler Mah (yeniköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıbekirler Mah (sorkun Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıkadem Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah (zahman Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacıömerli Mah (ortabağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Halilefendiçiftliği Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hamam Mah (emirfakı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hasanlar Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hastallar Mah (yeniköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hediler Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hisar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hocalar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Horozcular Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hıdırlar Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Işık Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kabaklar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (sarıdere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kalfa Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kapancık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karabacaklar Mah (mrk Mah) (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karabol Mah (kayağıl Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karacahisar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karahasan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karahasanlar Mah (karakuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karaköse Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karatırnak Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karaçorlar Mah (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karaöksüzler Mah (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kargılar Mah (kısık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karlık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karma Osb Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (sirge Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kayağıl Mah (kayağıl Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kaygısız Damları Mah (çatalbayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kaşbelen Mah (mende Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kediyünü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kelbatmaz Mah (çatalbayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kemalöz Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kesik Mah (dağdemirler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kiremitciler  2 Mah (emirfakı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kiremitciler 1 Mah (emirfakı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kitapcılar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Koca Çukur Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kocadüz Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Koyunbeyli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kozburun Mah (boyalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kundaklar Mah (dışkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kurugedik Mah (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kurşunluk Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kuyucak Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kuzanlar Mah (taşkonak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kuşoğlanlar Mah (mende Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köme Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Körler Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Bağlı Evleri Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi  Mah ( Hacınasıflar Mah) (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi  Mah ( Sarılar  Mah) (köprübaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi  Mah (karaçayır Mah) (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (akbulak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (buğdaylı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (dağdemirler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (dışkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (emirfakı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (eğlence Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (imamlar Mah) (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (karabeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (karakuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (ortabağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (sarıdere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (sirge Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (taşkonak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (yavi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (çamyazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (çatalbayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (örencik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küplemezler Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küplemezler Mah (eynihan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küçük Derbent Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kılcan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kılcan Mah (kılcan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah (köprübaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kırhallar Mah (araplar Mah) (karakuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kırka Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kısık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mende Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (güre Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah.  Mah (nadara Mah) (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mermerdirek Mah (çatalbayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mezarderesi Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Muharremşah Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Musalar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Musluoğlu Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ormandamı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (çamyazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ortaburun Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ovademirler Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Payamlı Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Pırtılar Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ramazanlar Mah (karabeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sarayaltı Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sarmaşık Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sayalar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Selikler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Selviler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sorkun Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Susuzören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Süloderesi Mah (yenişehir Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sümenli Mah (dışkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tatlıpınar Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tavşanlar Mah (taşkonak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Taşavlu Mah (gökçedal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tekstil Osb Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tepe Damları Mah (eskisaray Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (dışkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tilkiler Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Topallar Mah (yeniköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tosbıyık Mah (paçacılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ulucak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ustalar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Uzun Çağıllı Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Velibeyler Mah (köprübaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Velikahyalar Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Vezirler Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yapağılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yapağılar Mah (yapağılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yaşamışlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hisar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah (yapağılar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeşil Karaağaç Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (ilyaslı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yibo Mah (yenişehir Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yol Kenarı Sanayi Mah (yenişehir Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yoncalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (mesudiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yeni Mah) (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Zahman Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Zepderesi Mah (mesudiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çakırlar Köy Merkezi Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çallılar Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çalıkhasan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çam Mah (derbent Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çam Mah (eynihan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çambırak Mah (karaköse Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamdibi Mah (çamyazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamyuva Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çangaloğlu Mah (ciğerdede Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çarık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çarık Mah (çarık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çay Kenarı Mah (ulucak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çerçidamları Mah (mollamusa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çevre Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çuhadarlar Mah (selvioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çukurağıl Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çınarcık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çınarcık Mah (çınarcık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çırganlar Bağ Evi Mah (dağdemirler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ömerli Mah (dışkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Örencik Termal Tesisleri Mah (örencik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Özdemir Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ülfetler Mah (üçkuyular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ünalan Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ürün Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ürün Mah (ürün Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İkisaray Mah",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İslice Mah",
+      "district_name": "Merkez",
+      "postal_code": "64200",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (demirören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (ilyaslı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şekerli Mah (dağdemirler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şükraniye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Şıhhasan Mah (çamyuva Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "64050",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akarca Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aktepe Mah (azizler Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Mah",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Mah (ağaçbeyli Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (ağaçbeyli Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (tatar Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64820",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (yayalar Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bahçesaray Mah (erice Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Budaklar Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Cinoğlan Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dedeballar Mah (tatar Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64820",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eldeniz Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Eroğlu Mah (ketenlik Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Evrenli Mah",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (pınarbaşı Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64830",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah (tatar Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64820",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gazelle Mah (özbeyli Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gölbahçe Mah",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gülbey Mah (selçikler Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64840",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (yayalar Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gürsel Mah (ağaçbeyli Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacim Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Horzumlar Mah (ketenlik Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (ketenlik Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kaylan Mah (sazak Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Sivaslı",
+      "postal_code": "64800",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kökez Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kömürcü Mah (ketenlik Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (azizler Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (erice Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hanoğlu Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karaboyalık Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ketenlik Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sazak Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yenierice Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Mestan Tepesi Mah (özbeyli Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Oklu Dere Mah (özbeyli Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah (pınarbaşı Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64830",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Pınarcı Mah (hanoğlu Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Salmanlar Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Samatlar Köyü",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sindelli Mah (azizler Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tekeli Mah (ketenlik Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Tülüce Mah (hanoğlu Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yeni Yerleşim Alanı Mah (yenierice Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yıldıztepe Mah (selçikler Beldesi)",
+      "district_name": "Sivaslı",
+      "postal_code": "64840",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çubuk Mah (karaboyalık Köyü)",
+      "district_name": "Sivaslı",
+      "postal_code": "64802",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Akkeçili Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aksaz Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aksaz Mah (aksaz Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (hasköy Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Avgan Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64900",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Bekdemir Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Büyükkayalı Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64900",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Deredam Mah (inay Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dilaver Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64900",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dutluca Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Dört Değirmen Mah (sülümenli Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Emirler Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64900",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gedikler Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64900",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Gümüşkol Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hacı Hasanlar Mah (gedikler Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Hanyeri Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Karacaahmet Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kurudere Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Külçen Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küçükilyaslı Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Küçükkayalı Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Kıran Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merdivenli Mah (inay Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kışla Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (omurca Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sevindikler Mah (köseler Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Sülümenli Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (ishaklar Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamdere Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamiçi Mah (kurudere Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çamlıbel Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çardak Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Çırpıcılar Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Ören Mah (söğütlü Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "Üyükbaşı Mah",
+      "district_name": "Ulubey",
+      "postal_code": "64900",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İnay Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İshaklar Köyü",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İsmet Paşa Mah (hasköy Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (inay Köyü)",
+      "district_name": "Ulubey",
+      "postal_code": "64902",
+      "city_code": "64",
+      "city_name": "Uşak"
+    }
+  ],
+  "meta": {
+    "title": "Uşak Mahalleleri (Uşak Neighbourhoods) - Ücretsiz İndir",
+    "description": "Uşak ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (692 kayıt.) (All neighbourhoods (mahalle) in Uşak province with their parent district and postal code.) İçerik 692 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Uşak Mahalleleri (Uşak Neighbourhoods) | ListBase",
+    "seo_description": "İndir Uşak Mahalleleri (Uşak Neighbourhoods) — 692 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 692 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

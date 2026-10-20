@@ -1,0 +1,3005 @@
+{
+  "id": "tr-karaman-neighbourhoods",
+  "name": "Karaman Mahalleleri (Karaman Neighbourhoods)",
+  "title": "Karaman Mahalleleri (Karaman Neighbourhoods)",
+  "description": "Karaman ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (422 kayıt.) (All neighbourhoods (mahalle) in Karaman province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 422,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akoluk Mah (berendi Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ambar Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Andıkara Mah (akpınar Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ağızboğaz Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kıramanoğlu Mah (berendi Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Başçayır Mah (kavaközü Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Berendi Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Böğecik Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Büyükkoraş Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dede Mah",
+      "district_name": "Ayrancı",
+      "postal_code": "70500",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Divle Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dokuzyol Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Elfetin Mah (kavaközü Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Güneydağı Mah (divle Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hüyükburun Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kavaközü Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kavuklar Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kayaönü Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Keşir Mah (berendi Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Küçükkoraş Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kıraman Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kıramanoğlu Mah (berendi Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Melikli Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Musa Mah",
+      "district_name": "Ayrancı",
+      "postal_code": "70500",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pınarkaya Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sarayköy Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Mah (berendi Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Savran Mah (böğecik Köyü)",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ulu Mah",
+      "district_name": "Ayrancı",
+      "postal_code": "70500",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yarıkkuyu Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Ayrancı",
+      "postal_code": "70500",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çatköy Köyü",
+      "district_name": "Ayrancı",
+      "postal_code": "70502",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Başköy Mah",
+      "district_name": "Başyayla",
+      "postal_code": "70700",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bozyaka Köyü",
+      "district_name": "Başyayla",
+      "postal_code": "70702",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Büyükkarapınar Köyü",
+      "district_name": "Başyayla",
+      "postal_code": "70702",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah",
+      "district_name": "Başyayla",
+      "postal_code": "70700",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kirazlıyayla Mah",
+      "district_name": "Başyayla",
+      "postal_code": "70700",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kışlaköy Köyü",
+      "district_name": "Başyayla",
+      "postal_code": "70702",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah (üzümlü Köyü)",
+      "district_name": "Başyayla",
+      "postal_code": "70702",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (kışlaköy Köyü)",
+      "district_name": "Başyayla",
+      "postal_code": "70702",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Başyayla",
+      "postal_code": "70700",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Köyü",
+      "district_name": "Başyayla",
+      "postal_code": "70702",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Şirindere Mah",
+      "district_name": "Başyayla",
+      "postal_code": "70700",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Akcamescit Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aralık Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Avcılar Mah (evsin Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ağaççatı Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sarıvadi Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağıçağlar Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Balkusan Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Başpınar Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Belen Mah (gökceseki Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Belen Mah (yalındal Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Beliçekkoz Mah (ikizçınar Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Boyalık Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bozyaka Mah (elmayurdu Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bucak Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah (ardıçkaya Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Değirmenlik Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Eskice Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Evsin Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Göbette Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gökceler Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gökceseki Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gökçekent Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Güllük Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gülpazar Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Güneri Mah (yalındal Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (aşağıçağlar Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Habib Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Harmanbağı Mah (aşağıçağlar Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hatilla Mah (elmayurdu Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Havuz Merkez Mah (ikizçınar Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karalar Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Katranlı Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kayaönü Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kebendibi Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Keçipazar Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Keşillik Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kumyaka Mah (elmayurdu Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (kayaönü Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Köyyakası Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kızılalan Mah (gökceseki Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kışlacık Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mezarlıalan Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Nisa Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Oda Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Olukpınar Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pamuklu Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pınargözü Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pınarönü Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sandıklı Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Seyran Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Susaklı Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Taşbaşı Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Taştekne Mah (tepebaşı Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tepebaşı Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Türbeseki Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Uluköy Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yaylapazarı Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah (güneyyurt Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70450",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yerbağ Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yolçatı Mah (elmayurdu Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (sarıvadi Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarıçağlar Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çarıklı Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çatalarmut Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çatalbadem Mah (kazancı Beldesi)",
+      "district_name": "Ermenek",
+      "postal_code": "70460",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çavuş Köyü",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çayırlıalan Mah (görmeli Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çınarlısu Mah",
+      "district_name": "Ermenek",
+      "postal_code": "70400",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ülüğer Mah (pamuklu Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İğdeyakası Mah (yalındal Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Şahinler Mah (yerbağ Köyü)",
+      "district_name": "Ermenek",
+      "postal_code": "70402",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Akarköy Köyü",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70602",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Boyacı Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Eminettin Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Emsalhayat Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karalgazi Köyü",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70602",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kızılkuyu Köyü",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70602",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Köyü",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70602",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Oba Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sinci Köyü",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70602",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Timsal Mah",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70600",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Özyurt Köyü",
+      "district_name": "Kazımkarabekir",
+      "postal_code": "70602",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Abbas Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ada Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Adaysız Mah (cerit Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ahiosman Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ahmet Yesevi Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Akçaalan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Alacasuluk Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Alaçatı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aliağa Mah (taşkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Alişahane Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Araköy Mah (cerit Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Arnavut Mah (kozlubucak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (akçaşehir Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (kisecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (kılbasan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (taşkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aybastı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ağaçlı Mah (erenkavak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ağaçyurdu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ağılönü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (ihsaniye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (paşabağı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağı Yayla Mah (ortaoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağıakın Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Aşağıkızılca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bademli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "70140",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (pınarbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (sudurağı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70140",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Barutkavuran Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bayır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bağdat Mah (akçaalan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bağlıbük Mah (elmadağı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bağlık Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Başakşehir Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Başkışla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Belvaryolu Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Beyazkent Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Beydili Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bostanözü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Boyacı Mah (kılbasan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Boyalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bozkandak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bucakkışla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Bölükyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah (yollarbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cedit Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "70140",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kisecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (sudurağı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70140",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (süleymanhacı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Damlapınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dağkonak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Demiryurt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Denircik Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Develi Mah (elmadağı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Değirmenbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dinek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Duma Mah (morcalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Düz Mah (kameni Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Elmaşehir Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Eminler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (çakırbağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Eskiköy Mah (aybastı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Eğilmez Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (akçaşehir Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Fenari Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah (akçaşehir Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gazidükkan Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gevher Hatun Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gökçe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gökçepınar Mah (bayır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Göztepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Göçer Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Güldere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gülkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gümüşkuyu Mah (özdemir Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Güçler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Habacı Mah (çukurbağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hacı İlyas Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hacı İlyas Mah (yollarbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hacıbayram Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hacıcelal Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Harman Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hinsar Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (akçaşehir Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70110",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kalaba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kameni Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karamanoğlu Mehmet Bey Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karamanoğlu Mehmet Bey Mah (kılbasan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kasım Mescit Mah (taşkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Mah (göçer Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kayaönü Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kaynar Mah (lale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kaşoba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kaşıkçı Mah (cerit Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ketenci Mah (sudurağı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "70140",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kirişçi Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kovalıöz Mah (değirmenbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kozlubucak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Koçakdede Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kumoba Mah (çoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kurtderesi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kurucabel Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Külhan Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kır Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kırbağı Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kızık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kızıllarağını Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kızılyaka Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Lale Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Larende Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Madenşehri Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mansurdede Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Maşat Mah (cerit Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Medreselik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (burunoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (cerit Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ekinözü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (elmadağı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (erenkavak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ortaoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (üçkuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mesudiye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Morcalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Muratdede Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Musalla Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mümine Hatun Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Narlıdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Nefise Sultan Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Nunu Mah (çatak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayii Bölgesi Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ortacami Mah (taşkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Otuk Yayla Mah (kalaba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pamukdere Mah (göçer Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Paşabağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pelitli Mah (özdemir Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Perenti Mah (ekinözü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pirireis Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Rauf Denktaş Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sakabaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Salur Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sarnıç Mah (göçer Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sazlıyaka Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sekiçeşme Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Seyithasan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Siyahser Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sorgun Mah (yılangömü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Süleymanhacı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tabanlı Mah (aybastı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tabduk Emre Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tahsin Ünal Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tarlaören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tavşanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Taşmescit Mah (taşkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Topalhacı Ciftliği Mah (ihsaniye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Topucak Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Tutlutepe Mah (çavuşpınarı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Mah (kisecik Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Urgan Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Uzunkuyu Mah (kameni Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Uzunkuyu Mah (çoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Valide Sultan Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yassı Tepe Mah (üçkuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yayladede Mah (başkışla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yazılı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yedipınar Mah (dere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yemişli Mah (aybastı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yeşilada Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Toki Yunus Emre Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (ihsaniye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarı Yayla Mah (ortaoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarıakın Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yukarıkızılca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yunus Mah (dere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yunuskent Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yuvatepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yörükler Mah (başkışla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yılangömü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Zembilli Ali Efendi Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Zengen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ziya Gökalp Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çakırbağ Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çakırdağ Mah (burunoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah (kılbasan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çatak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çavuşpınarı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çeltek Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çimen Mah (narlıdere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çimenkuyu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çiğdemli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çukur Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çıkmaz Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Özalan Mah (lale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Özdemir Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Üniversite Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mah (aybastı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Üçbaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İbrahim Fakı Mah (yollarbaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İbrahim Hakkı Konyalı Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İmamlar Mah (kılbasan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İmamoğlu Mah (kılbasan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İmaret Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İslihisar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (burhan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (demiryurt Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Şahinbükü Mah (çatak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Şeyh Edebali Mah",
+      "district_name": "Merkez",
+      "postal_code": "70200",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Şeyh Şamil Mah",
+      "district_name": "Merkez",
+      "postal_code": "70100",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Şeyhler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "70202",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Adiller Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Baş Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Boyunağıl Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Civandere Köyü",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Civler Köyü",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Daran Köyü",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dikenli Mah (dumlugöze Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Dumlugöze Köyü",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gezirail Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah (koçaşlı Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Gülpazar Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Günder Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Hesbek Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Işıklı Köyü",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kale Döşeği Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Küçük Karapınar Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Manastır Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Mençek Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (koçaşlı Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Nacı Ali Yurdu Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pireli/aşakbel Mah (dumlugöze Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Pireli/aşakbel-geven-dikenli-ormanlı-çukur-çetincy Mah (dumlugöze Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Sıtma Pınarı Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Turcalar Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Ulucami Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Köyü",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (koçaşlı Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yaylalar Mah (daran Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Yıldız Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çakıllar Mah",
+      "district_name": "Sarıveliler",
+      "postal_code": "70800",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çetince Önü Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çevlik Başı Mah (uğurlu Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Mah (göktepe Beldesi)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70810",
+      "city_code": "70",
+      "city_name": "Karaman"
+    },
+    {
+      "neighbourhood_name": "Çulhalar-kızılçukur-aşağı Süvari-yukarı-sivarı-ala Mah (dumlugöze Köyü)",
+      "district_name": "Sarıveliler",
+      "postal_code": "70802",
+      "city_code": "70",
+      "city_name": "Karaman"
+    }
+  ],
+  "meta": {
+    "title": "Karaman Mahalleleri (Karaman Neighbourhoods) - Ücretsiz İndir",
+    "description": "Karaman ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (422 kayıt.) (All neighbourhoods (mahalle) in Karaman province with their parent district and postal code.) İçerik 422 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Karaman Mahalleleri (Karaman Neighbourhoods) | ListBase",
+    "seo_description": "İndir Karaman Mahalleleri (Karaman Neighbourhoods) — 422 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 422 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

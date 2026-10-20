@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "Yaygın Entegrasyon Formülleri Veri Kümesi",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Temel",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "Sabit kuralı"
+    },
+    {
+      "category": "Temel",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "Kuvvet kuralı"
+    },
+    {
+      "category": "Temel",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "Doğal logaritma"
+    },
+    {
+      "category": "Temel",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "Üstel fonksiyon"
+    },
+    {
+      "category": "Temel",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Genel üstel"
+    },
+    {
+      "category": "Temel",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "Karekök formu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "Sinüs fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "Kosinüs fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Tanjant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Kotanjant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Sekant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Kosekant fonksiyonu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Sekant kare"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Kosekant kare"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Çarpım formu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Çarpım formu"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Yarım açı özdeşliği"
+    },
+    {
+      "category": "Trigonometrik",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Yarım açı özdeşliği"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Arksinüs formu"
+    },
+    {
+      "category": "Ters Trigonometrik",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Arkkosinüs formu"
+    },
+    {
+      "category": "Ters Trigonometri",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "Ark tanjant formu"
+    },
+    {
+      "category": "Ters Trigonometri",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "Ark kotanjant formu"
+    },
+    {
+      "category": "Ters Trigonometri",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Ark sekant formu"
+    },
+    {
+      "category": "Ters Trigonometri",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Ark kosekant formu"
+    },
+    {
+      "category": "Ters Trigonometri",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Genel ark sinüs"
+    },
+    {
+      "category": "Ters Trigonometri",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "Genel ark tanjant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "Hiperbolik sinüs"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "Hiperbolik kosinüs"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "Hiperbolik tanjant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Hiperbolik kotanjant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "Hiperbolik sekant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Hiperbolik kosekant"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "Hiperbolik sekant kare"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "Hiperbolik kosekant kare"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "Kısmi integrasyon"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "Genel logaritma"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "İç içe logaritma"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "Kısmi kesirler"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "Kısmi kesirler"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Hiperbolik yerine koyma"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Hiperbolik yerine koyma"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Trigonometrik yerine koyma"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "Trigonometrik yerine koyma"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Hiperbolik yerine koyma"
+    },
+    {
+      "category": "Rasyonel",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Hiperbolik yerine koyma"
+    },
+    {
+      "category": "Özel",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "İki kez kısmi integrasyon"
+    },
+    {
+      "category": "Özel",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "İki kez kısmi integrasyon"
+    },
+    {
+      "category": "Özel",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "Kısmi integrasyon"
+    },
+    {
+      "category": "Özel",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "Kısmi integrasyon"
+    },
+    {
+      "category": "Özel",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "Kısmi integrasyon"
+    },
+    {
+      "category": "Özel",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "İki kez kısmi integrasyon"
+    },
+    {
+      "category": "Özel",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "Kısmi integrasyon"
+    },
+    {
+      "category": "Belirli",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "Gauss integrali"
+    },
+    {
+      "category": "Belirli",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "Gama fonksiyonu ilişkisi"
+    },
+    {
+      "category": "Belirli",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "İndirgeme formülü"
+    },
+    {
+      "category": "Belirli",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "Beta fonksiyonu ilişkisi"
+    }
+  ],
+  "meta": {
+    "seo_title": "Yaygın Entegrasyon Formülleri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Temel, trigonometrik ve üstel fonksiyonları kapsayan 56 yaygın entegrasyon formülünü indirin. Matematik öğrencileri ve profesyonelleri için Excel, CSV ve PDF formatında ücretsizdir.",
+    "title": "Yaygın Entegrasyon Formülleri Veri Kümesi",
+    "description": "Bu veri kümesi, fonksiyonları, integrallerini, koşullarını ve notlarını detaylandıran 56 yaygın entegrasyon formülünün kapsamlı bir listesini sunar. Matematik öğrencileri, eğitimcileri ve profesyonelleri için idealdir.",
+    "key_takeaways": [
+      "Kalkülüs için 56 temel entegrasyon formülüne erişin.",
+      "Temel, trigonometrik ve üstel fonksiyonlar gibi kategorileri keşfedin.",
+      "Koşulları ve notlarıyla birlikte kullanıma hazır formülleri indirin.",
+      "Eğitimsel veya profesyonel kullanım için doğru integral tanımlarından yararlanın."
+    ],
+    "keywords": [
+      "entegrasyon formülleri excel",
+      "kalkülüs integralleri csv",
+      "matematik formül sayfası pdf",
+      "yaygın integral kuralları",
+      "belirsiz integral tablosu",
+      "kalkülüs verisi indir"
+    ],
+    "use_cases": [
+      "Özel kalkülüs çözücüler veya eğitim araçları oluşturmak için **CSV** dosyasını Python betiğinize veya SQL veritabanınıza aktarın.",
+      "Formülleri kategoriye göre filtrelemek, çalışma kılavuzları oluşturmak veya karmaşık problemler için hesaplamaları doğrulamak için **Excel** dosyasını kullanın.",
+      "Sınıflarda, sınavlar sırasında veya çevrimdışı çalışma seansları için hızlı bir referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "İntegral kalkülüs öğrenen öğrenciler için yapılandırılmış bir kaynak sağlamak üzere bu veri kümesini e-öğrenme platformlarına entegre edin."
+    ]
+  },
+  "record_count": 56,
+  "title": "Yaygın Entegrasyon Formülleri Veri Kümesi"
+}

@@ -1,0 +1,6421 @@
+{
+  "id": "tr-canakkale-neighbourhoods",
+  "name": "Çanakkale Mahalleleri (Çanakkale Neighbourhoods)",
+  "title": "Çanakkale Mahalleleri (Çanakkale Neighbourhoods)",
+  "description": "Çanakkale ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (910 kayıt.) (All neighbourhoods (mahalle) in Çanakkale province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 910,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Acıgöl Mah (büyükhusun Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Acıgöl Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adatepe Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adatepebaşı Değirmendere Mah (adatepe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adatepebaşı Mah (adatepe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adatepebaşı Palamutluk Mah (adatepe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adatepebaşı Çamtepe Mah (adatepe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Agora Mah (yeşilyurt Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetler Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetçe Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetçe Mah (ahmetçe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetçe Sahil Yolu Mah (ahmetçe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akdede Mah (bademli Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akliman Mah (babakale Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçin Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Arıklı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (gülpınar Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ayvacık Alanı Mah (uzunalan Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağı Oba Mah (yukarıköy Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağı Tartışık Mah (tartışık Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Babadere Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Babakale Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bademli Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Baharlar Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bahçedere Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Balabanlı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Başbahçe Mah (bademli Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Başdeğirmen Şelale Mah (adatepe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Behram Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bektaş Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beyalanı Mah (keçikaya Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bilaller Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah (bahçedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Budaklar Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büngüldek Mah (akçin Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büyükhusun Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cemaller Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cevizliburun Mah (bahçedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Demirci Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dereoba Mah (baharlar Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dereoba Mah (küçükçetmi Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dibekli Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğruçardak Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Erecek Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Ayvacık",
+      "postal_code": "17860",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gökçetepe Mah (küçükkuyu Beldesi)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güzelköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hamdibey Mah",
+      "district_name": "Ayvacık",
+      "postal_code": "17860",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Harapiçi Mah (kuruoba Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hasanobası Mah (nusratlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hüseyinfakı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah (küçükçetmi Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ilıcak Mah (bademli Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kadırga Mevkii Mah (behram Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaayıt Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karabaşınoba Mah (pınardere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaburun Mah (yukarıköy Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karadiken Mah (bademli Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karayolları Dinlenme Mah (yeşilyurt Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karbastı Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karşıoba Mah (pınardere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayaköy Kooperatifi Mah (sazlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayalar Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayalar Mah (kayalar Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayalar Sahil Yolu Mah (kayalar Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayanlar Mah (söğütlü Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaşkaya Mah (çamkalabak Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Keleşinoba Mah (pınardere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kestanelik Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Keçikaya Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocaköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Korubaşı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Koyunevi Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kozlu Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kulfal Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kuruoba Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kuşkonmaz Mah (büyükhusun Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kökyeri Mah (keçikaya Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küplü Yaylaları Mah (sazlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küpyanı Mah (nusratlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçük Kestanelik Mah (kestanelik Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçükhusun Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçükçetmi Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kıran Üstü Mah (balabanlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kırca Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kısacık Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kıztaşı Mah (nusratlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızılkeçili Mah (gülpınar Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Merkez 1 Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Merkez 2 Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Misvak Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mıhlı Mah (küçükkuyu Beldesi)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Naldöken Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Namazgah Mah (büyükhusun Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Nusratlı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Altı Mah (paşaköy Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Mah (paşaköy Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pınaraltı Mah (adatepe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pınardere Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah (kocaköy Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah (kozlu Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah (küçükkuyu Beldesi)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sapanca Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarnıçaltı Mah (balabanlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah (büyükhusun Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazlı Altı Mah (sazlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazlı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sivrice Mah (bahçedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sivrice Mah (bektaş Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sokakağzı Mah (koyunevi Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Süleymanköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tabaklar Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tamış Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taşağıl Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taşboğaz Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tuzla Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tuztaşı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Uzunalan Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah (arıklı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah (büyükhusun Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalı Mevkii Mah (ahmetçe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalıpara Mah (bademli Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Akpınar Mevkii Mah (ahmetçe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (söğütlü Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yenioba Mah (tuztaşı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniçam Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilliman Mah (korubaşı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarı Tartışık Mah (tartışık Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yörükler Evi Mah (balabanlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah (bademli Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakmaklar Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çaltepe Mah (ahmetçe Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çaltı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamiçi Mah (çamkalabak Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamkalabak Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah (sapanca Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamoba Mah (kösedere Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamtepe Mah (çamkalabak Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çardakbayırı Mah (kocaköy Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çayiçi Mah (söğütlü Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çetmibaşı Mah (küçükçetmi Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çetmibaşı-telligıran Mah (küçükçetmi Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çetmibaşı-çamegrek Mah (küçükçetmi Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17980",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarpınar Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ümmühan Mah",
+      "district_name": "Ayvacık",
+      "postal_code": "17860",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İlyasfakı Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İnönü Yaylası Mah (sazlı Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İskele Mevkii Mah (behram Köyü)",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şapköy Köyü",
+      "district_name": "Ayvacık",
+      "postal_code": "17862",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetçeli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alakeçi Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alikabaklar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Asmalı Mah (doğancı Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ayazma Yolu Üzeri Mah (evciler Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ağaçköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (evciler Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağışapcı Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağışevik Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bekirler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bezirganlar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beşik Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bıyıklı Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Camicedit Mah",
+      "district_name": "Bayramiç",
+      "postal_code": "17700",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Bayramiç",
+      "postal_code": "17700",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cazgirler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Daloba Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dağahmetçe Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dağoba Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dombaylar Mah (alakeçi Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğancı Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gedik Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gökçeiçi Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güvemcik Mah (örenli Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güzeltepe Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıbekirler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıdervişler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Işıkeli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah (pıtıreli Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaibrahimler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karıncalık Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karşıoba Mah (çalıdağı Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaykılar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Korucak Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Koşuburnutürkmenleri Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurşunlu Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kutluoba Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kuşçayır Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köseler Mah (çalıdağı Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köylü Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Külcüler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Macır Mah (türkmenli Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah",
+      "district_name": "Bayramiç",
+      "postal_code": "17700",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çalıdağı Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mescit Mah (türkmenli Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mollahasanlar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Muratlar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Nebiler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Nizam Mah (türkmenli Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Palamutoba Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pıtıreli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıdüz Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıot Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Saçaklı Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Serhat Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Söğütgediği Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah",
+      "district_name": "Bayramiç",
+      "postal_code": "17700",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah (muratlar Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Toluklar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tongurlu Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tülüler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Türkmenli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tütüler Mah (nebiler Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yahşieli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yanıklar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yassıbağ Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniceköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (muratlar Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yiğitaliler Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (evciler Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıpalamut Mah (palamutoba Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarışapçı Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarışevik Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Zerdalilik Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Zeytinli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çaltılık Mah (evciler Köyü)",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çalıobaakçakıl Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çatalçam Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çırpılar Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17720",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Örenli Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17722",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üçyol Köyü",
+      "district_name": "Bayramiç",
+      "postal_code": "17721",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Abdiağa Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adliye Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahatoba Mah (sarnıç Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetler Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akkayrak Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akköprü Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aksaz Mah (aksaz Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akyaprak Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ambaroba Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Arabaalan Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Arabakonağı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ayıtdere Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aziziye Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ağaköy  Mah (ağaköy Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ağaköy Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sinekçi Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıdemirci Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bakacak Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bakacaklıçiftliği Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Balıklıçeşme Merkez Mah (balıklıçeşme Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bekirli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bezirganlar Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bozlar Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Camialan Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cihadiye Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (gümüşçay Beldesi)",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Danişment Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (değirmencik Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Değirmencik Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dikmen Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğancı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ece Mah (yeniçiftlik Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Elmalı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Emirorman Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eskibalıklı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eybekli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eğridere Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gazikemal Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gemicikırı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Geredelli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gerlengeç Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Geyikkırı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Göktepe Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gökçesu Mah (sarnıç Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güleç Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gürgendere Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gürçeşme Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güvem Mah (güvemalan Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güvemalan Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıhüseyinyaylası Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıköy Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıpehlivan Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hamdibey Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Harmanlı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Havdan Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hisarlı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hoşoba Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ilıcabaşı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Işıkeli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kahvetepe Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaldırımbaşı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kanibey Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kapanbelen Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karacaali Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karahamzalar Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karapürçek Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Katrancı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kazmalı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kazıklı Mah (sarnıç Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaşıkçıoba Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemer Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kepekli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocagür Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Koruoba Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kumkent Mah (bozlar Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (idriskoru Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçükköy Mah (idriskoru Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kalafat Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kozçeşme Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah (balıklıçeşme Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Otlukdere Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ovacık Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Paşaçayı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pekmezli Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ramazanlar Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıca Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarısıvat Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Savaştepe Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazkent Mah (gerlengeç Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazoba Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Selvi Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sinekçi Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sülünoba Mah (sarnıç Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sığırcık Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tokatkırı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Turan Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Türkbakacak Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ulucamii Mah (karabiga Beldesi)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Uzundere Mah (kemer Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah (karabiga Beldesi)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yanıç Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Eşelek Mah (bezirganlar Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniceköy Mah",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yolindi Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıdemirci Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Zeytinlik Mah (karabiga Beldesi)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakırlı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Mah",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çelikgürü Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çeltik Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çeşmealtı Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çömlekçi Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınardere Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarköprü Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Tarla Mevkii Mah (çakırlı Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Örtülüce Köyü",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İlyasalan Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İskender Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İğdelik Mah (gümüşçay Beldesi)",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şahmelek Mah (aksaz Köyü)",
+      "district_name": "Biga",
+      "postal_code": "17950",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şakirbey Köyü",
+      "district_name": "Biga",
+      "postal_code": "17202",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şirinköy Köyü",
+      "district_name": "Biga",
+      "postal_code": "17300",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şirintepe Mah",
+      "district_name": "Biga",
+      "postal_code": "17200",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alaybey Mah",
+      "district_name": "Bozcaada",
+      "postal_code": "17680",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Bozcaada",
+      "postal_code": "17680",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahıldere Altı Mah (yalova Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alçıtepe Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Azmak Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Başçeşme Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Behramlı Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beşyol Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bigalı Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Boyacıburnu Yalılar Mah (yalova Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büyükanafarta Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Eceabat",
+      "postal_code": "17900",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocadere Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kumköy Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçükanafarta Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kilidülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Morto Koyu Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Seddülbahir Duası Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Seddülbahir Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalova Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yolağzı Köyü",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Zığındere Mah (seddülbahir Köyü)",
+      "district_name": "Eceabat",
+      "postal_code": "17902",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Eceabat",
+      "postal_code": "17900",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahlatlı Mah (köprübaşı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçakeçili Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçakeçili Mah (akçakeçili Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aladağ Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alemşah Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alemşah Mah (alemşah Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Araplar Boğazı Mah (derbentbaşı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Arasanlı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (mahmudiye Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Balıklı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Balıklı Mah (balıklı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Belen Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beşike Eserevler Sitesi Mah (kumburun Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bozalan Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bozeli Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bozköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Ezine",
+      "postal_code": "17600",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Ezine",
+      "postal_code": "17600",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (geyikli Beldesi)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Danişment Mah",
+      "district_name": "Ezine",
+      "postal_code": "17600",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Derbentbaşı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Ezine",
+      "postal_code": "17600",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gökçebayır Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacı Eyüpler Mah (karagömlek Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacı Garipler Mah (karagömlek Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacı Hüseyinler Mah (yenioba Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hisaralan Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (geyikli Beldesi)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (mahmudiye Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kanarya Sırtı Mah (derbentbaşı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karadağ Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayacık Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayalı Mah (çarıksız Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemallı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemallı Mah (kemallı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kestanbol Kaplıcası Mah (körüktaşı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kiremitoba Mah (aladağ Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kozova Mah (köprübaşı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kumburun Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Körüktaşı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (dalyan Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızılköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızıltepe Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (karagömlek Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pazarköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarpdere Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarısöğüt Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Seferşah Mah",
+      "district_name": "Ezine",
+      "postal_code": "17600",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tavaklı Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tavaklı İskelesi Mah (tavaklı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taş Oba Mah (derbentbaşı Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taşkapı Çamlık Mah (kumburun Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taştepe Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Uluköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Uluköy Mah (uluköy Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yahyaçavuş Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yavaşlar Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yenioba Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamoba Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çarıksız Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çetmi Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üsküfçü Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üvecik Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İnlimanı Mah (kumburun Köyü)",
+      "district_name": "Ezine",
+      "postal_code": "17610",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şapköy Köyü",
+      "district_name": "Ezine",
+      "postal_code": "17602",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Adilhan Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alaeddin Mah",
+      "district_name": "Gelibolu",
+      "postal_code": "17500",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Armutdere Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Armutdere1 Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atıfbey Çiftliği Mah (güneyli Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bayramiç Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bayırköy Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bağlardere Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bostanlık Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Burhanlı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Burhanlı Mah (burhanlı Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büyük Mithatlar Mah (koruköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Camiikebir Mah",
+      "district_name": "Gelibolu",
+      "postal_code": "17500",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Camiikebir Mah (bolayır Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cevizli Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah (cevizli Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumalı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kavakköy Beldesi)",
+      "district_name": "Gelibolu",
+      "postal_code": "17340",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Damlar Mah (burhanlı Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Demirtepe Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Demirtepe Mah (demirtepe Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Değirmendüzü Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğa Mah (burhanlı Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğan Arslan Mah (demirtepe Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğanarslan1 Mah (demirtepe Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğanarslan2 Mah (demirtepe Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğanarslan3 Mah (demirtepe Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Fevziçakmak Mah (bolayır Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gazi Süleyman Paşa Mah",
+      "district_name": "Gelibolu",
+      "postal_code": "17500",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gazisüleymanpaşa Mah (bolayır Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güneyli Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hamamaltı Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hoca Hamza Mah",
+      "district_name": "Gelibolu",
+      "postal_code": "17500",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (kavakköy Beldesi)",
+      "district_name": "Gelibolu",
+      "postal_code": "17340",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ilgardere Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ilgardere Mucavir Mah (ılgardere Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kalealtı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karainebeyli Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayrandere Mah (koruköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Keşanoğlu Mah (evreşe Beldesi)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocaçeşme Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Koruköy Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurtlukuyu Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurtlukuyu1 Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurtlukuyu2 Mah (adilhan Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçük  Mithatlar Mah (koruköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mutatlar Mah (koruköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ocaklı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ocaklı Mah (ocaklı Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ova Mah (ılgardere Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pazarlı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pazarlı Mah (pazarlı Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Salavurtepe Mah (koruköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Mah (sütlüce Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tayfurköy Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yazıcızade Mah",
+      "district_name": "Gelibolu",
+      "postal_code": "17500",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (evreşe Beldesi)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (yeniköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yülüce Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çeşme Mah (evreşe Beldesi)",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çiftlikaltı Mah (koruköy Köyü)",
+      "district_name": "Gelibolu",
+      "postal_code": "17502",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çokal Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şadıllı Köyü",
+      "district_name": "Gelibolu",
+      "postal_code": "17360",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bademli Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Gökçeada",
+      "postal_code": "17760",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eşelek Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Gökçeada",
+      "postal_code": "17760",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kuzulimanı Mah",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Gökçeada",
+      "postal_code": "17760",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yenibademli Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Zeytinliköy Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Mah",
+      "district_name": "Gökçeada",
+      "postal_code": "17760",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şahinkaya Mah (dereköy Köyü)",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şirinköy Köyü",
+      "district_name": "Gökçeada",
+      "postal_code": "17762",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçaalan Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alpagut Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Balcılar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beybaş Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beypınar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Beyçayırı Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bozkent Mah (şevketiye Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büberler Mah (hacıgelen Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Lapseki",
+      "postal_code": "17800",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dalyan Mah",
+      "district_name": "Lapseki",
+      "postal_code": "17800",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Demirli Sahil Sitesi Mah (suluca Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dişbudak Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğandere Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dumanlı Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eskikışla Mah (akçaalan Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eçialan Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gazi Süleyman Paşa Mah",
+      "district_name": "Lapseki",
+      "postal_code": "17800",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gaziyakupbey Mah (çardak Beldesi)",
+      "district_name": "Lapseki",
+      "postal_code": "17810",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gökköy Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güreci Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gürecialtı Mah (güreci Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıgelen Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacılar Obası Mah (harmancık Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıömerler Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17810",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Harmancık Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hisarkent Mah (şevketiye Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kangırlı Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karamusalar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaömerler Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kariyer Tatil Sitesi Mah (suluca Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemiklialan Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kirazlıdere Mah (güreci Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocabaşlar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocaveli Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Koru Mah (hacıgelen Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kundakçılar Mah (yaylalar Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kunduz Mah (kangırlı Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kırcalar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızıldam Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Nusratiye Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Saltık Mah (kangırlı Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazak Obası Mah (beybaş Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Subaşı Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Suluca Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Suluca Tatil Sitesi Mah (suluca Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sındal Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taştepe Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (çardak Beldesi)",
+      "district_name": "Lapseki",
+      "postal_code": "17810",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Umurbey Merkez Mah (umurbey Beldesi)",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yaylalar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniceköy Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yol Altı Mevkii Mah (adatepe Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yol Üstü Mah (adatepe Köyü)",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamyurt Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çataltepe Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üçpınar Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17820",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İlyasköy Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şahinli Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şevketiye Köyü",
+      "district_name": "Lapseki",
+      "postal_code": "17802",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akköy Mah (akçalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçapınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akçeşme Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alanköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Andıktaşı Mah (aşağıokçular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Armutalan Mah (karapınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mah (çınarlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17110",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atikhisar Mah (kayadere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıokçular Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Merkez",
+      "postal_code": "17020",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Belen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bodurlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Boğazkent Mah (kepez Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "17110",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cevat Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "17010",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Civler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kepez Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "17110",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Damyeri Mah (maraşalfevziçakmak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dardanos Mah (çınarlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17110",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dedeler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Denizgöründü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Değirmendere Mah (elmacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dörtyol Mah (ışıklar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dümrek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Elmacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Erenköy Merkez Mah (erenköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Erenköy Yeni Mah (erenköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Esenler Mah",
+      "district_name": "Merkez",
+      "postal_code": "17010",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Fevzipaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "17010",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gökçalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gürecik Mah (denizgöründü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güzelyalı Mah (güzelyalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Halileli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Haliloğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah (kepez Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "17110",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Işıklar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kalabaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kalafat Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaburunlar Mah (kirazlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karacalar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah (karacaören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karapınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayadere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kayışlar Mah (salihler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "17010",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemel Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kemerdere Mah (civler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Alan Mah (kirazlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocalar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kovandağı Mah (dedeler Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurşunlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızılcaören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızılkeçili Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Maraşalfevziçakmak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mehmet Çavuş Mah (kumkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mersin Çeşme Mah (ovacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Musaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah",
+      "district_name": "Merkez",
+      "postal_code": "17010",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Obaköy Mah (bodurlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah (karacaören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ortaca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ortaoba Mah (aşağıokçular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Osmanlar Mah (bodurlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ovacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Salavat Mah (aşağıokçular Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Salihler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Saltık Mah (yapıldak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıbeyli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıcaeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Serçiler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sığırlı Mah (sarıbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tavşantepe Mah (bodurlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taşlıtarla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Terziler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Testicikırı Mah (ışıklar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tevfikiye Mah (tevfikiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yapıldak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıokçular Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamyayla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çanakalan Mah (kızılcaören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (belen Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çiftlikdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çömlekler Mah (karapınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17110",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çıplak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Özbek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "17010",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İğdelik Mah (kızılkeçili Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah (kumkale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "17100",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahiler Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahmetler Mah (suuçtu Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Akköy Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alancık Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alanoba Mah (ballıçay Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Altıparmaklar Mah (darıalan Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Araovacık Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Armutçuk Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (akçakoyun Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (kalkım Beldesi)",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (nevruz Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıinova Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıkaraaşık Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Aşağıçavuş Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ballıçay Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bayatlar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bağlı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Başkoz Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bekten Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Boynanlar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Canbaz Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (akçakoyun Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kalkım Beldesi)",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (pazarköy Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Darıalan Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Davutköy Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Engeci Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eski Yenice Mah",
+      "district_name": "Yenice",
+      "postal_code": "17550",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gedikoba Mah (karaköy Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gümüşler Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güveyler Mah (torhasan Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Güzeloba Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıyusuflar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hamdibey Mah (hamdibey Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hasanlar Mah (alancık Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Haydaroba Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hıdırlar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kabaağaç Arası Mah (yağdıran Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kabalı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kalabakbaşı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaaydın Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karabey Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karadoru Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karaköy Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karasu Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kargacı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kovancı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurtlar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Yenice",
+      "postal_code": "17550",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kuzupınarı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kıraçoba Mah (çukuroba Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kırıklar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızıldam Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kışlalar Mah",
+      "district_name": "Yenice",
+      "postal_code": "17550",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Namazgah Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (nevruz Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Oğlanalanı Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Pınaroba Mah (alancık Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sameteli Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sarıçayır Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sazak Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Seyvan Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sofular Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Soğucak Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Suuçtu Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Taban Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Torhasan Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Umurlar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yalıoba Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yarış Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Yenice",
+      "postal_code": "17550",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (umurlar Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeşiller Mah (yağdıran Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (nevruz Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıinova Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıkaraaşık Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıçavuş Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakır Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakıroba Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çal Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çaltı Mah (koruköy Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çam Mah (koruköy Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamoba Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çargan Oba Mah (çakır Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çukuroba Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarcık Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çınarköy Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çırpılar Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Örencik Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17560",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Öğmen Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üçkabaağaç Köyü",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İbrahimler Mah (yağdıran Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (pazarköy Köyü)",
+      "district_name": "Yenice",
+      "postal_code": "17552",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ahlatlıburun Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Alibeyçiftliği Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Altıkulaç Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Asmalı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bahadırlı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bardakçılar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bilaller Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bostandere Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bozguç Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Bükler Mah (yuvalar Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büyükpaşa Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büyükpaşa Mah (büyükpaşa Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Büyüktepe Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cicikler Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Danapınar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Derenti Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dereoba Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Dondurma Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğaca Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Doğancılar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Duman Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Durali Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Durali Mah (durali Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Emeşe Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Eskiyayla Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Etili Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Göle Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacıkasım Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Halilağa Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Helvacı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hurma Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Hurmaköy Mah (hurma Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kadılar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kalburcu Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kaplıcalar Mah (bardakçılar Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karadağ Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karakadılar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karakoca Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karlı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kazabat Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Keçiağılı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kilimli Mah (dondurma Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kocayayla Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Koyunyeri Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kulfal Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kulfal Mah (kulfal Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kumarlar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçüklü Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Küçükpaşa Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Kızılelma Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Mallı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Maltepe Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Manyasoba Mah (doğancılar Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Okçular Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Osmanefendi Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Ozancık Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Sameteli Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Seramik Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Söğütalan Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Süle Mah (terzialan Beldesi)",
+      "district_name": "Çan",
+      "postal_code": "17410",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Uzunalan Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yaya Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yaykın Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yeniçeri Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yukarıköy Mah (küçüklü Köyü)",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Yuvalar Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Zeybekçayır Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakmakçayır Mah (terzialan Beldesi)",
+      "district_name": "Çan",
+      "postal_code": "17410",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çakılköy Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çaltıkara Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çamköy Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çekiçler Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Çomaklı Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Üvezdere Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İlyasağaçiftliği Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Çan",
+      "postal_code": "17400",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    },
+    {
+      "neighbourhood_name": "Şerbetli Köyü",
+      "district_name": "Çan",
+      "postal_code": "17402",
+      "city_code": "17",
+      "city_name": "Çanakkale"
+    }
+  ],
+  "meta": {
+    "title": "Çanakkale Mahalleleri (Çanakkale Neighbourhoods) - Ücretsiz İndir",
+    "description": "Çanakkale ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (910 kayıt.) (All neighbourhoods (mahalle) in Çanakkale province with their parent district and postal code.) İçerik 910 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Çanakkale Mahalleleri (Çanakkale Neighbourhoods) | ListBase",
+    "seo_description": "İndir Çanakkale Mahalleleri (Çanakkale Neighbourhoods) — 910 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 910 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

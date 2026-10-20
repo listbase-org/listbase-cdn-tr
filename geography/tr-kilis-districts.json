@@ -1,0 +1,70 @@
+{
+  "id": "tr-kilis-districts",
+  "name": "Kilis İlçeleri (Kilis Districts)",
+  "title": "Kilis İlçeleri (Kilis Districts)",
+  "description": "Kilis ilinin ilçeleri. (Districts (ilçe) of Kilis province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Elbeyli",
+      "slug": "elbeyli",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "district_name": "Musabeyli",
+      "slug": "musabeyli",
+      "city_code": "79",
+      "city_name": "Kilis"
+    },
+    {
+      "district_name": "Polateli",
+      "slug": "polateli",
+      "city_code": "79",
+      "city_name": "Kilis"
+    }
+  ],
+  "meta": {
+    "title": "Kilis İlçeleri (Kilis Districts) - Ücretsiz İndir",
+    "description": "Kilis ilinin ilçeleri. (Districts (ilçe) of Kilis province in Türkiye.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kilis İlçeleri (Kilis Districts) | ListBase",
+    "seo_description": "İndir Kilis İlçeleri (Kilis Districts) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

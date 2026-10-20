@@ -1,0 +1,232 @@
+{
+  "id": "tr-konya-districts",
+  "name": "Konya İlçeleri (Konya Districts)",
+  "title": "Konya İlçeleri (Konya Districts)",
+  "description": "Konya ilinin ilçeleri. (Districts (ilçe) of Konya province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Ahırlı",
+      "slug": "ahirli",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Akören",
+      "slug": "akoren",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Akşehir",
+      "slug": "aksehir",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Altınekin",
+      "slug": "altinekin",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Beyşehir",
+      "slug": "beysehir",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Bozkır",
+      "slug": "bozkir",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Cihanbeyli",
+      "slug": "cihanbeyli",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Derbent",
+      "slug": "derbent",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Derebucak",
+      "slug": "derebucak",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Doğanhisar",
+      "slug": "doganhisar",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Emirgazi",
+      "slug": "emirgazi",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Ereğli",
+      "slug": "eregli",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Güneysınır",
+      "slug": "guneysinir",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Hadim",
+      "slug": "hadim",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Halkapınar",
+      "slug": "halkapinar",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Hüyük",
+      "slug": "huyuk",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Ilgın",
+      "slug": "ilgin",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Kadınhanı",
+      "slug": "kadinhani",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Karapınar",
+      "slug": "karapinar",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Karatay",
+      "slug": "karatay",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Kulu",
+      "slug": "kulu",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Meram",
+      "slug": "meram",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Sarayönü",
+      "slug": "sarayonu",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Selçuklu",
+      "slug": "selcuklu",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Seydişehir",
+      "slug": "seydisehir",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Taşkent",
+      "slug": "taskent",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Tuzlukçu",
+      "slug": "tuzlukcu",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Yalıhüyük",
+      "slug": "yalihuyuk",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Yunak",
+      "slug": "yunak",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Çeltik",
+      "slug": "celtik",
+      "city_code": "42",
+      "city_name": "Konya"
+    },
+    {
+      "district_name": "Çumra",
+      "slug": "cumra",
+      "city_code": "42",
+      "city_name": "Konya"
+    }
+  ],
+  "meta": {
+    "title": "Konya İlçeleri (Konya Districts) - Ücretsiz İndir",
+    "description": "Konya ilinin ilçeleri. (Districts (ilçe) of Konya province in Türkiye.) İçerik 31 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Konya İlçeleri (Konya Districts) | ListBase",
+    "seo_description": "İndir Konya İlçeleri (Konya Districts) — 31 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 31 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

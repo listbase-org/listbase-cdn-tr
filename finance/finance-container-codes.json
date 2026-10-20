@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "ISO 6346 Nakliye Konteyner Kodları ve Özellikleri Veri Kümesi",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft Genel Amaçlı",
+      "category": "Kuru",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "Standart 20 fit kuru konteyner"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft Genel Amaçlı",
+      "category": "Kuru",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "Standart 40 fit kuru konteyner"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft Yüksek Küp",
+      "category": "Kuru",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "Ekstra yüksekliğe sahip yüksek küp"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft Yüksek Küp",
+      "category": "Kuru",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "45 fit yüksek küp konteyner"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft Soğutmalı",
+      "category": "Soğutmalı",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "Soğutmalı 20 fit konteyner"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft Soğutmalı",
+      "category": "Soğutmalı",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "Soğutmalı 40 fit konteyner"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft Soğutmalı Yüksek Küp",
+      "category": "Soğutmalı",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "Yüksek küp soğutmalı konteyner"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft Üstü Açık",
+      "category": "Üstü Açık",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "Büyük hacimli kargolar için üstü açık"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft Üstü Açık",
+      "category": "Üstü Açık",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "40 fit üstü açık konteyner"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft Düz Raf",
+      "category": "Düz Raf",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "Ağır makineler için yanları/çatısı olmayan"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft Düz Raf",
+      "category": "Düz Raf",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "40 fit düz raf konteyner"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft Tank",
+      "category": "Tank",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "Sıvı/gaz taşımacılığı için"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft Platform",
+      "category": "Platform",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "Düz platform, duvar yok"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft Platform",
+      "category": "Platform",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "40 fit platform konteyner"
+    }
+  ],
+  "meta": {
+    "seo_title": "ISO 6346 Konteyner Kodları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Nakliye için ISO 6346 konteyner kodları verisini ücretsiz indirin. Boyut, kapasite ve yük dahil 14 kayda erişin. Excel, CSV, PDF formatlarında.",
+    "title": "ISO 6346 Nakliye Konteyner Kodları ve Özellikleri Veri Kümesi",
+    "description": "Bu veri kümesi, 14 adet ISO 6346 konteyner kodunun kapsamlı bir listesini sunar; çeşitli nakliye konteynerleri için tiplerini, boyutlarını, kapasitelerini ve ağırlık özelliklerini detaylandırır.",
+    "key_takeaways": [
+      "14 yaygın ISO 6346 konteyner tipi için ayrıntılı özelliklere erişin.",
+      "Konteyner boyutlarını, kapasitelerini, maksimum yüklerini ve dara ağırlıklarını keşfedin.",
+      "Lojistik, nakliye ve tedarik zinciri analizi için kullanıma hazır bir referans indirin.",
+      "Navlun planlaması ve konteyner kullanımı için doğru verilerden yararlanın."
+    ],
+    "keywords": [
+      "ISO 6346 konteyner kodları",
+      "nakliye konteyner boyutları",
+      "yük konteyneri verileri",
+      "konteyner özellikleri excel",
+      "ISO konteyner tipleri csv",
+      "konteyner kapasitesi yük pdf"
+    ],
+    "use_cases": [
+      "Nakliye konteyner özelliklerini lojistik yönetim sistemlerine veya navlun hesaplama araçlarına entegre etmek için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Nakliye rotası planlamasını ve kargo yüklemesini optimize etmek için **Excel** dosyasını kullanarak Pivot Tablolar oluşturun, konteyner tiplerini filtreleyin ve kapasiteleri analiz edin.",
+      "Sınıf referansı, operasyonel kılavuzlar veya depoda hızlı çevrimdışı aramalar için **PDF** sürümünü yazdırın.",
+      "Konteyner beyannamelerini doğrulamak, uluslararası nakliye standartlarını anlamak veya küresel ticaret hakkında eğitim materyalleri oluşturmak için bu veri kümesine başvurun."
+    ]
+  },
+  "record_count": 14,
+  "title": "ISO 6346 Nakliye Konteyner Kodları ve Özellikleri Veri Kümesi"
+}

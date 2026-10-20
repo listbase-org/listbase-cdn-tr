@@ -1,0 +1,388 @@
+{
+  "id": "tr-nevsehir-liseler",
+  "name": "Nevşehir Liseleri (High Schools in Nevşehir)",
+  "title": "Nevşehir Liseleri (High Schools in Nevşehir)",
+  "description": "Nevşehir ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (26 kayıt) (High schools in Nevşehir province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Acıgöl Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Acıgöl - Acıgöl Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Acıgöl",
+      "website": "http://acigolihl.meb.k12.tr",
+      "enlem": 38.54583131494412,
+      "boylam": 34.49009379519953
+    },
+    {
+      "okul_adi": "Acıgöl Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Acıgöl - Acıgöl Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Acıgöl",
+      "website": "http://acigolmtal.meb.k12.tr",
+      "enlem": 38.5469850859892,
+      "boylam": 34.4993286408378
+    },
+    {
+      "okul_adi": "Damat İbrahim Paşa Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Acıgöl - Damat İbrahim Paşa Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Acıgöl",
+      "website": "http://diplisesi.meb.k12.tr",
+      "enlem": 38.5437838502093,
+      "boylam": 34.507613984484806
+    },
+    {
+      "okul_adi": "Avanos Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Avanos - Avanos Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Avanos",
+      "website": "http://avanosal.meb.k12.tr",
+      "enlem": 38.71093811679346,
+      "boylam": 34.84316906108393
+    },
+    {
+      "okul_adi": "Avanos Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Avanos - Avanos Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Avanos",
+      "website": "http://avanosihl.meb.k12.tr",
+      "enlem": 38.70998372190301,
+      "boylam": 34.83705362452997
+    },
+    {
+      "okul_adi": "Kalaba Fatih Sultan Mehmet Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Avanos - Kalaba Fatih Sultan Mehmet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Avanos",
+      "website": "http://kalabafsmanadolulisesi.meb.k12.tr",
+      "enlem": 38.96896742399563,
+      "boylam": 34.99682745112909
+    },
+    {
+      "okul_adi": "Kapadokya Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Avanos - Kapadokya Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Avanos",
+      "website": "http://kapadokyacpl.meb.k12.tr",
+      "enlem": 38.99785658067645,
+      "boylam": 34.84516462459101
+    },
+    {
+      "okul_adi": "Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Avanos - Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Avanos",
+      "website": "http://avanosktml.meb.k12.tr",
+      "enlem": 38.719586216353896,
+      "boylam": 34.84964458419813
+    },
+    {
+      "okul_adi": "Özkonak Hacı Halil Türkkan Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Avanos - Özkonak Hacı Halil Türkkan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Avanos",
+      "website": "http://ozkonakhhtal.meb.k12.tr",
+      "enlem": 38.812834254125725,
+      "boylam": 34.851451722521915
+    },
+    {
+      "okul_adi": "Derinkuyu Mehmet Ekmekci Lisesi",
+      "tam_ad": "Nevşehir - Derinkuyu - Derinkuyu Mehmet Ekmekci Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Nevşehir",
+      "ilce": "Derinkuyu",
+      "website": "http://mehmetekmekci.meb.k12.tr",
+      "enlem": 38.37120187864436,
+      "boylam": 34.73704477920069
+    },
+    {
+      "okul_adi": "Derinkuyu Zeliha Ekmekci Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Derinkuyu - Derinkuyu Zeliha Ekmekci Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Derinkuyu",
+      "website": "http://derinkuyuaihl.meb.k12.tr",
+      "enlem": 38.379721667522446,
+      "boylam": 34.74493047370447
+    },
+    {
+      "okul_adi": "Hakkı Atamulu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Derinkuyu - Hakkı Atamulu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Derinkuyu",
+      "website": "http://hatamulucpl.meb.k12.tr",
+      "enlem": 38.37442339884399,
+      "boylam": 34.72717425002588
+    },
+    {
+      "okul_adi": "15 Temmuz Şehitleri Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Gülşehir - 15 Temmuz Şehitleri Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Gülşehir",
+      "website": "http://gulsehir15temmuzsehitleriaihl.meb.k12.tr",
+      "enlem": 38.747002179914624,
+      "boylam": 34.6240862287475
+    },
+    {
+      "okul_adi": "Hacıbektaş Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Hacıbektaş - Hacıbektaş Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Hacıbektaş",
+      "website": "http://hacibektasanadolulisesi.meb.k12.tr",
+      "enlem": 38.938507004167334,
+      "boylam": 34.554857072968616
+    },
+    {
+      "okul_adi": "Hacıbektaş Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Hacıbektaş - Hacıbektaş Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Hacıbektaş",
+      "website": "http://hacibektaskml.meb.k12.tr",
+      "enlem": 38.94093434745025,
+      "boylam": 34.55849012507929
+    },
+    {
+      "okul_adi": "Kozakli Lisesi",
+      "tam_ad": "Nevşehir - Kozaklı - Kozakli Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Nevşehir",
+      "ilce": "Kozaklı",
+      "website": "http://kozaklilisesi.meb.k12.tr",
+      "enlem": 39.219907585550416,
+      "boylam": 34.85302081479563
+    },
+    {
+      "okul_adi": "Kapadokya Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Kapadokya Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehirotml.meb.k12.tr",
+      "enlem": 38.62476809832251,
+      "boylam": 34.71863774396002
+    },
+    {
+      "okul_adi": "Nevşehir Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Nevşehir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehiranadolu.meb.k12.tr",
+      "enlem": 38.62976069323788,
+      "boylam": 34.71343061103357
+    },
+    {
+      "okul_adi": "Nevşehir Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Nevşehir Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehiraihl.meb.k12.tr",
+      "enlem": 38.61552359586353,
+      "boylam": 34.70107635631098
+    },
+    {
+      "okul_adi": "Nevşehir Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Nevşehir Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehirlisesi.meb.k12.tr",
+      "enlem": 38.62771562024935,
+      "boylam": 34.71582850589289
+    },
+    {
+      "okul_adi": "Nevşehir Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Nevşehir Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehireml.meb.k12.tr",
+      "enlem": 38.627141480665685,
+      "boylam": 34.7191812671615
+    },
+    {
+      "okul_adi": "Şehit Demet Sezen Güzel Sanatlar Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Şehit Demet Sezen Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehirguzelsanatlar.meb.k12.tr",
+      "enlem": 38.67296179118177,
+      "boylam": 34.73521551265253
+    },
+    {
+      "okul_adi": "Şehit Demet Sezen Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Merkez - Şehit Demet Sezen Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Merkez",
+      "website": "http://nevsehirkizihl.meb.k12.tr",
+      "enlem": 38.652436977103754,
+      "boylam": 34.70543226375116
+    },
+    {
+      "okul_adi": "Ürgup Kılıçarslan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Nevşehir - Ürgüp - Ürgup Kılıçarslan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Nevşehir",
+      "ilce": "Ürgüp",
+      "website": "http://urgupmeslek.meb.k12.tr",
+      "enlem": 38.62868787533731,
+      "boylam": 34.912627545733585
+    },
+    {
+      "okul_adi": "Ürgüp Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Nevşehir - Ürgüp - Ürgüp Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Nevşehir",
+      "ilce": "Ürgüp",
+      "website": "http://urgupihl.meb.k12.tr",
+      "enlem": 38.627682093976695,
+      "boylam": 34.91546264066233
+    },
+    {
+      "okul_adi": "Ürgüp Tesan Fen Lisesi",
+      "tam_ad": "Nevşehir - Ürgüp - Ürgüp Tesan Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Nevşehir",
+      "ilce": "Ürgüp",
+      "website": "http://urguptesanfenlisesi.meb.k12.tr",
+      "enlem": 38.632989526810846,
+      "boylam": 34.93769010676874
+    }
+  ],
+  "meta": {
+    "title": "Nevşehir Liseleri (High Schools in Nevşehir) - Ücretsiz İndir",
+    "description": "Nevşehir ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (26 kayıt) (High schools in Nevşehir province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 26 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Nevşehir Liseleri (High Schools in Nevşehir) | ListBase",
+    "seo_description": "İndir Nevşehir Liseleri (High Schools in Nevşehir) — 26 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 26 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

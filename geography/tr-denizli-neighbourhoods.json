@@ -1,0 +1,4391 @@
+{
+  "id": "tr-denizli-neighbourhoods",
+  "name": "Denizli Mahalleleri (Denizli Neighbourhoods)",
+  "title": "Denizli Mahalleleri (Denizli Neighbourhoods)",
+  "description": "Denizli ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (620 kayıt.) (All neighbourhoods (mahalle) in Denizli province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 620,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akalan Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akşar Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alaattin Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alcı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aliveren Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Apa Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Avşar Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bademli Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bedirbey Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Benlik Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Boğazdere Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Corum Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Darıveren Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dedebağı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dodurga Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Eskiköy Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gedikli Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gölcük Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gümüş Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hacıkurtlar Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karahüyük Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karaismailler Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kelekçi Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kumafşarı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kurtlar Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kuyucak Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kuzören Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Köke Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kırca Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mevlütler Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Olukbaşı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ovayurt Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Oğuz Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınaryazı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sandalcık Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Suçatı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sırçalık Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ucarı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yassıhüyük Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yazır Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşilyuva Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yolçatı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yumrutaş Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çakır Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çubukçular Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ören Mah",
+      "district_name": "Acıpayam",
+      "postal_code": "20800",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ahıllı Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bekirler Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Demirli Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kelleci Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kıranyer Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mollaahmet Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Oğuzlar Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İncilipınar Mah",
+      "district_name": "Babadağ",
+      "postal_code": "20480",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Balca Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Beyelli Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dağal Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gökpınar Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gürlük Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hadim Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hüsamettin Dede Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kavaklar Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çataloba Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İcikli Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şenyayla Mah",
+      "district_name": "Baklan",
+      "postal_code": "20770",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bükrüce Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Deşdemir Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ekizbaba Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gömce Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kutlubey Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Köselli Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Poyrazlı Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sırıklı Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yahyalar Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşiloba Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamköy Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çoğaşlı Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Üçkuyu Mah",
+      "district_name": "Bekilli",
+      "postal_code": "20930",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Eşenler Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Geriçam Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kapuz Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılcaağaç Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınarönü Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Uzunoluk Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeniçeşme Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Beyağaç",
+      "postal_code": "20590",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alikurt Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Armutalanı Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Avdan Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Baklankuyucak Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Başçeşme Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumalı Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hamdiye Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hayrettinköy Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mehmetçik Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sazköy Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tutluca Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenibağlar Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çambaşı Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İnceler Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İncelertekkesi Mah",
+      "district_name": "Bozkurt",
+      "postal_code": "20370",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alacaoğlu Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alandız Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Beyler Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bostanyeri Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bozalan Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Boğazçiftlik Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bursa Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bölmekaya Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Derbent Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Doğan Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dört Eylül Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Düzalan Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dımbazlar Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Girne Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gülalan Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Güroluk Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hasanbeyler Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Helvacılar Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karaköy Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kaşıkcı Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kovanoluk Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kurudere Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kırandamı Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mahmutlu Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Oğuz Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sarımahmutlu Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Süleymanlı Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Turan Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Türlübey Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yalçınkaya Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenicekent Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeniçam Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşil Dere Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamköy Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çatak Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çaybaşı Mah",
+      "district_name": "Buldan",
+      "postal_code": "20400",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Adıgüzeller Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aydoğdu Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağıçeşme Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cindere Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ertuğrul Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Eziler Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Haylamaz Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karaağaçlı Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karagözler Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kerimler Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Koparan Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ortaçeşme Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Parmaksızlar Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tilkilik Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenikonak Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamrak Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çorbacılar Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Üç Eylül Mah",
+      "district_name": "Güney",
+      "postal_code": "20460",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Afşın Bey Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akbaş Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağıdağdere Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Denizli Osb Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dereçiftlik Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Emirazizli Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gürleyik Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Haydar Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kaklık Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karateke Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karaçay Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kocabaş Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılyer Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Menteşe Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sapaca Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yokuşbaşı Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarıdağdere Mah",
+      "district_name": "Honaz",
+      "postal_code": "20330",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Adamharmanı Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alanyurt Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Belenköy Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cevherpaşa Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Doğanköy Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Esenkaya Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gökçeören Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gülbağlık Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Habipler Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karaköy Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karayayla Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Koçarboğazı Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Künar Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kırköy Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Muslugüme Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Narlı Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ortatepe Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Toki Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Uluçam Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenidere Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çakırbağ Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamlarca Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Özlüce Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İnceğiz Mah",
+      "district_name": "Kale",
+      "postal_code": "20570",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "1200 Evler Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Adalet Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akkonak Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akçeşme Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alpaslan Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Altındere Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Altıntop Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağışamlı Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20060",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Barutçular Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Başkarcı Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bereketler Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bozburun Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Değirmenönü Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Eskihisar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gerzele Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Göveçlik Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gümüşçay Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hacıeyüplü Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hallaçlar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karahasanlı Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karaman Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kayalar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kumkısık Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Merkez Efendı Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Muratdede Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Salihağa Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20060",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Saraylar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Saruhan Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Selçuk Bey Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Servergazi Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sevindik Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sırakapılar Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenişafak Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşilyayla Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20020",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20050",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çeltikçi Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20060",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Üzerlik Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20060",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İlbade Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20010",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şemikler Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20030",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şirinköy Mah",
+      "district_name": "Merkezefendi",
+      "postal_code": "20040",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "15 Mayıs Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akdere Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akhan Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akköy Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20260",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aktepe Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akçapınar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Anafartalar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Asmalıevler Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Atalar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Belenardıç Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cankurtaran Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Deliktaş Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Develi Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dokuzkavaklar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Eldenizli Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Eymir Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Fesleğen Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Goncalı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gökpınar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gölemezli Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gözler Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Güzelköy Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Güzelpınar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hacıkaplanlar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Haytabey Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Irlıganlı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karahayıt Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20260",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karakova Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karakurt Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kavakbaşı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kayıhan Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kervansaray Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kocadere Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Korucuk Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kurtluca Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kuşpınar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Küçükdere Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kınıklı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mehmetçik Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pamukkale Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20260",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pelitlibağ Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınarkent Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20170",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Siteler Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Topraklık Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Uzunpınar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20260",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarışamlı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yunusemre Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Zeytinköy Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Zümrüt Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20160",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çeşmebaşı Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20190",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İncilipınar Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Pamukkale",
+      "postal_code": "20150",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Acıdere Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Acısu Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ada Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ahmetli Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Altıntepe Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bala Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Beylerbeyi Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Caber Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Duacılı Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gerali Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hasköy Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hisar Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kabaağaç Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karakıran Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kumluca Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sarayköy Tdi Osb Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sığma Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tosunlar Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Trafo Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Turan Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tırkaz Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Uyanık Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yakayurt Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Sarayköy",
+      "postal_code": "20300",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ayaz Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kaya Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kocapınar Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınarcık Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yatağan Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yüreğil Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şair Eşref Mah",
+      "district_name": "Serinhisar",
+      "postal_code": "20430",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akyar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alpa Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Altınova Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Avdan Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aydoğdu Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Baharlar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bahçeköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Balkıca Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Damlacık Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Denizoluğu Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dereağzı Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Derinkuyu Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ebecik Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Garipköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gökçeler Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gümüşdere Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Güzelköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Horasanlı Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hırka Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karahisar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kayaca Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Keçeliler Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kozlar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılcabölük Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Medet Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Nikfer Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınarlar Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Pınarlık Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Samanlık Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sarabat Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Seki Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Solmaz Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tekkeköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ulukent Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Vakıf Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yahşiler Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yorga Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarıboğaz Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çalıköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çağırgan Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çiftlikköy Mah",
+      "district_name": "Tavas",
+      "postal_code": "20500",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akkent Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Alfaklar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağıseyit Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bahadınlar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Baklançakırlar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bayıralan Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Belevi Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dayılar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Dağmarmara Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Denizler Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Develler Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gelinören Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hançalar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hüseyinler Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kabalar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kaplanlar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kocaköy Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Mahmutgazi Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Peynirciler Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sakızcılar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sazak Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Selcen Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Süller Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yazır Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarıseyit Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çalkuyucak Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çalçakırlar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İsabey Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İsmailler Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şapcılar Mah",
+      "district_name": "Çal",
+      "postal_code": "20700",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Arıkaya Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ayvacık Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Belevi Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bıçakçı Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumaalanı Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Emecik Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ericek Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gökçeyaka Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gürsu Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kalınkoz Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karabayır Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kirazlıyayla Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kocaova Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kolak Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kınıkyeri Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılyaka Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sarıkavak Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Taşçılar Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yaylapınar Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yeşilyayla Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yumrutaş Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yunuspınarı Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çamlıbel Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çiğdemli Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İmamlar Mah",
+      "district_name": "Çameli",
+      "postal_code": "20980",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ayvaz Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Beylerli Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Sb Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Denizli Çardak Osb Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gemişli Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gemişpınarı Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gölcük Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hayriye Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Söğütözü Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çaltı Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Çardak",
+      "postal_code": "20350",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Akçaköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Balçıkhisar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bayat Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bekirli Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Belence Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Beydilli Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Beyköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bozdağ Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bucak Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Bulgurlar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cabar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Cumalar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Düzbel Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Emircik Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gökgöl Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gümüşsu Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Gürpınar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Hamam Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Haydan Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Irgıllı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Işıklı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karabedirler Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karahacılı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karalar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karamanlı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Karayahşiler Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kavakalanı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kavakköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kocayaka Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Koçak Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kıralan Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılcasöğüt Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Kızılcayer Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Menteş Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Osmanköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sarıbeyli Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sarılar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Savran Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Seraserli Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Somak Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Stadyum Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sundurlu Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Sökmen Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Süngüllü Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tokça Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Tuğlu Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yahyalı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yakacık Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yalınlı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yamanlar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yassıhüyük Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yukarı Çapak Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Yuvaköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çakallar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çandır Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çapak Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çatlar Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çetinler Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Çıtak Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Ömerli Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Özdemirci Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İmrallı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İnceköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İshaklı Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "İğdir Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    },
+    {
+      "neighbourhood_name": "Şenköy Mah",
+      "district_name": "Çivril",
+      "postal_code": "20600",
+      "city_code": "20",
+      "city_name": "Denizli"
+    }
+  ],
+  "meta": {
+    "title": "Denizli Mahalleleri (Denizli Neighbourhoods) - Ücretsiz İndir",
+    "description": "Denizli ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (620 kayıt.) (All neighbourhoods (mahalle) in Denizli province with their parent district and postal code.) İçerik 620 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Denizli Mahalleleri (Denizli Neighbourhoods) | ListBase",
+    "seo_description": "İndir Denizli Mahalleleri (Denizli Neighbourhoods) — 620 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 620 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

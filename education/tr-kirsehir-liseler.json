@@ -1,0 +1,412 @@
+{
+  "id": "tr-kirsehir-liseler",
+  "name": "Kırşehir Liseleri (High Schools in Kırşehir)",
+  "title": "Kırşehir Liseleri (High Schools in Kırşehir)",
+  "description": "Kırşehir ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (28 kayıt) (High schools in Kırşehir province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Akpınar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırşehir - Akpınar - Akpınar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırşehir",
+      "ilce": "Akpınar",
+      "website": "http://akpinaranadoluihl.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Akpınar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Akpınar - Akpınar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Akpınar",
+      "website": "http://akpinarcpl.meb.k12.tr",
+      "enlem": 39.45141174383332,
+      "boylam": 33.960336057086124
+    },
+    {
+      "okul_adi": "Akçakent Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Akçakent - Akçakent Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Akçakent",
+      "website": "http://akcakentcpl.meb.k12.tr",
+      "enlem": 39.621813497111354,
+      "boylam": 34.09579297675623
+    },
+    {
+      "okul_adi": "Akçakent Şehit Mehmet Bayar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırşehir - Akçakent - Akçakent Şehit Mehmet Bayar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırşehir",
+      "ilce": "Akçakent",
+      "website": "http://akcakentaihl.meb.k12.tr",
+      "enlem": 39.62179540846747,
+      "boylam": 34.09579297675623
+    },
+    {
+      "okul_adi": "Boztepe Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Boztepe - Boztepe Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Boztepe",
+      "website": "http://boztepecpal.meb.k12.tr",
+      "enlem": 39.27100090205847,
+      "boylam": 34.269407001872196
+    },
+    {
+      "okul_adi": "Kaman 15 Temmuz Şehitleri Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman 15 Temmuz Şehitleri Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamanaol.meb.k12.tr",
+      "enlem": 39.34517015652088,
+      "boylam": 33.715890256304874
+    },
+    {
+      "okul_adi": "Kaman Ahi Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Ahi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamanahianadolulisesi.meb.k12.tr",
+      "enlem": 39.35530840988008,
+      "boylam": 33.728367892642154
+    },
+    {
+      "okul_adi": "Kaman Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamananadolu.meb.k12.tr",
+      "enlem": 39.35538722032656,
+      "boylam": 33.728126493830814
+    },
+    {
+      "okul_adi": "Kaman Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamanihl.meb.k12.tr",
+      "enlem": 39.358496428410746,
+      "boylam": 33.728318153904866
+    },
+    {
+      "okul_adi": "Kaman Fatma Bacı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Fatma Bacı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamanfbmtal.meb.k12.tr",
+      "enlem": 39.35855200846892,
+      "boylam": 33.719892112155094
+    },
+    {
+      "okul_adi": "Kaman Fen Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamanfenlisesi.meb.k12.tr",
+      "enlem": 39.34612016170062,
+      "boylam": 33.71996721400751
+    },
+    {
+      "okul_adi": "Kaman Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kizihl.meb.k12.tr",
+      "enlem": 39.36913413477901,
+      "boylam": 33.71836459412111
+    },
+    {
+      "okul_adi": "Kaman Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamaneml.meb.k12.tr",
+      "enlem": 39.35658180989096,
+      "boylam": 33.729108182330265
+    },
+    {
+      "okul_adi": "Kaman Türk Telekom Osman Kulaksız Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Türk Telekom Osman Kulaksız Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamantarimmeslek.meb.k12.tr",
+      "enlem": 39.33703443056456,
+      "boylam": 33.7291510976745
+    },
+    {
+      "okul_adi": "Kaman İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamansaglik.meb.k12.tr",
+      "enlem": 39.36971265277699,
+      "boylam": 33.71699532641901
+    },
+    {
+      "okul_adi": "Kaman Şehit Deniz Kaya Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Kaman - Kaman Şehit Deniz Kaya Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Kaman",
+      "website": "http://kamanatml.meb.k12.tr",
+      "enlem": 39.365677441709835,
+      "boylam": 33.711604086299076
+    },
+    {
+      "okul_adi": "Aşıkpaşa Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Merkez - Aşıkpaşa Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "website": "http://kirsehirasikpasamtal.meb.k12.tr",
+      "enlem": 39.14839305481723,
+      "boylam": 34.15193697585596
+    },
+    {
+      "okul_adi": "Hoca Ahmet Yesevi Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırşehir - Merkez - Hoca Ahmet Yesevi Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "website": "http://hayanadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 39.1433236949659,
+      "boylam": 34.14091309680475
+    },
+    {
+      "okul_adi": "Kırşehir Ahi Evran Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Merkez - Kırşehir Ahi Evran Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "website": "http://kirsehiraol.meb.k12.tr",
+      "enlem": 39.13748214154855,
+      "boylam": 34.1366537488891
+    },
+    {
+      "okul_adi": "Kırşehir Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Merkez - Kırşehir Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "website": "http://kirsehireml.meb.k12.tr",
+      "enlem": 39.13851401813986,
+      "boylam": 34.15644845141901
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Merkez - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "website": "http://makif40.meb.k12.tr",
+      "enlem": 39.13997026985509,
+      "boylam": 34.15586909427179
+    },
+    {
+      "okul_adi": "Prof.dr.ilhan Kılıçözlü Fen Lisesi",
+      "tam_ad": "Kırşehir - Merkez - Prof.dr.ilhan Kılıçözlü Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "website": "http://kirsehirfenlisesi.meb.k12.tr",
+      "enlem": 39.157218319758876,
+      "boylam": 34.13675030841364
+    },
+    {
+      "okul_adi": "Mucur Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Mucur - Mucur Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Mucur",
+      "website": "http://mucuranadolulisesi.meb.k12.tr",
+      "enlem": 39.05927561953152,
+      "boylam": 34.396621493239536
+    },
+    {
+      "okul_adi": "Mucur Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Mucur - Mucur Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Mucur",
+      "website": "http://mucurmtal.meb.k12.tr",
+      "enlem": 39.06693128495817,
+      "boylam": 34.381171969313755
+    },
+    {
+      "okul_adi": "Mucur Şeyh Edebali Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Mucur - Mucur Şeyh Edebali Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Mucur",
+      "website": "http://mucursedanlisesi.meb.k12.tr",
+      "enlem": 39.05958177878009,
+      "boylam": 34.39748516454233
+    },
+    {
+      "okul_adi": "İmam Hatip Lisesi",
+      "tam_ad": "Kırşehir - Mucur - İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırşehir",
+      "ilce": "Mucur",
+      "website": "http://mucurimamhatip.meb.k12.tr",
+      "enlem": 39.05891530796687,
+      "boylam": 34.37996229304804
+    },
+    {
+      "okul_adi": "Çiçekdağı Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Çiçekdağı - Çiçekdağı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Çiçekdağı",
+      "website": "http://cicekdagianadolulisesi.meb.k12.tr",
+      "enlem": 39.60335572727432,
+      "boylam": 34.41778144015802
+    },
+    {
+      "okul_adi": "Çiçekdağı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırşehir - Çiçekdağı - Çiçekdağı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırşehir",
+      "ilce": "Çiçekdağı",
+      "website": "http://cicekdagimtal.meb.k12.tr",
+      "enlem": 39.60402529512379,
+      "boylam": 34.41863974704279
+    }
+  ],
+  "meta": {
+    "title": "Kırşehir Liseleri (High Schools in Kırşehir) - Ücretsiz İndir",
+    "description": "Kırşehir ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (28 kayıt) (High schools in Kırşehir province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 28 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kırşehir Liseleri (High Schools in Kırşehir) | ListBase",
+    "seo_description": "İndir Kırşehir Liseleri (High Schools in Kırşehir) — 28 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 28 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "tr-bartin-liseler",
+  "name": "Bartın Liseleri (High Schools in Bartın)",
+  "title": "Bartın Liseleri (High Schools in Bartın)",
+  "description": "Bartın ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (21 kayıt) (High schools in Bartın province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Amasra Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bartın - Amasra - Amasra Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Amasra",
+      "website": "http://amasraotml.meb.k12.tr",
+      "enlem": 41.74489338539804,
+      "boylam": 32.38382211102976
+    },
+    {
+      "okul_adi": "Amasra Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Amasra - Amasra Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Amasra",
+      "website": "http://amasracpl.meb.k12.tr",
+      "enlem": 41.74050051115207,
+      "boylam": 32.42913803233637
+    },
+    {
+      "okul_adi": "Kurucaşile Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Kurucaşile - Kurucaşile Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Kurucaşile",
+      "website": "http://kurucasileamlcpl.meb.k12.tr",
+      "enlem": 41.843572667124796,
+      "boylam": 32.72393962516321
+    },
+    {
+      "okul_adi": "Arıt Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Arıt Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://aritcpal.meb.k12.tr",
+      "enlem": 41.68767044153381,
+      "boylam": 32.62532552852167
+    },
+    {
+      "okul_adi": "Bartın Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bartın - Merkez - Bartın Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinihl.meb.k12.tr",
+      "enlem": 41.62129577875297,
+      "boylam": 32.34693197346746
+    },
+    {
+      "okul_adi": "Bartın Güzel Sanatlar Lisesi",
+      "tam_ad": "Bartın - Merkez - Bartın Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinguzelsanatlar.meb.k12.tr",
+      "enlem": 41.62001283031538,
+      "boylam": 32.343800870318546
+    },
+    {
+      "okul_adi": "Bartın Lisesi",
+      "tam_ad": "Bartın - Merkez - Bartın Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinlisesi.meb.k12.tr",
+      "enlem": 41.635266044694696,
+      "boylam": 32.332101074595585
+    },
+    {
+      "okul_adi": "Bartın Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Bartın Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinmtal.meb.k12.tr",
+      "enlem": 41.62743939913967,
+      "boylam": 32.331076470751896
+    },
+    {
+      "okul_adi": "Fatih Sultan Mehmet Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Fatih Sultan Mehmet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinfsmal.meb.k12.tr",
+      "enlem": 41.628714501477354,
+      "boylam": 32.35710462703241
+    },
+    {
+      "okul_adi": "Hasan Sabri Çavuşoğlu Fen Lisesi",
+      "tam_ad": "Bartın - Merkez - Hasan Sabri Çavuşoğlu Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinfenlisesi.meb.k12.tr",
+      "enlem": 41.60116988956349,
+      "boylam": 32.31498858108057
+    },
+    {
+      "okul_adi": "Hasankadı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Hasankadı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://hasankadmtal.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Kozcağız Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Kozcağız Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://kozcagizcpal.meb.k12.tr",
+      "enlem": 41.4782471744731,
+      "boylam": 32.34603246821894
+    },
+    {
+      "okul_adi": "Köksal Toptan Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Köksal Toptan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://koksaltoptanandlisesi.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Kızılelma Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Kızılelma Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://kizilelmacpl.meb.k12.tr",
+      "enlem": 41.579604925661684,
+      "boylam": 32.15123595443106
+    },
+    {
+      "okul_adi": "Şehit Mustafa Yaman Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bartın - Merkez - Şehit Mustafa Yaman Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinsehitmustafayamanaihl.meb.k12.tr",
+      "enlem": 41.61959175192505,
+      "boylam": 32.34844109191431
+    },
+    {
+      "okul_adi": "Şerife Bacı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bartın - Merkez - Şerife Bacı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Merkez",
+      "website": "http://bartinserifebaci.meb.k12.tr",
+      "enlem": 41.63233517346148,
+      "boylam": 32.33302375449671
+    },
+    {
+      "okul_adi": "Abdipaşa Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Ulus - Abdipaşa Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Ulus",
+      "website": "http://abdipasacpl.meb.k12.tr",
+      "enlem": 41.51946961956686,
+      "boylam": 32.56898304595484
+    },
+    {
+      "okul_adi": "Kumluca Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Ulus - Kumluca Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Ulus",
+      "website": "http://kumlucacpl.meb.k12.tr",
+      "enlem": 41.449046141626624,
+      "boylam": 32.47098049296869
+    },
+    {
+      "okul_adi": "Ulus Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bartın - Ulus - Ulus Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Ulus",
+      "website": "http://ulusmtal.meb.k12.tr",
+      "enlem": 41.582835055904354,
+      "boylam": 32.64656862391962
+    },
+    {
+      "okul_adi": "Ulus Şehit Mustafa Kemal Açıkgöz Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bartın - Ulus - Ulus Şehit Mustafa Kemal Açıkgöz Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bartın",
+      "ilce": "Ulus",
+      "website": "http://sehitmustafakemalacikgozaihl.meb.k12.tr",
+      "enlem": 41.58394853402767,
+      "boylam": 32.640238610644474
+    },
+    {
+      "okul_adi": "Şehit Erkan Yalçın Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bartın - Ulus - Şehit Erkan Yalçın Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bartın",
+      "ilce": "Ulus",
+      "website": "http://uluscpl.meb.k12.tr",
+      "enlem": 41.580395368246826,
+      "boylam": 32.635110227008
+    }
+  ],
+  "meta": {
+    "title": "Bartın Liseleri (High Schools in Bartın) - Ücretsiz İndir",
+    "description": "Bartın ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (21 kayıt) (High schools in Bartın province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 21 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bartın Liseleri (High Schools in Bartın) | ListBase",
+    "seo_description": "İndir Bartın Liseleri (High Schools in Bartın) — 21 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 21 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "tr-elazig-tcdd-istasyonlari",
+  "name": "ELAZIĞ TCDD Tren İstasyonları (Railway stations in ELAZIĞ)",
+  "title": "ELAZIĞ TCDD Tren İstasyonları (Railway stations in ELAZIĞ)",
+  "description": "ELAZIĞ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ELAZIĞ province.) (19 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BASKİL",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "BASKİL , ELAZIĞ",
+      "gidis_id": 632,
+      "donus_id": 632,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "BEYHAN",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "BEYHAN , ELAZIĞ",
+      "gidis_id": 656,
+      "donus_id": 656,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "EKEREK",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "EKEREK , ELAZIĞ",
+      "gidis_id": 691,
+      "donus_id": 691,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 64
+    },
+    {
+      "istasyon": "ELAZIĞ",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ELAZIĞ , ELAZIĞ",
+      "gidis_id": 647,
+      "donus_id": 647,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "GEMİCİ",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "GEMİCİ , ELAZIĞ",
+      "gidis_id": 624,
+      "donus_id": 624,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "GEZİN",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "GEZİN , ELAZIĞ",
+      "gidis_id": 655,
+      "donus_id": 655,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 67
+    },
+    {
+      "istasyon": "GÖLCÜK",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "GÖLCÜK , ELAZIĞ",
+      "gidis_id": 677,
+      "donus_id": 677,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 62
+    },
+    {
+      "istasyon": "KUŞSARAYI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "KUŞSARAYI , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 636,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÜRK",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "KÜRK , ELAZIĞ",
+      "gidis_id": 673,
+      "donus_id": 673,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MADEN",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "MADEN , ELAZIĞ",
+      "gidis_id": 675,
+      "donus_id": 675,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MURATBAĞI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "MURATBAĞI , ELAZIĞ",
+      "gidis_id": 671,
+      "donus_id": 671,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PALU",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "PALU , ELAZIĞ",
+      "gidis_id": 686,
+      "donus_id": 686,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PINARLI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "PINARLI , ELAZIĞ",
+      "gidis_id": 687,
+      "donus_id": 687,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİVRİCE",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "SİVRİCE , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 716,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUOVA",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ULUOVA , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 706,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YOLÇATI",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "YOLÇATI , ELAZIĞ",
+      "gidis_id": 707,
+      "donus_id": 707,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YURT",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "YURT , ELAZIĞ",
+      "gidis_id": "",
+      "donus_id": 708,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇAĞLAR",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ÇAĞLAR , ELAZIĞ",
+      "gidis_id": 658,
+      "donus_id": 658,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "ŞEFKAT",
+      "il": "ELAZIĞ",
+      "kaynak_metin": "ŞEFKAT , ELAZIĞ",
+      "gidis_id": 719,
+      "donus_id": 719,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "ELAZIĞ TCDD Tren İstasyonları (Railway stations in ELAZIĞ) - Ücretsiz İndir",
+    "description": "ELAZIĞ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ELAZIĞ province.) (19 kayıt.) İçerik 19 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ELAZIĞ TCDD Tren İstasyonları (Railway stations in ELAZIĞ) | ListBase",
+    "seo_description": "İndir ELAZIĞ TCDD Tren İstasyonları (Railway stations in ELAZIĞ) — 19 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 19 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

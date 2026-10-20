@@ -1,0 +1,205 @@
+{
+  "id": "tr-afyonkarahisar-tcdd-istasyonlari",
+  "name": "AFYONKARAHİSAR TCDD Tren İstasyonları (Railway stations in AFYONKARAHİSAR)",
+  "title": "AFYONKARAHİSAR TCDD Tren İstasyonları (Railway stations in AFYONKARAHİSAR)",
+  "description": "AFYONKARAHİSAR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in AFYONKARAHİSAR province.) (16 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AFYON A.ÇETİNKAYA",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "AFYON A.ÇETİNKAYA , AFYONKARAHİSAR",
+      "gidis_id": 873,
+      "donus_id": 873,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 68
+    },
+    {
+      "istasyon": "BARAKLI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "BARAKLI , AFYONKARAHİSAR",
+      "gidis_id": 883,
+      "donus_id": 883,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "DAZKIRI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "DAZKIRI , AFYONKARAHİSAR",
+      "gidis_id": 898,
+      "donus_id": 898,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "DÖĞER",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "DÖĞER , AFYONKARAHİSAR",
+      "gidis_id": 903,
+      "donus_id": 903,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 53
+    },
+    {
+      "istasyon": "DİNAR",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "DİNAR , AFYONKARAHİSAR",
+      "gidis_id": 1081,
+      "donus_id": 1081,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 61
+    },
+    {
+      "istasyon": "EKİNOVA",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "EKİNOVA , AFYONKARAHİSAR",
+      "gidis_id": 907,
+      "donus_id": 907,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "EVCİLER",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "EVCİLER , AFYONKARAHİSAR",
+      "gidis_id": 1125,
+      "donus_id": 1125,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 56
+    },
+    {
+      "istasyon": "GAZLIGÖL",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "GAZLIGÖL , AFYONKARAHİSAR",
+      "gidis_id": 917,
+      "donus_id": 917,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "KARAKUYU",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "KARAKUYU , AFYONKARAHİSAR",
+      "gidis_id": 926,
+      "donus_id": 926,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SANDIKLI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "SANDIKLI , AFYONKARAHİSAR",
+      "gidis_id": 1160,
+      "donus_id": 1160,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SULTANDAĞI",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "SULTANDAĞI , AFYONKARAHİSAR",
+      "gidis_id": 959,
+      "donus_id": 959,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÜTLAÇ",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "SÜTLAÇ , AFYONKARAHİSAR",
+      "gidis_id": 961,
+      "donus_id": 961,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TINAZTEPE",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "TINAZTEPE , AFYONKARAHİSAR",
+      "gidis_id": 963,
+      "donus_id": 963,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YILDIRIMKEMAL",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "YILDIRIMKEMAL , AFYONKARAHİSAR",
+      "gidis_id": 967,
+      "donus_id": 967,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇAY",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "ÇAY , AFYONKARAHİSAR",
+      "gidis_id": 912,
+      "donus_id": 912,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 44
+    },
+    {
+      "istasyon": "İHSANİYE",
+      "il": "AFYONKARAHİSAR",
+      "kaynak_metin": "İHSANİYE , AFYONKARAHİSAR",
+      "gidis_id": 922,
+      "donus_id": 922,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 47
+    }
+  ],
+  "meta": {
+    "title": "AFYONKARAHİSAR TCDD Tren İstasyonları (Railway stations in AFYONKARAHİSAR) - Ücretsiz İndir",
+    "description": "AFYONKARAHİSAR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in AFYONKARAHİSAR province.) (16 kayıt.) İçerik 16 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "AFYONKARAHİSAR TCDD Tren İstasyonları (Railway stations in AFYONKARAHİSAR) | ListBase",
+    "seo_description": "İndir AFYONKARAHİSAR TCDD Tren İstasyonları (Railway stations in AFYONKARAHİSAR) — 16 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 16 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

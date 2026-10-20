@@ -1,0 +1,446 @@
+{
+  "id": "tr-tff-kulupleri",
+  "name": "Türkiye Süper Lig ve 1. Lig Kulüpleri (Turkish Super League & 1st League Clubs)",
+  "title": "Türkiye Süper Lig ve 1. Lig Kulüpleri (Turkish Super League & 1st League Clubs)",
+  "description": "2020-21 sezonu Süper Lig ve TFF 1. Lig kulüpleri; TFF kulüp kodu, şehir, bölge, iletişim ve stadyum bilgisiyle. (38 kayıt.) (Turkish Süper Lig and TFF 1st League clubs for the 2020-21 season with TFF club id, city, region, contact details and home stadium.)",
+  "category": "sports",
+  "source": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "source_url": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "kulup",
+      "label": "Kulup",
+      "type": "string"
+    },
+    {
+      "key": "tff_id",
+      "label": "Tff Id",
+      "type": "number"
+    },
+    {
+      "key": "sehir",
+      "label": "Sehir",
+      "type": "string"
+    },
+    {
+      "key": "bolge",
+      "label": "Bolge",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "adres",
+      "label": "Adres",
+      "type": "string"
+    },
+    {
+      "key": "logo_url",
+      "label": "Logo Url",
+      "type": "string"
+    },
+    {
+      "key": "stadyum",
+      "label": "Stadyum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kulup": "ADANA DEMİRSPOR",
+      "tff_id": 161,
+      "sehir": "ADANA",
+      "bolge": "ADANA",
+      "telefon": "(0322)4579488",
+      "adres": "KURTULUŞ MAH. 64024 SOK. NO:3/A SEYHAN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000161_120x120.png",
+      "stadyum": "YENİ ADANA STADYUMU"
+    },
+    {
+      "kulup": "ADANASPOR A.Ş.",
+      "tff_id": 163,
+      "sehir": "ADANA",
+      "bolge": "ADANA",
+      "telefon": "(0322)2472510",
+      "adres": "BELEDİYE EVLERİ MAH. 84025 SK. NO:8/A OSMAN YEREŞEN SPOR TES.",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000163_120x120.png",
+      "stadyum": "YENİ ADANA STADYUMU"
+    },
+    {
+      "kulup": "AKHİSARSPOR",
+      "tff_id": 84,
+      "sehir": "MANİSA",
+      "bolge": "İZMİR",
+      "telefon": "(236)4128889",
+      "adres": "ATATÜRK MAH. 167 SOK. NO:201 AKHİSAR",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000084_120x120.png",
+      "stadyum": "SPOR TOTO AKHİSAR STADYUMU"
+    },
+    {
+      "kulup": "ALTAY",
+      "tff_id": 149,
+      "sehir": "İZMİR",
+      "bolge": "İZMİR",
+      "telefon": "4441914",
+      "adres": "ATATÜRK BULVARI 690 NO:8 VALİ KUTLU AKTAŞ TESİSLERİ GAZİEMİR",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000149_120x120.png",
+      "stadyum": "BORNOVA AZİZ KOCAOĞLU STADYUMU"
+    },
+    {
+      "kulup": "ALTINORDU",
+      "tff_id": 103,
+      "sehir": "İZMİR",
+      "bolge": "İZMİR",
+      "telefon": "0232 425 19 23",
+      "adres": "SAİT ALTINORDU TESİS 9163/1 SK NO:9 PAZARYERİ ALTI YEŞİLYURT",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000103_120x120.png",
+      "stadyum": "BORNOVA AZİZ KOCAOĞLU STADYUMU"
+    },
+    {
+      "kulup": "ANKARA KEÇİÖRENGÜCÜ",
+      "tff_id": 4,
+      "sehir": "ANKARA",
+      "bolge": "ANKARA",
+      "telefon": "(0312)3812811",
+      "adres": "ADNAN MEND. MAH. ŞEHİT MEHMET KARAKAŞOĞLU SK. NO:1 KEÇİÖREN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000004_120x120.png",
+      "stadyum": "AKTEPE STADI"
+    },
+    {
+      "kulup": "ANKARASPOR",
+      "tff_id": 10779,
+      "sehir": "ANKARA",
+      "bolge": "ANKARA",
+      "telefon": "(312)4351299",
+      "adres": "İNÖNÜ MAH. 1617 CAD. 1710 SOK. NO:31 BATIKENT Y.MAH/ANKARA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/010779_120x120.png",
+      "stadyum": "OSMANLI STADI"
+    },
+    {
+      "kulup": "ATAKAŞ HATAYSPOR",
+      "tff_id": 122,
+      "sehir": "HATAY",
+      "bolge": "ADANA",
+      "telefon": "(0326)2251631",
+      "adres": "HATAYSPOR KULÜBÜ MAŞUKLU MAH. REYHANLI YOLU ÜZERİ 23 ANTAKYA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000122_120x120.png",
+      "stadyum": ""
+    },
+    {
+      "kulup": "AYTEMİZ ALANYASPOR",
+      "tff_id": 50,
+      "sehir": "ANTALYA",
+      "bolge": "ANTALYA",
+      "telefon": "0 242 522 43 45",
+      "adres": "CENGİZ AYDOĞAN TESİSLERİ ZİMBİTLİK ALANYA-ANTALYA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000050_120x120.png",
+      "stadyum": "BAHÇEŞEHİR OKULLARI STADYUMU"
+    },
+    {
+      "kulup": "BALIKESİRSPOR",
+      "tff_id": 137,
+      "sehir": "BURSA",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(266)2391235",
+      "adres": "G.ÇEŞME MAH. ESKİ KEPSUT YOLU AHP TES. YANI BALIKESİRSPOR T.",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000137_120x120.png",
+      "stadyum": "BALIKESİR ATATÜRK"
+    },
+    {
+      "kulup": "BEŞİKTAŞ A.Ş.",
+      "tff_id": 148,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(212)9481903",
+      "adres": "VİŞNEZADE MH. KADIRGALAR CD. NO:1 VODAFONE PARK",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000148_120x120.png",
+      "stadyum": "VODAFONE PARK"
+    },
+    {
+      "kulup": "BEYPİLİÇ BOLUSPOR",
+      "tff_id": 151,
+      "sehir": "BOLU",
+      "bolge": "ANKARA",
+      "telefon": "(374)2151360",
+      "adres": "KARAÇAYIR MAH.MURAT CANBAŞ CD. BOLUSPOR SOSYAL TESİSLERİ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000151_120x120.png",
+      "stadyum": "BOLU ATATÜRK"
+    },
+    {
+      "kulup": "BURSASPOR",
+      "tff_id": 159,
+      "sehir": "BURSA",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(224)4136300",
+      "adres": "ÖZLÜCE TESİSLERİ İZMİR YOLU 4.KM NİLÜFER BURSA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000159_120x120.png",
+      "stadyum": "BURSA BÜYÜKŞEHİR BELEDİYE STADYUMU"
+    },
+    {
+      "kulup": "BÜYÜKŞEHİR BELEDİYE ERZURUMSPOR",
+      "tff_id": 10491,
+      "sehir": "ERZURUM",
+      "bolge": "ERZURUM",
+      "telefon": "(0442)2336361",
+      "adres": "HAVAALANI YOLU CD. B.Ş.BLD.ERZURUMSPOR TESİSLERİ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/010491_120x120.png",
+      "stadyum": "ERZURUM KAZIM KARABEKİR"
+    },
+    {
+      "kulup": "ÇAYKUR RİZESPOR A.Ş.",
+      "tff_id": 189,
+      "sehir": "RİZE",
+      "bolge": "TRABZON",
+      "telefon": "(464)2261901 PBX",
+      "adres": "MEHMET CENGİZ T. TAŞLIDERE MH. SEVGİ CAD. NO:3 MERKEZ/RİZE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000189_120x120.png",
+      "stadyum": "ÇAYKUR DİDİ"
+    },
+    {
+      "kulup": "DEMİR GRUP SİVASSPOR",
+      "tff_id": 73,
+      "sehir": "SİVAS",
+      "bolge": "KAYSERİ",
+      "telefon": "(346)2264180-81-82",
+      "adres": "GÜLTEPE MAH. ANKARA-ERZİNCAN YOLU SİVASSPOR TESİSLERİ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000073_120x120.png",
+      "stadyum": "YENİ 4 EYLÜL STADI"
+    },
+    {
+      "kulup": "ESKİŞEHİRSPOR",
+      "tff_id": 1,
+      "sehir": "ESKİŞEHİR",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(0222)3229890",
+      "adres": "VALİ HANEFİ DEMİRKOL TESİSLERİ ÇEVREYOLU POLİS EVİ YANI",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000001_120x120.png",
+      "stadyum": "ESKİŞEHİR YENİ STADYUM"
+    },
+    {
+      "kulup": "FATİH KARAGÜMRÜK A.Ş.",
+      "tff_id": 169,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0212)5327844",
+      "adres": "AYAZAĞA MH. MİMAR SİNAN SK. NO.21/C BLOK OFİS 23",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000169_120x120.png",
+      "stadyum": ""
+    },
+    {
+      "kulup": "FENERBAHÇE A.Ş.",
+      "tff_id": 150,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0216)5421907",
+      "adres": "FENERBAHÇE ŞÜKRÜ SARACOĞLU STADI KIZILTOPRAK - KADIKÖY",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000150_120x120.png",
+      "stadyum": "ÜLKER STADYUMU FB ŞÜKRÜ SARACOĞLU SPOR KOMPLEKSİ"
+    },
+    {
+      "kulup": "FRAPORT-TAV ANTALYASPOR",
+      "tff_id": 51,
+      "sehir": "ANTALYA",
+      "bolge": "ANTALYA",
+      "telefon": "(242)4432500",
+      "adres": "A.VEHBİKONUK TES YEŞİLBAYIR MH GMK ATATÜRK CD.44/A DÖŞEMEALTI",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000051_120x120.png",
+      "stadyum": "ANTALYA STADYUMU"
+    },
+    {
+      "kulup": "GALATASARAY A.Ş.",
+      "tff_id": 162,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "2123051905",
+      "adres": "A.SAMİ YEN SPOR KOMP. TT ARENA STADI HUZUR MAH. SEYRANTEPE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000162_120x120.png",
+      "stadyum": "ALİ SAMİ YEN SPOR KOMPLEKSİ TÜRK TELEKOM STADYUMU"
+    },
+    {
+      "kulup": "GENÇLERBİRLİĞİ",
+      "tff_id": 164,
+      "sehir": "ANKARA",
+      "bolge": "ANKARA",
+      "telefon": "(312)2153000",
+      "adres": "EMNİYET MAH. ALPARSLAN TÜRKEŞ CAD. NO:6 BEŞTEPE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000164_120x120.png",
+      "stadyum": "ERYAMAN STADYUMU"
+    },
+    {
+      "kulup": "GİRESUNSPOR",
+      "tff_id": 187,
+      "sehir": "GİRESUN",
+      "bolge": "TRABZON",
+      "telefon": "(454)2255310",
+      "adres": "AKSU MH. MEHMET İZMEN CD. NO:152 - GİRESUN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000187_120x120.png",
+      "stadyum": "ÇOTANAK SPOR KOMPLEKSİ"
+    },
+    {
+      "kulup": "GÖZTEPE A.Ş.",
+      "tff_id": 269,
+      "sehir": "İZMİR",
+      "bolge": "İZMİR",
+      "telefon": "(232)2473616",
+      "adres": "MİTHATPAŞA CAD. NO:1170 GÜZELYALI - İZMİR",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000269_120x120.png",
+      "stadyum": "GÜRSEL AKSEL STADYUMU"
+    },
+    {
+      "kulup": "HES KABLO KAYSERİSPOR",
+      "tff_id": 71,
+      "sehir": "KAYSERİ",
+      "bolge": "KAYSERİ",
+      "telefon": "(352)3512727",
+      "adres": "ERKİLET BULVARI KADİR HAS TESİSLERİ NO:327 KOCASİNAN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000071_120x120.png",
+      "stadyum": "BÜYÜKŞEHİR BELEDİYESİ KADİR HAS"
+    },
+    {
+      "kulup": "İSTANBULSPOR A.Ş.",
+      "tff_id": 175,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0212)8612212",
+      "adres": "ULUS MAH TAŞOCAĞI SOK.İST TESİ NO:3/3 B.ÇEKMECE/İSTANBUL",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000175_120x120.png",
+      "stadyum": "ESENYURT NECMİ KADIOĞLU STADI"
+    },
+    {
+      "kulup": "İTTİFAK HOLDİNG KONYASPOR",
+      "tff_id": 158,
+      "sehir": "KONYA",
+      "bolge": "ANKARA",
+      "telefon": "(332) 353 15 22",
+      "adres": "PARSANA MAH.KALETAŞ CAD. NO:7/204 SELÇUKLU/ KONYA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000158_120x120.png",
+      "stadyum": "MEDAŞ KONYA BÜYÜKŞEHİR STADYUMU"
+    },
+    {
+      "kulup": "KASIMPAŞA A.Ş.",
+      "tff_id": 38,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0212)3642000",
+      "adres": "MİMAR SİNAN MAH. BAHÇEKÖY CD. Ç.ÇİFTLİK SK.NO:26 KEMERBURGAZ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000038_120x120.png",
+      "stadyum": "RECEP TAYYİP ERDOĞAN STADYUMU"
+    },
+    {
+      "kulup": "MEDİPOL BAŞAKŞEHİR FK",
+      "tff_id": 240,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "2124733333",
+      "adres": "BAŞAKŞEHİR FATİH TERİM STADI İBNİ SİNA CD NO.5A 4.ETAP İST",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000240_120x120.png",
+      "stadyum": "BAŞAKŞEHİR FATİH TERİM"
+    },
+    {
+      "kulup": "MENEMEN SPOR",
+      "tff_id": 12893,
+      "sehir": "İZMİR",
+      "bolge": "İZMİR",
+      "telefon": "(0232)8322664",
+      "adres": "KAZIMPAŞA MAHALLESİ 1212 SOKAK NO:154/C MENEMEN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/012893_120x120.png",
+      "stadyum": "MENEMEN İLÇE STADI"
+    },
+    {
+      "kulup": "MKE ANKARAGÜCÜ",
+      "tff_id": 153,
+      "sehir": "ANKARA",
+      "bolge": "ANKARA",
+      "telefon": "(312)2124412",
+      "adres": "EMNİYET MAH. ÇARŞIYOLU CAD. ÇARŞIYOLU SOK.NO19 YENİMAHALLE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000153_120x120.png",
+      "stadyum": "ERYAMAN STADYUMU"
+    },
+    {
+      "kulup": "ROYAL HASTANESİ BANDIRMASPOR",
+      "tff_id": 132,
+      "sehir": "BALIKESİR",
+      "bolge": "BURSA/MARMARA",
+      "telefon": "(266)721 47 84",
+      "adres": "HAYDAR ÇAVUŞ MAH. İSTİKLAL CD. NO:10,5 BANDIRMA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000132_120x120.png",
+      "stadyum": "BANDIRMA 17 EYLÜL"
+    },
+    {
+      "kulup": "TRABZONSPOR A.Ş.",
+      "tff_id": 154,
+      "sehir": "TRABZON",
+      "bolge": "TRABZON",
+      "telefon": "(0462)3250967",
+      "adres": "ÜNİ.MAH. A.SUAT ÖZYAZICI CAD. M.ALİ YILMAZ TES. NO:31-35",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000154_120x120.png",
+      "stadyum": "ŞENOL GÜNEŞ SPOR KOMPLEKSİ"
+    },
+    {
+      "kulup": "TUZLASPOR A.Ş.",
+      "tff_id": 14782,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0216)5071004",
+      "adres": "İÇMELER MAH. BİLGEHAN SOK. NO:5 TUZLA / İSTANBUL",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/014782_120x120.png",
+      "stadyum": ""
+    },
+    {
+      "kulup": "ÜMRANİYESPOR",
+      "tff_id": 232,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0216)6302008",
+      "adres": "KÜÇÜKSU CAD. HEKİMBAŞI MAH. ÜMRANİYE SOS. SPOR T. ÜMRANİYE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000232_120x120.png",
+      "stadyum": "ÜMRANİYE BELEDİYESİ ŞEHİR STADI"
+    },
+    {
+      "kulup": "YENİ MALATYASPOR",
+      "tff_id": 11385,
+      "sehir": "MALATYA",
+      "bolge": "MALATYA",
+      "telefon": "4223114543",
+      "adres": "ORDUZU PINARBAŞI MEVKİ NURETTİN SOYKAN TES.BATTALGAZİ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/011385_120x120.png",
+      "stadyum": "YENİ MALATYA STADYUMU"
+    },
+    {
+      "kulup": "YILPORT SAMSUNSPOR",
+      "tff_id": 155,
+      "sehir": "SAMSUN",
+      "bolge": "SAMSUN",
+      "telefon": "(362)2383696",
+      "adres": "ATATÜRK BLV.YENİ MAH.ASAN TES NO:7/7 CANİK SAMSUN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000155_120x120.png",
+      "stadyum": "SAMSUN YENİ 19 MAYIS"
+    },
+    {
+      "kulup": "YUKATEL DENİZLİSPOR",
+      "tff_id": 80,
+      "sehir": "DENİZLİ",
+      "bolge": "İZMİR",
+      "telefon": "(0258)3722581",
+      "adres": "AKÇEŞME MH.2500 SK. A.MENDERES BULV. NO:3 MERKEZEFENDİ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000080_120x120.png",
+      "stadyum": "DENİZLİ ATATÜRK STADI"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye Süper Lig ve 1. Lig Kulüpleri (Turkish Super League & 1st League Clubs) - Ücretsiz İndir",
+    "description": "2020-21 sezonu Süper Lig ve TFF 1. Lig kulüpleri; TFF kulüp kodu, şehir, bölge, iletişim ve stadyum bilgisiyle. (38 kayıt.) (Turkish Süper Lig and TFF 1st League clubs for the 2020-21 season with TFF club id, city, region, contact details and home stadium.) İçerik 38 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Türkiye Süper Lig ve 1. Lig Kulüpleri (Turkish Super League & 1st League Clubs) | ListBase",
+    "seo_description": "İndir Türkiye Süper Lig ve 1. Lig Kulüpleri (Turkish Super League & 1st League Clubs) — 38 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 38 kayıt / 8 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/kadocolak/turkey-football-super-league-json-data-set"
+    ]
+  }
+}

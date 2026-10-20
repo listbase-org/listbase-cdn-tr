@@ -1,0 +1,268 @@
+{
+  "id": "tr-tunceli-liseler",
+  "name": "Tunceli Liseleri (High Schools in Tunceli)",
+  "title": "Tunceli Liseleri (High Schools in Tunceli)",
+  "description": "Tunceli ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (16 kayıt) (High schools in Tunceli province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Hozat Zübeyde Hanım Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Tunceli - Hozat - Hozat Zübeyde Hanım Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Hozat",
+      "website": "http://hozatzhl.meb.k12.tr",
+      "enlem": 39.1052450289797,
+      "boylam": 39.221489039797916
+    },
+    {
+      "okul_adi": "Akpazar Anadolu Lisesi",
+      "tam_ad": "Tunceli - Mazgirt - Akpazar Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Mazgirt",
+      "website": "http://akpazaraol.meb.k12.tr",
+      "enlem": 38.85511852336069,
+      "boylam": 39.69013532771601
+    },
+    {
+      "okul_adi": "Akpazar Süleyman Paşa Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Tunceli - Mazgirt - Akpazar Süleyman Paşa Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Mazgirt",
+      "website": "http://suleymanpasacpal.meb.k12.tr",
+      "enlem": 38.850506459023876,
+      "boylam": 39.678561595816745
+    },
+    {
+      "okul_adi": "Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Tunceli - Merkez - Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Merkez",
+      "website": "http://tunceliataturklisesi.meb.k12.tr",
+      "enlem": 39.11093941032377,
+      "boylam": 39.54799970759882
+    },
+    {
+      "okul_adi": "Halide Edip Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Tunceli - Merkez - Halide Edip Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Merkez",
+      "website": "http://halideedipkml.meb.k12.tr",
+      "enlem": 39.11030256157589,
+      "boylam": 39.54980751647486
+    },
+    {
+      "okul_adi": "Namık Kemal Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Tunceli - Merkez - Namık Kemal Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Merkez",
+      "website": "http://namikkemaleml.meb.k12.tr",
+      "enlem": 39.10788831145048,
+      "boylam": 39.54850396289362
+    },
+    {
+      "okul_adi": "İbni Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Tunceli - Merkez - İbni Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Merkez",
+      "website": "http://tunceliibnisina.meb.k12.tr",
+      "enlem": 39.08787599007675,
+      "boylam": 39.53550061358942
+    },
+    {
+      "okul_adi": "İsmet İnönü Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Tunceli - Merkez - İsmet İnönü Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Merkez",
+      "website": "http://ismetinonutml.meb.k12.tr",
+      "enlem": 39.101899677623855,
+      "boylam": 39.53482838495506
+    },
+    {
+      "okul_adi": "Şehit Mehmet Anadolu Lisesi",
+      "tam_ad": "Tunceli - Nazimiye - Şehit Mehmet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Nazimiye",
+      "website": "http://sehitmehmetlisesi.meb.k12.tr",
+      "enlem": 39.17892837669562,
+      "boylam": 39.83121952189936
+    },
+    {
+      "okul_adi": "Mareşal Fevzi Çakmak Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Tunceli - Ovacık - Mareşal Fevzi Çakmak Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Ovacık",
+      "website": "http://maresalfevzicakmaklisesi.meb.k12.tr",
+      "enlem": 39.35775978793063,
+      "boylam": 39.21195110454096
+    },
+    {
+      "okul_adi": "Mustafa Kemal Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Tunceli - Pertek - Mustafa Kemal Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Pertek",
+      "website": "http://pertekmkl.meb.k12.tr",
+      "enlem": 38.87108089141622,
+      "boylam": 39.32376166953577
+    },
+    {
+      "okul_adi": "Mustafa Kemal Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Tunceli - Pertek - Mustafa Kemal Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Pertek",
+      "website": "http://pertekmkpal869723.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Pertek Öğretmen Zeynel Erol Anadolu Lisesi",
+      "tam_ad": "Tunceli - Pertek - Pertek Öğretmen Zeynel Erol Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Pertek",
+      "website": "http://pertekanadolulisesi.meb.k12.tr",
+      "enlem": 38.87242780678019,
+      "boylam": 39.3240728057815
+    },
+    {
+      "okul_adi": "Gazi Anadolu Lisesi",
+      "tam_ad": "Tunceli - Pülümür - Gazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Pülümür",
+      "website": "http://pulumurgazilisesi.meb.k12.tr",
+      "enlem": 39.479515099428646,
+      "boylam": 39.89503463878168
+    },
+    {
+      "okul_adi": "Raşit Yüksel Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Tunceli - Çemişgezek - Raşit Yüksel Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Tunceli",
+      "ilce": "Çemişgezek",
+      "website": "http://rasityukselihl.meb.k12.tr",
+      "enlem": 39.05796765894751,
+      "boylam": 38.9137967504455
+    },
+    {
+      "okul_adi": "Çemişgezek Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Tunceli - Çemişgezek - Çemişgezek Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Tunceli",
+      "ilce": "Çemişgezek",
+      "website": "http://cemisgezekimkbl.meb.k12.tr",
+      "enlem": 39.05907984353387,
+      "boylam": 38.91232689990534
+    }
+  ],
+  "meta": {
+    "title": "Tunceli Liseleri (High Schools in Tunceli) - Ücretsiz İndir",
+    "description": "Tunceli ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (16 kayıt) (High schools in Tunceli province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 16 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Tunceli Liseleri (High Schools in Tunceli) | ListBase",
+    "seo_description": "İndir Tunceli Liseleri (High Schools in Tunceli) — 16 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 16 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

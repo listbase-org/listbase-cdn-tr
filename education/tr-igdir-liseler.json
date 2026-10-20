@@ -1,0 +1,256 @@
+{
+  "id": "tr-igdir-liseler",
+  "name": "Iğdır Liseleri (High Schools in Iğdır)",
+  "title": "Iğdır Liseleri (High Schools in Iğdır)",
+  "description": "Iğdır ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (15 kayıt) (High schools in Iğdır province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Aralık Anadolu Lisesi",
+      "tam_ad": "Iğdır - Aralık - Aralık Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Aralık",
+      "website": "http://aralikanadolulisesi.meb.k12.tr",
+      "enlem": 39.86744830779439,
+      "boylam": 44.512336758513584
+    },
+    {
+      "okul_adi": "Aralık Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Iğdır - Aralık - Aralık Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Aralık",
+      "website": "http://aralikkml.meb.k12.tr",
+      "enlem": 39.85208681847991,
+      "boylam": 44.50985035075678
+    },
+    {
+      "okul_adi": "Dilucu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Iğdır - Aralık - Dilucu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Aralık",
+      "website": "http://dilucueml.meb.k12.tr",
+      "enlem": 39.87180378928138,
+      "boylam": 44.51412380679062
+    },
+    {
+      "okul_adi": "Ahmet Ali Dönmez Anadolu Lisesi",
+      "tam_ad": "Iğdır - Karakoyunlu - Ahmet Ali Dönmez Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Karakoyunlu",
+      "website": "http://ahmetalidonmez.meb.k12.tr",
+      "enlem": 39.96585430619383,
+      "boylam": 44.183092919726505
+    },
+    {
+      "okul_adi": "125. Yıl Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - 125. Yıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://125yilanadolulisesi.meb.k12.tr",
+      "enlem": 39.932757455425275,
+      "boylam": 44.02175268306269
+    },
+    {
+      "okul_adi": "15 Temmuz Şehitleri Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - 15 Temmuz Şehitleri Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://igdircal.meb.k12.tr",
+      "enlem": 39.935612113946235,
+      "boylam": 44.048242179293766
+    },
+    {
+      "okul_adi": "70. Yıl Cumhuriyet Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - 70. Yıl Cumhuriyet Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://igdirsml.meb.k12.tr",
+      "enlem": 39.93006310797971,
+      "boylam": 44.061245528597965
+    },
+    {
+      "okul_adi": "Atatürk Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://igdiraal.meb.k12.tr",
+      "enlem": 39.91607136381731,
+      "boylam": 44.035743085284366
+    },
+    {
+      "okul_adi": "Besti Aydeniz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - Besti Aydeniz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://bestiaydeniz.meb.k12.tr",
+      "enlem": 39.93527071292765,
+      "boylam": 44.046656993765964
+    },
+    {
+      "okul_adi": "Iğdır Milli Eğitim Vakfı Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - Iğdır Milli Eğitim Vakfı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://igdirmevanadolulisesi.meb.k12.tr",
+      "enlem": 39.93557509464106,
+      "boylam": 44.04901197328104
+    },
+    {
+      "okul_adi": "Iğdır Spor Lisesi",
+      "tam_ad": "Iğdır - Merkez - Iğdır Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://igdirsporlisesi.meb.k12.tr",
+      "enlem": 39.951666321449125,
+      "boylam": 43.968785760541095
+    },
+    {
+      "okul_adi": "Kafkas Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - Kafkas Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://kafkasmtal.meb.k12.tr",
+      "enlem": 39.93499512291125,
+      "boylam": 44.06480750216974
+    },
+    {
+      "okul_adi": "Nene Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Iğdır - Merkez - Nene Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "website": "http://igdirnenehatunmtal.meb.k12.tr",
+      "enlem": 39.90795311387725,
+      "boylam": 44.0543898023559
+    },
+    {
+      "okul_adi": "100. Yıl Anadolu Lisesi",
+      "tam_ad": "Iğdır - Tuzluca - 100. Yıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Iğdır",
+      "ilce": "Tuzluca",
+      "website": "http://tuzluca100yilanadolulisesi.meb.k12.tr",
+      "enlem": 40.04008295399427,
+      "boylam": 43.66418471707834
+    },
+    {
+      "okul_adi": "Kut Ül Amare Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Iğdır - Tuzluca - Kut Ül Amare Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Iğdır",
+      "ilce": "Tuzluca",
+      "website": "http://kutulamareaihl.meb.k12.tr",
+      "enlem": 40.03189727282116,
+      "boylam": 43.650113848586216
+    }
+  ],
+  "meta": {
+    "title": "Iğdır Liseleri (High Schools in Iğdır) - Ücretsiz İndir",
+    "description": "Iğdır ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (15 kayıt) (High schools in Iğdır province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 15 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Iğdır Liseleri (High Schools in Iğdır) | ListBase",
+    "seo_description": "İndir Iğdır Liseleri (High Schools in Iğdır) — 15 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 15 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

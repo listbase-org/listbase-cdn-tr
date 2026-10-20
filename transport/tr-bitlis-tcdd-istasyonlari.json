@@ -1,0 +1,88 @@
+{
+  "id": "tr-bitlis-tcdd-istasyonlari",
+  "name": "BİTLİS TCDD Tren İstasyonları (Railway stations in BİTLİS)",
+  "title": "BİTLİS TCDD Tren İstasyonları (Railway stations in BİTLİS)",
+  "description": "BİTLİS ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BİTLİS province.) (3 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "string"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "RAHOVA",
+      "il": "BİTLİS",
+      "kaynak_metin": "RAHOVA , BİTLİS",
+      "gidis_id": "",
+      "donus_id": 711,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SICAKSU",
+      "il": "BİTLİS",
+      "kaynak_metin": "SICAKSU , BİTLİS",
+      "gidis_id": "",
+      "donus_id": 1071,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TATVAN GAR",
+      "il": "BİTLİS",
+      "kaynak_metin": "TATVAN GAR , BİTLİS",
+      "gidis_id": "",
+      "donus_id": 712,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "BİTLİS TCDD Tren İstasyonları (Railway stations in BİTLİS) - Ücretsiz İndir",
+    "description": "BİTLİS ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BİTLİS province.) (3 kayıt.) İçerik 3 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "BİTLİS TCDD Tren İstasyonları (Railway stations in BİTLİS) | ListBase",
+    "seo_description": "İndir BİTLİS TCDD Tren İstasyonları (Railway stations in BİTLİS) — 3 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 3 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

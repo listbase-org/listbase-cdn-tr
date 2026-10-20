@@ -1,0 +1,460 @@
+{
+  "id": "tr-kirklareli-liseler",
+  "name": "Kırklareli Liseleri (High Schools in Kırklareli)",
+  "title": "Kırklareli Liseleri (High Schools in Kırklareli)",
+  "description": "Kırklareli ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Kırklareli province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Babaeski Atatürk  Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Babaeski Atatürk  Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://babaeskiataturkal.meb.k12.tr",
+      "enlem": 41.43218443850361,
+      "boylam": 27.08972355498804
+    },
+    {
+      "okul_adi": "Babaeski Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Babaeski Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://babaeskiteml.meb.k12.tr",
+      "enlem": 41.43123525939685,
+      "boylam": 27.110065428156986
+    },
+    {
+      "okul_adi": "Babaeski Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Babaeski Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://babaeskimtal.meb.k12.tr",
+      "enlem": 41.430496217326024,
+      "boylam": 27.090134603519573
+    },
+    {
+      "okul_adi": "Babaeski İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Babaeski İmkb Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://babaeskiimkbtml.meb.k12.tr",
+      "enlem": 41.44147037820271,
+      "boylam": 27.062445489306583
+    },
+    {
+      "okul_adi": "Babaeski Şehit Ersan Yenici Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Babaeski Şehit Ersan Yenici Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://babaeskial.meb.k12.tr",
+      "enlem": 41.44186446838419,
+      "boylam": 27.0615657247497
+    },
+    {
+      "okul_adi": "Büyükmandıra Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Büyükmandıra Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://buyukmandiraanadolulisesi.meb.k12.tr",
+      "enlem": 41.34358158220268,
+      "boylam": 27.105038968463077
+    },
+    {
+      "okul_adi": "Gazi Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırklareli - Babaeski - Gazi Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "website": "http://babaeskiimamhatiplisesi.meb.k12.tr",
+      "enlem": 41.43085719266754,
+      "boylam": 27.110634056468143
+    },
+    {
+      "okul_adi": "Demirköy Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Demirköy - Demirköy Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Demirköy",
+      "website": "http://demirkoycpal.meb.k12.tr",
+      "enlem": 41.82537081682359,
+      "boylam": 27.7661498464538
+    },
+    {
+      "okul_adi": "Ahmetbey Şehit Öğretmen Uğur Gören Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Ahmetbey Şehit Öğretmen Uğur Gören Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://ahmetbeycpl.meb.k12.tr",
+      "enlem": 41.436982406924,
+      "boylam": 27.5848754323913
+    },
+    {
+      "okul_adi": "Büyükkarıştıran Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Büyükkarıştıran Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://buyukkaristirantml.meb.k12.tr",
+      "enlem": 41.30013561124386,
+      "boylam": 27.53839811458124
+    },
+    {
+      "okul_adi": "Düvenciler Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Düvenciler Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://duvencileranadolulisesi.meb.k12.tr",
+      "enlem": 41.39328891009648,
+      "boylam": 27.354822365183963
+    },
+    {
+      "okul_adi": "Kepirtepe Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Kepirtepe Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://kepirtepe.meb.k12.tr",
+      "enlem": 41.379858350961705,
+      "boylam": 27.39883741511835
+    },
+    {
+      "okul_adi": "Kırklareli Lüleburgaz Tek Güzel Sanatlar Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Kırklareli Lüleburgaz Tek Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://tekgssl.meb.k12.tr",
+      "enlem": 41.401518133447134,
+      "boylam": 27.379289475817814
+    },
+    {
+      "okul_adi": "Lüleburgaz Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Lüleburgaz Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://lal.meb.k12.tr",
+      "enlem": 41.39864908977515,
+      "boylam": 27.348165122409
+    },
+    {
+      "okul_adi": "Lüleburgaz Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Lüleburgaz Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://luleburgazihl.meb.k12.tr",
+      "enlem": 41.404886985521486,
+      "boylam": 27.353246567387714
+    },
+    {
+      "okul_adi": "Lüleburgaz Atatürk Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Lüleburgaz Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://luleburgazataturkanadolulisesi.meb.k12.tr",
+      "enlem": 41.41407122465544,
+      "boylam": 27.356522885699405
+    },
+    {
+      "okul_adi": "Lüleburgaz Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Lüleburgaz Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://luleburgazlisesi.meb.k12.tr",
+      "enlem": 41.40280574160189,
+      "boylam": 27.355836240191593
+    },
+    {
+      "okul_adi": "Lüleburgaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Lüleburgaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://luleburgazmtal.meb.k12.tr",
+      "enlem": 41.398299001442254,
+      "boylam": 27.376049367327823
+    },
+    {
+      "okul_adi": "Lüleburgaz Ramazan Yaman Fen Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Lüleburgaz Ramazan Yaman Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://ramazanyamanfenlisesi.meb.k12.tr",
+      "enlem": 41.39517242228424,
+      "boylam": 27.34540599708862
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://luleburgazmehmetakifersoy.meb.k12.tr",
+      "enlem": 41.39940559605412,
+      "boylam": 27.348621097941532
+    },
+    {
+      "okul_adi": "Rumeli Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Lüleburgaz - Rumeli Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "website": "http://rumelimtal.meb.k12.tr",
+      "enlem": 41.40033512096733,
+      "boylam": 27.349275556941166
+    },
+    {
+      "okul_adi": "Kırklareli Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Merkez - Kırklareli Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Merkez",
+      "website": "http://kirklarelianadolulisesi.meb.k12.tr",
+      "enlem": 41.73367544982949,
+      "boylam": 27.21485933436884
+    },
+    {
+      "okul_adi": "Kırklareli Atatürk Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Merkez - Kırklareli Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Merkez",
+      "website": "http://atanalise.meb.k12.tr",
+      "enlem": 41.72983228089603,
+      "boylam": 27.206490842242374
+    },
+    {
+      "okul_adi": "Remzi Yapıcı Sosyal Bilimler Lisesi",
+      "tam_ad": "Kırklareli - Merkez - Remzi Yapıcı Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Kırklareli",
+      "ilce": "Merkez",
+      "website": "http://remziyapicisbl.meb.k12.tr",
+      "enlem": 41.73922361935117,
+      "boylam": 27.20958074702753
+    },
+    {
+      "okul_adi": "Türkiye Odalar Ve Borsalar Birliği Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Merkez - Türkiye Odalar Ve Borsalar Birliği Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Merkez",
+      "website": "http://tobblisesi.meb.k12.tr",
+      "enlem": 41.73944777774292,
+      "boylam": 27.210739461321964
+    },
+    {
+      "okul_adi": "Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Pehlivanköy - Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Pehlivanköy",
+      "website": "http://pehlivankoycpl.meb.k12.tr",
+      "enlem": 41.349874091619014,
+      "boylam": 26.915117112536564
+    },
+    {
+      "okul_adi": "Pınarhisar Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Pınarhisar - Pınarhisar Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Pınarhisar",
+      "website": "http://pinarhisaranadolu.meb.k12.tr",
+      "enlem": 41.62259939439418,
+      "boylam": 27.528318373103275
+    },
+    {
+      "okul_adi": "Pınarhisar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırklareli - Pınarhisar - Pınarhisar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırklareli",
+      "ilce": "Pınarhisar",
+      "website": "http://pinarhisaranadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 41.621769299088065,
+      "boylam": 27.52372106685175
+    },
+    {
+      "okul_adi": "Kıyıköy Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Vize - Kıyıköy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Vize",
+      "website": "http://kiyikoyanadolulisesi.meb.k12.tr",
+      "enlem": 41.633934940488864,
+      "boylam": 28.09098681582941
+    },
+    {
+      "okul_adi": "Vize Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Vize - Vize Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Vize",
+      "website": "http://vizeanadolulisesi.meb.k12.tr",
+      "enlem": 41.576968414466656,
+      "boylam": 27.771565226454868
+    },
+    {
+      "okul_adi": "Vize Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kırklareli - Vize - Vize Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kırklareli",
+      "ilce": "Vize",
+      "website": "http://vizeaihl.meb.k12.tr",
+      "enlem": 41.57189988133937,
+      "boylam": 27.75967499389185
+    },
+    {
+      "okul_adi": "Vize Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kırklareli - Vize - Vize Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kırklareli",
+      "ilce": "Vize",
+      "website": "http://vizemetem.meb.k12.tr",
+      "enlem": 41.573059699545844,
+      "boylam": 27.76044747008814
+    }
+  ],
+  "meta": {
+    "title": "Kırklareli Liseleri (High Schools in Kırklareli) - Ücretsiz İndir",
+    "description": "Kırklareli ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Kırklareli province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 32 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kırklareli Liseleri (High Schools in Kırklareli) | ListBase",
+    "seo_description": "İndir Kırklareli Liseleri (High Schools in Kırklareli) — 32 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 32 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

@@ -1,0 +1,919 @@
+{
+  "id": "music-piano-chords",
+  "name": "Kapsamlı Piyano Akor Tablosu Referans Veri Seti",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "keys",
+      "label": "Keys/Notes",
+      "type": "string"
+    },
+    {
+      "key": "left_hand",
+      "label": "Left Hand",
+      "type": "string"
+    },
+    {
+      "key": "right_hand",
+      "label": "Right Hand",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    },
+    {
+      "key": "semitones",
+      "label": "Semitones",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "C Majör",
+      "type": "Majör",
+      "keys": "C-E-G",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Cm",
+      "name": "C Minör",
+      "type": "Minör",
+      "keys": "C-Eb-G",
+      "left_hand": "C-G",
+      "right_hand": "C-Eb-G",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "C7",
+      "name": "C Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "C-E-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-E-G-Bb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "C-E-G-B",
+      "left_hand": "C-B",
+      "right_hand": "C-E-G-B",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "C-Eb-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C Eksiltilmiş",
+      "type": "Eksiltilmiş",
+      "keys": "C-Eb-Gb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Cdim7",
+      "name": "C Eksiltilmiş 7'li",
+      "type": "Eksiltilmiş 7'li",
+      "keys": "C-Eb-Gb-Bbb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb-A",
+      "intervals": "1-b3-b5-bb7",
+      "semitones": "0-3-6-9"
+    },
+    {
+      "chord": "Caug",
+      "name": "C Artırılmış",
+      "type": "Artırılmış",
+      "keys": "C-E-G#",
+      "left_hand": "C-G#",
+      "right_hand": "C-E-G#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C Sus 2",
+      "type": "Suspended",
+      "keys": "C-D-G",
+      "left_hand": "C-G",
+      "right_hand": "C-D-G",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C Sus 4",
+      "type": "Suspended",
+      "keys": "C-F-G",
+      "left_hand": "C-G",
+      "right_hand": "C-F-G",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "C6",
+      "name": "C Majör 6'lı",
+      "type": "Majör 6'lı",
+      "keys": "C-E-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-E-G-A",
+      "intervals": "1-3-5-6",
+      "semitones": "0-4-7-9"
+    },
+    {
+      "chord": "Cm6",
+      "name": "C Minör 6'lı",
+      "type": "Minör 6'lı",
+      "keys": "C-Eb-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-Eb-G-A",
+      "intervals": "1-b3-5-6",
+      "semitones": "0-3-7-9"
+    },
+    {
+      "chord": "C9",
+      "name": "C Dominant 9'lu",
+      "type": "Dominant 9'lu",
+      "keys": "C-E-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-Bb-D",
+      "intervals": "1-3-5-b7-9",
+      "semitones": "0-4-7-10-14"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C Add 9",
+      "type": "Add 9",
+      "keys": "C-E-G-D",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G-D",
+      "intervals": "1-3-5-9",
+      "semitones": "0-4-7-14"
+    },
+    {
+      "chord": "D",
+      "name": "D Majör",
+      "type": "Majör",
+      "keys": "D-F#-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F#-A",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Dm",
+      "name": "D Minör",
+      "type": "Minör",
+      "keys": "D-F-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F-A",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "D7",
+      "name": "D Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "D-F#-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F#-A-C",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "D-F#-A-C#",
+      "left_hand": "D-C#",
+      "right_hand": "D-F#-A-C#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "D-F-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F-A-C",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D Eksiltilmiş",
+      "type": "Eksiltilmiş",
+      "keys": "D-F-Ab",
+      "left_hand": "D-Ab",
+      "right_hand": "D-F-Ab",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Artırılmış",
+      "type": "Artırılmış",
+      "keys": "D-F#-A#",
+      "left_hand": "D-A#",
+      "right_hand": "D-F#-A#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Suspanse 2'li",
+      "type": "Suspanse",
+      "keys": "D-E-A",
+      "left_hand": "D-A",
+      "right_hand": "D-E-A",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Suspanse 4'lü",
+      "type": "Suspanse",
+      "keys": "D-G-A",
+      "left_hand": "D-A",
+      "right_hand": "D-G-A",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "E",
+      "name": "E Majör",
+      "type": "Majör",
+      "keys": "E-G#-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G#-B",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Em",
+      "name": "E Minör",
+      "type": "Minör",
+      "keys": "E-G-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G-B",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "E7",
+      "name": "E Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "E-G#-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G#-B-D",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "E-G#-B-D#",
+      "left_hand": "E-D#",
+      "right_hand": "E-G#-B-D#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "E-G-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Eksiltilmiş",
+      "type": "Eksiltilmiş",
+      "keys": "E-G-Bb",
+      "left_hand": "E-Bb",
+      "right_hand": "E-G-Bb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Artırılmış",
+      "type": "Artırılmış",
+      "keys": "E-G#-B#",
+      "left_hand": "E-C",
+      "right_hand": "E-G#-C",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Suspanse 4'lü",
+      "type": "Suspanse",
+      "keys": "E-A-B",
+      "left_hand": "E-B",
+      "right_hand": "E-A-B",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "F",
+      "name": "F Majör",
+      "type": "Majör",
+      "keys": "F-A-C",
+      "left_hand": "F-C",
+      "right_hand": "F-A-C",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Fm",
+      "name": "F Minör",
+      "type": "Minör",
+      "keys": "F-Ab-C",
+      "left_hand": "F-C",
+      "right_hand": "F-Ab-C",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F7",
+      "name": "F Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "F-A-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-A-C-Eb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "F-A-C-E",
+      "left_hand": "F-E",
+      "right_hand": "F-A-C-E",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "F-Ab-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Eksiltilmiş",
+      "type": "Eksiltilmiş",
+      "keys": "F-Ab-Cb",
+      "left_hand": "F-B",
+      "right_hand": "F-Ab-B",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Artırılmış",
+      "type": "Artırılmış",
+      "keys": "F-A-C#",
+      "left_hand": "F-C#",
+      "right_hand": "F-A-C#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "G",
+      "name": "G Majör",
+      "type": "Majör",
+      "keys": "G-B-D",
+      "left_hand": "G-D",
+      "right_hand": "G-B-D",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Gm",
+      "name": "G Minör",
+      "type": "Minör",
+      "keys": "G-Bb-D",
+      "left_hand": "G-D",
+      "right_hand": "G-Bb-D",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "G7",
+      "name": "G Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "G-B-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-B-D-F",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "G-B-D-F#",
+      "left_hand": "G-F#",
+      "right_hand": "G-B-D-F#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "G-Bb-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Diminished",
+      "type": "Diminished",
+      "keys": "G-Bb-Db",
+      "left_hand": "G-Db",
+      "right_hand": "G-Bb-Db",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Augmented",
+      "type": "Augmented",
+      "keys": "G-B-D#",
+      "left_hand": "G-D#",
+      "right_hand": "G-B-D#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Gsus4",
+      "name": "G Suspended 4'lü",
+      "type": "Suspended",
+      "keys": "G-C-D",
+      "left_hand": "G-D",
+      "right_hand": "G-C-D",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "A",
+      "name": "A Majör",
+      "type": "Majör",
+      "keys": "A-C#-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C#-E",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Am",
+      "name": "A Minör",
+      "type": "Minör",
+      "keys": "A-C-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C-E",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "A7",
+      "name": "A Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "A-C#-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C#-E-G",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "A-C#-E-G#",
+      "left_hand": "A-G#",
+      "right_hand": "A-C#-E-G#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "A-C-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C-E-G",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Diminished",
+      "type": "Diminished",
+      "keys": "A-C-Eb",
+      "left_hand": "A-Eb",
+      "right_hand": "A-C-Eb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Augmented",
+      "type": "Augmented",
+      "keys": "A-C#-E#",
+      "left_hand": "A-F",
+      "right_hand": "A-C#-F",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Suspended 2'li",
+      "type": "Suspended",
+      "keys": "A-B-E",
+      "left_hand": "A-E",
+      "right_hand": "A-B-E",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Suspended 4'lü",
+      "type": "Suspended",
+      "keys": "A-D-E",
+      "left_hand": "A-E",
+      "right_hand": "A-D-E",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "B",
+      "name": "B Majör",
+      "type": "Majör",
+      "keys": "B-D#-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D#-F#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bm",
+      "name": "B Minör",
+      "type": "Minör",
+      "keys": "B-D-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D-F#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Dominant 7'li",
+      "type": "Dominant 7'li",
+      "keys": "B-D#-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D#-F#-A",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Majör 7'li",
+      "type": "Majör 7'li",
+      "keys": "B-D#-F#-A#",
+      "left_hand": "B-A#",
+      "right_hand": "B-D#-F#-A#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Minör 7'li",
+      "type": "Minör 7'li",
+      "keys": "B-D-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D-F#-A",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Bdim",
+      "name": "Si Eksiltilmiş",
+      "type": "Eksiltilmiş",
+      "keys": "B-D-F",
+      "left_hand": "B-F",
+      "right_hand": "B-D-F",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Baug",
+      "name": "Si Artırılmış",
+      "type": "Artırılmış",
+      "keys": "B-D#-Fx",
+      "left_hand": "B-G",
+      "right_hand": "B-D#-G",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "C#",
+      "name": "Do Diyez Majör",
+      "type": "Majör",
+      "keys": "C#-E#-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-F-G#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "C#m",
+      "name": "Do Diyez Minör",
+      "type": "Minör",
+      "keys": "C#-E-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-E-G#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Db",
+      "name": "Re Bemol Majör",
+      "type": "Majör",
+      "keys": "Db-F-Ab",
+      "left_hand": "Db-Ab",
+      "right_hand": "Db-F-Ab",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Eb",
+      "name": "Mi Bemol Majör",
+      "type": "Majör",
+      "keys": "Eb-G-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-G-Bb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Ebm",
+      "name": "Mi Bemol Minör",
+      "type": "Minör",
+      "keys": "Eb-Gb-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-Gb-Bb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F#",
+      "name": "Fa Diyez Majör",
+      "type": "Majör",
+      "keys": "F#-A#-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A#-C#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "F#m",
+      "name": "Fa Diyez Minör",
+      "type": "Minör",
+      "keys": "F#-A-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A-C#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Gb",
+      "name": "Sol Bemol Majör",
+      "type": "Majör",
+      "keys": "Gb-Bb-Db",
+      "left_hand": "Gb-Db",
+      "right_hand": "Gb-Bb-Db",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "G#m",
+      "name": "Sol Diyez Minör",
+      "type": "Minör",
+      "keys": "G#-B-D#",
+      "left_hand": "G#-D#",
+      "right_hand": "G#-B-D#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Ab",
+      "name": "La Bemol Majör",
+      "type": "Majör",
+      "keys": "Ab-C-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-C-Eb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Abm",
+      "name": "La Bemol Minör",
+      "type": "Minör",
+      "keys": "Ab-Cb-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-B-Eb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb",
+      "name": "Si Bemol Majör",
+      "type": "Majör",
+      "keys": "Bb-D-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-D-F",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bbm",
+      "name": "Si Bemol Minör",
+      "type": "Minör",
+      "keys": "Bb-Db-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-Db-F",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb7",
+      "name": "Si Bemol Dominant Yedili",
+      "type": "Dominant Yedili",
+      "keys": "Bb-D-F-Ab",
+      "left_hand": "Bb-Ab",
+      "right_hand": "Bb-D-F-Ab",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj9",
+      "name": "Do Majör Dokuzlu",
+      "type": "Majör Dokuzlu",
+      "keys": "C-E-G-B-D",
+      "left_hand": "C-B",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-3-5-7-9",
+      "semitones": "0-4-7-11-14"
+    },
+    {
+      "chord": "Cm9",
+      "name": "Do Minör Dokuzlu",
+      "type": "Minör Dokuzlu",
+      "keys": "C-Eb-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "Eb-G-Bb-D",
+      "intervals": "1-b3-5-b7-9",
+      "semitones": "0-3-7-10-14"
+    },
+    {
+      "chord": "C11",
+      "name": "Do Dominant On Birli",
+      "type": "Dominant On Birli",
+      "keys": "C-E-G-Bb-D-F",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-F",
+      "intervals": "1-3-5-b7-9-11",
+      "semitones": "0-4-7-10-14-17"
+    },
+    {
+      "chord": "C13",
+      "name": "Do Dominant On Üçlü",
+      "type": "Dominant On Üçlü",
+      "keys": "C-E-G-Bb-D-A",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-A",
+      "intervals": "1-3-5-b7-9-13",
+      "semitones": "0-4-7-10-14-21"
+    },
+    {
+      "chord": "Am/E",
+      "name": "La minör E üzeri",
+      "type": "Eğik Akor",
+      "keys": "E-A-C-E",
+      "left_hand": "E",
+      "right_hand": "A-C-E",
+      "intervals": "5-1-b3-5",
+      "semitones": "7-0-3-7"
+    },
+    {
+      "chord": "C/G",
+      "name": "Do majör Sol üzeri",
+      "type": "Eğik Akor",
+      "keys": "G-C-E-G",
+      "left_hand": "G",
+      "right_hand": "C-E-G",
+      "intervals": "5-1-3-5",
+      "semitones": "7-0-4-7"
+    },
+    {
+      "chord": "D/F#",
+      "name": "Re majör Fa diyez üzeri",
+      "type": "Eğik Akor",
+      "keys": "F#-D-F#-A",
+      "left_hand": "F#",
+      "right_hand": "D-F#-A",
+      "intervals": "3-1-3-5",
+      "semitones": "4-0-4-7"
+    },
+    {
+      "chord": "G/B",
+      "name": "Sol majör Si üzeri",
+      "type": "Eğik Akor",
+      "keys": "B-D-G-B",
+      "left_hand": "B",
+      "right_hand": "D-G-B",
+      "intervals": "3-5-1-3",
+      "semitones": "4-7-0-4"
+    }
+  ],
+  "meta": {
+    "seo_title": "Piyano Akor Tablosu - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Tüm seviyeler için 84 temel piyano akorunu içeren ücretsiz Piyano Akor Tablosu'nu indirin. Müzisyenler ve öğrenciler için Excel, CSV, PDF formatlarında.",
+    "title": "Kapsamlı Piyano Akor Tablosu Referans Veri Seti",
+    "description": "Bu veri seti, 84 piyano akorunun sembollerini, adlarını, notalarını, el konumlandırmalarını, aralıklarını ve yarım ton yapılarını detaylandıran kapsamlı bir liste sunar. Müzisyenler, öğrenciler ve eğitimciler için idealdir.",
+    "key_takeaways": [
+      "Detaylı müzik bilgileriyle 84 temel piyano akoruna erişin.",
+      "Farklı akor türleri için akor yapılarını, notaları, aralıkları ve yarım ton ilişkilerini keşfedin.",
+      "Müzik teorisi çalışması veya uygulama geliştirme için kullanıma hazır akor verilerini indirin.",
+      "Doğru piyano çalmak için hassas el konumlandırmalarını (sol ve sağ) kullanın."
+    ],
+    "keywords": [
+      "piyano akor tablosu",
+      "ücretsiz piyano akorları excel",
+      "müzik teorisi veri seti",
+      "akor el pozisyonları csv",
+      "piyano notaları aralıkları pdf",
+      "84 piyano akoru indir"
+    ],
+    "use_cases": [
+      "Dinamik akor aramaları ve alıştırmaları sağlamak için **CSV** dosyasını müzik öğrenme uygulamanıza veya veritabanınıza aktarın.",
+      "Akorları türe göre filtrelemek, aralık kalıplarını analiz etmek veya kişiselleştirilmiş pratik sayfaları oluşturmak için **Excel** dosyasını kullanın.",
+      "Piyano dersleri veya pratik seansları sırasında hızlı, çevrimdışı başvuru için **PDF** sürümünü yazdırın.",
+      "Piyano öğrencileri için akor yapımını ve teorisini görsel olarak açıklayan eğitim araçları geliştirmek için bu veri setinden yararlanın."
+    ]
+  },
+  "record_count": 84,
+  "title": "Kapsamlı Piyano Akor Tablosu Referans Veri Seti"
+}

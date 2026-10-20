@@ -1,0 +1,82 @@
+{
+  "id": "tr-karabuk-districts",
+  "name": "Karabük İlçeleri (Karabük Districts)",
+  "title": "Karabük İlçeleri (Karabük Districts)",
+  "description": "Karabük ilinin ilçeleri. (Districts (ilçe) of Karabük province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Eflani",
+      "slug": "eflani",
+      "city_code": "78",
+      "city_name": "Karabük"
+    },
+    {
+      "district_name": "Eskipazar",
+      "slug": "eskipazar",
+      "city_code": "78",
+      "city_name": "Karabük"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "78",
+      "city_name": "Karabük"
+    },
+    {
+      "district_name": "Ovacık",
+      "slug": "ovacik",
+      "city_code": "78",
+      "city_name": "Karabük"
+    },
+    {
+      "district_name": "Safranbolu",
+      "slug": "safranbolu",
+      "city_code": "78",
+      "city_name": "Karabük"
+    },
+    {
+      "district_name": "Yenice",
+      "slug": "yenice",
+      "city_code": "78",
+      "city_name": "Karabük"
+    }
+  ],
+  "meta": {
+    "title": "Karabük İlçeleri (Karabük Districts) - Ücretsiz İndir",
+    "description": "Karabük ilinin ilçeleri. (Districts (ilçe) of Karabük province in Türkiye.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Karabük İlçeleri (Karabük Districts) | ListBase",
+    "seo_description": "İndir Karabük İlçeleri (Karabük Districts) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

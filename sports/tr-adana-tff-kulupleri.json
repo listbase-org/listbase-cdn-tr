@@ -1,0 +1,96 @@
+{
+  "id": "tr-adana-tff-kulupleri",
+  "name": "ADANA Bölgesi Futbol Kulüpleri (ADANA Region Football Clubs)",
+  "title": "ADANA Bölgesi Futbol Kulüpleri (ADANA Region Football Clubs)",
+  "description": "TFF kayıtlarında ADANA bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (3 kayıt.) (Süper Lig and TFF 1st League clubs registered in the ADANA region, 2020-21 season.)",
+  "category": "sports",
+  "source": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "source_url": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "kulup",
+      "label": "Kulup",
+      "type": "string"
+    },
+    {
+      "key": "tff_id",
+      "label": "Tff Id",
+      "type": "number"
+    },
+    {
+      "key": "sehir",
+      "label": "Sehir",
+      "type": "string"
+    },
+    {
+      "key": "bolge",
+      "label": "Bolge",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "adres",
+      "label": "Adres",
+      "type": "string"
+    },
+    {
+      "key": "logo_url",
+      "label": "Logo Url",
+      "type": "string"
+    },
+    {
+      "key": "stadyum",
+      "label": "Stadyum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kulup": "ADANA DEMİRSPOR",
+      "tff_id": 161,
+      "sehir": "ADANA",
+      "bolge": "ADANA",
+      "telefon": "(0322)4579488",
+      "adres": "KURTULUŞ MAH. 64024 SOK. NO:3/A SEYHAN",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000161_120x120.png",
+      "stadyum": "YENİ ADANA STADYUMU"
+    },
+    {
+      "kulup": "ADANASPOR A.Ş.",
+      "tff_id": 163,
+      "sehir": "ADANA",
+      "bolge": "ADANA",
+      "telefon": "(0322)2472510",
+      "adres": "BELEDİYE EVLERİ MAH. 84025 SK. NO:8/A OSMAN YEREŞEN SPOR TES.",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000163_120x120.png",
+      "stadyum": "YENİ ADANA STADYUMU"
+    },
+    {
+      "kulup": "ATAKAŞ HATAYSPOR",
+      "tff_id": 122,
+      "sehir": "HATAY",
+      "bolge": "ADANA",
+      "telefon": "(0326)2251631",
+      "adres": "HATAYSPOR KULÜBÜ MAŞUKLU MAH. REYHANLI YOLU ÜZERİ 23 ANTAKYA",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000122_120x120.png",
+      "stadyum": ""
+    }
+  ],
+  "meta": {
+    "title": "ADANA Bölgesi Futbol Kulüpleri (ADANA Region Football Clubs) - Ücretsiz İndir",
+    "description": "TFF kayıtlarında ADANA bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (3 kayıt.) (Süper Lig and TFF 1st League clubs registered in the ADANA region, 2020-21 season.) İçerik 3 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ADANA Bölgesi Futbol Kulüpleri (ADANA Region Football Clubs) | ListBase",
+    "seo_description": "İndir ADANA Bölgesi Futbol Kulüpleri (ADANA Region Football Clubs) — 3 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 3 kayıt / 8 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/kadocolak/turkey-football-super-league-json-data-set"
+    ]
+  }
+}

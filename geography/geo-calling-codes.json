@@ -1,0 +1,1228 @@
+{
+  "id": "geo-calling-codes",
+  "name": "Küresel Ülke Telefon Kodları ve ISO Verileri Veri Kümesi",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "calling_code",
+      "label": "Calling Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "calling_code": "+1"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mısır",
+      "calling_code": "+20"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "calling_code": "+27"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunanistan",
+      "calling_code": "+30"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Hollanda",
+      "calling_code": "+31"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "calling_code": "+32"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Fransa",
+      "calling_code": "+33"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "calling_code": "+34"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Macaristan",
+      "calling_code": "+36"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "İtalya",
+      "calling_code": "+39"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Romanya",
+      "calling_code": "+40"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "calling_code": "+41"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Avusturya",
+      "calling_code": "+43"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Birleşik Krallık",
+      "calling_code": "+44"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Danimarka",
+      "calling_code": "+45"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "İsveç",
+      "calling_code": "+46"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "calling_code": "+47"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polonya",
+      "calling_code": "+48"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Almanya",
+      "calling_code": "+49"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "calling_code": "+51"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksika",
+      "calling_code": "+52"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Küba",
+      "calling_code": "+53"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Arjantin",
+      "calling_code": "+54"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brezilya",
+      "calling_code": "+55"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Şili",
+      "calling_code": "+56"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombiya",
+      "calling_code": "+57"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "calling_code": "+58"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezya",
+      "calling_code": "+60"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Avustralya",
+      "calling_code": "+61"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Endonezya",
+      "calling_code": "+62"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipinler",
+      "calling_code": "+63"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "calling_code": "+64"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "calling_code": "+65"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tayland",
+      "calling_code": "+66"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "calling_code": "+73"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "calling_code": "+76"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonya",
+      "calling_code": "+81"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Güney Kore",
+      "calling_code": "+82"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "calling_code": "+84"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "calling_code": "+86"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Türkiye",
+      "calling_code": "+90"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "calling_code": "+91"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "calling_code": "+92"
+    },
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "calling_code": "+93"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "calling_code": "+94"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "calling_code": "+95"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "İran",
+      "calling_code": "+98"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Güney Sudan",
+      "calling_code": "+211"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "calling_code": "+212"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Cezayir",
+      "calling_code": "+213"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunus",
+      "calling_code": "+216"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "calling_code": "+218"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambiya",
+      "calling_code": "+220"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "calling_code": "+221"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Moritanya",
+      "calling_code": "+222"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "calling_code": "+223"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gine",
+      "calling_code": "+224"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Fildişi Sahili",
+      "calling_code": "+225"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "calling_code": "+226"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Nijer",
+      "calling_code": "+227"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "calling_code": "+228"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "calling_code": "+229"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "calling_code": "+230"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberya",
+      "calling_code": "+231"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "calling_code": "+232"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Gana",
+      "calling_code": "+233"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nijerya",
+      "calling_code": "+234"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Çad",
+      "calling_code": "+235"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "calling_code": "+236"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "calling_code": "+237"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Yeşil Burun Adaları",
+      "calling_code": "+238"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "São Tomé ve Príncipe",
+      "calling_code": "+239"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "calling_code": "+240"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "calling_code": "+241"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "calling_code": "+242"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "calling_code": "+243"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "calling_code": "+244"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gine-Bissau",
+      "calling_code": "+245"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "calling_code": "+248"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "calling_code": "+249"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "calling_code": "+250"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiyopya",
+      "calling_code": "+251"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somali",
+      "calling_code": "+252"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Cibuti",
+      "calling_code": "+253"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "calling_code": "+254"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanya",
+      "calling_code": "+255"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "calling_code": "+256"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "calling_code": "+257"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "calling_code": "+258"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambiya",
+      "calling_code": "+260"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "calling_code": "+261"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "calling_code": "+263"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "calling_code": "+264"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malavi",
+      "calling_code": "+265"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesoto",
+      "calling_code": "+266"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botsvana",
+      "calling_code": "+267"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Esvatini",
+      "calling_code": "+268"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "calling_code": "+269"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "calling_code": "+291"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portekiz",
+      "calling_code": "+351"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "calling_code": "+352"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "İrlanda",
+      "calling_code": "+353"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "İzlanda",
+      "calling_code": "+354"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Arnavutluk",
+      "calling_code": "+355"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "calling_code": "+356"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kıbrıs",
+      "calling_code": "+357"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandiya",
+      "calling_code": "+358"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaristan",
+      "calling_code": "+359"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litvanya",
+      "calling_code": "+370"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Letonya",
+      "calling_code": "+371"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonya",
+      "calling_code": "+372"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "calling_code": "+373"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Ermenistan",
+      "calling_code": "+374"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "calling_code": "+375"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "calling_code": "+376"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "calling_code": "+377"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "calling_code": "+378"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrayna",
+      "calling_code": "+380"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Sırbistan",
+      "calling_code": "+381"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Karadağ",
+      "calling_code": "+382"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosova",
+      "calling_code": "+383"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Hırvatistan",
+      "calling_code": "+385"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenya",
+      "calling_code": "+386"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "calling_code": "+387"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Kuzey Makedonya",
+      "calling_code": "+389"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Çekya",
+      "calling_code": "+420"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovakya",
+      "calling_code": "+421"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Lihtenştayn",
+      "calling_code": "+423"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "calling_code": "+501"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "calling_code": "+502"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "calling_code": "+503"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "calling_code": "+504"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "calling_code": "+505"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "calling_code": "+506"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "calling_code": "+507"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "calling_code": "+509"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "calling_code": "+591"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "calling_code": "+592"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvador",
+      "calling_code": "+593"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "calling_code": "+595"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "calling_code": "+597"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "calling_code": "+598"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Doğu Timor",
+      "calling_code": "+670"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "calling_code": "+673"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "calling_code": "+674"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "calling_code": "+675"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "calling_code": "+676"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Solomon Adaları",
+      "calling_code": "+677"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "calling_code": "+678"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "calling_code": "+679"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "calling_code": "+680"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "calling_code": "+685"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "calling_code": "+686"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "calling_code": "+688"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezya",
+      "calling_code": "+691"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshall Adaları",
+      "calling_code": "+692"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Kuzey Kore",
+      "calling_code": "+850"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboçya",
+      "calling_code": "+855"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "calling_code": "+856"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladeş",
+      "calling_code": "+880"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maldivler",
+      "calling_code": "+960"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lübnan",
+      "calling_code": "+961"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Ürdün",
+      "calling_code": "+962"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriye",
+      "calling_code": "+963"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "calling_code": "+964"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuveyt",
+      "calling_code": "+965"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Suudi Arabistan",
+      "calling_code": "+966"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yemen",
+      "calling_code": "+967"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Umman",
+      "calling_code": "+968"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Birleşik Arap Emirlikleri",
+      "calling_code": "+971"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "İsrail",
+      "calling_code": "+972"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahreyn",
+      "calling_code": "+973"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "calling_code": "+974"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "calling_code": "+975"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Moğolistan",
+      "calling_code": "+976"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "calling_code": "+977"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tacikistan",
+      "calling_code": "+992"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Türkmenistan",
+      "calling_code": "+993"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaycan",
+      "calling_code": "+994"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gürcistan",
+      "calling_code": "+995"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kırgızistan",
+      "calling_code": "+996"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Özbekistan",
+      "calling_code": "+998"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Birleşik Devletleri",
+      "calling_code": "+1201"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamalar",
+      "calling_code": "+1242"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "calling_code": "+1246"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua ve Barbuda",
+      "calling_code": "+1268"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "calling_code": "+1473"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "calling_code": "+1758"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "calling_code": "+1767"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent ve Grenadinler",
+      "calling_code": "+1784"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominik Cumhuriyeti",
+      "calling_code": "+1809"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad ve Tobago",
+      "calling_code": "+1868"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts ve Nevis",
+      "calling_code": "+1869"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "calling_code": "+1876"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikan Şehir Devleti",
+      "calling_code": "+3906698"
+    }
+  ],
+  "meta": {
+    "seo_title": "Ülke Telefon Kodları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "195 ülkenin telefon kodlarını ISO Alpha-2/3 ile ücretsiz indirin. Geliştiriciler, analistler için Excel, CSV, PDF formatlarında mevcut.",
+    "title": "Küresel Ülke Telefon Kodları ve ISO Verileri Veri Kümesi",
+    "description": "Bu veri kümesi, 195 bağımsız ülkenin ISO Alpha-2, ISO Alpha-3, ülke adı ve uluslararası telefon kodlarını içeren kapsamlı bir liste sunar.",
+    "key_takeaways": [
+      "195 ülke için güncel uluslararası telefon kodlarına erişin.",
+      "ISO Alpha-2 ve Alpha-3 kodları dahil ülke verilerini indirin.",
+      "Verileri telekomünikasyon, geliştirme ve analitik projeler için kullanın.",
+      "Küresel ülke tanımlama ve arama için standartlaştırılmış bir kaynak edinin."
+    ],
+    "keywords": [
+      "ülke telefon kodları listesi",
+      "uluslararası arama kodları excel",
+      "iso 3166 alpha 2 3 csv",
+      "ülke kodları veritabanı",
+      "telefon kodları ücretsiz indir"
+    ],
+    "use_cases": [
+      "Telefon numaralarını doğrulamak veya küresel arama uygulamaları oluşturmak için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Satış ekipleri, uluslararası iletişim planlaması veya veri analizi için arama kodlarını hızlıca filtrelemek ve düzenlemek için **Excel** dosyasını kullanın.",
+      "Çağrı merkezleri, seyahat acenteleri veya eğitim ortamlarında kullanışlı bir çevrimdışı referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "CRM sistemlerini geliştirmek veya güçlü uluslararası telekomünikasyon hizmetleri geliştirmek için bu kapsamlı veri kümesinden yararlanın."
+    ]
+  },
+  "record_count": 195,
+  "title": "Küresel Ülke Telefon Kodları ve ISO Verileri Veri Kümesi"
+}

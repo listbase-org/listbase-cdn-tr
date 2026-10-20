@@ -1,0 +1,124 @@
+{
+  "id": "tr-denizli-tcdd-istasyonlari",
+  "name": "DENİZLİ TCDD Tren İstasyonları (Railway stations in DENİZLİ)",
+  "title": "DENİZLİ TCDD Tren İstasyonları (Railway stations in DENİZLİ)",
+  "description": "DENİZLİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in DENİZLİ province.) (7 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BOZKURT",
+      "il": "DENİZLİ",
+      "kaynak_metin": "BOZKURT , DENİZLİ",
+      "gidis_id": 885,
+      "donus_id": 885,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 46
+    },
+    {
+      "istasyon": "DENİZLİ",
+      "il": "DENİZLİ",
+      "kaynak_metin": "DENİZLİ , DENİZLİ",
+      "gidis_id": 309,
+      "donus_id": 309,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 55
+    },
+    {
+      "istasyon": "GONCALI",
+      "il": "DENİZLİ",
+      "kaynak_metin": "GONCALI , DENİZLİ",
+      "gidis_id": 322,
+      "donus_id": 322,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "KAKLIK",
+      "il": "DENİZLİ",
+      "kaynak_metin": "KAKLIK , DENİZLİ",
+      "gidis_id": 925,
+      "donus_id": 925,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 51
+    },
+    {
+      "istasyon": "KM. 251+485",
+      "il": "DENİZLİ",
+      "kaynak_metin": "KM. 251+485 , DENİZLİ",
+      "gidis_id": "",
+      "donus_id": 1207,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARAYKÖY",
+      "il": "DENİZLİ",
+      "kaynak_metin": "SARAYKÖY , DENİZLİ",
+      "gidis_id": 388,
+      "donus_id": 388,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇARDAK",
+      "il": "DENİZLİ",
+      "kaynak_metin": "ÇARDAK , DENİZLİ",
+      "gidis_id": 891,
+      "donus_id": 891,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 48
+    }
+  ],
+  "meta": {
+    "title": "DENİZLİ TCDD Tren İstasyonları (Railway stations in DENİZLİ) - Ücretsiz İndir",
+    "description": "DENİZLİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in DENİZLİ province.) (7 kayıt.) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "DENİZLİ TCDD Tren İstasyonları (Railway stations in DENİZLİ) | ListBase",
+    "seo_description": "İndir DENİZLİ TCDD Tren İstasyonları (Railway stations in DENİZLİ) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

@@ -1,0 +1,1429 @@
+{
+  "id": "geo-demonyms",
+  "name": "Küresel Ülke Demonymleri ve ISO Kodları Veri Seti",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_m",
+      "label": "Demonym (Male) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_f",
+      "label": "Demonym (Female) (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "demonym_m": "Afgan",
+      "demonym_f": "Afgan"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Arnavutluk",
+      "demonym_m": "Arnavut",
+      "demonym_f": "Arnavut"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Cezayir",
+      "demonym_m": "Cezayirli",
+      "demonym_f": "Cezayirli"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "demonym_m": "Andorralı",
+      "demonym_f": "Andorralı"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "demonym_m": "Angolalı",
+      "demonym_f": "Angolalı"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua ve Barbuda",
+      "demonym_m": "Antigualı, Barbudal",
+      "demonym_f": "Antigualı, Barbudal"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Arjantin",
+      "demonym_m": "Arjantinli",
+      "demonym_f": "Arjantinli"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Ermenistan",
+      "demonym_m": "Ermeni",
+      "demonym_f": "Ermeni"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Avustralya",
+      "demonym_m": "Avustralyalı",
+      "demonym_f": "Avustralyalı"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Avusturya",
+      "demonym_m": "Avusturyalı",
+      "demonym_f": "Avusturyalı"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaycan",
+      "demonym_m": "Azerbaycanlı",
+      "demonym_f": "Azerbaycanlı"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamalar",
+      "demonym_m": "Bahamalı",
+      "demonym_f": "Bahamalı"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahreyn",
+      "demonym_m": "Bahreynli",
+      "demonym_f": "Bahreynli"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladeş",
+      "demonym_m": "Bangladeşli",
+      "demonym_f": "Bangladeşli"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "demonym_m": "Barbadoslu",
+      "demonym_f": "Barbadoslu"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "demonym_m": "Belaruslu",
+      "demonym_f": "Belaruslu"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "demonym_m": "Belçikalı",
+      "demonym_f": "Belçikalı"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "demonym_m": "Belizeli",
+      "demonym_f": "Belizeli"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "demonym_m": "Beninli",
+      "demonym_f": "Beninli"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Butan",
+      "demonym_m": "Butanlı",
+      "demonym_f": "Butanlı"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "demonym_m": "Bolivyalı",
+      "demonym_f": "Bolivyalı"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "demonym_m": "Boşnak, Hersekli",
+      "demonym_f": "Boşnak, Hersekli"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botsvana",
+      "demonym_m": "Botsvanalı",
+      "demonym_f": "Botsvanalı"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brezilya",
+      "demonym_m": "Brezilyalı",
+      "demonym_f": "Brezilyalı"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "demonym_m": "Bruneyli",
+      "demonym_f": "Bruneyli"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaristan",
+      "demonym_m": "Bulgar",
+      "demonym_f": "Bulgar"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "demonym_m": "Burkinabéli",
+      "demonym_f": "Burkinabéli"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "demonym_m": "Burundili",
+      "demonym_f": "Burundili"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboçya",
+      "demonym_m": "Kamboçyalı",
+      "demonym_f": "Kamboçyalı"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "demonym_m": "Kamerunlu",
+      "demonym_f": "Kamerunlu"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "demonym_m": "Kanadalı",
+      "demonym_f": "Kanadalı"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Yeşil Burun Adaları",
+      "demonym_m": "Yeşil Burunlu",
+      "demonym_f": "Yeşil Burunlu"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "demonym_m": "Orta Afrikalı",
+      "demonym_f": "Orta Afrikalı"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Çad",
+      "demonym_m": "Çadlı",
+      "demonym_f": "Çadlı"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Şili",
+      "demonym_m": "Şilili",
+      "demonym_f": "Şilili"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "demonym_m": "Çinli",
+      "demonym_f": "Çinli"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombiya",
+      "demonym_m": "Kolombiyalı",
+      "demonym_f": "Kolombiyalı"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "demonym_m": "Komorlu",
+      "demonym_f": "Komorlu"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "demonym_m": "Kosta Rikalı",
+      "demonym_f": "Kosta Rikalı"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Hırvatistan",
+      "demonym_m": "Hırvat",
+      "demonym_f": "Hırvat"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Küba",
+      "demonym_m": "Kübalı",
+      "demonym_f": "Kübalı"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kıbrıs",
+      "demonym_m": "Kıbrıslı",
+      "demonym_f": "Kıbrıslı"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Çekya",
+      "demonym_m": "Çek",
+      "demonym_f": "Çek"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Danimarka",
+      "demonym_m": "Danimarkalı",
+      "demonym_f": "Danimarkalı"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Cibuti",
+      "demonym_m": "Cibutili",
+      "demonym_f": "Cibutili"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "demonym_m": "Dominikalı",
+      "demonym_f": "Dominikalı"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominik Cumhuriyeti",
+      "demonym_m": "Dominikli",
+      "demonym_f": "Dominikli"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo DC",
+      "demonym_m": "Kongolu",
+      "demonym_f": "Kongolu"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvador",
+      "demonym_m": "Ekvadorlu",
+      "demonym_f": "Ekvadorlu"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mısır",
+      "demonym_m": "Mısırlı",
+      "demonym_f": "Mısırlı"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "demonym_m": "Salvadorlu",
+      "demonym_f": "Salvadorlu"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "demonym_m": "Ekvator Gineli",
+      "demonym_f": "Ekvator Gineli"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "demonym_m": "Eritreli",
+      "demonym_f": "Eritreli"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonya",
+      "demonym_m": "Estonyalı",
+      "demonym_f": "Estonyalı"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Esvatini",
+      "demonym_m": "Svazili",
+      "demonym_f": "Svazili"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiyopya",
+      "demonym_m": "Etiyopyalı",
+      "demonym_f": "Etiyopyalı"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "demonym_m": "Fijili",
+      "demonym_f": "Fijili"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandiya",
+      "demonym_m": "Finli",
+      "demonym_f": "Finli"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Fransa",
+      "demonym_m": "Fransız",
+      "demonym_f": "Fransız"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "demonym_m": "Gabonlu",
+      "demonym_f": "Gabonlu"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambiya",
+      "demonym_m": "Gambiyalı",
+      "demonym_f": "Gambiyalı"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gürcistan",
+      "demonym_m": "Gürcü",
+      "demonym_f": "Gürcü"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Almanya",
+      "demonym_m": "Alman",
+      "demonym_f": "Alman"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Gana",
+      "demonym_m": "Ganalı",
+      "demonym_f": "Ganalı"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunanistan",
+      "demonym_m": "Yunan",
+      "demonym_f": "Yunan"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "demonym_m": "Grenadalı",
+      "demonym_f": "Grenadalı"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "demonym_m": "Guatemalalı",
+      "demonym_f": "Guatemalalı"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gine",
+      "demonym_m": "Gineli",
+      "demonym_f": "Gineli"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gine-Bissau",
+      "demonym_m": "Gine-Bissalı",
+      "demonym_f": "Gine-Bissalı"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "demonym_m": "Guyanalı",
+      "demonym_f": "Guyanalı"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "demonym_m": "Haitili",
+      "demonym_f": "Haitili"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "demonym_m": "Honduraslı",
+      "demonym_f": "Honduraslı"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Macaristan",
+      "demonym_m": "Macar",
+      "demonym_f": "Macar"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "İzlanda",
+      "demonym_m": "İzlandalı",
+      "demonym_f": "İzlandalı"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "demonym_m": "Hintli",
+      "demonym_f": "Hintli"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Endonezya",
+      "demonym_m": "Endonezyalı",
+      "demonym_f": "Endonezyalı"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "İran",
+      "demonym_m": "İranlı",
+      "demonym_f": "İranlı"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "demonym_m": "Iraklı",
+      "demonym_f": "Iraklı"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "İrlanda",
+      "demonym_m": "İrlandalı",
+      "demonym_f": "İrlandalı"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "İsrail",
+      "demonym_m": "İsrailli",
+      "demonym_f": "İsrailli"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "İtalya",
+      "demonym_m": "İtalyan",
+      "demonym_f": "İtalyan"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Fildişi Sahili",
+      "demonym_m": "Fildişi Sahilli",
+      "demonym_f": "Fildişi Sahilli"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "demonym_m": "Jamaikalı",
+      "demonym_f": "Jamaikalı"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonya",
+      "demonym_m": "Japon",
+      "demonym_f": "Japon"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Ürdün",
+      "demonym_m": "Ürdünlü",
+      "demonym_f": "Ürdünlü"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "demonym_m": "Kazakistanlı",
+      "demonym_f": "Kazakistanlı"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "demonym_m": "Kenyalı",
+      "demonym_f": "Kenyalı"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "demonym_m": "Kiribatili",
+      "demonym_f": "Kiribatili"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosova",
+      "demonym_m": "Kosovalı",
+      "demonym_f": "Kosovalı"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuveyt",
+      "demonym_m": "Kuveytli",
+      "demonym_f": "Kuveytli"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kırgızistan",
+      "demonym_m": "Kırgız",
+      "demonym_f": "Kırgız"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "demonym_m": "Laoslu",
+      "demonym_f": "Laoslu"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Letonya",
+      "demonym_m": "Letonyalı",
+      "demonym_f": "Letonyalı"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lübnan",
+      "demonym_m": "Lübnanlı",
+      "demonym_f": "Lübnanlı"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "demonym_m": "Mosotho",
+      "demonym_f": "Mosotho"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberya",
+      "demonym_m": "Liberyalı",
+      "demonym_f": "Liberyalı"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "demonym_m": "Libyalı",
+      "demonym_f": "Libyalı"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Lihtenştayn",
+      "demonym_m": "Lihtenştaynlı",
+      "demonym_f": "Lihtenştaynlı"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litvanya",
+      "demonym_m": "Litvanyalı",
+      "demonym_f": "Litvanyalı"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "demonym_m": "Lüksemburglu",
+      "demonym_f": "Lüksemburglu"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "demonym_m": "Madagaskarlı",
+      "demonym_f": "Madagaskarlı"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malavi",
+      "demonym_m": "Malavili",
+      "demonym_f": "Malavili"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezya",
+      "demonym_m": "Malezyalı",
+      "demonym_f": "Malezyalı"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maldivler",
+      "demonym_m": "Maldivli",
+      "demonym_f": "Maldivli"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "demonym_m": "Malili",
+      "demonym_f": "Malili"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "demonym_m": "Maltalı",
+      "demonym_f": "Maltalı"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshall Adaları",
+      "demonym_m": "Marshall Adalı",
+      "demonym_f": "Marshall Adalı"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Moritanya",
+      "demonym_m": "Moritanyalı",
+      "demonym_f": "Moritanyalı"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "demonym_m": "Maurituslu",
+      "demonym_f": "Maurituslu"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksika",
+      "demonym_m": "Meksikalı",
+      "demonym_f": "Meksikalı"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezya",
+      "demonym_m": "Mikronezyalı",
+      "demonym_f": "Mikronezyalı"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "demonym_m": "Moldovalı",
+      "demonym_f": "Moldovalı"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "demonym_m": "Monakolu",
+      "demonym_f": "Monakolu"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Moğolistan",
+      "demonym_m": "Moğol",
+      "demonym_f": "Moğol"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Karadağ",
+      "demonym_m": "Karadağlı",
+      "demonym_f": "Karadağlı"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "demonym_m": "Faslı",
+      "demonym_f": "Faslı"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "demonym_m": "Mozambikli",
+      "demonym_f": "Mozambikli"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "demonym_m": "Birmanyalı",
+      "demonym_f": "Birmanyalı"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "demonym_m": "Namibyalı",
+      "demonym_f": "Namibyalı"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "demonym_m": "Naurulu",
+      "demonym_f": "Naurulu"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "demonym_m": "Nepalli",
+      "demonym_f": "Nepalli"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Hollanda",
+      "demonym_m": "Hollandalı",
+      "demonym_f": "Hollandalı"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "demonym_m": "Yeni Zelandalı",
+      "demonym_f": "Yeni Zelandalı"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "demonym_m": "Nikaragualı",
+      "demonym_f": "Nikaragualı"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Nijer",
+      "demonym_m": "Nijerli",
+      "demonym_f": "Nijerli"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nijerya",
+      "demonym_m": "Nijeryalı",
+      "demonym_f": "Nijeryalı"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Kuzey Kore",
+      "demonym_m": "Kuzey Koreli",
+      "demonym_f": "Kuzey Koreli"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Kuzey Makedonya",
+      "demonym_m": "Makedon",
+      "demonym_f": "Makedon"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "demonym_m": "Norveçli",
+      "demonym_f": "Norveçli"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Umman",
+      "demonym_m": "Ummanlı",
+      "demonym_f": "Ummanlı"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "demonym_m": "Pakistanlı",
+      "demonym_f": "Pakistanlı"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "demonym_m": "Palaulu",
+      "demonym_f": "Palaulu"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "demonym_m": "Panamalı",
+      "demonym_f": "Panamalı"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "demonym_m": "Papua Yeni Gineli",
+      "demonym_f": "Papua Yeni Gineli"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "demonym_m": "Paraguaylı",
+      "demonym_f": "Paraguaylı"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "demonym_m": "Perulu",
+      "demonym_f": "Perulu"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipinler",
+      "demonym_m": "Filipinli",
+      "demonym_f": "Filipinli"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polonya",
+      "demonym_m": "Polonyalı",
+      "demonym_f": "Polonyalı"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portekiz",
+      "demonym_m": "Portekizli",
+      "demonym_f": "Portekizli"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "demonym_m": "Katarlı",
+      "demonym_f": "Katarlı"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "demonym_m": "Kongolu",
+      "demonym_f": "Kongolu"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Romanya",
+      "demonym_m": "Romanyalı",
+      "demonym_f": "Romanyalı"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "demonym_m": "Rus",
+      "demonym_f": "Rus"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "demonym_m": "Ruandalı",
+      "demonym_f": "Ruandalı"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts ve Nevis",
+      "demonym_m": "Kittitli veya Nevisli",
+      "demonym_f": "Kittitli veya Nevisli"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "demonym_m": "Saint Lucialı",
+      "demonym_f": "Saint Lucialı"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent ve Grenadinler",
+      "demonym_m": "Saint Vincentli",
+      "demonym_f": "Saint Vincentli"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "demonym_m": "Samoalı",
+      "demonym_f": "Samoalı"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "demonym_m": "San Marinolu",
+      "demonym_f": "San Marinolu"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "São Tomé ve Príncipe",
+      "demonym_m": "São Tomeli",
+      "demonym_f": "São Tomeli"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Suudi Arabistan",
+      "demonym_m": "Suudi Arabistanlı",
+      "demonym_f": "Suudi Arabistanlı"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "demonym_m": "Senegalli",
+      "demonym_f": "Senegalli"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Sırbistan",
+      "demonym_m": "Sırp",
+      "demonym_f": "Sırp"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "demonym_m": "Seyşelli",
+      "demonym_f": "Seyşelli"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "demonym_m": "Sierra Leoneli",
+      "demonym_f": "Sierra Leoneli"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "demonym_m": "Singapurlu",
+      "demonym_f": "Singapurlu"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovakya",
+      "demonym_m": "Slovak",
+      "demonym_f": "Slovak"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenya",
+      "demonym_m": "Sloven",
+      "demonym_f": "Sloven"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Solomon Adaları",
+      "demonym_m": "Solomon Adalı",
+      "demonym_f": "Solomon Adalı"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somali",
+      "demonym_m": "Somalili",
+      "demonym_f": "Somalili"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "demonym_m": "Güney Afrikalı",
+      "demonym_f": "Güney Afrikalı"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Güney Kore",
+      "demonym_m": "Güney Koreli",
+      "demonym_f": "Güney Koreli"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Güney Sudan",
+      "demonym_m": "Güney Sudanlı",
+      "demonym_f": "Güney Sudanlı"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "demonym_m": "İspanyol",
+      "demonym_f": "İspanyol"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "demonym_m": "Sri Lankalı",
+      "demonym_f": "Sri Lankalı"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "demonym_m": "Sudanlı",
+      "demonym_f": "Sudanlı"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "demonym_m": "Surinamlı",
+      "demonym_f": "Surinamlı"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "İsveç",
+      "demonym_m": "İsveçli",
+      "demonym_f": "İsveçli"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "demonym_m": "İsviçreli",
+      "demonym_f": "İsviçreli"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriye",
+      "demonym_m": "Suriyeli",
+      "demonym_f": "Suriyeli"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tacikistan",
+      "demonym_m": "Tacik",
+      "demonym_f": "Tacik"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanya",
+      "demonym_m": "Tanzanyalı",
+      "demonym_f": "Tanzanyalı"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tayland",
+      "demonym_m": "Taylandlı",
+      "demonym_f": "Taylandlı"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Doğu Timor",
+      "demonym_m": "Doğu Timorlu",
+      "demonym_f": "Doğu Timorlu"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "demonym_m": "Togolu",
+      "demonym_f": "Togolu"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "demonym_m": "Tongalı",
+      "demonym_f": "Tongalı"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad ve Tobago",
+      "demonym_m": "Trinidadlı",
+      "demonym_f": "Trinidadlı"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunus",
+      "demonym_m": "Tunuslu",
+      "demonym_f": "Tunuslu"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Türkiye",
+      "demonym_m": "Türk",
+      "demonym_f": "Türk"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Türkmenistan",
+      "demonym_m": "Türkmen",
+      "demonym_f": "Türkmen"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "demonym_m": "Tuvalulu",
+      "demonym_f": "Tuvalulu"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "demonym_m": "Ugandalı",
+      "demonym_f": "Ugandalı"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrayna",
+      "demonym_m": "Ukraynalı",
+      "demonym_f": "Ukraynalı"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Birleşik Arap Emirlikleri",
+      "demonym_m": "Emirlikli",
+      "demonym_f": "Emirlikli"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Birleşik Krallık",
+      "demonym_m": "Britanyalı",
+      "demonym_f": "Britanyalı"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Birleşik Devletleri",
+      "demonym_m": "Amerikalı",
+      "demonym_f": "Amerikalı"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "demonym_m": "Uruguaylı",
+      "demonym_f": "Uruguaylı"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Özbekistan",
+      "demonym_m": "Özbekistanlı",
+      "demonym_f": "Özbekistanlı"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "demonym_m": "Vanuatulu",
+      "demonym_f": "Vanuatulu"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikan Şehir Devleti",
+      "demonym_m": "Vatikanlı",
+      "demonym_f": "Vatikanlı"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "demonym_m": "Venezuelalı",
+      "demonym_f": "Venezuelalı"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "demonym_m": "Vietnamlı",
+      "demonym_f": "Vietnamlı"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yemen",
+      "demonym_m": "Yemenli",
+      "demonym_f": "Yemenli"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambiya",
+      "demonym_m": "Zambiyalı",
+      "demonym_f": "Zambiyalı"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "demonym_m": "Zimbabveli",
+      "demonym_f": "Zimbabveli"
+    }
+  ],
+  "meta": {
+    "seo_title": "Ülke Demonymleri Listesi - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "ISO kodlarıyla 195 ülke demonymleri (erkek/kadın) listesini indirin. Veri projeleriniz için Excel, CSV ve PDF formatlarında ücretsiz erişim.",
+    "title": "Küresel Ülke Demonymleri ve ISO Kodları Veri Seti",
+    "description": "Bu veri seti, 195 bağımsız ülkenin erkek ve kadın demonymlerini ISO Alpha-2 ve Alpha-3 kodlarıyla birlikte detaylı bir listesini sunar.",
+    "key_takeaways": [
+      "195 ülke demonym kaydına, erkek ve kadın biçimleriyle birlikte erişin.",
+      "İlgili ISO Alpha-2 ve Alpha-3 kodlarıyla ülkeleri keşfedin.",
+      "Dilbilim çalışmaları veya coğrafi uygulamalar için kullanıma hazır verileri indirin.",
+      "Çeşitli araştırma ve geliştirme ihtiyaçları için doğru demonym bilgilerinden yararlanın."
+    ],
+    "keywords": [
+      "ülke demonymleri listesi",
+      "ulusal demonym verileri",
+      "iso kodları demonymler",
+      "demonym excel indir",
+      "demonym veri csv",
+      "ülke sıfatları"
+    ],
+    "use_cases": [
+      "Ülkeye özel terminoloji gerektiren uygulamalar oluşturmak için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyanıza aktarın.",
+      "Dilbilimsel araştırmalar veya eğitim içeriği oluşturmak için ülke demonym eğilimlerini filtrelemek, sıralamak ve analiz etmek için **Excel** dosyasını kullanın.",
+      "Sınıflarda, çeviri ajanslarında veya seyahat planlamasında hızlı, çevrimdışı bir referans rehberi için **PDF** sürümünü yazdırın.",
+      "Kullanıcı tanımlama veya içerik yerelleştirmesi için kültürel olarak doğru terimler sağlamak üzere bu verileri web sitelerine veya mobil uygulamalara entegre edin."
+    ]
+  },
+  "record_count": 195,
+  "title": "Küresel Ülke Demonymleri ve ISO Kodları Veri Seti"
+}

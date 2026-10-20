@@ -1,0 +1,6876 @@
+{
+  "id": "tr-istanbul-neighbourhoods",
+  "name": "İstanbul Mahalleleri (İstanbul Neighbourhoods)",
+  "title": "İstanbul Mahalleleri (İstanbul Neighbourhoods)",
+  "description": "İstanbul ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (975 kayıt.) (All neighbourhoods (mahalle) in İstanbul province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 975,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Burgazada Mah",
+      "district_name": "Adalar",
+      "postal_code": "34975",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Heybeliada Mah",
+      "district_name": "Adalar",
+      "postal_code": "34973",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kınalıada Mah",
+      "district_name": "Adalar",
+      "postal_code": "34977",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Maden Mah",
+      "district_name": "Adalar",
+      "postal_code": "34970",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nizam Mah",
+      "district_name": "Adalar",
+      "postal_code": "34970",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Anadolu Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Arnavutköy Merkez Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34285",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Baklalı Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Balaban Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bolluca Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34287",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Boyalık Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Boğazköy İstiklal Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34285",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Deliklikaya Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34555",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dursunköy Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Durusu Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hacımaşlı Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hadımköy Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34555",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Haraççı Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34281",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hastane Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34555",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hicret Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34287",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karaburun Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karlıbayır Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34281",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mareşal Fevzi Çakmak Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34283",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mavigöl Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34287",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34283",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Paşa Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nenehatun Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sazlıbosna Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tayakadın Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34283",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Terkos Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yassıören Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilbayır Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34555",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34285",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çilingir Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34277",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ömerli Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34555",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İmrahor Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İslambey Mah",
+      "district_name": "Arnavutköy",
+      "postal_code": "34275",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34758",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aşıkveysel Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34707",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34746",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esatpaşa Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34704",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ferhatpaşa Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34888",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fetih Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34704",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kayışdağı Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34755",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçükbakkalköy Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34750",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34779",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34779",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34707",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Çamlıca Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34779",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenisahra Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34746",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34779",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Örnek Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34704",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34755",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İçerenköy Mah",
+      "district_name": "Ataşehir",
+      "postal_code": "34752",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ambarlı Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34315",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cihangir Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34310",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Denizköşkler Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34315",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Firuzköy Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34325",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşpala Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34320",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34310",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemalpaşa Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34320",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tahtakale Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34320",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34325",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Üniversite Mah",
+      "district_name": "Avcılar",
+      "postal_code": "34320",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34180",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34180",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34197",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34188",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kocasinan Merkez Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34188",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Siyavuşpaşa Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34180",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Soğanlı Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34180",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenibosna Merkez Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34197",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34197",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çobançeşme Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34197",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah",
+      "district_name": "Bahçelievler",
+      "postal_code": "34188",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ataköy 1. Kısım Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34158",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ataköy 2-5-6. Kısım Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34158",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ataköy 3-4-11. Kısım Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34158",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ataköy 7-8-9-10. Kısım Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34158",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Basınköy Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34153",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cevizlik Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34142",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kartaltepe Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34145",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34146",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sakızağacı Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34142",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34142",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34149",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Sb Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34149",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34149",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zeytinlik Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34140",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zuhuratbaba Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34147",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şenlikköy Mah",
+      "district_name": "Bakırköy",
+      "postal_code": "34153",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Altıntepsi Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34035",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cevatpaşa Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34045",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kartaltepe Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34040",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kocatepe Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34045",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Muratpaşa Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34040",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34030",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Terazidere Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34035",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Vatan Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34035",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34030",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34045",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İsmet Paşa Mah",
+      "district_name": "Bayrampaşa",
+      "postal_code": "34040",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "100. Yıl Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34218",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "15 Temmuz Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34212",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34212",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Demirkapı Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34218",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34218",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34218",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güneşli Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34212",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34212",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34218",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34212",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mahmutbey Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34218",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sancaktepe Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenigün Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34212",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yıldıztepe Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Bağcılar",
+      "postal_code": "34200",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Altınşehir Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34494",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçeşehir 1. Kısım Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34488",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçeşehir 2. Kısım Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34488",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Başak Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34480",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Başakşehir Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34480",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güvercintepe Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34494",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34494",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ziya Gökalp Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34490",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İkitelli Osb Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34490",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şahintepe Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34494",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şamlar Mah",
+      "district_name": "Başakşehir",
+      "postal_code": "34492",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Acarlar Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34800",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akbaba Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alibahadır Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Anadolu Hisarı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34810",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Anadolu Kavağı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Anadolufeneri Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Baklacı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34830",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bozhane Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dereseki Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34830",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34815",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göllü Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Görele Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34815",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşsuyu Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34820",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kanlıca Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34810",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kavacık Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34810",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mahmutşevketpaşa Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34820",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ortaçeşme Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Paşabahçe Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34800",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Paşamandıra Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Polonezköy Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Poyrazköy Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Riva Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rüzgarlıbahçe Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34805",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34800",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tokatköy Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yalıköy Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34820",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34830",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Mahalle Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34815",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zerzavatçı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çamlıbahçe Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çengeldere Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34830",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34830",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çiğdem Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34800",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34805",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Örnekköy Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34825",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Öğümce Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İncirköy Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34800",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İshaklı Mah",
+      "district_name": "Beykoz",
+      "postal_code": "34829",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Adnan Kahveci Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34528",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34520",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Beylikdüzüosb Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34524",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Büyükşehir Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34520",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34520",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dereağzı Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34528",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gürpınar Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34528",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34520",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Marmara Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34524",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34524",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yakuplu Mah",
+      "district_name": "Beylikdüzü",
+      "postal_code": "34524",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Arap Cami Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34421",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Asmalı Mescit Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34430",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bedrettin Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bereketzade Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34421",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bostan Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bülbül Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Camiikebir Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cihangir Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34433",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emekyemez Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34421",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Evliya Çelebi Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34430",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fetihtepe Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34445",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Firuzağa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34425",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşsuyu Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34437",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hacıahmet Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hacımimi Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34425",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Halıcıoğlu Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34445",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hüseyinağa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kadımehmet Efendi Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kalyoncu Kulluğu Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kamer Hatun Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kaptanpaşa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Katipmustafa Çelebi Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34433",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kemankeş Karamustafapaşa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34425",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Keçeci Piri Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34445",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kocatepe Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34437",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kulaksız Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kuloğlu Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34433",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçük Piyale Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kılıçali Paşa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34433",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Müeyyetzade Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34425",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Piripaşa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34445",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Piyalepaşa Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Pürtelaş Hasan Efendi Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34427",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sururi Mehmet Efendi Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34445",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tomtom Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34433",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yahya Kahya Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çatma Mescit Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34430",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çukur Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ömer Avni Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34427",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Örnektepe Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34445",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34440",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şahkulu Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34421",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şehit Muhtar Mah",
+      "district_name": "Beyoğlu",
+      "postal_code": "34435",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Abbasağa Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34022",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akat Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34335",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Arnavutköy Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34345",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Balmumcu Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34349",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bebek Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34342",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cihannüma Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34022",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dikilitaş Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34349",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Etiler Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34337",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gayrettepe Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34349",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Konaklar Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34330",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kuruçeşme Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34345",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34340",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Levazım Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34340",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Levent Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34330",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34347",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Muradiye Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34357",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nisbetiye Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34340",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34347",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sinanpaşa Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34022",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Türkali Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34357",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ulus Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34340",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Vişnezade Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34357",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yıldız Mah",
+      "district_name": "Beşiktaş",
+      "postal_code": "34349",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "19 Mayıs Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ahmediye Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34537",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alkent 2000 Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34530",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Celaliye Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34534",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dizdariye Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ekinoba Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34535",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güzelce Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34530",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34537",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kamiloba Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34534",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kumburgaz Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34530",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimaroba Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34535",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimarsinan Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34535",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Murat Çesme Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34535",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Pınartepe Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sinanoba Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34535",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Türkoba Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34537",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ulus Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34537",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34530",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çakmaklı Mah",
+      "district_name": "Büyükçekmece",
+      "postal_code": "34500",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "15 Temmuz Mah",
+      "district_name": "Esenler",
+      "postal_code": "34230",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Birlik Mah",
+      "district_name": "Esenler",
+      "postal_code": "34230",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Davutpaşa Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Esenler",
+      "postal_code": "34225",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Havaalanı Mah",
+      "district_name": "Esenler",
+      "postal_code": "34230",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Esenler",
+      "postal_code": "34225",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah",
+      "district_name": "Esenler",
+      "postal_code": "34230",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah",
+      "district_name": "Esenler",
+      "postal_code": "34225",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nine Hatun Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Oruçreis Mah",
+      "district_name": "Esenler",
+      "postal_code": "34235",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tuna Mah",
+      "district_name": "Esenler",
+      "postal_code": "34225",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Turgut Reis Mah",
+      "district_name": "Esenler",
+      "postal_code": "34235",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çifte Havuzlar Mah",
+      "district_name": "Esenler",
+      "postal_code": "34220",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akevler Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akçaburgaz Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34538",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akşemseddin Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ardıçlı Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aşık Veysel Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34538",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Balıkyolu Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Barbaros Hayrettin Paşa Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Battalgazi Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bağlarçeşme Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34517",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenkent Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34538",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gökevler Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Koza Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34538",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehterçeşme Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Necip Fazıl Kısakürek Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orhan Gazi Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34538",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34538",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Piri Reis Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34517",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Saadetdere Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Selahaddin Eyyubi Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34517",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultaniye Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Talatpaşa Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Turgut Özal Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34515",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34517",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Örnek Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34517",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Üçevler Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34513",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İncirtepe Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34510",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Esenyurt",
+      "postal_code": "34522",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "5.levent Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34060",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akşemsettin Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34070",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alibeyköy Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34060",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ağaçlı Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Defterdar Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34050",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Düğmeciler Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34055",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emniyettepe Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34060",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34065",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göktürk Merkez Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34077",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güzeltepe Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34060",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karadolap Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34065",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34050",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34075",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34075",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nişancı Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34050",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Odayeri Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Pirinççi Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rami Cuma Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34055",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rami Yeni Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34055",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34050",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Silahtarağa Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34050",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Topçular Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34055",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilpınar Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34065",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çiftalan Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çırçır Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34070",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34076",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İslambey Mah",
+      "district_name": "Eyüpsultan",
+      "postal_code": "34050",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aksaray Mah",
+      "district_name": "Fatih",
+      "postal_code": "34096",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akşemsettin Mah",
+      "district_name": "Fatih",
+      "postal_code": "34080",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alemdar Mah",
+      "district_name": "Fatih",
+      "postal_code": "34110",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ali Kuşçu Mah",
+      "district_name": "Fatih",
+      "postal_code": "34083",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atikali Mah",
+      "district_name": "Fatih",
+      "postal_code": "34087",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ayvansaray Mah",
+      "district_name": "Fatih",
+      "postal_code": "34087",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Balabanağa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Balat Mah",
+      "district_name": "Fatih",
+      "postal_code": "34087",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Beyazıt Mah",
+      "district_name": "Fatih",
+      "postal_code": "34126",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Binbirdirek Mah",
+      "district_name": "Fatih",
+      "postal_code": "34122",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cankurtaran Mah",
+      "district_name": "Fatih",
+      "postal_code": "34122",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cerrahpaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34098",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cibali Mah",
+      "district_name": "Fatih",
+      "postal_code": "34083",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Demirtaş Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Derviş Ali Mah",
+      "district_name": "Fatih",
+      "postal_code": "34087",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emin Sinan Mah",
+      "district_name": "Fatih",
+      "postal_code": "34126",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hacı Kadın Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Haseki Sultan Mah",
+      "district_name": "Fatih",
+      "postal_code": "34096",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hobyar Mah",
+      "district_name": "Fatih",
+      "postal_code": "34112",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hoca Gıyasettin Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hocapaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34110",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hırka-i Şerif Mah",
+      "district_name": "Fatih",
+      "postal_code": "34091",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kalenderhane Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karagümrük Mah",
+      "district_name": "Fatih",
+      "postal_code": "34091",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Katip Kasım Mah",
+      "district_name": "Fatih",
+      "postal_code": "34130",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Koca Mustafapaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34098",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçük Ayasofya Mah",
+      "district_name": "Fatih",
+      "postal_code": "34122",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mercan Mah",
+      "district_name": "Fatih",
+      "postal_code": "34116",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mesihpaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34130",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mevlanakapı Mah",
+      "district_name": "Fatih",
+      "postal_code": "34104",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Hayrettin Mah",
+      "district_name": "Fatih",
+      "postal_code": "34126",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Kemalettin Mah",
+      "district_name": "Fatih",
+      "postal_code": "34130",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Molla Fenari Mah",
+      "district_name": "Fatih",
+      "postal_code": "34120",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Molla Gürani Mah",
+      "district_name": "Fatih",
+      "postal_code": "34093",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Molla Hüsrev Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Muhsine Hatun Mah",
+      "district_name": "Fatih",
+      "postal_code": "34130",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nişanca Mah",
+      "district_name": "Fatih",
+      "postal_code": "34130",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rüstempaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34116",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Saraç İshak Mah",
+      "district_name": "Fatih",
+      "postal_code": "34130",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sarıdemir Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Seyyid Ömer Mah",
+      "district_name": "Fatih",
+      "postal_code": "34098",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Silivrikapı Mah",
+      "district_name": "Fatih",
+      "postal_code": "34107",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultan Ahmet Mah",
+      "district_name": "Fatih",
+      "postal_code": "34122",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sururi Mah",
+      "district_name": "Fatih",
+      "postal_code": "34120",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "Fatih",
+      "postal_code": "34116",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sümbül Efendi Mah",
+      "district_name": "Fatih",
+      "postal_code": "34107",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tahtakale Mah",
+      "district_name": "Fatih",
+      "postal_code": "34116",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Taya Hatun Mah",
+      "district_name": "Fatih",
+      "postal_code": "34120",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Topkapı Mah",
+      "district_name": "Fatih",
+      "postal_code": "34093",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Sinan Mah",
+      "district_name": "Fatih",
+      "postal_code": "34134",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Sultan Selim Mah",
+      "district_name": "Fatih",
+      "postal_code": "34083",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yedikule Mah",
+      "district_name": "Fatih",
+      "postal_code": "34107",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zeyrek Mah",
+      "district_name": "Fatih",
+      "postal_code": "34083",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İskenderpaşa Mah",
+      "district_name": "Fatih",
+      "postal_code": "34080",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şehremini Mah",
+      "district_name": "Fatih",
+      "postal_code": "34104",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şehsuvar Bey Mah",
+      "district_name": "Fatih",
+      "postal_code": "34126",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Barbaros Hayrettin Paşa Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34250",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34245",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34255",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34250",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karadeniz Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34250",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karayolları Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34255",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karlıtepe Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34240",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34255",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34245",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34255",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Pazariçi Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34240",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sarıgöl Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34245",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Mahalle Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34250",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34240",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yıldıztabya Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34240",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şemsipaşa Mah",
+      "district_name": "Gaziosmanpaşa",
+      "postal_code": "34250",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Abdurrahman Nafiz Gürman Mah",
+      "district_name": "Güngören",
+      "postal_code": "34173",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Mah",
+      "district_name": "Güngören",
+      "postal_code": "34160",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gençosman Mah",
+      "district_name": "Güngören",
+      "postal_code": "34165",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güneştepe Mah",
+      "district_name": "Güngören",
+      "postal_code": "34164",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güven Mah",
+      "district_name": "Güngören",
+      "postal_code": "34160",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Haznedar Mah",
+      "district_name": "Güngören",
+      "postal_code": "34160",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mareşal Çakmak Mah",
+      "district_name": "Güngören",
+      "postal_code": "34160",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Nesih Özmen Mah",
+      "district_name": "Güngören",
+      "postal_code": "34173",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Güngören",
+      "postal_code": "34164",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Güngören",
+      "postal_code": "34165",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tozkoparan Mah",
+      "district_name": "Güngören",
+      "postal_code": "34173",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "19 Mayıs Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34736",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Acıbadem Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34718",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bostancı Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34744",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Caddebostan Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34728",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Caferağa Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34710",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34720",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Erenköy Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34738",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Eğitim Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34722",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fenerbahçe Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34726",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Feneryolu Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34724",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fikirtepe Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34720",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34730",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hasanpaşa Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34722",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kozyatağı Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34742",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Koşuyolu Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34718",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merdivenköy Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34732",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Osmanağa Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34714",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rasimpaşa Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34716",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sahrayıcedit Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34734",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Suadiye Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34740",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zühtüpaşa Mah",
+      "district_name": "Kadıköy",
+      "postal_code": "34724",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atalar Mah",
+      "district_name": "Kartal",
+      "postal_code": "34862",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah",
+      "district_name": "Kartal",
+      "postal_code": "34865",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Kartal",
+      "postal_code": "34876",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Kartal",
+      "postal_code": "34870",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşpınar Mah",
+      "district_name": "Kartal",
+      "postal_code": "34880",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Kartal",
+      "postal_code": "34876",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karlıktepe Mah",
+      "district_name": "Kartal",
+      "postal_code": "34870",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kordonboyu Mah",
+      "district_name": "Kartal",
+      "postal_code": "34860",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orhantepe Mah",
+      "district_name": "Kartal",
+      "postal_code": "34865",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Kartal",
+      "postal_code": "34880",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Petrol İş Mah",
+      "district_name": "Kartal",
+      "postal_code": "34862",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Soğanlık Yeni Mah",
+      "district_name": "Kartal",
+      "postal_code": "34880",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Topselvi Mah",
+      "district_name": "Kartal",
+      "postal_code": "34873",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Uğur Mumcu Mah",
+      "district_name": "Kartal",
+      "postal_code": "34882",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yakacık Yeni Mah",
+      "district_name": "Kartal",
+      "postal_code": "34882",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yakacık Çarşı Mah",
+      "district_name": "Kartal",
+      "postal_code": "34876",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "Kartal",
+      "postal_code": "34873",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Kartal",
+      "postal_code": "34860",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yunus Mah",
+      "district_name": "Kartal",
+      "postal_code": "34873",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çavuşoğlu Mah",
+      "district_name": "Kartal",
+      "postal_code": "34873",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emniyet Evleri Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34415",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34410",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gürsel Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34400",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34408",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Harmantepe Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34410",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34403",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34400",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34406",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nurtepe Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34406",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ortabayır Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34413",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34418",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultan Selim Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34415",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Talatpaşa Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34400",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Telsizler Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34410",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yahya Kemal Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34410",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilce Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34418",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34403",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çeliktepe Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34413",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şirintepe Mah",
+      "district_name": "Kağıthane",
+      "postal_code": "34415",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atakent Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34307",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34307",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Beşyol Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cennet Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34290",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34290",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34290",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Halkalı Merkez Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34303",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kanarya Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34290",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kartaltepe Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçükçekmece İkitelliosb Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34307",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34307",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultan Murat Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Çeşme Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tevfikbey Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yarımburgaz Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34303",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Mahalle Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34290",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34295",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Küçükçekmece",
+      "postal_code": "34303",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Altayçeşme Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34843",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Altıntepe Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34840",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınevler Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34854",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34844",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Başıbüyük Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34854",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Büyükbakkalköy Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34858",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cevizli Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34846",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenkent Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34848",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Feyzullah Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34843",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34854",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Girne Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34852",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gülensu Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34848",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gülsuyu Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34848",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçükyalı Merkez Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34840",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34844",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zümrütevler Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34852",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34841",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İdealtepe Mah",
+      "district_name": "Maltepe",
+      "postal_code": "34841",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ahmet Yesevi Mah",
+      "district_name": "Pendik",
+      "postal_code": "34903",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Pendik",
+      "postal_code": "34893",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ballıca Mah",
+      "district_name": "Pendik",
+      "postal_code": "34916",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Batı Mah",
+      "district_name": "Pendik",
+      "postal_code": "34890",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Doğu Mah",
+      "district_name": "Pendik",
+      "postal_code": "34890",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Pendik",
+      "postal_code": "34896",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emirli Mah",
+      "district_name": "Pendik",
+      "postal_code": "34916",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ertuğrul Gazi Mah",
+      "district_name": "Pendik",
+      "postal_code": "34909",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenler Mah",
+      "district_name": "Pendik",
+      "postal_code": "34899",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenyalı Mah",
+      "district_name": "Pendik",
+      "postal_code": "34903",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Pendik",
+      "postal_code": "34903",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Pendik",
+      "postal_code": "34899",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göçbeyli Mah",
+      "district_name": "Pendik",
+      "postal_code": "34916",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güllü Bağlar Mah",
+      "district_name": "Pendik",
+      "postal_code": "34906",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güzelyalı Mah",
+      "district_name": "Pendik",
+      "postal_code": "34903",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Harmandere Mah",
+      "district_name": "Pendik",
+      "postal_code": "34912",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kavakpınar Mah",
+      "district_name": "Pendik",
+      "postal_code": "34899",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Mah",
+      "district_name": "Pendik",
+      "postal_code": "34890",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kurna Mah",
+      "district_name": "Pendik",
+      "postal_code": "34916",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kurtdoğmuş Mah",
+      "district_name": "Pendik",
+      "postal_code": "34916",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Mah",
+      "district_name": "Pendik",
+      "postal_code": "34912",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Pendik",
+      "postal_code": "34903",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Pendik",
+      "postal_code": "34896",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ramazanoğlu Mah",
+      "district_name": "Pendik",
+      "postal_code": "34906",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Pendik",
+      "postal_code": "34906",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sapan Bağları Mah",
+      "district_name": "Pendik",
+      "postal_code": "34893",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sülüntepe Mah",
+      "district_name": "Pendik",
+      "postal_code": "34909",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Velibaba Mah",
+      "district_name": "Pendik",
+      "postal_code": "34896",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yayalar Mah",
+      "district_name": "Pendik",
+      "postal_code": "34909",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Pendik",
+      "postal_code": "34893",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Pendik",
+      "postal_code": "34912",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilbağlar Mah",
+      "district_name": "Pendik",
+      "postal_code": "34893",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Pendik",
+      "postal_code": "34912",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çamçeşme Mah",
+      "district_name": "Pendik",
+      "postal_code": "34899",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çınardere Mah",
+      "district_name": "Pendik",
+      "postal_code": "34896",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şeyhli Mah",
+      "district_name": "Pendik",
+      "postal_code": "34906",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Abdurrahmangazi Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34887",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34885",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34785",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34785",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Eyüp Sultan Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34885",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34885",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hilal Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kemal Türkler Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34785",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Meclis Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34785",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merve Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34887",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Safa Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sarıgazi Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34785",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Veysel Karani Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34885",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34791",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Sancaktepe",
+      "postal_code": "34785",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ayazağa Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34485",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçeköy Kemer Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34473",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçeköy Merkez Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34473",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçeköy Yeni Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34473",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Baltalimanı Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34470",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Büyükdere Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34453",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34457",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Darüşşafaka Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34457",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Demirciköy Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Emirgan Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34467",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34470",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ferahevler Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34457",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Garipçe Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşdere Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Huzur Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34485",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Paşa Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kireçburnu Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34457",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kocataş Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34453",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kumköy  Mah (kilyos Mah)",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kısırkaya Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Maden Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Maslak Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34485",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Poligon Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34460",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ptt Evleri Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34453",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34460",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Reşitpaşa Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34467",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rumelifeneri Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rumelihisarı Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34470",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Rumelikavağı Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sarıyer Merkez Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tarabya Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34457",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Uskumruköy Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34464",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zekeriyaköy Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34450",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çamlıtepe Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34457",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34453",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İstinye Mah",
+      "district_name": "Sarıyer",
+      "postal_code": "34460",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akören Mah",
+      "district_name": "Silivri",
+      "postal_code": "34592",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alibey Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alipaşa Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bekirli Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Beyciler Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Büyük Kılıçlı Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Büyük Sinekli Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Büyük Çavuşlu Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Danamandıra Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Değirmenköy Fevzipaşa Mah",
+      "district_name": "Silivri",
+      "postal_code": "34586",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Değirmenköy İsmetpaşa Mah",
+      "district_name": "Silivri",
+      "postal_code": "34586",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fener Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gazitepe Mah",
+      "district_name": "Silivri",
+      "postal_code": "34592",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşyaka Mah",
+      "district_name": "Silivri",
+      "postal_code": "34588",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "Silivri",
+      "postal_code": "34592",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Hürriyet Mah",
+      "district_name": "Silivri",
+      "postal_code": "34596",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kavaklı İstiklal Mah",
+      "district_name": "Silivri",
+      "postal_code": "34596",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kurfallı Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçük Kılıçlı Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçük Sinekli Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Silivri",
+      "postal_code": "34592",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Piri Mehmet Paşa Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sayalar Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Selimpaşa Mah",
+      "district_name": "Silivri",
+      "postal_code": "34590",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Semizkumlar Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Seymen Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Silivri",
+      "postal_code": "34570",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yolçatı Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çanta Balaban Mah",
+      "district_name": "Silivri",
+      "postal_code": "34580",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çanta Sancaktepe Mah",
+      "district_name": "Silivri",
+      "postal_code": "34580",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çayırdere Mah",
+      "district_name": "Silivri",
+      "postal_code": "34594",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çeltik Mah",
+      "district_name": "Silivri",
+      "postal_code": "34582",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Abdurrahmangazi Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34920",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Adil Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34935",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ahmet Yesevi Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34930",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akşemsettin Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34925",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Battalgazi Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34935",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34920",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34925",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hasanpaşa Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34920",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34930",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34920",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34935",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Necip Fazıl Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34925",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34925",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Turgut Reis Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34930",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Sultanbeyli",
+      "postal_code": "34925",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "50. Yıl Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34265",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "75. Yıl Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34260",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cebeci Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34270",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34265",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34265",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Eski Habipler Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34270",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34260",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Habibler Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34270",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Malkoçoğlu Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34270",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultançiftliği Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34265",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Uğur Mumcu Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34265",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34270",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34260",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zübeyde Hanım Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34260",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Sultangazi",
+      "postal_code": "34270",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akfırat Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34959",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Anadolu Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34956",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlı - Birlik Osb Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34953",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlı - İstanbul Ayosb Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34953",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlı Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34953",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlı Sb Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34953",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlı-kosb Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34953",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydıntepe Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34947",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34940",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Deri Osb Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34956",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Evliya Çelebi Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34944",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34956",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mescit Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34956",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34950",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orhanlı Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34956",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34956",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Postane Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34940",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tepeoren İtosb Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34959",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tepeören Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34959",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34944",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34940",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İçmeler Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34947",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şifa Mah",
+      "district_name": "Tuzla",
+      "postal_code": "34950",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Beştelsiz Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34020",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gökalp Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34020",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kazlıçeşme Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34020",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Maltepe Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34010",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkezefendi Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34015",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nuripaşa Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34025",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Seyitnizam Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34015",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34025",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Telsiz Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34020",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Veliefendi Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34025",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34020",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34025",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çırpıcı Mah",
+      "district_name": "Zeytinburnu",
+      "postal_code": "34025",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akalan Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahşayiş Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Başak Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Belgrat Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Celepköy Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dağyenice Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Elbasan Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ferhatpaşa Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ferhatpaşa Sb Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gökçeali Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gümüşpınar Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hallaçlı Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hisarbeyli Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kabakça Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kaleiçi Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kalfa Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karacaköy Merkez Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karamandere Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kestanelik Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kızılcaali Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Muratbey Merkez Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nakkaş Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Oklalı Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ormanlı Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ovayenice Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yalıköy Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çakıl Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çanakça Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çiftlikköy Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Örcünlü Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnceğiz Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İzzettin Mah",
+      "district_name": "Çatalca",
+      "postal_code": "34540",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alemdağ Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34794",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ekşioğlu Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34794",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güngören Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34782",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34799",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kirazlıdere Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Koçullu Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34799",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34782",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34782",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34782",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Nişantepe Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34794",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34799",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Soğukpınar Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultançiftliği Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sırapınar Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34799",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Taşdelen Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34788",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34782",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çatalmeşe Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34794",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ömerli Mah",
+      "district_name": "Çekmeköy",
+      "postal_code": "34799",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Adem Yavuz Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34773",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Altınşehir Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34775",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Armağanevler Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34760",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atakent Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34760",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34764",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aşağı Dudullu Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34773",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cemil Meriç Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34771",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dudullu Osb Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34775",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34766",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Elmalıkent Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34764",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenevler Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34762",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenkent Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34776",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenşehir Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34776",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34771",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Finanskent Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34760",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hekimbaşı Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34766",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Huzur Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34773",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ihlamurkuyu Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34771",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34766",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Madenler Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34776",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34774",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34762",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Necip Fazıl Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34773",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Parseller Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34773",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34768",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Site Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34760",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tantavi Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34764",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tatlısu Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34774",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Tepeüstü Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34771",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Topağacı Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34766",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yamanevler Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34768",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34760",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yukarı Dudullu Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34775",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34774",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34774",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnkılap Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34768",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34762",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şerifali Mah",
+      "district_name": "Ümraniye",
+      "postal_code": "34775",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Acıbadem Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34660",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ahmediye Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34672",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Altunizade Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34662",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Aziz Mahmut Hüdayi Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34672",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34688",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34662",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Beylerbeyi Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34676",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bulgurlu Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34696",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34676",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34697",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ferah Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34692",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Güzeltepe Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34680",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kandilli Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34684",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kirazlıtepe Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34682",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kuleli Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34684",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kuzguncuk Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34674",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küplüce Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34676",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçük Çamlıca Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34696",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Küçüksu Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34684",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kısıklı Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34692",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34682",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34672",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Muratreis Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34664",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Salacak Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34668",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Selami Ali Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34664",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34668",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sultantepe Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34674",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Valide-i Atik Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34664",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yavuztürk Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34690",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Zeynep Kamil Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34668",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çengelköy Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34680",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ünalan Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34700",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İcadiye Mah",
+      "district_name": "Üsküdar",
+      "postal_code": "34674",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ahmetli Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Akçakese Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Alacalı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Avcıkoru Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ağaçdere Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ağva Merkez Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Balibey Mah",
+      "district_name": "Şile",
+      "postal_code": "34980",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bozgoca Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bucaklı Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bıçkıdere Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Darlık Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Değirmençayırı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Doğancılı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esenceli Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Geredeli Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gökmaşlı Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Göçe Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hacı Kasım Mah",
+      "district_name": "Şile",
+      "postal_code": "34980",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hacıllı Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Hasanlı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kabakoz Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kalem Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karabeyli Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karacaköy Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karakiraz Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Karamandere Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kervansaray Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Korucu Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kumbaba Mah",
+      "district_name": "Şile",
+      "postal_code": "34980",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kurfallı Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kurna Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kömürlük Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Meşrutiyet Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Oruçoğlu Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Osmanköy Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sahilköy Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Satmazlı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Sortullu Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Soğullu Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Teke Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ulupelit Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yaylalı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yazımanayır Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yeşilvadi Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çataklı Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çavuş Mah",
+      "district_name": "Şile",
+      "postal_code": "34980",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çelebi Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Çengilli Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Üvezli Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İmrendere Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İmrenli Mah",
+      "district_name": "Şile",
+      "postal_code": "34983",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İsaköy Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Şuayipli Mah",
+      "district_name": "Şile",
+      "postal_code": "34990",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "19 Mayıs Mah",
+      "district_name": "Şişli",
+      "postal_code": "34363",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Bozkurt Mah",
+      "district_name": "Şişli",
+      "postal_code": "34375",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Şişli",
+      "postal_code": "34380",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Duatepe Mah",
+      "district_name": "Şişli",
+      "postal_code": "34379",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Ergenekon Mah",
+      "district_name": "Şişli",
+      "postal_code": "34373",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Şişli",
+      "postal_code": "34394",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Eskişehir Mah",
+      "district_name": "Şişli",
+      "postal_code": "34375",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Feriköy Mah",
+      "district_name": "Şişli",
+      "postal_code": "34377",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Fulya Mah",
+      "district_name": "Şişli",
+      "postal_code": "34394",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Gülbahar Mah",
+      "district_name": "Şişli",
+      "postal_code": "34394",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Halaskargazi Mah",
+      "district_name": "Şişli",
+      "postal_code": "34371",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Halide Edip Adıvar Mah",
+      "district_name": "Şişli",
+      "postal_code": "34384",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Halil Rıfat Paşa Mah",
+      "district_name": "Şişli",
+      "postal_code": "34384",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Harbiye Mah",
+      "district_name": "Şişli",
+      "postal_code": "34367",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kaptanpaşa Mah",
+      "district_name": "Şişli",
+      "postal_code": "34384",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Kuştepe Mah",
+      "district_name": "Şişli",
+      "postal_code": "34381",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mahmut Şevket Paşa Mah",
+      "district_name": "Şişli",
+      "postal_code": "34384",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Mecidiyeköy Mah",
+      "district_name": "Şişli",
+      "postal_code": "34381",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Şişli",
+      "postal_code": "34384",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Meşrutiyet Mah",
+      "district_name": "Şişli",
+      "postal_code": "34363",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Paşa Mah",
+      "district_name": "Şişli",
+      "postal_code": "34379",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Teşvikiye Mah",
+      "district_name": "Şişli",
+      "postal_code": "34365",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Şişli",
+      "postal_code": "34377",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Şişli",
+      "postal_code": "34373",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    },
+    {
+      "neighbourhood_name": "İzzet Paşa Mah",
+      "district_name": "Şişli",
+      "postal_code": "34381",
+      "city_code": "34",
+      "city_name": "İstanbul"
+    }
+  ],
+  "meta": {
+    "title": "İstanbul Mahalleleri (İstanbul Neighbourhoods) - Ücretsiz İndir",
+    "description": "İstanbul ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (975 kayıt.) (All neighbourhoods (mahalle) in İstanbul province with their parent district and postal code.) İçerik 975 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "İstanbul Mahalleleri (İstanbul Neighbourhoods) | ListBase",
+    "seo_description": "İndir İstanbul Mahalleleri (İstanbul Neighbourhoods) — 975 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 975 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

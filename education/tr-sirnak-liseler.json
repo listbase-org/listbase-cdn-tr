@@ -1,0 +1,352 @@
+{
+  "id": "tr-sirnak-liseler",
+  "name": "Şırnak Liseleri (High Schools in Şırnak)",
+  "title": "Şırnak Liseleri (High Schools in Şırnak)",
+  "description": "Şırnak ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (23 kayıt) (High schools in Şırnak province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Beytüşşebab İmam Hatip Lisesi",
+      "tam_ad": "Şırnak - Beytüşşebab - Beytüşşebab İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Şırnak",
+      "ilce": "Beytüşşebab",
+      "website": "http://beytussebapihl.meb.k12.tr",
+      "enlem": 37.57002671999736,
+      "boylam": 43.167115060229435
+    },
+    {
+      "okul_adi": "Beytüşşebap Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Beytüşşebab - Beytüşşebap Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Beytüşşebab",
+      "website": "http://beytussebapcpal.meb.k12.tr",
+      "enlem": 37.570008631353474,
+      "boylam": 43.167115060229435
+    },
+    {
+      "okul_adi": "Şehit Yüzbaşı Ali Alkan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Beytüşşebab - Şehit Yüzbaşı Ali Alkan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Beytüşşebab",
+      "website": "http://alialkancpl.meb.k12.tr",
+      "enlem": 37.481838317135626,
+      "boylam": 43.117912618060245
+    },
+    {
+      "okul_adi": "Cizre Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Şırnak - Cizre - Cizre Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Şırnak",
+      "ilce": "Cizre",
+      "website": "http://cizreanadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 37.323172617628956,
+      "boylam": 42.19468018188013
+    },
+    {
+      "okul_adi": "Cizre Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Şırnak - Cizre - Cizre Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Şırnak",
+      "ilce": "Cizre",
+      "website": "http://kizanadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 37.33717638435171,
+      "boylam": 42.20221718921198
+    },
+    {
+      "okul_adi": "Dicle Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Cizre - Dicle Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Cizre",
+      "website": "http://diclecpal.meb.k12.tr",
+      "enlem": 37.317063547276526,
+      "boylam": 42.20422884597315
+    },
+    {
+      "okul_adi": "Güçlükonak Anadolu Lisesi",
+      "tam_ad": "Şırnak - Güçlükonak - Güçlükonak Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Güçlükonak",
+      "website": "http://guclukonakanadolulisesi.meb.k12.tr",
+      "enlem": 37.46288413310867,
+      "boylam": 41.90722784175409
+    },
+    {
+      "okul_adi": "Güçlükonak Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Güçlükonak - Güçlükonak Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Güçlükonak",
+      "website": "http://guclukonakcpal.meb.k12.tr",
+      "enlem": 37.471836028555344,
+      "boylam": 41.91570094003214
+    },
+    {
+      "okul_adi": "Balveren Mustafa Bayram Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Merkez - Balveren Mustafa Bayram Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://balverencpal.meb.k12.tr",
+      "enlem": 37.48380498547353,
+      "boylam": 42.552610246081485
+    },
+    {
+      "okul_adi": "Fatih Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Şırnak - Merkez - Fatih Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakfatihtml.meb.k12.tr",
+      "enlem": 37.52625877062191,
+      "boylam": 42.46134942545427
+    },
+    {
+      "okul_adi": "Kumçatı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Merkez - Kumçatı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://kumcaticpl.meb.k12.tr",
+      "enlem": 37.470752491102104,
+      "boylam": 42.32144674434198
+    },
+    {
+      "okul_adi": "İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Şırnak - Merkez - İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://ibnisinamtal.meb.k12.tr",
+      "enlem": 37.51115418621908,
+      "boylam": 42.45138367785944
+    },
+    {
+      "okul_adi": "Şehit Ahmet Kara Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şehit Ahmet Kara Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sehitahmetkaraaihl.meb.k12.tr",
+      "enlem": 37.5096265383011,
+      "boylam": 42.45816430224909
+    },
+    {
+      "okul_adi": "Şırnak Anadolu Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakanadolulisesi.meb.k12.tr",
+      "enlem": 37.51130737481466,
+      "boylam": 42.45916208400263
+    },
+    {
+      "okul_adi": "Şırnak Anadolu Öğretmen Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Anadolu Öğretmen Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakaol.meb.k12.tr",
+      "enlem": 37.5196812063142,
+      "boylam": 42.44266113414301
+    },
+    {
+      "okul_adi": "Şırnak Fatih Fen Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Fatih Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakfatihfenlisesi.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Şırnak Fatih Sosyal Bilimler Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Fatih Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakfatihsbl.meb.k12.tr",
+      "enlem": 37.52002796820027,
+      "boylam": 42.44257798566355
+    },
+    {
+      "okul_adi": "Şırnak Fen Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakfenlisesi.meb.k12.tr",
+      "enlem": 37.52893898304445,
+      "boylam": 42.445289698977604
+    },
+    {
+      "okul_adi": "Şırnak Güzel Sanatlar Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakgsl.meb.k12.tr",
+      "enlem": 37.52532280074073,
+      "boylam": 42.461211291690006
+    },
+    {
+      "okul_adi": "Şırnak Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Şırnak - Merkez - Şırnak Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Merkez",
+      "website": "http://sirnakmtal.meb.k12.tr",
+      "enlem": 37.51105206031397,
+      "boylam": 42.45742401256098
+    },
+    {
+      "okul_adi": "Hacı Mehmet Ökten Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Şırnak - Silopi - Hacı Mehmet Ökten Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Şırnak",
+      "ilce": "Silopi",
+      "website": "http://hmoaihl.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Vali Kamil Acun Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Şırnak - Silopi - Vali Kamil Acun Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Silopi",
+      "website": "http://valikamilacuncpl.meb.k12.tr",
+      "enlem": 37.23156345303795,
+      "boylam": 42.489165274043216
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Anadolu Lisesi",
+      "tam_ad": "Şırnak - Uludere - Mehmet Akif Ersoy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Şırnak",
+      "ilce": "Uludere",
+      "website": "http://mehmetakifal.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.85343352075741
+    }
+  ],
+  "meta": {
+    "title": "Şırnak Liseleri (High Schools in Şırnak) - Ücretsiz İndir",
+    "description": "Şırnak ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (23 kayıt) (High schools in Şırnak province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 23 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Şırnak Liseleri (High Schools in Şırnak) | ListBase",
+    "seo_description": "İndir Şırnak Liseleri (High Schools in Şırnak) — 23 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 23 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

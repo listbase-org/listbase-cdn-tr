@@ -1,0 +1,388 @@
+{
+  "id": "tr-osmaniye-liseler",
+  "name": "Osmaniye Liseleri (High Schools in Osmaniye)",
+  "title": "Osmaniye Liseleri (High Schools in Osmaniye)",
+  "description": "Osmaniye ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (26 kayıt) (High schools in Osmaniye province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Bahçe Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Bahçe - Bahçe Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Bahçe",
+      "website": "http://bahceanadolulisesi.meb.k12.tr",
+      "enlem": 37.191098574158254,
+      "boylam": 36.56201442851557
+    },
+    {
+      "okul_adi": "Bahçe Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Osmaniye - Bahçe - Bahçe Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Osmaniye",
+      "ilce": "Bahçe",
+      "website": "http://bahceanadoluihl.meb.k12.tr",
+      "enlem": 37.193913852618344,
+      "boylam": 36.57067903625534
+    },
+    {
+      "okul_adi": "Bahçe Gevher Nesibe Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Bahçe - Bahçe Gevher Nesibe Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Bahçe",
+      "website": "http://bahceasml.meb.k12.tr",
+      "enlem": 37.2001619609144,
+      "boylam": 36.57569369449152
+    },
+    {
+      "okul_adi": "Bahçe Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Bahçe - Bahçe Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Bahçe",
+      "website": "http://bahceeml.meb.k12.tr",
+      "enlem": 37.199179185151166,
+      "boylam": 36.577340570826664
+    },
+    {
+      "okul_adi": "Bahçe Zübeyde Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Bahçe - Bahçe Zübeyde Hanım Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Bahçe",
+      "website": "http://bahcektml.meb.k12.tr",
+      "enlem": 37.2003093761753,
+      "boylam": 36.57623550071253
+    },
+    {
+      "okul_adi": "Düziçi 75. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi 75. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duzicieml.meb.k12.tr",
+      "enlem": 37.25396007772523,
+      "boylam": 36.459221450228824
+    },
+    {
+      "okul_adi": "Düziçi Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://dziianadolulisesi.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Düziçi Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duziciataturkmtal.meb.k12.tr",
+      "enlem": 37.25433155489565,
+      "boylam": 36.460702029605045
+    },
+    {
+      "okul_adi": "Düziçi Cumhuriyet Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Cumhuriyet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duzicical.meb.k12.tr",
+      "enlem": 37.22921642941875,
+      "boylam": 36.445220319171085
+    },
+    {
+      "okul_adi": "Düziçi Fen Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duzicifl.meb.k12.tr",
+      "enlem": 37.255864412580614,
+      "boylam": 36.46412452830805
+    },
+    {
+      "okul_adi": "Düziçi Karacaoğlan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Karacaoğlan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duzicikmtal.meb.k12.tr",
+      "enlem": 37.25931429572244,
+      "boylam": 36.46423986329569
+    },
+    {
+      "okul_adi": "Düziçi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duzicitml.meb.k12.tr",
+      "enlem": 37.26108187264855,
+      "boylam": 36.46179637088312
+    },
+    {
+      "okul_adi": "Düziçi Çeaş Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Düziçi - Düziçi Çeaş Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Düziçi",
+      "website": "http://duziciceas.meb.k12.tr",
+      "enlem": 37.2567183587655,
+      "boylam": 36.45659288539423
+    },
+    {
+      "okul_adi": "Hasanbeyli Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Hasanbeyli - Hasanbeyli Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Hasanbeyli",
+      "website": "http://hasanbeylilisesi.meb.k12.tr",
+      "enlem": 37.134197891231686,
+      "boylam": 36.55568441524042
+    },
+    {
+      "okul_adi": "Kadirli Yunus Emre Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Kadirli - Kadirli Yunus Emre Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Kadirli",
+      "website": "http://kadirlitml.meb.k12.tr",
+      "enlem": 37.37809856571872,
+      "boylam": 36.065457368592206
+    },
+    {
+      "okul_adi": "Osman Gazi Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Kadirli - Osman Gazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Kadirli",
+      "website": "http://kadirliogal.meb.k12.tr",
+      "enlem": 37.37697666904669,
+      "boylam": 36.10876402034296
+    },
+    {
+      "okul_adi": "Şehit İsmail Akduman Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Osmaniye - Kadirli - Şehit İsmail Akduman Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Osmaniye",
+      "ilce": "Kadirli",
+      "website": "http://sehitismailakdumankizanadoluihl.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "80. Yıl Cumhuriyet Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Merkez - 80. Yıl Cumhuriyet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://80yilcumal.meb.k12.tr",
+      "enlem": 37.07077440448718,
+      "boylam": 36.270536092658176
+    },
+    {
+      "okul_adi": "Adnan Oğuz Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Merkez - Adnan Oğuz Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://adnanoguz.meb.k12.tr",
+      "enlem": 37.06107038848983,
+      "boylam": 36.23004184461638
+    },
+    {
+      "okul_adi": "Ahmet Cevdet Paşa Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Merkez - Ahmet Cevdet Paşa Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://ahmetcevdetpasa.meb.k12.tr",
+      "enlem": 37.12947633174279,
+      "boylam": 36.207984296221866
+    },
+    {
+      "okul_adi": "Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Merkez - Mehmet Akif Ersoy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://osmaniyemaersoykml.meb.k12.tr",
+      "enlem": 37.06588623160685,
+      "boylam": 36.246468631167545
+    },
+    {
+      "okul_adi": "Necip Fazıl Kısakürek Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Osmaniye - Merkez - Necip Fazıl Kısakürek Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://osmaniyenecipfazilihl.meb.k12.tr",
+      "enlem": 37.08554829700937,
+      "boylam": 36.23613676204218
+    },
+    {
+      "okul_adi": "Tosçelik Sosyal Bilimler Lisesi",
+      "tam_ad": "Osmaniye - Merkez - Tosçelik Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://osmaniyesbl.meb.k12.tr",
+      "enlem": 37.053754326101505,
+      "boylam": 36.22862657680048
+    },
+    {
+      "okul_adi": "Şehit Mehmet Karacatilki Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Osmaniye - Merkez - Şehit Mehmet Karacatilki Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Osmaniye",
+      "ilce": "Merkez",
+      "website": "http://mehmetkaracatilkiaihl.meb.k12.tr",
+      "enlem": 37.067983647349415,
+      "boylam": 36.209765283007755
+    },
+    {
+      "okul_adi": "Toprakkale Şehit İbrahim Etiz Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Toprakkale - Toprakkale Şehit İbrahim Etiz Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Toprakkale",
+      "website": "http://sehitibrahimetizanadolulisesi.meb.k12.tr",
+      "enlem": 37.052210943573755,
+      "boylam": 36.1550213970138
+    },
+    {
+      "okul_adi": "Yolbulan-baştuğ Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Osmaniye - Toprakkale - Yolbulan - Baştuğ Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Osmaniye",
+      "ilce": "Toprakkale",
+      "website": "http://yolbulanbastugmeslis.meb.k12.tr",
+      "enlem": 37.004898865025496,
+      "boylam": 36.1012967504455
+    }
+  ],
+  "meta": {
+    "title": "Osmaniye Liseleri (High Schools in Osmaniye) - Ücretsiz İndir",
+    "description": "Osmaniye ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (26 kayıt) (High schools in Osmaniye province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 26 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Osmaniye Liseleri (High Schools in Osmaniye) | ListBase",
+    "seo_description": "İndir Osmaniye Liseleri (High Schools in Osmaniye) — 26 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 26 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

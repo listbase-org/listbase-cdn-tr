@@ -1,0 +1,4762 @@
+{
+  "id": "tr-sakarya-neighbourhoods",
+  "name": "Sakarya Mahalleleri (Sakarya Neighbourhoods)",
+  "title": "Sakarya Mahalleleri (Sakarya Neighbourhoods)",
+  "description": "Sakarya ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (673 kayıt.) (All neighbourhoods (mahalle) in Sakarya province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 673,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "15 Temmuz Camili Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54290",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Abalı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Acıelmalık Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alandüzü Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aşırlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bayraktar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bileciler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Budaklar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Büyükhataplı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dağdibi Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Demirbey Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Doğancılar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Evrenköy Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Göktepe Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güllük Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güneşler Merkez Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güneşler Yeni Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıramazanlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Harmantepe Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hızırtepe Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karadavutlu Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karakamış Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaköy Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaman Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54290",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaosman Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kasımlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kavaklıorman Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kayrancık Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Korucuk Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54290",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtbeyler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kömürlük Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçükhataplı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Maltepe Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Nasuhlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ozanlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Papuççular Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Poyrazlar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Rüstemler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Salmanlı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Semerciler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Solaklar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Süleymanbey Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşkısığı Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşlık Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tekeler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tepekum Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Turnadere Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tuzla Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tığcılar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yahyalar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenicami Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenigün Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çaltıcak Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çamyolu Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çelebiler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çerçiler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çukurahmediye Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çökekler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Örentepe Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İkizce Müslim Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İkizce Osmaniye Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İlyaslar Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şeker Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah",
+      "district_name": "Adapazarı",
+      "postal_code": "54100",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akbalık Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alaağaç Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Altındere Cumhuriyet Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Altındere Gündoğan Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Altındere Osmanağa Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ballıkaya Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Batakköy Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bedil Kazancı Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bedilkadırbey Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bediltahirbey Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beldibi Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bıçkıdere Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dedeler Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dokurcun Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Durmuşlar Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Düzyazı Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Erdoğdu Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Eskibedil Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gazi Süleyman Paşa Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gebeş Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gökçeler Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güvençler Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güzlek Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hanyatak Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Harunusta Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hasanbey Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hastahane Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Haydarlar Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kabakulak Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaçalılık Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kepekli Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Konuralp Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kumköprü Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kuzuluk Ortamahalle Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kuzuluk Topçusırtı Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçücek Cumhuriyet Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçücek İstiklal Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılcıkorman Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Madenler Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mansurlar Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Merkezyeniköy Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Osmanbey Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Pazarköy Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Salihiye Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Seyfeler Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sukenarı Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşağıl Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşburun Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşyatak Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Topağaç Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Türkormanköy Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzunçınar Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Vakıf Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yahyalı Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeniorman Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yongalık Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yuvalak Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yörükyeri Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çakıroğlu Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çatalköprü Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çıldırlar Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ömercikler Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Akyazı",
+      "postal_code": "54400",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Adliye Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ahmediye Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Arifbey Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kirazca Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Boğazköy Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıköy Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hanlı Merkez Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hanlı Sakarya Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hanlıköy Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaaptiler Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaçomaklar Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kemaliye Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kirazca Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kumbaşı Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kışlaçay Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mollaköy Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Neviye Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sakarya I.organize Sanayi Bölgesi Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Semerciler Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Türkçaybaşı Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yukarıkirazca Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çaybaşı Fuadiye Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çınardibi Mah",
+      "district_name": "Arifiye",
+      "postal_code": "54580",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alancuma Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bekirpaşa Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Büyükesence Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Değirmendere Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dilmen Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ekinli Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Emirler Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Epçeller Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıoğlu Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hasanbey Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Horozlar Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kamışlı Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kayalarmemduhiye Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kayalarreşitbey Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kozluk Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küpçüler Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçükesence Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Nakışlar Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Pirahmetler Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sarıcalar Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tabakhane Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tuapsalar Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yazılı Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çaybaşıyeniköy Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çaykışla Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şeyhköy Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şükriye Mah",
+      "district_name": "Erenler",
+      "postal_code": "54200",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Abdürrezzak Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akçukur Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ağacık Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bakırlı Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ceylandere Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Damlık Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Devlet Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Değirmencik Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Doğancı Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ferizliosb Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gölkent Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hocaoğlu Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karadiken Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kusca Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Nalköy Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Osmanağa Çiftliği Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sarıahmetler Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Seyifler Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sinanoğlu Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Teberik Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tokat Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Ferizli",
+      "postal_code": "54110",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ahibaba Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akdoğan Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akkaya Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akıncı Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alifuatpaşa Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alıplar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bayat Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bağcaz Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Belpınar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bozören Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ceceler Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Demirler Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Doğancıl Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Doğantepe Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Doğançay Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Düzakçaşehir Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Epçeler Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Esenköy Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Eşme Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Fındıksuyu Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gazi Süleyman Paşa Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Günhoşlar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıosmanlar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Halidiye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hisarlık Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hırka Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kamışlı Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaçam Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Koru Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kozan Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kulfallar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılkaya Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Maksudiye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Melekşeoruç Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Melekşesolak Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Nuruosmaniye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Poydular Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sabırlar Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Safibey Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Saraçlı Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sarıgazi Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sekiharman Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Setçe Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Suçatı Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sütalan Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tepecikler Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Umurbey Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yaylak Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yörükler Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çayköy Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çeltikler Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çengel Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çine Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çukurköy Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İlimbey Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İnciksuyu Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şehren Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Geyve",
+      "postal_code": "54700",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akarca Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akova Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aksu Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aktefek Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akçayır Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aşağıçalıca Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bakacak Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Balıklıihsaniye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bayraktepe Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Başpınar Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beyköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beylice Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Büyükdere Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bıçkıatik Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dereboğazı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dikmen Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Eskibıçkı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güldibi Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gündoğan Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacimbey Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıkışla Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Halaç Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hamitli Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Harmantepe Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hicriye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hüseyinşeyh Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kadifekale Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kahraman Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kalayık Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karatoprak Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kargalı Hanbaba Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kargalı Hanbabaosb Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kargalıyeniköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kazımiye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kemaliye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kocaahmetler Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kocatöngel Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kırktepe Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızanlık Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Lütfiyeköşk Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mahmutbey Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Martinler Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Muradiye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Nuriye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Puna Ortaköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Rasimpaşa Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sarıdede Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sarıyer Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Servetiye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sivritepe Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sukenarı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sümbüllü Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Turanlar Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tuzak Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Türbe Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzuncaorman Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzunçarşı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yarıca Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yayalar Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yağbasan Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeniyayla Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşilvadi Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yukarıhüseyinşeyh Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yukarıçalıca Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çakallık Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çobanyatak Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çukurhan Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İkbaliye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İkramiye Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şeyhler Mah",
+      "district_name": "Hendek",
+      "postal_code": "54300",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ahmediye Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ahmetler Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hocaköy Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kanlıçay Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçükkarapürçek Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılbayır Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mesudiye Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Meşepınarı Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yazılıgürgen Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yüksel Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çeşmebaşı Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Karapürçek",
+      "postal_code": "54430",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Adatepe Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akkum Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ardıçbeli Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aziziye Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Camitepe Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Darıçayırı Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Denizköy Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gölköprü Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kabakoz Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kabakoz Osb Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kancalar Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karamüezzinler Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karanlıkdere Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karasu Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Konacık Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurudere Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurumeşe Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kuyumcullu Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kuzuluk Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılcık Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Limandere Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Manavpınarı Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Paralı Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Resuller Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Subatağı Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşlıgeçit Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tepetarla Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tuzla Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yassıgeçit Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yuvalıdere Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çatalövez Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Üçoluk Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İncilli Mah",
+      "district_name": "Karasu",
+      "postal_code": "54500",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akbaşlı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Arifağa Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Başoğlu Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Birlik Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Büyükyanık Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cebek Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Duduköy Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Eğrioğlu Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gölce Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gürpınar Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güven Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hatipler Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kalburcu Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karamanlar Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karaçalı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kayacık Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kertil Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kulaklı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçükkaynarca Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçükkışla Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kırktepe Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılcaali Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Müezzinler Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Okçular Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Osmanlı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sabırlı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sarıbeyli Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Topçu Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Turnalı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzakkışla Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzunalan Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeniçam Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ziahmet Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ömerağa Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İmamlar Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İşaret Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şeyhtımarı Mah",
+      "district_name": "Kaynarca",
+      "postal_code": "54650",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alandere Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aydoğan Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Açmabaşı Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ağalar Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beyler Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bezirgan Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Caferiye Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Demiraçma Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Görele Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gümüşoluk Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hızar Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karalar Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karapelit Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kestanepınarı Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kozluk Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Koğutpelit Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Köyyeri Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küplük Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılüzüm Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Melen Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Selahiye Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Süngüt Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yalpankaya Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yanıksayvant Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çakmaklı Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çukurköy Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şerbetpınar Mah",
+      "district_name": "Kocaali",
+      "postal_code": "54800",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ahılar Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akçakaya Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ağaççılar Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bacıköy Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bakacak Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bayırakçaşehir Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cihadiye Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Elperek Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Eskiyayla Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Eğriçay Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Fevziye Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gonca Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gökgöz Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hayrettin Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kazımiye Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kemaliye Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mekece Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Oruçlu Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Paşalar Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Teşvikiye Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Turgutlu Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çardak Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çilekli Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Özbek Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İsabalı Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şahmelek Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şeyhvarmaz Mah",
+      "district_name": "Pamukova",
+      "postal_code": "54900",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akçay Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Balkaya Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Camicedit Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Fevziye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gazipaşa Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Göl Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Güldibi Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacımercan Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Dibektaş Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Fatih Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Yavuzselim Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kuruçeşme Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Hasanpaşa Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Soğuksu Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Tepebaşı Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Memnuniye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Muradiye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Nailiye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Rüstempaşa Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzunkum Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yanık Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çayiçi Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ünlüce Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İkramiye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İlmiye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İstanbuldere Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Şükriye Mah",
+      "district_name": "Sapanca",
+      "postal_code": "54600",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Arabacıalanı Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aralık Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aşağıdereköy Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beşköprü Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dağyoncalı Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hamitabat Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kazımpaşa Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kuruçeşme Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54130",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kızılcıklı Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Meşeli Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Otuziki Evler Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Selahiye Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uzunköy Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Vatan Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54130",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54130",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yukarıdereköy Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Serdivan",
+      "postal_code": "54050",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akarca Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akgöl Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akçakamış Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Beşdeğirmen Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Cami Cedit Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Gündoğan Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hasanfakı Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kantar Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Karateke Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kurudil Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Küçük Söğütlü Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Levent Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Maksudiye Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mağara Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Rüstemler Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Soğucak Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Soğucakosb Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Sıraköy Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tokmaklıdere Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Türkbeylikkışla Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İmamlar Mah",
+      "district_name": "Söğütlü",
+      "postal_code": "54160",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Aksu Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Akçapınar Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Alballar Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Avdan Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Duman Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Dışdedeler Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Esenyurt Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıaliler Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacımurat Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Hacıyakup Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Harkköy Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Kemaller Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Mahdumlar Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Pirler Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Tuzla Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Ulucamii Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Yusufbey Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "Çamtepe Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    },
+    {
+      "neighbourhood_name": "İçdedeler Mah",
+      "district_name": "Taraklı",
+      "postal_code": "54750",
+      "city_code": "54",
+      "city_name": "Sakarya"
+    }
+  ],
+  "meta": {
+    "title": "Sakarya Mahalleleri (Sakarya Neighbourhoods) - Ücretsiz İndir",
+    "description": "Sakarya ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (673 kayıt.) (All neighbourhoods (mahalle) in Sakarya province with their parent district and postal code.) İçerik 673 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Sakarya Mahalleleri (Sakarya Neighbourhoods) | ListBase",
+    "seo_description": "İndir Sakarya Mahalleleri (Sakarya Neighbourhoods) — 673 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 673 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

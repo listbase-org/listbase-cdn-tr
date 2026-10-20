@@ -1,0 +1,196 @@
+{
+  "id": "tr-erzincan-tcdd-istasyonlari",
+  "name": "ERZİNCAN TCDD Tren İstasyonları (Railway stations in ERZİNCAN)",
+  "title": "ERZİNCAN TCDD Tren İstasyonları (Railway stations in ERZİNCAN)",
+  "description": "ERZİNCAN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ERZİNCAN province.) (15 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ALP",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ALP , ERZİNCAN",
+      "gidis_id": 1059,
+      "donus_id": 1059,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "ATMA",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ATMA , ERZİNCAN",
+      "gidis_id": 501,
+      "donus_id": 501,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "BAĞIŞTAŞ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "BAĞIŞTAŞ , ERZİNCAN",
+      "gidis_id": 465,
+      "donus_id": 465,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 61
+    },
+    {
+      "istasyon": "CEBESOY",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "CEBESOY , ERZİNCAN",
+      "gidis_id": 475,
+      "donus_id": 475,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "ERBAŞ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ERBAŞ , ERZİNCAN",
+      "gidis_id": 493,
+      "donus_id": 493,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "ERZİNCAN",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ERZİNCAN , ERZİNCAN",
+      "gidis_id": 1152,
+      "donus_id": 1152,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "ERİÇ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ERİÇ , ERZİNCAN",
+      "gidis_id": 495,
+      "donus_id": 495,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "GÜLLÜBAĞ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "GÜLLÜBAĞ , ERZİNCAN",
+      "gidis_id": 509,
+      "donus_id": 509,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 57
+    },
+    {
+      "istasyon": "KEMAH",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "KEMAH , ERZİNCAN",
+      "gidis_id": 535,
+      "donus_id": 535,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KEMALİYE ÇALTI",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "KEMALİYE ÇALTI , ERZİNCAN",
+      "gidis_id": 479,
+      "donus_id": 479,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MERCAN",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "MERCAN , ERZİNCAN",
+      "gidis_id": 1154,
+      "donus_id": 1154,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAHŞİLER",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "YAHŞİLER , ERZİNCAN",
+      "gidis_id": 445,
+      "donus_id": 445,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇADIRKAYA",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ÇADIRKAYA , ERZİNCAN",
+      "gidis_id": 1063,
+      "donus_id": 1063,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "ÇAKŞUR",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "ÇAKŞUR , ERZİNCAN",
+      "gidis_id": 1060,
+      "donus_id": 1060,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 22
+    },
+    {
+      "istasyon": "İLİÇ",
+      "il": "ERZİNCAN",
+      "kaynak_metin": "İLİÇ , ERZİNCAN",
+      "gidis_id": 1130,
+      "donus_id": 1130,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    }
+  ],
+  "meta": {
+    "title": "ERZİNCAN TCDD Tren İstasyonları (Railway stations in ERZİNCAN) - Ücretsiz İndir",
+    "description": "ERZİNCAN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ERZİNCAN province.) (15 kayıt.) İçerik 15 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ERZİNCAN TCDD Tren İstasyonları (Railway stations in ERZİNCAN) | ListBase",
+    "seo_description": "İndir ERZİNCAN TCDD Tren İstasyonları (Railway stations in ERZİNCAN) — 15 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 15 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

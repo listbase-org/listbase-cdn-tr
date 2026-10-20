@@ -1,0 +1,97 @@
+{
+  "id": "tr-sakarya-tcdd-istasyonlari",
+  "name": "SAKARYA TCDD Tren İstasyonları (Railway stations in SAKARYA)",
+  "title": "SAKARYA TCDD Tren İstasyonları (Railway stations in SAKARYA)",
+  "description": "SAKARYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in SAKARYA province.) (4 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ADAPAZARI",
+      "il": "SAKARYA",
+      "kaynak_metin": "ADAPAZARI , SAKARYA",
+      "gidis_id": 3,
+      "donus_id": 3,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "ARİFİYE",
+      "il": "SAKARYA",
+      "kaynak_metin": "ARİFİYE , SAKARYA",
+      "gidis_id": 5,
+      "donus_id": 5,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "MİTHATPAŞA",
+      "il": "SAKARYA",
+      "kaynak_metin": "MİTHATPAŞA , SAKARYA",
+      "gidis_id": "",
+      "donus_id": 44,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAPANCA",
+      "il": "SAKARYA",
+      "kaynak_metin": "SAPANCA , SAKARYA",
+      "gidis_id": "",
+      "donus_id": 69,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "SAKARYA TCDD Tren İstasyonları (Railway stations in SAKARYA) - Ücretsiz İndir",
+    "description": "SAKARYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in SAKARYA province.) (4 kayıt.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "SAKARYA TCDD Tren İstasyonları (Railway stations in SAKARYA) | ListBase",
+    "seo_description": "İndir SAKARYA TCDD Tren İstasyonları (Railway stations in SAKARYA) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

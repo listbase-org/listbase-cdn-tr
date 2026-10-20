@@ -1,0 +1,208 @@
+{
+  "id": "tr-kilis-liseler",
+  "name": "Kilis Liseleri (High Schools in Kilis)",
+  "title": "Kilis Liseleri (High Schools in Kilis)",
+  "description": "Kilis ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (11 kayıt) (High schools in Kilis province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Elbeyli Yavuz Sultan Selim Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kilis - Elbeyli - Elbeyli Yavuz Sultan Selim Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kilis",
+      "ilce": "Elbeyli",
+      "website": "http://yavuzssaihlisesi.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Elbeyli İmkb Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kilis - Elbeyli - Elbeyli İmkb Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Elbeyli",
+      "website": "http://elbeyliimkbcpal.meb.k12.tr",
+      "enlem": 36.639238780032336,
+      "boylam": 37.467721310992374
+    },
+    {
+      "okul_adi": "Eyüp Gökçeimam Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kilis - Merkez - Eyüp Gökçeimam Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://eyupgokceimamaihl.meb.k12.tr",
+      "enlem": 36.72178841551369,
+      "boylam": 37.11481770648493
+    },
+    {
+      "okul_adi": "Kilis M. Hanifi Ve Ökkes Cumbus Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kilis - Merkez - Kilis M. Hanifi Ve Ökkes Cumbus Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://kilistml.meb.k12.tr",
+      "enlem": 36.71388920279773,
+      "boylam": 37.13469287528528
+    },
+    {
+      "okul_adi": "Kilis Mehmet Zelzele Fen Lisesi",
+      "tam_ad": "Kilis - Merkez - Kilis Mehmet Zelzele Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://kilismzfenlisesi.meb.k12.tr",
+      "enlem": 36.719096668341066,
+      "boylam": 37.10461458339228
+    },
+    {
+      "okul_adi": "Mehmet Sanlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kilis - Merkez - Mehmet Sanlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://mehmetsanliasml.meb.k12.tr",
+      "enlem": 36.717875461202944,
+      "boylam": 37.1225210107757
+    },
+    {
+      "okul_adi": "Mustafa Kın Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Kilis - Merkez - Mustafa Kın Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://kiliskml.meb.k12.tr",
+      "enlem": 36.71625002158583,
+      "boylam": 37.12155005111231
+    },
+    {
+      "okul_adi": "Nedim Ökmen Anadolu Lisesi",
+      "tam_ad": "Kilis - Merkez - Nedim Ökmen Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://kilisaol.meb.k12.tr",
+      "enlem": 36.72232159385635,
+      "boylam": 37.10501155032648
+    },
+    {
+      "okul_adi": "Öncüpınar Hürriyet Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Kilis - Merkez - Öncüpınar Hürriyet Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://hurriyetihl.meb.k12.tr",
+      "enlem": 39.91766937505533,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Şehit Hasan Özüberk Anadolu Lisesi",
+      "tam_ad": "Kilis - Merkez - Şehit Hasan Özüberk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Merkez",
+      "website": "http://sehithoal.meb.k12.tr",
+      "enlem": 36.718666668042175,
+      "boylam": 37.13695129527582
+    },
+    {
+      "okul_adi": "Polateli Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Kilis - Polateli - Polateli Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Kilis",
+      "ilce": "Polateli",
+      "website": "http://polatelicpl.meb.k12.tr",
+      "enlem": 36.841934992098345,
+      "boylam": 37.14520713462366
+    }
+  ],
+  "meta": {
+    "title": "Kilis Liseleri (High Schools in Kilis) - Ücretsiz İndir",
+    "description": "Kilis ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (11 kayıt) (High schools in Kilis province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 11 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kilis Liseleri (High Schools in Kilis) | ListBase",
+    "seo_description": "İndir Kilis Liseleri (High Schools in Kilis) — 11 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 11 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

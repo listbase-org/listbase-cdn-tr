@@ -1,0 +1,4216 @@
+{
+  "id": "tr-hatay-neighbourhoods",
+  "name": "Hatay Mahalleleri (Hatay Neighbourhoods)",
+  "title": "Hatay Mahalleleri (Hatay Neighbourhoods)",
+  "description": "Hatay ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (595 kayıt.) (All neighbourhoods (mahalle) in Hatay province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 595,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akamber Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akdarı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alakent Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Altınkaya Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Atayurdu Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Avuttepe Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Babatorun Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Boynuyoğun Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Büyükburç Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dokuzdal Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Enek Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Erbaşı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fatikli Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gözecik Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Günvuran Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hacıpaşa Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hanyolu Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kamberli Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kansu Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karbeyaz Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karsu Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kazancık Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Keskincik Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kolcular Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kozkalesi Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtmezraası Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kılıçtutan Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kıyıgören Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mayadalı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Oymaklı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sarıbük Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sarılar Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Seferli Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sivrikavak Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tepehan Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tokaçlı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tokdemir Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Toprakhisar Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Türkmenmezraası Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yanıkpınar Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yarseli Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yenihisar Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yolağzı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yunushanı Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ziyaret Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çetenli Mah",
+      "district_name": "Altınözü",
+      "postal_code": "31750",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akasya Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akcurun Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akevler Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akhisar Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aksaray Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akçaova Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alaattin Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alahan Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alazı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Altınçay Mah",
+      "district_name": "Antakya",
+      "postal_code": "31040",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Anayazı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Apaydın Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arpahan Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Avsuyu Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aydınlıkevler Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Açıkdere Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşağıoba Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bağrıyanık Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Biniciler Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bitiren Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bohşin Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bozhöyük Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Büyükdalyan Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cebrail Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Antakya",
+      "postal_code": "31040",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Demirköprü Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Derince Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dikmece Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Doğanköy Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dutdibi Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ekinci Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Antakya",
+      "postal_code": "31040",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Esenlik Mah",
+      "district_name": "Antakya",
+      "postal_code": "31040",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Antakya",
+      "postal_code": "31040",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Antakya",
+      "postal_code": "31040",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gazi Paşa Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "General Şükrü Kanatlı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gökçegöz Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gülderen Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güllü Bahçe Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Günyazı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güzelburç Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Habib-i Neccar Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hacı Ömer Alpagot Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Haraparası Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hasanlı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Havuzlar Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kantara Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaali Bölüğü Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaali Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kardeşler Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karlısu Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kisecik Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kocaabdi Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuruyer Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuyulu Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuzeytepe Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Küçükdalyan Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kışla Saray Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Madenboyu Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mansurlu Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Maraşboğazı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Maşuklu Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Melekli Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Narlıca Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Odabaşı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Orhanlı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ovakent Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Oğlakören Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Saraykent Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Saçaklı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Serinyol Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Suvatlı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tahtaköprü Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tanışma Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ulucamii Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Uzunaliç Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeni Camii Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Zenginler Mah",
+      "district_name": "Antakya",
+      "postal_code": "31070",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Zülüflühan Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ürgen Paşa Mah",
+      "district_name": "Antakya",
+      "postal_code": "31030",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Üzümdalı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Üçgedik Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İplik Pazarı Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şeyhali Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şirince Mah",
+      "district_name": "Antakya",
+      "postal_code": "31060",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akçalı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arpaderesi Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arpagedik Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arpaçiftlik Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Avcılarsuyu Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kepirce Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Beyköyü Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Derekuyu Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gökmeydan Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gözcüler Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gülcihan Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hacıahmetli Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Harlısu Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Haymaseki Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Helvalı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hüyük Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Işıklı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Cumhuriyet Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Konarlı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Övündük Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Şarkonak Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karagöz Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karahüseyinli Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Konacık Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kozaklı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtbağı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Madenli Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Nardüzü Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Nergizlik Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31290",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Pirinçlik Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tatarlı Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tülek Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Uluçınar Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yukarıkepirce Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çetillik Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Üçgüllük Mah",
+      "district_name": "Arsuz",
+      "postal_code": "31225",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Atik Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bakras Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Benlidere Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Derebahçe Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Halilbey Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kömürçukuru Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kıcı Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Muhlisali Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Müftüler Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sarımazı Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Soğukoluk Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çakallı Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çerçikaya Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ötençay Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İssume Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şekere Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şenbük Mah",
+      "district_name": "Belen",
+      "postal_code": "31350",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akdeniz Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aknehir Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşağıokçular Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bahçeköy Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ballıöz Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Balıklıdere Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bostancık Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Büyükçat Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Değirmenyolu Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dursunlu Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Döver Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Elektrik Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gümüşgöze Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güneysöğüt Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hancağız Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Harbiye Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Koçören Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Meydancık Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Orhanlı Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Samankaya Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sinanlı Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sümerler Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tavla Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Toygarlı Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Turunçlu Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeniçağ Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilpınar Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çardaklı Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çekmece Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çökek Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Özbek Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Üzengili Mah",
+      "district_name": "Defne",
+      "postal_code": "31160",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Altınçağ Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kapılı Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karakese Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Konaklı Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuzuculu Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kışlalar Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Numune Evler Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ocaklı Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeniyurt Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çatköy Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çaylı Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Özerli Mah",
+      "district_name": "Dörtyol",
+      "postal_code": "31600",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşağıburnaz Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Başlamış Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gökdere Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gökgöl Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karamustafalı Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuyuluk Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kızlarçayı Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mahmutlu Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mustafalı Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Turunçlu Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yoncadüzü Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yukarıburnaz Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İsali Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şükrü Paşa Mah",
+      "district_name": "Erzin",
+      "postal_code": "31960",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "15 Kasım Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akbez Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akkülek Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aktepe Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ardıçlı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arpalıuşağı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşağıkarafakılı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bademli Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bintaş Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Buhara Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dedemli Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Demrek Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Derviş Paşa Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Eğribucak Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gazeluşağı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Girne Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gülkent Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gülpınar Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güvenç Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Haydarlar Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Katranlık Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Koruhüyük Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Küreci Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mazmanlı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sapanözü Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sugediği Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Söğüt Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tepebaşı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tiyek Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yoluklar Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yukarıbucak Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yukarıkarafakılı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Zeytinoba Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çınarbaşı Mah",
+      "district_name": "Hassa",
+      "postal_code": "31700",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akkerpiç Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akkuyu Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Batıayrancı Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Doğuayrancı Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gökçeoğlu Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gülova Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hamam Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hatayhamamı Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kaletepe Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Keli Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kırcaoğlu Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Muharrem Mah",
+      "district_name": "Kumlu",
+      "postal_code": "31520",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "408 Evler Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Abalaklı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Adalar Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alaybeyli Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alibeyçağıllı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alparslan Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alsancak Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arkıtça Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Attutan Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aydınlı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aygırgölü Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Balarmudu Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Baldıran Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Başpınar Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bektaşlı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Camuzkışlası Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ceylanlı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Danaahmetli Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dedeçınar Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Delibekirli Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Demirkonak Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gündüz Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güventaşı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güzelce Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ilıkpınar Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kaletepe Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kamberlikaya Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kamışlar Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kangallar Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karadurmuşlu Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaelmaslı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karamankaşı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karamağara Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaçağıl Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kazkeli Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kodallı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtlusarımazı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtlusoğuksu Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kızılkaya Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mahmutlu Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Muratpaşa Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Narlıhopur Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Reşatlı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Saylak Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sucuköy Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Söğütlüöz Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Topboğazı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Torun Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yalangoz Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çamsarı Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çamseki Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çankaya Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çataltepe Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çiloğlanhüyüğü Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Özkızılkaya Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Özsoğuksu Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Özyörük Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İncirli Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İçada Mah",
+      "district_name": "Kırıkhan",
+      "postal_code": "31440",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karacami Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karbeyaz Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karşıosb Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kozludere Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kürtül Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sincan Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Beyazıt Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çağlalık Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Payas",
+      "postal_code": "31900",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Adabucak Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ahmetbeyli Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akyayla Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Alakuzu Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bayır Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Beşaslan Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bükülmez Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cilvegözü Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cüdeyde Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Davutpaşa Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Değirmenkaşı Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fevzipaşa Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fidanlık Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gazimürseltepesi Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Göktepe Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Harran Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karacanlık Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karahüyük Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karasüleymanlı Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Konuk Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuletepe Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kumtepe Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuşaklı Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mehmetbeyli Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Nergizli Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Oğulpınar Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Paşahüyük Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Suluköy Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tayfursökmen Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Terzihüyük Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Uzunkavak Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Varışlı Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çakıryiğit Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Öz Kurtuluş Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Üçtepe Mah",
+      "district_name": "Reyhanlı",
+      "postal_code": "31500",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ataköy Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Avcılar Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Batıayaz Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Büyükoba Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cemal Gürsel Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ceylandere Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Deniz Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Değirmenbaşı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Eriklikuyu Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fidanlı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "General Şükrü Kanadlı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gözene Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Huzurlu Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hıdırbey Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kapısuyu Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaçay Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Koyunoğlu Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtderesi Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kuşalanı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mağaracık Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mızraklı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Seldiren Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sutaşı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tekebaşı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tomruksuyu Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Uzunbağ Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Vakıfköy Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yaylıca Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilada Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşilyazı Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yoğunoluk Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çamlıyayla Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çanakoluk Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çiğdede Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çöğürlü Mah",
+      "district_name": "Samandağ",
+      "postal_code": "31800",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Arslanyazı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aydınbahçe Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Ayışığı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşağıpulluyazı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bezge Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bozlu Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Denizgören Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dusduru Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Eğerci Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Görentaş Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gözlüce Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gürışık Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güveççi Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hisarcık Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karacurun Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karaköse Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kulaç Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kösrelik Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kızılçat Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kışlak Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Leylekli Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Olgunlar Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sebenoba Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sungur Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sürütme Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Turfanda Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Tutlubahçe Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Uluyol Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yalaz Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yayıkdamlar Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yoncakaya Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yukarıokçular Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yukarıpulluyazı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çabala Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çaksına Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çakı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çamaltı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çandır Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çatbaşı Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Üçırmak Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şakşak Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Şenköy Mah",
+      "district_name": "Yayladağı",
+      "postal_code": "31550",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akarca Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Akçay Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Azganlık Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Azganlık Osb Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Aşkarbeyli Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Barıştepe Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31240",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bekbele Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Bitişik Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Buluttepe Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31240",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Büyükdere Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Cırtıman Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Denizciler Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Düğünyurdu Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31240",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31240",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Gürsel Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31230",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Güzelçay Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kaledibi Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Karayılan Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kavaklıoluk Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kocatepe Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31240",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31230",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Modernevler Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Muradiye Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31230",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Numune Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31230",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Pirireis Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31230",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Sarıseki Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Savaş Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Suçıkağı Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31200",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Yıldırımtepe Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31240",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31300",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31280",
+      "city_code": "31",
+      "city_name": "Hatay"
+    },
+    {
+      "neighbourhood_name": "İsmet İnönü Mah",
+      "district_name": "İskenderun",
+      "postal_code": "31230",
+      "city_code": "31",
+      "city_name": "Hatay"
+    }
+  ],
+  "meta": {
+    "title": "Hatay Mahalleleri (Hatay Neighbourhoods) - Ücretsiz İndir",
+    "description": "Hatay ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (595 kayıt.) (All neighbourhoods (mahalle) in Hatay province with their parent district and postal code.) İçerik 595 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Hatay Mahalleleri (Hatay Neighbourhoods) | ListBase",
+    "seo_description": "İndir Hatay Mahalleleri (Hatay Neighbourhoods) — 595 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 595 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

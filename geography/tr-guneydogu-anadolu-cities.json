@@ -1,0 +1,151 @@
+{
+  "id": "tr-guneydogu-anadolu-cities",
+  "name": "Güneydoğu Anadolu Bölgesi İlleri (Southeastern Anatolia Region — Provinces)",
+  "title": "Güneydoğu Anadolu Bölgesi İlleri (Southeastern Anatolia Region — Provinces)",
+  "description": "Güneydoğu Anadolu Bölgesi'nde yer alan 10 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 10 provinces of Southeastern Anatolia Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "63",
+      "name": "Şanlıurfa",
+      "slug": "sanliurfa",
+      "area_code": "414",
+      "area_km2": 19242,
+      "population": 2170110,
+      "density_per_km2": 112.8
+    },
+    {
+      "code": "27",
+      "name": "Gaziantep",
+      "slug": "gaziantep",
+      "area_code": "342",
+      "area_km2": 6803,
+      "population": 2154051,
+      "density_per_km2": 316.6
+    },
+    {
+      "code": "21",
+      "name": "Diyarbakır",
+      "slug": "diyarbakir",
+      "area_code": "412",
+      "area_km2": 15168,
+      "population": 1804880,
+      "density_per_km2": 119
+    },
+    {
+      "code": "31",
+      "name": "Hatay",
+      "slug": "hatay",
+      "area_code": "326",
+      "area_km2": 5524,
+      "population": 1686043,
+      "density_per_km2": 305.2
+    },
+    {
+      "code": "47",
+      "name": "Mardin",
+      "slug": "mardin",
+      "area_code": "482",
+      "area_km2": 8780,
+      "population": 870374,
+      "density_per_km2": 99.1
+    },
+    {
+      "code": "02",
+      "name": "Adıyaman",
+      "slug": "adiyaman",
+      "area_code": "416",
+      "area_km2": 7337,
+      "population": 635169,
+      "density_per_km2": 86.6
+    },
+    {
+      "code": "72",
+      "name": "Batman",
+      "slug": "batman",
+      "area_code": "488",
+      "area_km2": 4477,
+      "population": 634491,
+      "density_per_km2": 141.7
+    },
+    {
+      "code": "73",
+      "name": "Şırnak",
+      "slug": "sirnak",
+      "area_code": "486",
+      "area_km2": 7078,
+      "population": 557605,
+      "density_per_km2": 78.8
+    },
+    {
+      "code": "56",
+      "name": "Siirt",
+      "slug": "siirt",
+      "area_code": "484",
+      "area_km2": 5717,
+      "population": 331311,
+      "density_per_km2": 58
+    },
+    {
+      "code": "79",
+      "name": "Kilis",
+      "slug": "kilis",
+      "area_code": "348",
+      "area_km2": 1412,
+      "population": 147919,
+      "density_per_km2": 104.8
+    }
+  ],
+  "meta": {
+    "title": "Güneydoğu Anadolu Bölgesi İlleri (Southeastern Anatolia Region — Provinces) - Ücretsiz İndir",
+    "description": "Güneydoğu Anadolu Bölgesi'nde yer alan 10 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 10 provinces of Southeastern Anatolia Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².) İçerik 10 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Güneydoğu Anadolu Bölgesi İlleri (Southeastern Anatolia Region — Provinces) | ListBase",
+    "seo_description": "İndir Güneydoğu Anadolu Bölgesi İlleri (Southeastern Anatolia Region — Provinces) — 10 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 10 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

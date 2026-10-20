@@ -1,0 +1,198 @@
+{
+  "id": "tr-futbol-kulupler",
+  "name": "Türk futbol kulüpleri",
+  "title": "Türk futbol kulüpleri",
+  "description": "Football clubs in TR with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "İstanbulspor",
+      "founded": 1913,
+      "aliases": "İstanbulspor AS, İstanbulspor Kulübü"
+    },
+    {
+      "name": "Sarıyer SK",
+      "founded": 1940,
+      "aliases": "Sarıyer | Sarıyer Spor Kulübü"
+    },
+    {
+      "name": "Zeytinburnuspor",
+      "founded": 1953,
+      "aliases": "Zeytinburnu | Zeytinburnu SK, Fatih Karagümrük SK, Fatih Karagümrük Sportif Faaliyetler, CG Ümraniyespor | Ümraniyespor Kulubu"
+    },
+    {
+      "name": "Pendikspor",
+      "founded": 1950,
+      "aliases": "Pendik Spor Kulubü, Fatih Karagümrük Spor Kulübü, Eyüp Spor Kulübü, Eyuspor"
+    },
+    {
+      "name": "Gençlerbirliği Ankara SK",
+      "founded": 1923,
+      "aliases": "Gençlerbirliği | Gençlerbirliği Ankara, Gençlerbirliği SK | Gençlerbirliği Spor Kulübü, Osmanlıspor | Osmanlıspor FK, Ankaraspor | Ankaraspor AŞ, Ankaragücü, Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü"
+    },
+    {
+      "name": "Hacettepespor",
+      "founded": 2001,
+      "aliases": "Hacettepe | Hacettepe SK | Hacettepe Spor Kulübü, Oftasspor | OFTAŞ"
+    },
+    {
+      "name": "Turanspor",
+      "founded": 1947,
+      "aliases": "Şekerspor | Beypazarı Şekerspor, P. Ofisi | Petrol Ofisi, Keçiörengücü SK, Keciöerengücü [de], Ankara Keçiörengücü Spor Kulübü, Karabükspor, Akhisar | Akhisar Bld.spor | Akhisar Belediyespor | Akhisar Belediye Gençlik ve Spor Kulübü, Akhisar Belediye"
+    },
+    {
+      "name": "Antalyaspor",
+      "founded": 1966,
+      "aliases": "Antalya | Antalyaspor Kulübü, Antalyaspor AS, MP Antalyaspor, Bursaspor SK, Göztepe | Göztepe SK, Göztep | Göztepespor, Göztepe AŞ, Göztepe Spor Kulübü"
+    },
+    {
+      "name": "Bucaspor",
+      "founded": 1928,
+      "aliases": "Bucaspor Kulübü"
+    },
+    {
+      "name": "Altay SK",
+      "founded": 1914,
+      "aliases": "Altay | Altay Spor Kulübü, Altay İzmir, Altay GK"
+    },
+    {
+      "name": "Karşıyaka SK",
+      "founded": 1912,
+      "aliases": "Karşıyaka | Karşıyaka Spor Kulübü"
+    },
+    {
+      "name": "Altınordu",
+      "founded": 1923,
+      "aliases": "Altınordu FK | Altınordu Futbol Kulübü, Altınordu FSG | Altınordu Futbol Sosyal Girişimi, Altınordu Spor Kulübü, Menemen Spor Kulübü, Menemen Belediye, Menemen Belediyespor, EG Menemenspor"
+    },
+    {
+      "name": "Kayserispor",
+      "founded": 1966,
+      "aliases": "Kayseri | Kayseri Spor Kulübü, Erciyesspor, Konyaspor Kulübü, $$Atiker$$ Konyaspor, $$Torku$$ Konyaspor, Sivasspor Kulübü, Trabzonspor AŞ, Trabzonspor Profesyonel Futbol Takımı"
+    },
+    {
+      "name": "Yeni Malatyaspor",
+      "founded": 1986,
+      "aliases": "Y. Malatyaspor | Yeni Malatyasp. | Yeni Malatya Spor Kulübü"
+    },
+    {
+      "name": "Malatyaspor",
+      "founded": 1966,
+      "aliases": "Malatya SK | Malatya Spor Kulübü"
+    },
+    {
+      "name": "Adanaspor",
+      "founded": 1954,
+      "aliases": "Adanaspor AŞ"
+    },
+    {
+      "name": "Adana Demirspor",
+      "founded": 1940,
+      "aliases": "Ad. Demirspor | Adana Demir Spor Kulübü, Adana Demirsp."
+    },
+    {
+      "name": "Gaziantepspor",
+      "founded": 1969
+    },
+    {
+      "name": "Gazişehir Gaziantep FK",
+      "founded": 1988,
+      "aliases": "Gaziantep | Gaziantep FK, Gazişehir Gaziantep | Gaziş. Gaziantep, Gazişehir Gaziantep Futbol Kulübü, Gaziantep Futbol Kulübü, Rizespor, Çaykur Rize Gençlik ve Spor Kulübü Derneği, Mersin İdman Yurdu"
+    },
+    {
+      "name": "Denizlispor",
+      "founded": 1966,
+      "aliases": "Denizlispor Kulübü"
+    },
+    {
+      "name": "Orduspor",
+      "founded": 1967
+    },
+    {
+      "name": "Manisaspor",
+      "founded": 1965
+    },
+    {
+      "name": "Samsunspor",
+      "founded": 1965,
+      "aliases": "Samsunspor Kulübü Derneği"
+    },
+    {
+      "name": "Diyarbakırspor",
+      "founded": 1968,
+      "aliases": "Diyarbekirspor AŞ"
+    },
+    {
+      "name": "Kocaelispor",
+      "founded": 1966,
+      "aliases": "Kocaelispor Kulübü"
+    },
+    {
+      "name": "Sakaryaspor",
+      "founded": 1965,
+      "aliases": "Sakaryaspor Kulübü Derneği"
+    },
+    {
+      "name": "Akçaabat Sebatspor",
+      "founded": 1923,
+      "aliases": "A. Sebatspor"
+    },
+    {
+      "name": "Yozgatspor",
+      "founded": 1959,
+      "aliases": "Yozgatspor Kulübü, BB Erzurumspor | Erzurum BB | Büyükşehir Belediye Erzurumspor, Erzurum, Erzurumspor FK, Erzurumspor Futbol Kulübü, Siirt SK | Siirt Jet-PA"
+    },
+    {
+      "name": "Vanspor FK",
+      "founded": 1982,
+      "aliases": "Vanspor | Van Büyükşehir Belediyespor"
+    },
+    {
+      "name": "Çanakkale Dardanelspor",
+      "founded": 1966,
+      "aliases": "Dardanelspor | Çanakkale Dardanel SK, Giresunspor Klübü, An. Erzincanspor, 24 Erzincan | 24 Erzincan Spor Kulübü"
+    },
+    {
+      "name": "Hatayspor",
+      "founded": 1967,
+      "aliases": "Hatayspor Antakya, Atakaş Hatayspor Kulübü, Çorum Futbol Kulübü, Çorum Belediyespor, Manisa FK, Manisa Futbol Kulübü, Manisa Büyükşehir Belediyespor  # formerly"
+    },
+    {
+      "name": "Bodrum",
+      "founded": 1931,
+      "aliases": "Bodrumspor, Bodrum FK, Bodrum Futbol Kulübü, Bodrum Belediyesi Bodrumspor"
+    }
+  ],
+  "meta": {
+    "title": "Türk futbol kulüpleri - Ücretsiz İndir",
+    "description": "Football clubs in TR with founding year, stadium, city İçerik 32 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Türk futbol kulüpleri | ListBase",
+    "seo_description": "İndir Türk futbol kulüpleri — 32 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 32 kayıt / 3 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: open data"
+    ]
+  }
+}

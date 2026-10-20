@@ -1,0 +1,169 @@
+{
+  "id": "tr-amasya-tcdd-istasyonlari",
+  "name": "AMASYA TCDD Tren İstasyonları (Railway stations in AMASYA)",
+  "title": "AMASYA TCDD Tren İstasyonları (Railway stations in AMASYA)",
+  "description": "AMASYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in AMASYA province.) (12 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AMASYA",
+      "il": "AMASYA",
+      "kaynak_metin": "AMASYA , AMASYA",
+      "gidis_id": 461,
+      "donus_id": 461,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 42
+    },
+    {
+      "istasyon": "AYAZ",
+      "il": "AMASYA",
+      "kaynak_metin": "AYAZ , AMASYA",
+      "gidis_id": 611,
+      "donus_id": 611,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 27
+    },
+    {
+      "istasyon": "BORSA",
+      "il": "AMASYA",
+      "kaynak_metin": "BORSA , AMASYA",
+      "gidis_id": 469,
+      "donus_id": 469,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "BOĞAZKÖY",
+      "il": "AMASYA",
+      "kaynak_metin": "BOĞAZKÖY , AMASYA",
+      "gidis_id": 470,
+      "donus_id": 470,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "HACIBAYRAM",
+      "il": "AMASYA",
+      "kaynak_metin": "HACIBAYRAM , AMASYA",
+      "gidis_id": 511,
+      "donus_id": 511,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 36
+    },
+    {
+      "istasyon": "KAYABAŞI",
+      "il": "AMASYA",
+      "kaynak_metin": "KAYABAŞI , AMASYA",
+      "gidis_id": 534,
+      "donus_id": 534,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KIZILCA",
+      "il": "AMASYA",
+      "kaynak_metin": "KIZILCA , AMASYA",
+      "gidis_id": 538,
+      "donus_id": 538,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖMÜR İŞLETMELERİ",
+      "il": "AMASYA",
+      "kaynak_metin": "KÖMÜR İŞLETMELERİ , AMASYA",
+      "gidis_id": "",
+      "donus_id": 482,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "OVASARAY",
+      "il": "AMASYA",
+      "kaynak_metin": "OVASARAY , AMASYA",
+      "gidis_id": 553,
+      "donus_id": 553,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SALUCA",
+      "il": "AMASYA",
+      "kaynak_metin": "SALUCA , AMASYA",
+      "gidis_id": 608,
+      "donus_id": 608,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SULUOVA",
+      "il": "AMASYA",
+      "kaynak_metin": "SULUOVA , AMASYA",
+      "gidis_id": 569,
+      "donus_id": 569,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÖZEL İDARE",
+      "il": "AMASYA",
+      "kaynak_metin": "ÖZEL İDARE , AMASYA",
+      "gidis_id": "",
+      "donus_id": 552,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "AMASYA TCDD Tren İstasyonları (Railway stations in AMASYA) - Ücretsiz İndir",
+    "description": "AMASYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in AMASYA province.) (12 kayıt.) İçerik 12 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "AMASYA TCDD Tren İstasyonları (Railway stations in AMASYA) | ListBase",
+    "seo_description": "İndir AMASYA TCDD Tren İstasyonları (Railway stations in AMASYA) — 12 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 12 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

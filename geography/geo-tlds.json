@@ -1,0 +1,1373 @@
+{
+  "id": "geo-tlds",
+  "name": "Ülke Üst Düzey Alan Adları (TLD'ler) ve ISO Kodları Veri Seti",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "TLD",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "tld": ".af"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Arnavutluk",
+      "tld": ".al"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Cezayir",
+      "tld": ".dz"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Cezayir",
+      "tld": "الجزائر."
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "tld": ".ad"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "tld": ".ao"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua ve Barbuda",
+      "tld": ".ag"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Arjantin",
+      "tld": ".ar"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Ermenistan",
+      "tld": ".am"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Avustralya",
+      "tld": ".au"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Avusturya",
+      "tld": ".at"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaycan",
+      "tld": ".az"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamalar",
+      "tld": ".bs"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahreyn",
+      "tld": ".bh"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladeş",
+      "tld": ".bd"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "tld": ".bb"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "tld": ".by"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belçika",
+      "tld": ".be"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "tld": ".bz"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "tld": ".bj"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Butan",
+      "tld": ".bt"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivya",
+      "tld": ".bo"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna-Hersek",
+      "tld": ".ba"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botsvana",
+      "tld": ".bw"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brezilya",
+      "tld": ".br"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "tld": ".bn"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaristan",
+      "tld": ".bg"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "tld": ".bf"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "tld": ".bi"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboçya",
+      "tld": ".kh"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "tld": ".cm"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "tld": ".ca"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Yeşil Burun Adaları",
+      "tld": ".cv"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "tld": ".cf"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Çad",
+      "tld": ".td"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Şili",
+      "tld": ".cl"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "tld": ".cn"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "tld": ".中国"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "tld": ".中國"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "tld": ".公司"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Çin",
+      "tld": ".网络"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombiya",
+      "tld": ".co"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komorlar",
+      "tld": ".km"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "tld": ".cr"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Hırvatistan",
+      "tld": ".hr"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Küba",
+      "tld": ".cu"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kıbrıs",
+      "tld": ".cy"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Çekya",
+      "tld": ".cz"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Danimarka",
+      "tld": ".dk"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Cibuti",
+      "tld": ".dj"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "tld": ".dm"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominik Cumhuriyeti",
+      "tld": ".do"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo DC",
+      "tld": ".cd"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvador",
+      "tld": ".ec"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mısır",
+      "tld": ".eg"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mısır",
+      "tld": ".مصر"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "tld": ".sv"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Ekvator Ginesi",
+      "tld": ".gq"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritre",
+      "tld": ".er"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonya",
+      "tld": ".ee"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Esvatini",
+      "tld": ".sz"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiyopya",
+      "tld": ".et"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "tld": ".fj"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandiya",
+      "tld": ".fi"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Fransa",
+      "tld": ".fr"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "tld": ".ga"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambiya",
+      "tld": ".gm"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gürcistan",
+      "tld": ".ge"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Almanya",
+      "tld": ".de"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Gana",
+      "tld": ".gh"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunanistan",
+      "tld": ".gr"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "tld": ".gd"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "tld": ".gt"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gine",
+      "tld": ".gn"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gine-Bissau",
+      "tld": ".gw"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "tld": ".gy"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "tld": ".ht"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "tld": ".hn"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Macaristan",
+      "tld": ".hu"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "İzlanda",
+      "tld": ".is"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Hindistan",
+      "tld": ".in"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Endonezya",
+      "tld": ".id"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "İran",
+      "tld": ".ir"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "İran",
+      "tld": "ایران."
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "tld": ".iq"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "İrlanda",
+      "tld": ".ie"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "İsrail",
+      "tld": ".il"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "İtalya",
+      "tld": ".it"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Fildişi Sahili",
+      "tld": ".ci"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "tld": ".jm"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonya",
+      "tld": ".jp"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonya",
+      "tld": ".みんな"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Ürdün",
+      "tld": ".jo"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Ürdün",
+      "tld": "الاردن."
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "tld": ".kz"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakistan",
+      "tld": ".қаз"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "tld": ".ke"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "tld": ".ki"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuveyt",
+      "tld": ".kw"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kırgızistan",
+      "tld": ".kg"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "tld": ".la"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Letonya",
+      "tld": ".lv"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lübnan",
+      "tld": ".lb"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "tld": ".ls"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberya",
+      "tld": ".lr"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "tld": ".ly"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Lihtenştayn",
+      "tld": ".li"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litvanya",
+      "tld": ".lt"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lüksemburg",
+      "tld": ".lu"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "tld": ".mg"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malavi",
+      "tld": ".mw"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezya",
+      "tld": ".my"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maldivler",
+      "tld": ".mv"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "tld": ".ml"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "tld": ".mt"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshall Adaları",
+      "tld": ".mh"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Moritanya",
+      "tld": ".mr"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "tld": ".mu"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksika",
+      "tld": ".mx"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezya",
+      "tld": ".fm"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "tld": ".md"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "tld": ".mc"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Moğolistan",
+      "tld": ".mn"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Karadağ",
+      "tld": ".me"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "tld": ".ma"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Fas",
+      "tld": "المغرب."
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "tld": ".mz"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "tld": ".mm"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibya",
+      "tld": ".na"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "tld": ".nr"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "tld": ".np"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Hollanda",
+      "tld": ".nl"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Yeni Zelanda",
+      "tld": ".nz"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "tld": ".ni"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Nijer",
+      "tld": ".ne"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nijerya",
+      "tld": ".ng"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Kuzey Kore",
+      "tld": ".kp"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Kuzey Makedonya",
+      "tld": ".mk"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norveç",
+      "tld": ".no"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Umman",
+      "tld": ".om"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "tld": ".pk"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "tld": ".pw"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "tld": ".pa"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Yeni Gine",
+      "tld": ".pg"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "tld": ".py"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "tld": ".pe"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipinler",
+      "tld": ".ph"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polonya",
+      "tld": ".pl"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portekiz",
+      "tld": ".pt"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "tld": ".qa"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "tld": "قطر."
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Kongo Cumhuriyeti",
+      "tld": ".cg"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Romanya",
+      "tld": ".ro"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "tld": ".ru"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "tld": ".su"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusya",
+      "tld": ".рф"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Ruanda",
+      "tld": ".rw"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts ve Nevis",
+      "tld": ".kn"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "tld": ".lc"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent ve Grenadinler",
+      "tld": ".vc"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "tld": ".ws"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "tld": ".sm"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "São Tomé ve Príncipe",
+      "tld": ".st"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Suudi Arabistan",
+      "tld": ".sa"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Suudi Arabistan",
+      "tld": ".السعودية"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "tld": ".sn"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Sırbistan",
+      "tld": ".rs"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Sırbistan",
+      "tld": ".срб"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seyşeller",
+      "tld": ".sc"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "tld": ".sl"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "tld": ".sg"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "tld": ".சிங்கப்பூர்"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "tld": ".新加坡"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovakya",
+      "tld": ".sk"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenya",
+      "tld": ".si"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Solomon Adaları",
+      "tld": ".sb"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somali",
+      "tld": ".so"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Güney Afrika",
+      "tld": ".za"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Güney Kore",
+      "tld": ".kr"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Güney Kore",
+      "tld": ".한국"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Güney Sudan",
+      "tld": ".ss"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "İspanya",
+      "tld": ".es"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "tld": ".lk"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "tld": ".இலங்கை"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "tld": ".ලංකා"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "tld": ".sd"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "tld": ".sr"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "İsveç",
+      "tld": ".se"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "İsviçre",
+      "tld": ".ch"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriye",
+      "tld": ".sy"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriye",
+      "tld": "سوريا."
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tacikistan",
+      "tld": ".tj"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanya",
+      "tld": ".tz"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tayland",
+      "tld": ".th"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tayland",
+      "tld": ".ไทย"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Doğu Timor",
+      "tld": ".tl"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "tld": ".tg"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "tld": ".to"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad ve Tobago",
+      "tld": ".tt"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunus",
+      "tld": ".tn"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Türkiye",
+      "tld": ".tr"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Türkmenistan",
+      "tld": ".tm"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "tld": ".tv"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "tld": ".ug"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrayna",
+      "tld": ".ua"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrayna",
+      "tld": ".укр"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Birleşik Arap Emirlikleri",
+      "tld": ".ae"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Birleşik Arap Emirlikleri",
+      "tld": "امارات."
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Birleşik Krallık",
+      "tld": ".uk"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Birleşik Devletleri",
+      "tld": ".us"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "tld": ".uy"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Özbekistan",
+      "tld": ".uz"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "tld": ".vu"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikan Şehri",
+      "tld": ".va"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "tld": ".ve"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "tld": ".vn"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yemen",
+      "tld": ".ye"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambiya",
+      "tld": ".zm"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabve",
+      "tld": ".zw"
+    }
+  ],
+  "meta": {
+    "seo_title": "Ülke TLD'leri ve ISO Kodları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "219 Ülke TLD kaydını ve ISO kodlarını ücretsiz indirin. Çeşitli ülkeler için alan adı uzantılarını edinin. Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Ülke Üst Düzey Alan Adları (TLD'ler) ve ISO Kodları Veri Seti",
+    "description": "Bu veri seti, ISO Alpha-2/Alpha-3 kodları ve ülke adları ile 219 ülkeye özgü TLD kaydı sunar. Uluslararası alan adı verileri için önemli bir kaynaktır.",
+    "key_takeaways": [
+      "İlgili ISO kodları ve ülke adlarıyla birlikte 219 ülke TLD kaydına erişin.",
+      "Uluslararasılaştırılmış TLD'ler de dahil olmak üzere dünya genelindeki ülkeler için güncel alan adı uzantılarını keşfedin.",
+      "Çeşitli uygulamalar için ülke TLD verilerini Excel, CSV veya PDF olarak indirin.",
+      "Web geliştirme, alan adı kayıt analizi veya coğrafi veri bağlantısı için bu veri setini kullanın."
+    ],
+    "keywords": [
+      "ülke tld listesi excel",
+      "alan adı uzantıları csv",
+      "cctld veri indir",
+      "iso ülke kodları tld",
+      "üst düzey alan adları listesi",
+      "ücretsiz alan adı verileri"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza aktarın veya alan adı doğrulama veya arama hizmetlerini otomatikleştirmek için Python komut dosyalarıyla kullanın.",
+      "**Excel** dosyasını, TLD dağıtımını analiz etmek, ülke kodlarına göre filtrelemek veya raporlama araçlarına entegre etmek için Pivot Tablolar oluşturmak amacıyla kullanın.",
+      "Uluslararası alan adları için hızlı bir çevrimdışı referans kılavuzu olarak veya sınıf ortamında eğitim amaçlı **PDF** sürümünü yazdırın.",
+      "Bu verileri, kullanıcı girişi doğrulamayı veya veri zenginleştirmeyi geliştirmek için ülkeye özgü alan adı uzantıları için bir arama tablosu gerektiren uygulamalara entegre edin."
+    ]
+  },
+  "record_count": 219,
+  "title": "Ülke Üst Düzey Alan Adları (TLD'ler) ve ISO Kodları Veri Seti"
+}

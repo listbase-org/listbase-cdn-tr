@@ -1,0 +1,934 @@
+{
+  "id": "tr-resmi-tatiller",
+  "name": "Türkiye resmi tatilleri (2020–2026)",
+  "title": "Türkiye resmi tatilleri (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_tr",
+      "label": "Name Tr",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-04-23",
+      "year": 2020,
+      "name_tr": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-19",
+      "year": 2020,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-05-24",
+      "year": 2020,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-05-25",
+      "year": 2020,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-26",
+      "year": 2020,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-07-15",
+      "year": 2020,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-07-31",
+      "year": 2020,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 31,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-08-01",
+      "year": 2020,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 8,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-08-02",
+      "year": 2020,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 8,
+      "day": 2,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-08-03",
+      "year": 2020,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 8,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-08-30",
+      "year": 2020,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-10-29",
+      "year": 2020,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-23",
+      "year": 2021,
+      "name_tr": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-13",
+      "year": 2021,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 13,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-05-14",
+      "year": 2021,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 14,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-05-15",
+      "year": 2021,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-19",
+      "year": 2021,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-07-15",
+      "year": 2021,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-07-20",
+      "year": 2021,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 20,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-07-21",
+      "year": 2021,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 21,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-07-22",
+      "year": 2021,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 22,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-07-23",
+      "year": 2021,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-08-30",
+      "year": 2021,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-10-29",
+      "year": 2021,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-04-23",
+      "year": 2022,
+      "name_tr": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-02",
+      "year": 2022,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-03",
+      "year": 2022,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-05-04",
+      "year": 2022,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-05-19",
+      "year": 2022,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-07-09",
+      "year": 2022,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-07-10",
+      "year": 2022,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 10,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-07-11",
+      "year": 2022,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-07-12",
+      "year": 2022,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 12,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-07-15",
+      "year": 2022,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-08-30",
+      "year": 2022,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-10-29",
+      "year": 2022,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-04-21",
+      "year": 2023,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-22",
+      "year": 2023,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 22,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-04-23",
+      "year": 2023,
+      "name_tr": "Ramazan Bayramı; Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "Eid al-Fitr; National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-19",
+      "year": 2023,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-06-28",
+      "year": 2023,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-06-29",
+      "year": 2023,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 29,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-06-30",
+      "year": 2023,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 30,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-07-01",
+      "year": 2023,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-07-15",
+      "year": 2023,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-08-30",
+      "year": 2023,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-10-29",
+      "year": 2023,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-04-10",
+      "year": 2024,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-04-11",
+      "year": 2024,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 11,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-04-12",
+      "year": 2024,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-04-23",
+      "year": 2024,
+      "name_tr": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-19",
+      "year": 2024,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-06-16",
+      "year": 2024,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 16,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-06-17",
+      "year": 2024,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-06-18",
+      "year": 2024,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 18,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-06-19",
+      "year": 2024,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 19,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-07-15",
+      "year": 2024,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-08-30",
+      "year": 2024,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-10-29",
+      "year": 2024,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-03-30",
+      "year": 2025,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 30,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-03-31",
+      "year": 2025,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-01",
+      "year": 2025,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-04-23",
+      "year": 2025,
+      "name_tr": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-19",
+      "year": 2025,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-06",
+      "year": 2025,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-06-07",
+      "year": 2025,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 7,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-06-08",
+      "year": 2025,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-06-09",
+      "year": 2025,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-07-15",
+      "year": 2025,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-08-30",
+      "year": 2025,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-10-29",
+      "year": 2025,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_tr": "Yılbaşı",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-03-20",
+      "year": 2026,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 20,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-03-21",
+      "year": 2026,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 21,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-03-22",
+      "year": 2026,
+      "name_tr": "Ramazan Bayramı",
+      "name_en": "Eid al-Fitr",
+      "month": 3,
+      "day": 22,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-04-23",
+      "year": 2026,
+      "name_tr": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "name_en": "National Sovereignty and Children's Day",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_tr": "Emek ve Dayanışma Günü",
+      "name_en": "Labour and Solidarity Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-19",
+      "year": 2026,
+      "name_tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "name_en": "Commemoration of Atatürk, Youth and Sports Day",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-05-27",
+      "year": 2026,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 5,
+      "day": 27,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-05-28",
+      "year": 2026,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 5,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-05-29",
+      "year": 2026,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 5,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-30",
+      "year": 2026,
+      "name_tr": "Kurban Bayramı",
+      "name_en": "Eid al-Adha",
+      "month": 5,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-07-15",
+      "year": 2026,
+      "name_tr": "Demokrasi ve Millî Birlik Günü",
+      "name_en": "Democracy and National Unity Day",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-08-30",
+      "year": 2026,
+      "name_tr": "Zafer Bayramı",
+      "name_en": "Victory Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-10-29",
+      "year": 2026,
+      "name_tr": "Cumhuriyet Bayramı",
+      "name_en": "Republic Day",
+      "month": 10,
+      "day": 29,
+      "day_of_week": "Thursday"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye resmi tatilleri (2020–2026) - Ücretsiz İndir",
+    "description": "Public holidays 2020-2026 with native and English names İçerik 97 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Türkiye resmi tatilleri (2020–2026) | ListBase",
+    "seo_description": "İndir Türkiye resmi tatilleri (2020–2026) — 97 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 97 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: open data"
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "id": "finance-hs-codes",
+  "name": "HS Kodu (Armonize Sistem) Bölümleri Veri Kümesi",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chapter",
+      "label": "Chapter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "section_name",
+      "label": "Section Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chapter": "01",
+      "name": "Canlı hayvanlar",
+      "section": "I",
+      "section_name": "Canlı Hayvanlar; Hayvansal Ürünler",
+      "examples": "Atlar, büyükbaş hayvanlar, koyunlar, kümes hayvanları"
+    },
+    {
+      "chapter": "02",
+      "name": "Et ve yenilen sakatat",
+      "section": "I",
+      "section_name": "Canlı Hayvanlar; Hayvansal Ürünler",
+      "examples": "Sığır eti, domuz eti, kuzu eti, kümes hayvanı eti"
+    },
+    {
+      "chapter": "03",
+      "name": "Balıklar ve kabuklu deniz ürünleri",
+      "section": "I",
+      "section_name": "Canlı Hayvanlar; Hayvansal Ürünler",
+      "examples": "Balık, karides, ıstakoz, kalamar"
+    },
+    {
+      "chapter": "04",
+      "name": "Süt ürünleri; yumurta; bal",
+      "section": "I",
+      "section_name": "Canlı Hayvanlar; Hayvansal Ürünler",
+      "examples": "Süt, peynir, yumurta, bal"
+    },
+    {
+      "chapter": "05",
+      "name": "Hayvansal menşeli diğer ürünler",
+      "section": "I",
+      "section_name": "Canlı Hayvanlar; Hayvansal Ürünler",
+      "examples": "Kemikler, boynuzlar, fildişi, tüyler"
+    },
+    {
+      "chapter": "06",
+      "name": "Canlı ağaçlar ve diğer canlı bitkiler",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Bitkiler, soğanlar, kesme çiçekler"
+    },
+    {
+      "chapter": "07",
+      "name": "Yenilen sebzeler",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Patates, domates, soğan"
+    },
+    {
+      "chapter": "08",
+      "name": "Yenilen meyveler ve sert kabuklu meyveler",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Elma, portakal, muz, badem"
+    },
+    {
+      "chapter": "09",
+      "name": "Kahve, çay, baharatlar",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Kahve, çay, biber, vanilya"
+    },
+    {
+      "chapter": "10",
+      "name": "Hububat",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Buğday, pirinç, mısır, arpa"
+    },
+    {
+      "chapter": "11",
+      "name": "Değirmencilik ürünleri",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Un, nişasta, malt"
+    },
+    {
+      "chapter": "12",
+      "name": "Yağlı tohumlar ve yağlı meyveler",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Soya fasulyesi, yer fıstığı, ayçiçeği tohumu"
+    },
+    {
+      "chapter": "13",
+      "name": "Lak, sakızlar, reçineler",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Doğal sakızlar, reçineler, bitki özsuları"
+    },
+    {
+      "chapter": "14",
+      "name": "Sebze örgü malzemeleri",
+      "section": "II",
+      "section_name": "Bitkisel Ürünler",
+      "examples": "Bambu, rattan, saz"
+    },
+    {
+      "chapter": "15",
+      "name": "Hayvansal veya bitkisel katı ve sıvı yağlar",
+      "section": "III",
+      "section_name": "Hayvansal veya Bitkisel Yağlar",
+      "examples": "Zeytinyağı, hurma yağı, tereyağı, margarin"
+    },
+    {
+      "chapter": "16",
+      "name": "Et veya balık müstahzarları",
+      "section": "IV",
+      "section_name": "Hazır Gıdalar",
+      "examples": "Sosisler, konserve balık, et özleri"
+    },
+    {
+      "chapter": "17",
+      "name": "Şekerler ve şekerli mamuller",
+      "section": "IV",
+      "section_name": "Hazır Gıdalar",
+      "examples": "Şeker, şekerleme, çikolata"
+    },
+    {
+      "chapter": "18",
+      "name": "Kakao ve kakao müstahzarları",
+      "section": "IV",
+      "section_name": "Hazır Gıdalar",
+      "examples": "Kakao çekirdekleri, kakao tozu, çikolata"
+    },
+    {
+      "chapter": "19",
+      "name": "Hububat, un müstahzarları",
+      "section": "IV",
+      "section_name": "Hazır Gıdalar",
+      "examples": "Ekmek, makarna, kurabiye, kek"
+    },
+    {
+      "chapter": "20",
+      "name": "Sebze, meyve müstahzarları",
+      "section": "IV",
+      "section_name": "Hazır Gıdalar",
+      "examples": "Konserve sebzeler, meyve suyu, reçeller"
+    },
+    {
+      "chapter": "21",
+      "name": "Çeşitli yenilebilir müstahzarlar",
+      "section": "IV",
+      "section_name": "Hazırlanmış Gıda Maddeleri",
+      "examples": "Soslar, çorbalar, dondurma, maya"
+    },
+    {
+      "chapter": "22",
+      "name": "İçecekler, alkollü içkiler ve sirke",
+      "section": "IV",
+      "section_name": "Hazırlanmış Gıda Maddeleri",
+      "examples": "Su, şarap, bira, viski, sirke"
+    },
+    {
+      "chapter": "23",
+      "name": "Gıda sanayinden çıkan artıklar",
+      "section": "IV",
+      "section_name": "Hazırlanmış Gıda Maddeleri",
+      "examples": "Hayvan yemi, kepek, yağ küspesi"
+    },
+    {
+      "chapter": "24",
+      "name": "Tütün ve tütün mamulü ikameleri",
+      "section": "IV",
+      "section_name": "Hazırlanmış Gıda Maddeleri",
+      "examples": "Sigara, puro, tütün"
+    },
+    {
+      "chapter": "25",
+      "name": "Tuz; kükürt; topraklar ve taşlar",
+      "section": "V",
+      "section_name": "Mineral Ürünleri",
+      "examples": "Tuz, kum, çakıl, mermer, alçı"
+    },
+    {
+      "chapter": "26",
+      "name": "Cevherler, cüruf ve kül",
+      "section": "V",
+      "section_name": "Mineral Ürünleri",
+      "examples": "Demir cevheri, bakır cevheri, kül"
+    },
+    {
+      "chapter": "27",
+      "name": "Mineral yakıtları ve yağları",
+      "section": "V",
+      "section_name": "Mineral Ürünleri",
+      "examples": "Kömür, petrol, doğal gaz"
+    },
+    {
+      "chapter": "28",
+      "name": "İnorganik kimyasallar",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Asitler, oksitler, tuzlar, nadir gazlar"
+    },
+    {
+      "chapter": "29",
+      "name": "Organik kimyasallar",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Hidrokarbonlar, alkoller, asitler"
+    },
+    {
+      "chapter": "30",
+      "name": "Farmasötik ürünler",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "İlaçlar, aşılar, bandajlar"
+    },
+    {
+      "chapter": "31",
+      "name": "Gübreler",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Azot, fosfat, potas gübreleri"
+    },
+    {
+      "chapter": "32",
+      "name": "Tabaklama veya boyama özleri",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Boyalar, boyalar, mürekkepler, macun"
+    },
+    {
+      "chapter": "33",
+      "name": "Uçucu yağlar ve kozmetikler",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Parfümler, makyaj malzemeleri, şampuan, sabun"
+    },
+    {
+      "chapter": "34",
+      "name": "Sabun, mumlar, fitilli mumlar",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Sabun, deterjanlar, mumlar, cila"
+    },
+    {
+      "chapter": "35",
+      "name": "Albüminoit maddeler; tutkallar",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Jelatin, yapıştırıcılar, enzimler"
+    },
+    {
+      "chapter": "36",
+      "name": "Patlayıcılar; kibritler; piroteknikler",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Patlayıcılar, kibritler, havai fişekler"
+    },
+    {
+      "chapter": "37",
+      "name": "Fotoğrafçılık eşyaları",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Film, fotoğraf plakaları, kimyasallar"
+    },
+    {
+      "chapter": "38",
+      "name": "Çeşitli kimyasal ürünler",
+      "section": "VI",
+      "section_name": "Kimyasal Ürünler",
+      "examples": "Böcek ilaçları, herbisitler, antifriz"
+    },
+    {
+      "chapter": "39",
+      "name": "Plastikler ve mamulleri",
+      "section": "VII",
+      "section_name": "Plastikler ve Kauçuk",
+      "examples": "Plastik levhalar, borular, kaplar"
+    },
+    {
+      "chapter": "40",
+      "name": "Kauçuk ve mamulleri",
+      "section": "VII",
+      "section_name": "Plastikler ve Kauçuk",
+      "examples": "Lastikler, kauçuk borular, eldivenler"
+    },
+    {
+      "chapter": "41",
+      "name": "Ham deriler ve postlar, deri",
+      "section": "VIII",
+      "section_name": "Deri ve Seyahat Ürünleri",
+      "examples": "Deri, ham deriler, postlar"
+    },
+    {
+      "chapter": "42",
+      "name": "Deri eşyalar; seyahat eşyaları",
+      "section": "VIII",
+      "section_name": "Deri ve Seyahat Ürünleri",
+      "examples": "Çantalar, cüzdanlar, kemerler, valizler"
+    },
+    {
+      "chapter": "43",
+      "name": "Kürk derileri ve suni kürk",
+      "section": "VIII",
+      "section_name": "Deri ve Seyahat Ürünleri",
+      "examples": "Kürk mantolar, kürk süslemeler"
+    },
+    {
+      "chapter": "44",
+      "name": "Ahşap ve ahşap eşyalar",
+      "section": "IX",
+      "section_name": "Ahşap ve Ahşap Ürünleri",
+      "examples": "Kereste, kontrplak, mobilya parçaları"
+    },
+    {
+      "chapter": "45",
+      "name": "Mantar ve mantar eşyaları",
+      "section": "IX",
+      "section_name": "Ahşap ve Ahşap Ürünleri",
+      "examples": "Mantar tıpalar, mantar levhalar"
+    },
+    {
+      "chapter": "46",
+      "name": "Saman mamulleri, sepet örgüsü",
+      "section": "IX",
+      "section_name": "Ahşap ve Ahşap Ürünleri",
+      "examples": "Sepetler, hasırlar, hasır işleri"
+    },
+    {
+      "chapter": "47",
+      "name": "Odun veya lifli maddelerden kağıt hamuru",
+      "section": "X",
+      "section_name": "Kağıt Hamuru ve Kağıt",
+      "examples": "Odun hamuru, kağıt hamuru"
+    },
+    {
+      "chapter": "48",
+      "name": "Kağıt ve karton",
+      "section": "X",
+      "section_name": "Kağıt Hamuru ve Kağıt",
+      "examples": "Kağıt, karton, kutular"
+    },
+    {
+      "chapter": "49",
+      "name": "Basılı kitaplar, gazeteler",
+      "section": "X",
+      "section_name": "Kağıt Hamuru ve Kağıt",
+      "examples": "Kitaplar, dergiler, haritalar, pullar"
+    },
+    {
+      "chapter": "50",
+      "name": "İpek",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "İpek ipliği, ipek kumaş"
+    },
+    {
+      "chapter": "51",
+      "name": "Yün ve hayvan kılı",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Yün ipliği, yün kumaş"
+    },
+    {
+      "chapter": "52",
+      "name": "Pamuk",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Pamuk ipliği, pamuklu kumaş"
+    },
+    {
+      "chapter": "53",
+      "name": "Diğer bitkisel tekstil elyafları",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Keten, kenevir, jüt kumaşlar"
+    },
+    {
+      "chapter": "54",
+      "name": "Suni filamentler",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Naylon, polyester filamentler"
+    },
+    {
+      "chapter": "55",
+      "name": "Suni stapel elyaf",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Sentetik stapel elyaf, iplik"
+    },
+    {
+      "chapter": "56",
+      "name": "Elyaf, keçe, dokunmamışlar",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Elyaf, keçe, ip, sicim"
+    },
+    {
+      "chapter": "57",
+      "name": "Halılar ve tekstil yer kaplamaları",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Halılar, kilimler, paspaslar"
+    },
+    {
+      "chapter": "58",
+      "name": "Özel dokuma kumaşlar",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Goblenler, danteller, nakışlar"
+    },
+    {
+      "chapter": "59",
+      "name": "Emdirilmiş tekstil kumaşları",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Kaplamalı kumaşlar, lastik kord bezi"
+    },
+    {
+      "chapter": "60",
+      "name": "Örme veya tığ işi kumaşlar",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Örme kumaşlar"
+    },
+    {
+      "chapter": "61",
+      "name": "Örme giyim eşyası ve aksesuarları",
+      "section": "XI",
+      "section_name": "Tekstil Ürünleri",
+      "examples": "Süveter, Tişört, çorap"
+    },
+    {
+      "chapter": "62",
+      "name": "Dokuma giyim eşyası ve aksesuarları",
+      "section": "XI",
+      "section_name": "Tekstil Ürünleri",
+      "examples": "Takım elbise, gömlek, elbise, manto"
+    },
+    {
+      "chapter": "63",
+      "name": "Diğer hazır tekstil ürünleri",
+      "section": "XI",
+      "section_name": "Tekstil Ürünleri",
+      "examples": "Battaniye, perde, çanta, çadır"
+    },
+    {
+      "chapter": "64",
+      "name": "Ayakkabılar",
+      "section": "XII",
+      "section_name": "Ayakkabılar ve Başlıklar",
+      "examples": "Ayakkabı, bot, sandalet, terlik"
+    },
+    {
+      "chapter": "65",
+      "name": "Başlıklar",
+      "section": "XII",
+      "section_name": "Ayakkabılar ve Başlıklar",
+      "examples": "Şapka, kep, kask"
+    },
+    {
+      "chapter": "66",
+      "name": "Şemsiyeler, bastonlar",
+      "section": "XII",
+      "section_name": "Ayakkabılar ve Başlıklar",
+      "examples": "Şemsiye, baston, kırbaç"
+    },
+    {
+      "chapter": "67",
+      "name": "Hazırlanmış tüyler; yapay çiçekler",
+      "section": "XII",
+      "section_name": "Ayakkabılar ve Başlıklar",
+      "examples": "Yapay çiçekler, peruklar"
+    },
+    {
+      "chapter": "68",
+      "name": "Taş, çimento eşyası",
+      "section": "XIII",
+      "section_name": "Taş, Seramik, Cam",
+      "examples": "Taş fayans, çimento ürünleri"
+    },
+    {
+      "chapter": "69",
+      "name": "Seramik ürünleri",
+      "section": "XIII",
+      "section_name": "Taş, Seramik, Cam",
+      "examples": "Tuğla, fayans, çanak çömlek, porselen"
+    },
+    {
+      "chapter": "70",
+      "name": "Cam ve cam eşya",
+      "section": "XIII",
+      "section_name": "Taş, Seramik, Cam",
+      "examples": "Cam şişeler, aynalar, cam eşya"
+    },
+    {
+      "chapter": "71",
+      "name": "İnciler, kıymetli taşlar, metaller",
+      "section": "XIV",
+      "section_name": "Kıymetli Metaller ve Taşlar",
+      "examples": "Elmas, altın, gümüş, mücevher"
+    },
+    {
+      "chapter": "72",
+      "name": "Demir ve çelik",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Demir, çelik, ferroalyajlar"
+    },
+    {
+      "chapter": "73",
+      "name": "Demir veya çelikten eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Çelik borular, kaplar, tel"
+    },
+    {
+      "chapter": "74",
+      "name": "Bakır ve bakırdan eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Bakır tel, boru, levha"
+    },
+    {
+      "chapter": "75",
+      "name": "Nikel ve nikelden eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Nikel çubuklar, levhalar, tel"
+    },
+    {
+      "chapter": "76",
+      "name": "Alüminyum ve alüminyumdan eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Alüminyum levhalar, folyo, kutular"
+    },
+    {
+      "chapter": "78",
+      "name": "Kurşun ve kurşundan eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Kurşun levhalar, saclar, borular"
+    },
+    {
+      "chapter": "79",
+      "name": "Çinko ve çinkodan eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Çinko levhalar, çubuklar, toz"
+    },
+    {
+      "chapter": "80",
+      "name": "Kalay ve kalaydan eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Kalay çubuklar, levhalar, folyo"
+    },
+    {
+      "chapter": "81",
+      "name": "Diğer adi metaller",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Tungsten, titanyum, molibden"
+    },
+    {
+      "chapter": "82",
+      "name": "Adi metallerden aletler",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Bıçaklar, makaslar, el aletleri"
+    },
+    {
+      "chapter": "83",
+      "name": "Adi metallerden çeşitli eşya",
+      "section": "XV",
+      "section_name": "Adi Metaller",
+      "examples": "Kilitler, bağlantı parçaları, kasalar, ziller"
+    },
+    {
+      "chapter": "84",
+      "name": "Nükleer reaktörler, kazanlar, makineler",
+      "section": "XVI",
+      "section_name": "Makineler",
+      "examples": "Motorlar, pompalar, bilgisayarlar, klima üniteleri"
+    },
+    {
+      "chapter": "85",
+      "name": "Elektrikli makine ve ekipmanlar",
+      "section": "XVI",
+      "section_name": "Makineler",
+      "examples": "Telefonlar, TV'ler, motorlar, bataryalar"
+    },
+    {
+      "chapter": "86",
+      "name": "Demiryolu lokomotifleri, demiryolu vagonları",
+      "section": "XVII",
+      "section_name": "Taşıtlar",
+      "examples": "Trenler, tramvaylar, demiryolu vagonları"
+    },
+    {
+      "chapter": "87",
+      "name": "Demiryolu dışındaki taşıtlar",
+      "section": "XVII",
+      "section_name": "Taşıtlar",
+      "examples": "Arabalar, kamyonlar, motosikletler, bisikletler"
+    },
+    {
+      "chapter": "88",
+      "name": "Hava taşıtları, uzay taşıtları",
+      "section": "XVII",
+      "section_name": "Taşıtlar",
+      "examples": "Uçaklar, helikopterler, dronlar"
+    },
+    {
+      "chapter": "89",
+      "name": "Gemiler, tekneler",
+      "section": "XVII",
+      "section_name": "Taşıtlar",
+      "examples": "Gemiler, yatlar, tekneler"
+    },
+    {
+      "chapter": "90",
+      "name": "Optik, tıbbi, ölçü aletleri",
+      "section": "XVIII",
+      "section_name": "Aletler",
+      "examples": "Kameralar, tıbbi cihazlar, sensörler"
+    },
+    {
+      "chapter": "91",
+      "name": "Saatler ve kol saatleri",
+      "section": "XVIII",
+      "section_name": "Aletler",
+      "examples": "Kol saatleri, duvar saatleri, saat parçaları"
+    },
+    {
+      "chapter": "92",
+      "name": "Müzik aletleri",
+      "section": "XVIII",
+      "section_name": "Aletler",
+      "examples": "Piyanolar, gitarlar, davullar"
+    },
+    {
+      "chapter": "93",
+      "name": "Silahlar ve mühimmat",
+      "section": "XIX",
+      "section_name": "Silahlar ve Mühimmat",
+      "examples": "Silahlar, mühimmat, parçalar"
+    },
+    {
+      "chapter": "94",
+      "name": "Mobilyalar; yatak takımları; lambalar",
+      "section": "XX",
+      "section_name": "Çeşitli Eşyalar",
+      "examples": "Sandalyeler, yataklar, lambalar, prefabrik yapılar"
+    },
+    {
+      "chapter": "95",
+      "name": "Oyuncaklar, oyunlar, spor malzemeleri",
+      "section": "XX",
+      "section_name": "Çeşitli Eşyalar",
+      "examples": "Oyuncaklar, video oyunları, spor ekipmanları"
+    },
+    {
+      "chapter": "96",
+      "name": "Çeşitli mamul eşyalar",
+      "section": "XX",
+      "section_name": "Çeşitli Eşyalar",
+      "examples": "Kalemler, düğmeler, çakmaklar, süpürgeler"
+    },
+    {
+      "chapter": "97",
+      "name": "Sanat eserleri, antikalar",
+      "section": "XXI",
+      "section_name": "Sanat Eserleri",
+      "examples": "Tablolar, heykeller, antikalar"
+    },
+    {
+      "chapter": "98",
+      "name": "Özel sınıflandırma hükümleri",
+      "section": "XXII",
+      "section_name": "Özel",
+      "examples": "Ulusal özel hükümler"
+    },
+    {
+      "chapter": "99",
+      "name": "Özel ithalat hükümleri",
+      "section": "XXII",
+      "section_name": "Özel",
+      "examples": "Geçici ithalat, yeniden ithalat"
+    }
+  ],
+  "meta": {
+    "seo_title": "HS Kodu Bölümleri Listesi - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Tüm 98 HS Kodu Bölümünü ücretsiz indirin. Detaylı açıklamalar, bölümler ve örneklerle Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "HS Kodu (Armonize Sistem) Bölümleri Veri Kümesi",
+    "description": "Bu kapsamlı veri kümesi, uluslararası ticaret ve gümrük sınıflandırması için kritik olan Armonize Sistem (HS) Kodlarının 98 bölümünün tamamını sağlar. Her kayıt, bölüm numarası, açıklaması, bölüm detayları ve açıklayıcı örnekleri içerir.",
+    "key_takeaways": [
+      "Küresel ticaret için vazgeçilmez olan tüm 98 resmi HS Kodu Bölümüne erişin.",
+      "Her bölüm için ayrıntılı açıklamaları, bölüm sınıflandırmalarını ve pratik örnekleri keşfedin.",
+      "Tüm Armonize Sistem Bölümleri listesini birden fazla formatta anında indirin.",
+      "Gümrük beyannameleri, tarife arama ve pazar analizi için yapılandırılmış verilerden yararlanın."
+    ],
+    "keywords": [
+      "hs kodu bölümleri liste excel",
+      "armonize sistem veri kümesi",
+      "uluslararası ticaret sınıflandırması csv",
+      "gümrük kodları ücretsiz indir",
+      "ticaret tarifesi verileri"
+    ],
+    "use_cases": [
+      "Ürün sınıflandırmasını ve ticaret verisi analizini otomatikleştirmek için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyanıza aktarın.",
+      "Tarife araştırması, uyumluluk raporlaması veya pazar istihbaratı için **Excel** dosyasını filtrelemek, sıralamak ve Özet Tablolar oluşturmak için kullanın.",
+      "Hızlı çevrimdışı referans, sınıf içi eğitim veya gümrük komisyoncuları için kullanışlı bir masa rehberi olarak **PDF** sürümünü yazdırın.",
+      "Ürünleri doğru bir şekilde kategorize etmek ve uluslararası nakliyeyi kolaylaştırmak için bu veri kümesini ERP veya e-ticaret platformunuza entegre edin."
+    ]
+  },
+  "record_count": 98,
+  "title": "HS Kodu (Armonize Sistem) Bölümleri Veri Kümesi"
+}

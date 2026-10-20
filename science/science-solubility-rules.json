@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "Kapsamlı Çözünürlük Kuralları Tablosu Veri Seti",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility (EN)",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "Nitratlar",
+      "formula": "NO₃⁻",
+      "solubility": "Çözünür",
+      "exceptions": "Yok - tüm nitratlar çözünür",
+      "category": "Her Zaman Çözünür",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "Asetatlar",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "Çözünür",
+      "exceptions": "Gümüş asetat az çözünür",
+      "category": "Her Zaman Çözünür",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "Kloratlar",
+      "formula": "ClO₃⁻",
+      "solubility": "Çözünür",
+      "exceptions": "Yok - tüm kloratlar çözünür",
+      "category": "Her Zaman Çözünür",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "Perkloratlar",
+      "formula": "ClO₄⁻",
+      "solubility": "Çözünür",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ az çözünür",
+      "category": "Her Zaman Çözünür",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "Alkali Metal İyonları",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "Çözünür",
+      "exceptions": "Yok - tüm Grup 1 tuzları çözünür",
+      "category": "Her Zaman Çözünür",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "Amonyum",
+      "formula": "NH₄⁺",
+      "solubility": "Çözünür",
+      "exceptions": "Yok - tüm amonyum tuzları çözünür",
+      "category": "Her Zaman Çözünür",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "Halojenürler (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "Çoğunlukla Çözünür",
+      "exceptions": "Ag⁺, Pb²⁺, Hg₂²⁺ halojenürleri çözünmez",
+      "category": "İstisnalarla Çözünür",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "Florürler",
+      "formula": "F⁻",
+      "solubility": "Çoğunlukla Çözünür",
+      "exceptions": "Grup 2 florürleri (MgF₂, CaF₂, BaF₂) ve PbF₂ çözünmez",
+      "category": "İstisnalarla Çözünür",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "Sülfatlar",
+      "formula": "SO₄²⁻",
+      "solubility": "Çoğunlukla Çözünür",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ çözünmez veya az çözünür",
+      "category": "İstisnalarla Çözünür",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "Karbonatlar",
+      "formula": "CO₃²⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal ve amonyum karbonatlar çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "Fosfatlar",
+      "formula": "PO₄³⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal ve amonyum fosfatlar çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "Kromatlar",
+      "formula": "CrO₄²⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal ve amonyum kromatlar çözünür; MgCrO₄, CaCrO₄ çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "Sülfürler",
+      "formula": "S²⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal, toprak alkali ve amonyum sülfürler çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "Hidroksitler",
+      "formula": "OH⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal hidroksitler çözünür; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ az çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "Oksitler",
+      "formula": "O²⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal oksitler su ile reaksiyona girerek çözünür hidroksitler oluşturur; CaO, SrO, BaO az çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "Sülfitler",
+      "formula": "SO₃²⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal ve amonyum sülfitler çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "Oksalatlar",
+      "formula": "C₂O₄²⁻",
+      "solubility": "Çoğunlukla Çözünmez",
+      "exceptions": "Alkali metal ve amonyum oksalatlar çözünür",
+      "category": "İstisnalarla Çözünmez",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "Gümüş Klorür",
+      "formula": "AgCl",
+      "solubility": "Çözünmez",
+      "exceptions": "NH₃ çözeltisinde çözünerek [Ag(NH₃)₂]⁺ oluşturur",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Gümüş Bromür",
+      "formula": "AgBr",
+      "solubility": "Çözünmez",
+      "exceptions": "AgCl'den daha az çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "Gümüş İyodür",
+      "formula": "AgI",
+      "solubility": "Çözünmez",
+      "exceptions": "En az çözünür gümüş halojenür",
+      "category": "Yaygın Çökelti",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "Kurşun(II) Klorür",
+      "formula": "PbCl₂",
+      "solubility": "Az Çözünür",
+      "exceptions": "Sıcak suda daha çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Kurşun(II) İyodür",
+      "formula": "PbI₂",
+      "solubility": "Çözünmez",
+      "exceptions": "Sıcak suda daha çözünür (altın yağmur deneyi)",
+      "category": "Yaygın Çökelti",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Kurşun(II) Sülfat",
+      "formula": "PbSO₄",
+      "solubility": "Çözünmez",
+      "exceptions": "Derişik H₂SO₄ içinde çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "Baryum Sülfat",
+      "formula": "BaSO₄",
+      "solubility": "Çözünmez",
+      "exceptions": "Çok çözünmez - tıbbi görüntülemede kullanılır",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Kalsiyum Karbonat",
+      "formula": "CaCO₃",
+      "solubility": "Çözünmez",
+      "exceptions": "Asitte çözünür; CO₂ açısından zengin suda daha çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Kalsiyum Sülfat",
+      "formula": "CaSO₄",
+      "solubility": "Az Çözünür",
+      "exceptions": "Alçı, Paris alçısı",
+      "category": "Yaygın Çökelti",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Demir(III) Hidroksit",
+      "formula": "Fe(OH)₃",
+      "solubility": "Çözünmez",
+      "exceptions": "Asitte çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "Bakır(II) Hidroksit",
+      "formula": "Cu(OH)₂",
+      "solubility": "Çözünmez",
+      "exceptions": "NH₃ içinde çözünerek [Cu(NH₃)₄]²⁺ oluşturur (koyu mavi)",
+      "category": "Yaygın Çökelti",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "Magnezyum Hidroksit",
+      "formula": "Mg(OH)₂",
+      "solubility": "Az Çözünür",
+      "exceptions": "Magnezyum Sütü - antasit",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "Alüminyum Hidroksit",
+      "formula": "Al(OH)₃",
+      "solubility": "Çözünmez",
+      "exceptions": "Amfoterik - hem asitte hem de bazda çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "Çinko Hidroksit",
+      "formula": "Zn(OH)₂",
+      "solubility": "Çözünmez",
+      "exceptions": "Amfoterik - aşırı NaOH içinde çözünür",
+      "category": "Yaygın Çökelti",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "Çözünürlük Kuralları Tablosu - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Bu kapsamlı Çözünürlük Kuralları Tablosu veri setini ücretsiz indirin (31 kayıt). Kimya öğrencileri ve profesyonelleri için Excel, CSV ve PDF formatlarında mevcut.",
+    "title": "Kapsamlı Çözünürlük Kuralları Tablosu Veri Seti",
+    "description": "Bu veri seti, yaygın iyonik bileşikler için çözünürlük kurallarının ayrıntılı bir tablosunu, formüllerini, çözünürlük durumlarını, istisnalarını ve açıklayıcı örneklerini içerir. Kimya çalışmaları ve araştırmaları için önemli bir kaynaktır.",
+    "key_takeaways": [
+      "Çeşitli iyon ve bileşikler için 31 temel çözünürlük kuralına erişin.",
+      "Her çözünürlük kılavuzu için ayrıntılı istisnaları ve notları keşfedin.",
+      "Kimya dersleri ve laboratuvar çalışmaları için kullanıma hazır bir referans indirin.",
+      "Çözünür ve çözünmez bileşiklerin pratik örneklerini edinin."
+    ],
+    "keywords": [
+      "çözünürlük kuralları tablosu excel",
+      "kimyasal çözünürlük tablosu csv",
+      "iyonik bileşikler çözünürlük pdf",
+      "kimya referans veri seti",
+      "çözünürlük verisi indir",
+      "çözünürlük yönergeleri"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza veya Python komut dosyanıza programatik analiz ve eğitim uygulamalarına entegrasyon için aktarın.",
+      "Kimya ödevleri veya laboratuvar veri analizi için filtreleme, sıralama ve özel raporlar oluşturmak üzere **Excel** dosyasını kullanın.",
+      "Sınıflarda veya laboratuvar deneyleri sırasında kullanışlı, çevrimdışı bir referans çizelgesi için **PDF** sürümünü yazdırın.",
+      "Kimyasal reaksiyon tahminleri ve deney tasarımı için çeşitli bileşiklerin çözünürlüğünü hızlıca doğrulamak amacıyla bu veri setinden yararlanın."
+    ]
+  },
+  "record_count": 31,
+  "title": "Kapsamlı Çözünürlük Kuralları Tablosu Veri Seti"
+}

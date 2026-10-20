@@ -1,0 +1,579 @@
+{
+  "id": "geo-us-states",
+  "name": "ABD Eyaletleri Kapsamlı Veri Seti",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "State Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital City (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_sq_mi",
+      "label": "Area (sq mi)",
+      "type": "number"
+    },
+    {
+      "key": "statehood_year",
+      "label": "Statehood Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "region": "Güney",
+      "division": "Doğu Güney Orta",
+      "population": 5024279,
+      "area_sq_mi": 52420,
+      "statehood_year": 1819
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "region": "Batı",
+      "division": "Pasifik",
+      "population": 733391,
+      "area_sq_mi": 665384,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 7151502,
+      "area_sq_mi": 113990,
+      "statehood_year": 1912
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "region": "Güney",
+      "division": "Batı Güney Orta",
+      "population": 3011524,
+      "area_sq_mi": 53179,
+      "statehood_year": 1836
+    },
+    {
+      "name": "Kaliforniya",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "region": "Batı",
+      "division": "Pasifik",
+      "population": 39538223,
+      "area_sq_mi": 163695,
+      "statehood_year": 1850
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 5773714,
+      "area_sq_mi": 104094,
+      "statehood_year": 1876
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "region": "Kuzeydoğu",
+      "division": "New England",
+      "population": 3605944,
+      "area_sq_mi": 5543,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 989948,
+      "area_sq_mi": 2489,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 21538187,
+      "area_sq_mi": 65758,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 10711908,
+      "area_sq_mi": 59425,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "region": "Batı",
+      "division": "Pasifik",
+      "population": 1455271,
+      "area_sq_mi": 10932,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 1839106,
+      "area_sq_mi": 83569,
+      "statehood_year": 1890
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "region": "Orta Batı",
+      "division": "Doğu Kuzey Orta",
+      "population": 12812508,
+      "area_sq_mi": 57914,
+      "statehood_year": 1818
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "region": "Orta Batı",
+      "division": "Doğu Kuzey Orta",
+      "population": 6785528,
+      "area_sq_mi": 36420,
+      "statehood_year": 1816
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "region": "Orta Batı",
+      "division": "Batı Kuzey Orta",
+      "population": 3190369,
+      "area_sq_mi": 56273,
+      "statehood_year": 1846
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "region": "Orta Batı",
+      "division": "Batı Kuzey Orta",
+      "population": 2937880,
+      "area_sq_mi": 82278,
+      "statehood_year": 1861
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "region": "Güney",
+      "division": "Doğu Güney Orta",
+      "population": 4505836,
+      "area_sq_mi": 40408,
+      "statehood_year": 1792
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "region": "Güney",
+      "division": "Batı Güney Orta",
+      "population": 4657757,
+      "area_sq_mi": 52378,
+      "statehood_year": 1812
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "region": "Kuzeydoğu",
+      "division": "New England",
+      "population": 1362359,
+      "area_sq_mi": 35380,
+      "statehood_year": 1820
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 6177224,
+      "area_sq_mi": 12406,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "region": "Kuzeydoğu",
+      "division": "New England",
+      "population": 7029917,
+      "area_sq_mi": 10554,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "region": "Ortabatı",
+      "division": "Doğu Kuzey Orta",
+      "population": 10077331,
+      "area_sq_mi": 96714,
+      "statehood_year": 1837
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "region": "Ortabatı",
+      "division": "Batı Kuzey Orta",
+      "population": 5706494,
+      "area_sq_mi": 86936,
+      "statehood_year": 1858
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "region": "Güney",
+      "division": "Doğu Güney Orta",
+      "population": 2961279,
+      "area_sq_mi": 48432,
+      "statehood_year": 1817
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "region": "Ortabatı",
+      "division": "Batı Kuzey Orta",
+      "population": 6154913,
+      "area_sq_mi": 69707,
+      "statehood_year": 1821
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 1084225,
+      "area_sq_mi": 147040,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "region": "Ortabatı",
+      "division": "Batı Kuzey Orta",
+      "population": 1961504,
+      "area_sq_mi": 77348,
+      "statehood_year": 1867
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 3104614,
+      "area_sq_mi": 110572,
+      "statehood_year": 1864
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "region": "Kuzeydoğu",
+      "division": "New England",
+      "population": 1377529,
+      "area_sq_mi": 9349,
+      "statehood_year": 1788
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "region": "Kuzeydoğu",
+      "division": "Orta Atlantik",
+      "population": 9288994,
+      "area_sq_mi": 8723,
+      "statehood_year": 1787
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 2117522,
+      "area_sq_mi": 121590,
+      "statehood_year": 1912
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "region": "Kuzeydoğu",
+      "division": "Orta Atlantik",
+      "population": 20201249,
+      "area_sq_mi": 54555,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Kuzey Carolina",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 10439388,
+      "area_sq_mi": 53819,
+      "statehood_year": 1789
+    },
+    {
+      "name": "Kuzey Dakota",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "region": "Ortabatı",
+      "division": "Batı Kuzey Orta",
+      "population": 779094,
+      "area_sq_mi": 70698,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "region": "Ortabatı",
+      "division": "Doğu Kuzey Orta",
+      "population": 11799448,
+      "area_sq_mi": 44826,
+      "statehood_year": 1803
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "region": "Güney",
+      "division": "Batı Güney Orta",
+      "population": 3959353,
+      "area_sq_mi": 69899,
+      "statehood_year": 1907
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "region": "Batı",
+      "division": "Pasifik",
+      "population": 4237256,
+      "area_sq_mi": 98379,
+      "statehood_year": 1859
+    },
+    {
+      "name": "Pensilvanya",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "region": "Kuzeydoğu",
+      "division": "Orta Atlantik",
+      "population": 13002700,
+      "area_sq_mi": 46054,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "region": "Kuzeydoğu",
+      "division": "New England",
+      "population": 1097379,
+      "area_sq_mi": 1545,
+      "statehood_year": 1790
+    },
+    {
+      "name": "Güney Carolina",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 5118425,
+      "area_sq_mi": 32020,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Güney Dakota",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "region": "Ortabatı",
+      "division": "Batı Kuzey Orta",
+      "population": 886667,
+      "area_sq_mi": 77116,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "region": "Güney",
+      "division": "Doğu Güney Orta",
+      "population": 6910840,
+      "area_sq_mi": 42144,
+      "statehood_year": 1796
+    },
+    {
+      "name": "Teksas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "region": "Güney",
+      "division": "Batı Güney Orta",
+      "population": 29145505,
+      "area_sq_mi": 268596,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake Şehri",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 3271616,
+      "area_sq_mi": 84897,
+      "statehood_year": 1896
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "region": "Kuzeydoğu",
+      "division": "New England",
+      "population": 643077,
+      "area_sq_mi": 9616,
+      "statehood_year": 1791
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 8631393,
+      "area_sq_mi": 42775,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "region": "Batı",
+      "division": "Pasifik",
+      "population": 7614893,
+      "area_sq_mi": 71298,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Batı Virginia",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "region": "Güney",
+      "division": "Güney Atlantik",
+      "population": 1793716,
+      "area_sq_mi": 24230,
+      "statehood_year": 1863
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "region": "Ortabatı",
+      "division": "Doğu Kuzey Orta",
+      "population": 5893718,
+      "area_sq_mi": 65496,
+      "statehood_year": 1848
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "region": "Batı",
+      "division": "Dağlık",
+      "population": 576851,
+      "area_sq_mi": 97813,
+      "statehood_year": 1890
+    }
+  ],
+  "meta": {
+    "seo_title": "ABD Eyalet Verileri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "50 ABD eyalet verisini indirin: ad, başkent, nüfus, bölge ve daha fazlası. Excel, CSV, PDF formatlarında ücretsiz olarak analiz, eğitim ve geliştirme için.",
+    "title": "ABD Eyaletleri Kapsamlı Veri Seti",
+    "description": "Bu veri seti, 50 Amerika Birleşik Devletleri Eyaletinin tümü için ayrıntılı bilgi sağlar; isimleri, kısaltmaları, başkentleri, bölgeleri, bölümleri, nüfusları, alanları ve eyalet oluşum yıllarını içerir. Coğrafi ve demografik analizler için değerli bir kaynak sunar.",
+    "key_takeaways": [
+      "50 ABD eyaletinin tümü için önemli demografik ve coğrafi verilere erişin.",
+      "Eyalet adlarını, başkentleri, bölgeleri, nüfusu ve yüzölçümünü keşfedin.",
+      "Çeşitli formatlarda hemen kullanıma hazır kapsamlı ABD eyalet verilerini indirin.",
+      "Eğitim, araştırma ve geliştirme projeleri için doğru bilgilerden yararlanın."
+    ],
+    "keywords": [
+      "abd eyalet verileri ücretsiz",
+      "birleşik devletler gerçekleri excel",
+      "abd eyalet başkentleri csv",
+      "50 eyalet nüfus verisi",
+      "abd bölgeleri pdf",
+      "abd eyalet bilgisi indir"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza coğrafi analiz veya eyalet düzeyinde verilerle uygulama geliştirmek için içe aktarın.",
+      "**Excel** dosyasını kullanarak Pivot Tablolar oluşturun, eyaletleri bölgeye veya nüfusa göre filtreleyin ve ABD demografik ve coğrafi eğilimleri hakkında raporlar oluşturun.",
+      "**PDF** sürümünü sınıf referansı, eğitim sunumları veya ABD eyalet gerçeklerine ve rakamlarına hızlı çevrimdışı erişim için yazdırın.",
+      "Araştırma veya akademik projeler için ABD eyalet oluşum geçmişini, nüfus değişikliklerini ve bölgesel demografiyi analiz edin."
+    ]
+  },
+  "record_count": 50,
+  "title": "ABD Eyaletleri Kapsamlı Veri Seti"
+}

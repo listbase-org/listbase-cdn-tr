@@ -1,0 +1,319 @@
+{
+  "id": "lang-greek-alphabet",
+  "name": "Tam Yunan Alfabesi Karakterleri Veri Seti",
+  "category": "language",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "uppercase",
+      "label": "Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "lowercase",
+      "label": "Lowercase",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "transliteration",
+      "label": "Transliteration",
+      "type": "string"
+    },
+    {
+      "key": "code_point_upper",
+      "label": "Code Point (Upper)",
+      "type": "string"
+    },
+    {
+      "key": "code_point_lower",
+      "label": "Code Point (Lower)",
+      "type": "string"
+    },
+    {
+      "key": "numeric_value",
+      "label": "Numeric Value",
+      "type": "number"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage in Science/Math (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "Alfa",
+      "transliteration": "a",
+      "code_point_upper": "U+0391",
+      "code_point_lower": "U+03B1",
+      "numeric_value": 1,
+      "usage": "Açılar, açısal ivme, ince yapı sabiti"
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "Beta",
+      "transliteration": "b",
+      "code_point_upper": "U+0392",
+      "code_point_lower": "U+03B2",
+      "numeric_value": 2,
+      "usage": "Beta katsayısı, beta parçacıkları, açılar"
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "Gama",
+      "transliteration": "g",
+      "code_point_upper": "U+0393",
+      "code_point_lower": "U+03B3",
+      "numeric_value": 3,
+      "usage": "Gama fonksiyonu, gama ışınları, yüzey gerilimi"
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "Delta",
+      "transliteration": "d",
+      "code_point_upper": "U+0394",
+      "code_point_lower": "U+03B4",
+      "numeric_value": 4,
+      "usage": "Değişim/fark, Dirac delta fonksiyonu, açılar"
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "Epsilon",
+      "transliteration": "e",
+      "code_point_upper": "U+0395",
+      "code_point_lower": "U+03B5",
+      "numeric_value": 5,
+      "usage": "Küçük pozitif miktar, dielektrik sabiti, gerinim"
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "Zeta",
+      "transliteration": "z",
+      "code_point_upper": "U+0396",
+      "code_point_lower": "U+03B6",
+      "numeric_value": 7,
+      "usage": "Riemann zeta fonksiyonu, sönüm oranı"
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "Eta",
+      "transliteration": "ē",
+      "code_point_upper": "U+0397",
+      "code_point_lower": "U+03B7",
+      "numeric_value": 8,
+      "usage": "Verimlilik, viskozite, Dirichlet eta fonksiyonu"
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "Teta",
+      "transliteration": "th",
+      "code_point_upper": "U+0398",
+      "code_point_lower": "U+03B8",
+      "numeric_value": 9,
+      "usage": "Açılar, sıcaklık, büyük O gösterimi varyantı"
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "İota",
+      "transliteration": "i",
+      "code_point_upper": "U+0399",
+      "code_point_lower": "U+03B9",
+      "numeric_value": 10,
+      "usage": "İndeks, içerme haritası, en küçük pozitif"
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "Kappa",
+      "transliteration": "k",
+      "code_point_upper": "U+039A",
+      "code_point_lower": "U+03BA",
+      "numeric_value": 20,
+      "usage": "Eğrilik, termal iletkenlik, bağlanabilirlik"
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "Lambda",
+      "transliteration": "l",
+      "code_point_upper": "U+039B",
+      "code_point_lower": "U+03BB",
+      "numeric_value": 30,
+      "usage": "Dalgaboyu, özdeğer, lambda kalkülüsü"
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "Mü",
+      "transliteration": "m",
+      "code_point_upper": "U+039C",
+      "code_point_lower": "U+03BC",
+      "numeric_value": 40,
+      "usage": "Mikro- ön eki, ortalama, sürtünme katsayısı"
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "Nü",
+      "transliteration": "n",
+      "code_point_upper": "U+039D",
+      "code_point_lower": "U+03BD",
+      "numeric_value": 50,
+      "usage": "Frekans, kinematik viskozite, Poisson oranı"
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "Xi",
+      "transliteration": "x",
+      "code_point_upper": "U+039E",
+      "code_point_lower": "U+03BE",
+      "numeric_value": 60,
+      "usage": "Rastgele değişken, tepkime derecesi"
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "Omikron",
+      "transliteration": "o",
+      "code_point_upper": "U+039F",
+      "code_point_lower": "U+03BF",
+      "numeric_value": 70,
+      "usage": "Büyük O gösterimi (0 ile karışıklık nedeniyle nadiren kullanılır)"
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "Pi",
+      "transliteration": "p",
+      "code_point_upper": "U+03A0",
+      "code_point_lower": "U+03C0",
+      "numeric_value": 80,
+      "usage": "Pi sabiti (3.14159...), çarpım gösterimi, kar"
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "Ro",
+      "transliteration": "r",
+      "code_point_upper": "U+03A1",
+      "code_point_lower": "U+03C1",
+      "numeric_value": 100,
+      "usage": "Yoğunluk, özdirenç, korelasyon katsayısı"
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ/ς",
+      "name": "Sigma",
+      "transliteration": "s",
+      "code_point_upper": "U+03A3",
+      "code_point_lower": "U+03C3",
+      "numeric_value": 200,
+      "usage": "Toplam, standart sapma, gerilme"
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "Tau",
+      "transliteration": "t",
+      "code_point_upper": "U+03A4",
+      "code_point_lower": "U+03C4",
+      "numeric_value": 300,
+      "usage": "Tork, kesme gerilmesi, zaman sabiti, tau (2π)"
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "Üpsilon",
+      "transliteration": "u/y",
+      "code_point_upper": "U+03A5",
+      "code_point_lower": "U+03C5",
+      "numeric_value": 400,
+      "usage": "Üpsilon mezonu, özgül hacim"
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "Fi",
+      "transliteration": "ph",
+      "code_point_upper": "U+03A6",
+      "code_point_lower": "U+03C6",
+      "numeric_value": 500,
+      "usage": "Altın oran, manyetik akı, açılar, dalga fonksiyonu"
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "Khi",
+      "transliteration": "ch",
+      "code_point_upper": "U+03A7",
+      "code_point_lower": "U+03C7",
+      "numeric_value": 600,
+      "usage": "Ki-kare dağılımı, elektronegatiflik"
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "Psi",
+      "transliteration": "ps",
+      "code_point_upper": "U+03A8",
+      "code_point_lower": "U+03C8",
+      "numeric_value": 700,
+      "usage": "Dalga fonksiyonu, digamma fonksiyonu, açılar"
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "Omega",
+      "transliteration": "ō",
+      "code_point_upper": "U+03A9",
+      "code_point_lower": "U+03C9",
+      "numeric_value": 800,
+      "usage": "Ohm (elektriksel direnç), açısal hız, katı açı"
+    }
+  ],
+  "meta": {
+    "seo_title": "Yunan Alfabesi - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Yunan alfabesini 24 karakteriyle, çeviriyazımı, sayısal değerleri ve bilimsel kullanımlarıyla indirin. Excel, CSV, PDF formatlarında ücretsiz.",
+    "title": "Tam Yunan Alfabesi Karakterleri Veri Seti",
+    "description": "Bu veri seti, Yunan alfabesinin 24 karakterinin tam bir listesini, büyük ve küçük harflerini, adlarını, çeviriyazımlarını, Unicode kod noktalarını, sayısal değerlerini ve bilim/matematikteki yaygın kullanımlarını içerir.",
+    "key_takeaways": [
+      "Tüm 24 Yunan alfabesi karakterine ayrıntılı özelliklerle erişin.",
+      "Unicode kod noktalarını ve yaygın bilimsel/matematiksel uygulamaları keşfedin.",
+      "Dilbilim veya STEM projeleri için kullanıma hazır verileri indirin.",
+      "Antik Yunanca ve modern bilimsel gösterim için eksiksiz bir referans edinin."
+    ],
+    "keywords": [
+      "yunan alfabesi excel",
+      "yunan harfleri unicode",
+      "alpha beta gamma veri seti",
+      "bilimsel semboller csv",
+      "yunan alfabesi kullanımı pdf",
+      "yunan karakterleri indir"
+    ],
+    "use_cases": [
+      "**CSV** dosyasını dilbilimsel analiz veya karakter eşlemesi için Python betiklerinize veya SQL veritabanlarınıza aktarın.",
+      "**Excel** dosyasını sayısal değere veya yaygın kullanıma göre karakterleri filtrelemek ve çalışma için hızlı referans tabloları oluşturmak için kullanın.",
+      "**PDF** sürümünü sınıflarda, laboratuvarlarda veya kişisel çalışmada net, çevrimdışı bir referans çizelgesi olarak yazdırın.",
+      "Yunan alfabesini ve uygulamalarını öğrenmek için eğitim uygulamaları, sınavlar veya araçlar oluşturmak için bu verilerden yararlanın."
+    ]
+  },
+  "record_count": 24,
+  "title": "Tam Yunan Alfabesi Karakterleri Veri Seti"
+}

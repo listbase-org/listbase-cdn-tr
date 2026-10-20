@@ -1,0 +1,436 @@
+{
+  "id": "tr-bilecik-liseler",
+  "name": "Bilecik Liseleri (High Schools in Bilecik)",
+  "title": "Bilecik Liseleri (High Schools in Bilecik)",
+  "description": "Bilecik ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (30 kayıt) (High schools in Bilecik province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Bozüyük Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukihl.meb.k12.tr",
+      "enlem": 39.8910510657054,
+      "boylam": 30.040019360919132
+    },
+    {
+      "okul_adi": "Bozüyük Fen Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukfenlisesi.meb.k12.tr",
+      "enlem": 39.90823704255446,
+      "boylam": 30.025428143878116
+    },
+    {
+      "okul_adi": "Bozüyük Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukeml.meb.k12.tr",
+      "enlem": 39.903739309390986,
+      "boylam": 30.054648128886356
+    },
+    {
+      "okul_adi": "Bozüyük Mimar Sinan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük Mimar Sinan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukmimarsinan.meb.k12.tr",
+      "enlem": 39.913882452495905,
+      "boylam": 30.03779312743677
+    },
+    {
+      "okul_adi": "Bozüyük Selahattin Şeker Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük Selahattin Şeker Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukssekermtal.meb.k12.tr",
+      "enlem": 39.888663783595284,
+      "boylam": 30.046006051440372
+    },
+    {
+      "okul_adi": "Bozüyük İmkb Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük İmkb Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukimkb.meb.k12.tr",
+      "enlem": 39.893808684651425,
+      "boylam": 30.061627236743107
+    },
+    {
+      "okul_adi": "Bozüyük Şeyh Edebali Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Bozüyük Şeyh Edebali Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://seyhedebali.meb.k12.tr",
+      "enlem": 39.8981301031079,
+      "boylam": 30.033710805316105
+    },
+    {
+      "okul_adi": "Kumral Abdal Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Kumral Abdal Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukkumralabdal.meb.k12.tr",
+      "enlem": 39.905825668810465,
+      "boylam": 30.060221759219303
+    },
+    {
+      "okul_adi": "Mustafa Şeker Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Mustafa Şeker Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukmesale.meb.k12.tr",
+      "enlem": 39.90585035907405,
+      "boylam": 30.0717659868194
+    },
+    {
+      "okul_adi": "Zehra Ulusay Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Zehra Ulusay Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyuksaglik.meb.k12.tr",
+      "enlem": 39.91028520333031,
+      "boylam": 30.062351433177128
+    },
+    {
+      "okul_adi": "Şehit Zafer İpek Anadolu Lisesi",
+      "tam_ad": "Bilecik - Bozüyük - Şehit Zafer İpek Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Bozüyük",
+      "website": "http://bozuyukszil.meb.k12.tr",
+      "enlem": 39.89382677329531,
+      "boylam": 30.061627236743107
+    },
+    {
+      "okul_adi": "Gölpazarı Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bilecik - Gölpazarı - Gölpazarı Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bilecik",
+      "ilce": "Gölpazarı",
+      "website": "http://golpazariihl.meb.k12.tr",
+      "enlem": 40.2816728258578,
+      "boylam": 30.3127088226272
+    },
+    {
+      "okul_adi": "Şehit Kemal Ay Anadolu Lisesi",
+      "tam_ad": "Bilecik - Gölpazarı - Şehit Kemal Ay Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Gölpazarı",
+      "website": "http://750753.meb.k12.tr",
+      "enlem": 40.27849092447053,
+      "boylam": 30.31597038878931
+    },
+    {
+      "okul_adi": "15 Temmuz Şehitler Anadolu Lisesi",
+      "tam_ad": "Bilecik - Merkez - 15 Temmuz Şehitler Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Merkez",
+      "website": "http://15temmuzsehitler.meb.k12.tr",
+      "enlem": 40.13769313237075,
+      "boylam": 29.965687302489414
+    },
+    {
+      "okul_adi": "Bilecik Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bilecik - Merkez - Bilecik Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bilecik",
+      "ilce": "Merkez",
+      "website": "http://bilecikihl.meb.k12.tr",
+      "enlem": 40.136536616812926,
+      "boylam": 29.977035728831424
+    },
+    {
+      "okul_adi": "Bilecik Şeyh Edebali Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bilecik - Merkez - Bilecik Şeyh Edebali Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bilecik",
+      "ilce": "Merkez",
+      "website": "http://seyhedaliihl.meb.k12.tr",
+      "enlem": 40.138304191153914,
+      "boylam": 29.963581768412723
+    },
+    {
+      "okul_adi": "Refik Arslan Öztürk Fen Lisesi",
+      "tam_ad": "Bilecik - Merkez - Refik Arslan Öztürk Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Bilecik",
+      "ilce": "Merkez",
+      "website": "http://bilecikfenlisesi.meb.k12.tr",
+      "enlem": 40.13788998412231,
+      "boylam": 29.96216019763483
+    },
+    {
+      "okul_adi": "Yavuz Selim Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Merkez - Yavuz Selim Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Merkez",
+      "website": "http://bileciktml.meb.k12.tr",
+      "enlem": 40.13697133773567,
+      "boylam": 29.983735886950626
+    },
+    {
+      "okul_adi": "Osmaneli 75.yıl Anadolu Lisesi",
+      "tam_ad": "Bilecik - Osmaneli - Osmaneli 75.yıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Osmaneli",
+      "website": "http://75oal.meb.k12.tr",
+      "enlem": 40.362996756675635,
+      "boylam": 30.005467144389286
+    },
+    {
+      "okul_adi": "Osmaneli Nilüfer Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Osmaneli - Osmaneli Nilüfer Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Osmaneli",
+      "website": "http://osmaneliniluferhatunmtal.meb.k12.tr",
+      "enlem": 40.34651003761156,
+      "boylam": 30.0303419507934
+    },
+    {
+      "okul_adi": "Osmaneli Çok Programlı Lisesi",
+      "tam_ad": "Bilecik - Osmaneli - Osmaneli Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bilecik",
+      "ilce": "Osmaneli",
+      "website": "http://osmanelicpl.meb.k12.tr",
+      "enlem": 40.348488820267654,
+      "boylam": 30.03283104075922
+    },
+    {
+      "okul_adi": "Hilmi Duralioğlu Anadolu Lisesi",
+      "tam_ad": "Bilecik - Pazaryeri - Hilmi Duralioğlu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Pazaryeri",
+      "website": "http://hdanadolulisesi.meb.k12.tr",
+      "enlem": 39.99208024077255,
+      "boylam": 29.91148254050745
+    },
+    {
+      "okul_adi": "Pazaryeri Farabi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Pazaryeri - Pazaryeri Farabi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Pazaryeri",
+      "website": "http://pazaryeriasml.meb.k12.tr",
+      "enlem": 40.00185854756712,
+      "boylam": 29.900571314234867
+    },
+    {
+      "okul_adi": "Pazaryeri Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Bilecik - Pazaryeri - Pazaryeri Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Pazaryeri",
+      "website": "http://pazaryerimtal.meb.k12.tr",
+      "enlem": 39.9968475110726,
+      "boylam": 29.907282201190128
+    },
+    {
+      "okul_adi": "Pazaryeri Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bilecik - Pazaryeri - Pazaryeri Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Pazaryeri",
+      "website": "http://pazaryericpl.meb.k12.tr",
+      "enlem": 40.00184045892323,
+      "boylam": 29.900571314234867
+    },
+    {
+      "okul_adi": "Söğüt Anadolu Lisesi",
+      "tam_ad": "Bilecik - Söğüt - Söğüt Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Söğüt",
+      "website": "http://sogutanadolulisesi.meb.k12.tr",
+      "enlem": 40.021151304960235,
+      "boylam": 30.184579697985782
+    },
+    {
+      "okul_adi": "Söğüt Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Bilecik - Söğüt - Söğüt Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Bilecik",
+      "ilce": "Söğüt",
+      "website": "http://sogutimamhatip.meb.k12.tr",
+      "enlem": 40.020077025892135,
+      "boylam": 30.1845287360145
+    },
+    {
+      "okul_adi": "Söğüt Lisesi",
+      "tam_ad": "Bilecik - Söğüt - Söğüt Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Bilecik",
+      "ilce": "Söğüt",
+      "website": "http://sogutlisesi.meb.k12.tr",
+      "enlem": 40.021681249016375,
+      "boylam": 30.18442949428095
+    },
+    {
+      "okul_adi": "Yenipazar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bilecik - Yenipazar - Yenipazar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "Yenipazar",
+      "website": "http://yenipazarcpl.meb.k12.tr",
+      "enlem": 40.17846207397705,
+      "boylam": 30.52243074550165
+    },
+    {
+      "okul_adi": "İnhisar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Bilecik - İnhisar - İnhisar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Bilecik",
+      "ilce": "İnhisar",
+      "website": "http://inhisarcokprogramlilisesi.meb.k12.tr",
+      "enlem": 40.054450698855355,
+      "boylam": 30.385022518773212
+    }
+  ],
+  "meta": {
+    "title": "Bilecik Liseleri (High Schools in Bilecik) - Ücretsiz İndir",
+    "description": "Bilecik ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (30 kayıt) (High schools in Bilecik province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 30 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Bilecik Liseleri (High Schools in Bilecik) | ListBase",
+    "seo_description": "İndir Bilecik Liseleri (High Schools in Bilecik) — 30 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 30 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

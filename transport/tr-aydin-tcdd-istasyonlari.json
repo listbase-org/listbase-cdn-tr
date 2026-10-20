@@ -1,0 +1,205 @@
+{
+  "id": "tr-aydin-tcdd-istasyonlari",
+  "name": "AYDIN TCDD Tren İstasyonları (Railway stations in AYDIN)",
+  "title": "AYDIN TCDD Tren İstasyonları (Railway stations in AYDIN)",
+  "description": "AYDIN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in AYDIN province.) (16 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ATÇA",
+      "il": "AYDIN",
+      "kaynak_metin": "ATÇA , AYDIN",
+      "gidis_id": 287,
+      "donus_id": 287,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 44
+    },
+    {
+      "istasyon": "AYDIN",
+      "il": "AYDIN",
+      "kaynak_metin": "AYDIN , AYDIN",
+      "gidis_id": 288,
+      "donus_id": 288,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 43
+    },
+    {
+      "istasyon": "BUHARKENT",
+      "il": "AYDIN",
+      "kaynak_metin": "BUHARKENT , AYDIN",
+      "gidis_id": 301,
+      "donus_id": 301,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "GERMENCİK",
+      "il": "AYDIN",
+      "kaynak_metin": "GERMENCİK , AYDIN",
+      "gidis_id": 321,
+      "donus_id": 321,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "HORSUNLU",
+      "il": "AYDIN",
+      "kaynak_metin": "HORSUNLU , AYDIN",
+      "gidis_id": 331,
+      "donus_id": 331,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "KARAALİ",
+      "il": "AYDIN",
+      "kaynak_metin": "KARAALİ , AYDIN",
+      "gidis_id": 341,
+      "donus_id": 341,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KUYUCAK",
+      "il": "AYDIN",
+      "kaynak_metin": "KUYUCAK , AYDIN",
+      "gidis_id": 370,
+      "donus_id": 370,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖŞK",
+      "il": "AYDIN",
+      "kaynak_metin": "KÖŞK , AYDIN",
+      "gidis_id": "",
+      "donus_id": 350,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "NAZİLLİ",
+      "il": "AYDIN",
+      "kaynak_metin": "NAZİLLİ , AYDIN",
+      "gidis_id": "",
+      "donus_id": 358,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ORTAKLAR",
+      "il": "AYDIN",
+      "kaynak_metin": "ORTAKLAR , AYDIN",
+      "gidis_id": 362,
+      "donus_id": 362,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SAZLIKÖY",
+      "il": "AYDIN",
+      "kaynak_metin": "SAZLIKÖY , AYDIN",
+      "gidis_id": "",
+      "donus_id": 374,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SULTANHİSAR",
+      "il": "AYDIN",
+      "kaynak_metin": "SULTANHİSAR , AYDIN",
+      "gidis_id": "",
+      "donus_id": 1055,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SÖKE",
+      "il": "AYDIN",
+      "kaynak_metin": "SÖKE , AYDIN",
+      "gidis_id": "",
+      "donus_id": 378,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UMURLU",
+      "il": "AYDIN",
+      "kaynak_metin": "UMURLU , AYDIN",
+      "gidis_id": "",
+      "donus_id": 395,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İNCİRLİOVA",
+      "il": "AYDIN",
+      "kaynak_metin": "İNCİRLİOVA , AYDIN",
+      "gidis_id": 353,
+      "donus_id": 353,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 42
+    },
+    {
+      "istasyon": "İSABEYLİ",
+      "il": "AYDIN",
+      "kaynak_metin": "İSABEYLİ , AYDIN",
+      "gidis_id": 354,
+      "donus_id": 354,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    }
+  ],
+  "meta": {
+    "title": "AYDIN TCDD Tren İstasyonları (Railway stations in AYDIN) - Ücretsiz İndir",
+    "description": "AYDIN ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in AYDIN province.) (16 kayıt.) İçerik 16 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "AYDIN TCDD Tren İstasyonları (Railway stations in AYDIN) | ListBase",
+    "seo_description": "İndir AYDIN TCDD Tren İstasyonları (Railway stations in AYDIN) — 16 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 16 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

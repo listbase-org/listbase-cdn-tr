@@ -1,0 +1,2718 @@
+{
+  "id": "tr-nigde-neighbourhoods",
+  "name": "Niğde Mahalleleri (Niğde Neighbourhoods)",
+  "title": "Niğde Mahalleleri (Niğde Neighbourhoods)",
+  "description": "Niğde ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (381 kayıt.) (All neighbourhoods (mahalle) in Niğde province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 381,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Altunhisar",
+      "postal_code": "51600",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (akçaören Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (karakapı Beldesi)",
+      "district_name": "Altunhisar",
+      "postal_code": "51603",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (keçikalesi Beldesi)",
+      "district_name": "Altunhisar",
+      "postal_code": "51604",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (ulukışla Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yakacık Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (çömlekçi Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah (keçikalesi Beldesi)",
+      "district_name": "Altunhisar",
+      "postal_code": "51604",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (ulukışla Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (çömlekçi Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (yeşilyurt Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (ulukışla Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (çömlekçi Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah (yeşilyurt Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Altunhisar",
+      "postal_code": "51600",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah",
+      "district_name": "Altunhisar",
+      "postal_code": "51600",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Selçuk Mah (keçikalesi Beldesi)",
+      "district_name": "Altunhisar",
+      "postal_code": "51604",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Uluören Köyü",
+      "district_name": "Altunhisar",
+      "postal_code": "51600",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah (karakapı Beldesi)",
+      "district_name": "Altunhisar",
+      "postal_code": "51603",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yakacık Mah (yakacık Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (karakapı Beldesi)",
+      "district_name": "Altunhisar",
+      "postal_code": "51603",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Asmaz Mah (yeşilyurt Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Altunhisar",
+      "postal_code": "51600",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (akçaören Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Altunhisar",
+      "postal_code": "51600",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (akçaören Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şafak Mah (akçaören Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şafak Mah (yakacık Köyü)",
+      "district_name": "Altunhisar",
+      "postal_code": "51602",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Acıgöl Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ahmet Kuddusi Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Akbaş Mah (balcı Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Altınova Mah (tepeköy Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Azizler Mah (kızılca Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Badak Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Balcı Mah (balcı Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bayat Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bağdüz Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Başpınar Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bektik Mah (çukurkuyu Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51720",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bereke Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kemerhisar Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51730",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kızılca Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (bahçeli Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51710",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (karanlıkdere Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kemerhisar Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51730",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cığızoğlu Osman Efendi Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Dink Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Emen Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Esendere Mah (karanlıkdere Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Gayret Mah (balcı Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Gökbez Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Halaç Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Han Mah (kemerhisar Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51730",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Harım Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Havuzlu Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karaca Uğurlu Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karamahmutlu Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (karanlıkdere Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kavuklu Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kayı Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kemer Mah (kemerhisar Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51730",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kürkçü Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kılavuz Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kınıkovası Mah (tepeköy Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kızılkapı Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Mehmetçik Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Obruk Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Okullar Mah (kızılca Köyü)",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Okçu Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Postallı Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Saltuk Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Saray Mah (bahçeli Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51710",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Seslikaya Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sokubaşı Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sıra Söğütler Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (kemerhisar Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51730",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Bor",
+      "postal_code": "51702",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Toplu Konut Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Türkmen Yurdu Mah (çukurkuyu Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51720",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yenigöçmen Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (bahçeli Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51710",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (kemerhisar Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51730",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şeker Mah",
+      "district_name": "Bor",
+      "postal_code": "51700",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şeker Mah (bahçeli Beldesi)",
+      "district_name": "Bor",
+      "postal_code": "51710",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ahipaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Alaaddin Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ağcaşar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kayabaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (değirmenli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51020",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (koyunlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (ovacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sazlıca Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51310",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yeşilgölcük Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51070",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşlama Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (içmeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (koyunlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (yıldıztepe Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51110",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçelievlerosb Mah (koyunlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Balhasan Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ballı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah (çavdarlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Mah (hacıabdullah Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51065",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Burhan Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cevizler Mah (kayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (aktaş Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51015",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (alay Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51010",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (bağlama Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51030",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (dündarlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51050",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (edikli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51040",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (elmalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (hacıbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kiledere Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51085",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (konaklı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51080",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (ovacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yeşilgölcük Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51070",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Devlet Mah (aktaş Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51015",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah (karaatlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51075",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Efendibey Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Esenbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Eski Gümüş Mah (gümüşler Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51060",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Eskisaray Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (dündarlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51050",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (karaatlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51075",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (orhanlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51280",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fertek Mah",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fesleğen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fevzipaşa Mah (edikli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51040",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Gösterli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah (içmeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hamamlı Mah",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hançerli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hasaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Himmetli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (alay Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51010",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (bağlama Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51030",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (edikli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51040",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (hacıbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (kiledere Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51085",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (konaklı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51080",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (yeşilgölcük Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51070",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hüyük Mah (konaklı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51080",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (dikilitaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (elmalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karamustafa Mah (kayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (elmalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (çavdarlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kayalıpınar Mah (çayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kumluca Mah",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kömürcü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küçükköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kızılören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah (elmalı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çavdarlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Milliyet Mah (alay Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51010",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Nar Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Narköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (değirmenli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51020",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (koyunlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Pınarcık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Pınarcık Mah (kayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Saruhan Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Selçuk Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Serinevler Mah (içmeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Songur Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sırali Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Taşlıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Terazi Mah (ovacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tırhan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Uluağaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yarhisar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yavuz Mah (orhanlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51280",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yaylayolu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Gümüş Mah (gümüşler Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51060",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (aktaş Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51015",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (edikli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51040",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hacıabdullah Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51065",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hacıbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (sazlıca Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51310",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yeşilgölcük Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51070",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yıldıztepe Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51110",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (çayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (dündarlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51050",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeşilburç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kayabaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (değirmenli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51020",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (dikilitaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (koyunlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (sazlıca Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51310",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yeşilgölcük Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51070",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (dündarlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51050",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (karaatlı Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "51075",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çarıklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah (dikilitaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (çayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Özyurt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İlhanlı Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah (kayırlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "51300",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şahinali Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şahsüleyman Mah",
+      "district_name": "Merkez",
+      "postal_code": "51100",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Merkez",
+      "postal_code": "51200",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Alpağut Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ardıçlı Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (darboğaz Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (yeniyıldız Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Azdın Mah (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (darboğaz Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ballık Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (darboğaz Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yeniyıldız Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (çiftehan Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Doğu Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Elmalı Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Emirler Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Evren Mah (çiftehan Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (kılan Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Gedelli Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Hacıbekirli Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Handere Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Horoz Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kalederesi Mah (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kolsuz Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kozluca Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (yeniyıldız Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Köşkönü Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (altay Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (bayağıl Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (başmakçı Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (eminlik Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (emirler Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (gedelli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (güney Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (hacıbekirli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (hasangazi Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (hüsniye Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (ovacık Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (porsuk Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (tekneçukur Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (çifteköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (ünlüyaka Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme1 Mah (şeyhömerli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (altay Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (bayağıl Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (başmakçı Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (eminlik Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (emirler Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (gedelli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (güney Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (hacıbekirli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (hasangazi Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (hüsniye Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (ovacık Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (porsuk Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (tabaklı Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (tekneçukur Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme2 Mah (şeyhömerli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (bayağıl Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (emirler Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (hasangazi Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (ilemin Kümesi Mah) (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (porsuk Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (tabaklı Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme3 Mah (şeyhömerli Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme4 Mah (emirler Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme4 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme4 Mah (hasangazi Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme5 Mah (aşağıöz Mah) (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme5 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme6 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme6 Mah (yukarıöz Mah) (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme7 Mah (gümüşköy Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme7 Mah (seydiahmet Mah) (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küme8 Mah (akyar Mah) (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kümea Mah (alihoca Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kümeb Mah (alihoca Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Madenköy Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Mehmetpaşa Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Mısırlı Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tabaklı Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tekneçukur Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Toraman Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Tosunali Mah (koçak Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (darboğaz Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (kılan Köyü)",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çanakçı Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çövek Mah",
+      "district_name": "Ulukışla",
+      "postal_code": "51900",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ünlüyaka Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İlhanköy Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "İmrahor Köyü",
+      "district_name": "Ulukışla",
+      "postal_code": "51902",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bademli Mah (bademdere Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah (bademdere Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bekçili Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bereketli Mah",
+      "district_name": "Çamardı",
+      "postal_code": "51660",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Beyazkışlakçı Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Mah (bademdere Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Camız Keleri Mah (üçkapılı Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Celaller Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (burç Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Demirkazık Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Elekgölü Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Eynelli Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (üçkapılı Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kavaklıgöl Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kavlaktepe Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Kocapınar Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Maden Mah",
+      "district_name": "Çamardı",
+      "postal_code": "51660",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Mahmatlı Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sulucaova Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yelatan Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (burç Köyü)",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Çarşı Mah",
+      "district_name": "Çamardı",
+      "postal_code": "51660",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Çamardı",
+      "postal_code": "51660",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çardacık Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ören Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Üçkapılı Köyü",
+      "district_name": "Çamardı",
+      "postal_code": "51662",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "1.ci Küme Mah (çardak Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "2.ci Küme Mah (çardak Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "3.ci Küme Mah (çardak Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Alpaslan Mah (divarlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51815",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Alışlı Mah (çınarlı Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Asmasız Mah",
+      "district_name": "Çiftlik",
+      "postal_code": "51800",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mevki Mah (şeyhler Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah (kula Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Bekiroğlu Mah (kula Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (divarlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51815",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (kitreli Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Köyaltı Mah (kula Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Küllüce Mah (azatlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51810",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Mahmutlu Köyü",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Mezaraltı Mah (kula Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Murtazaköy Köyü",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ovalıbağ Köyü",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sağırgöl Mah (azatlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51810",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Sultanpınarı Köyü",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Ulucami Mah (kitreli Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çiftlik",
+      "postal_code": "51800",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (azatlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51810",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (divarlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51815",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kitreli Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeni Mevki Mah (şeyhler Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (bozköy Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51816",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah (bozköy Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51816",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah (azatlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51810",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (bozköy Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51816",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mevki Mah (kula Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mevki Mah (şeyhler Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çakıl İçi Mevki Mah (şeyhler Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çardak Köyü",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Çiftlik",
+      "postal_code": "51800",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah (kitreli Köyü)",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (azatlı Beldesi)",
+      "district_name": "Çiftlik",
+      "postal_code": "51810",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çiftçi Mah",
+      "district_name": "Çiftlik",
+      "postal_code": "51800",
+      "city_code": "51",
+      "city_name": "Niğde"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Köyü",
+      "district_name": "Çiftlik",
+      "postal_code": "51802",
+      "city_code": "51",
+      "city_name": "Niğde"
+    }
+  ],
+  "meta": {
+    "title": "Niğde Mahalleleri (Niğde Neighbourhoods) - Ücretsiz İndir",
+    "description": "Niğde ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (381 kayıt.) (All neighbourhoods (mahalle) in Niğde province with their parent district and postal code.) İçerik 381 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Niğde Mahalleleri (Niğde Neighbourhoods) | ListBase",
+    "seo_description": "İndir Niğde Mahalleleri (Niğde Neighbourhoods) — 381 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 381 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

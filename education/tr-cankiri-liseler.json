@@ -1,0 +1,424 @@
+{
+  "id": "tr-cankiri-liseler",
+  "name": "Çankırı Liseleri (High Schools in Çankırı)",
+  "title": "Çankırı Liseleri (High Schools in Çankırı)",
+  "description": "Çankırı ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (29 kayıt) (High schools in Çankırı province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Şehit Hakkı Çelik Anadolu Teknik Lisesi, Anadolu Meslek Lisesi Ve Çok Programlı Lisesi",
+      "tam_ad": "Çankırı - Atkaracalar - Şehit Hakkı Çelik Anadolu Teknik Lisesi, Anadolu Meslek Lisesi Ve Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Çankırı",
+      "ilce": "Atkaracalar",
+      "website": "http://atkaracalarcpl.meb.k12.tr",
+      "enlem": 40.81171287469997,
+      "boylam": 33.07178458346857
+    },
+    {
+      "okul_adi": "Eldivan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Eldivan - Eldivan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Eldivan",
+      "website": "http://eldivancpal.meb.k12.tr",
+      "enlem": 40.530802121620255,
+      "boylam": 33.49085291995539
+    },
+    {
+      "okul_adi": "Şehit Mustafa Yahya Mertcan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Eldivan - Şehit Mustafa Yahya Mertcan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Eldivan",
+      "website": "http://eldivansehitmustafayahyamertcan.meb.k12.tr",
+      "enlem": 40.53070018999424,
+      "boylam": 33.4903325714065
+    },
+    {
+      "okul_adi": "Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Ilgaz - Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Ilgaz",
+      "website": "http://ilgazamtal.meb.k12.tr",
+      "enlem": 40.92610138146207,
+      "boylam": 33.631239739794864
+    },
+    {
+      "okul_adi": "Ilgaz Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çankırı - Ilgaz - Ilgaz Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çankırı",
+      "ilce": "Ilgaz",
+      "website": "http://ilgazihl.meb.k12.tr",
+      "enlem": 40.92837108604817,
+      "boylam": 33.634866086383
+    },
+    {
+      "okul_adi": "Ilgaz Emel-oktay Türkoğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Ilgaz - Ilgaz Emel - Oktay Türkoğlu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Ilgaz",
+      "website": "http://ilgazeotmtal.meb.k12.tr",
+      "enlem": 40.92889797060617,
+      "boylam": 33.645466176409855
+    },
+    {
+      "okul_adi": "Ilgaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Ilgaz - Ilgaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Ilgaz",
+      "website": "http://ilgazasml.meb.k12.tr",
+      "enlem": 40.92914114667755,
+      "boylam": 33.63245478047861
+    },
+    {
+      "okul_adi": "Ilgaz Şehit Nizamettin Yaman Anadolu Lisesi",
+      "tam_ad": "Çankırı - Ilgaz - Ilgaz Şehit Nizamettin Yaman Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Ilgaz",
+      "website": "http://ilgazsnyanadolulisesi.meb.k12.tr",
+      "enlem": 40.920629451696996,
+      "boylam": 33.62310728206171
+    },
+    {
+      "okul_adi": "Korgun Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Korgun - Korgun Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Korgun",
+      "website": "http://korguncpl.meb.k12.tr",
+      "enlem": 40.737062144005435,
+      "boylam": 33.511892167468204
+    },
+    {
+      "okul_adi": "Kurşunlu Anadolu Lisesi",
+      "tam_ad": "Çankırı - Kurşunlu - Kurşunlu Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Kurşunlu",
+      "website": "http://kursunlual.meb.k12.tr",
+      "enlem": 40.84201069886393,
+      "boylam": 33.26030096187128
+    },
+    {
+      "okul_adi": "Kurşunlu İmam Hatip Lisesi",
+      "tam_ad": "Çankırı - Kurşunlu - Kurşunlu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çankırı",
+      "ilce": "Kurşunlu",
+      "website": "http://kursunluihl.meb.k12.tr",
+      "enlem": 40.84071204079181,
+      "boylam": 33.259957639117374
+    },
+    {
+      "okul_adi": "Kızılırmak Şehit Medet Ekizceli Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Kızılırmak - Kızılırmak Şehit Medet Ekizceli Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Kızılırmak",
+      "website": "http://kizilirmakcpal.meb.k12.tr",
+      "enlem": 40.34278126460244,
+      "boylam": 33.98891767634882
+    },
+    {
+      "okul_adi": "Fatih Sultan Mehmet Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Çankırı - Merkez - Fatih Sultan Mehmet Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://fsmaihl.meb.k12.tr",
+      "enlem": 40.57999252678992,
+      "boylam": 33.61930390967859
+    },
+    {
+      "okul_adi": "Gazi Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Gazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankirigazianadolu.meb.k12.tr",
+      "enlem": 40.596853794374745,
+      "boylam": 33.62676581515802
+    },
+    {
+      "okul_adi": "Nevzat Ayaz Sosyal Bilimler Lisesi",
+      "tam_ad": "Çankırı - Merkez - Nevzat Ayaz Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://nevzatayazsbl.meb.k12.tr",
+      "enlem": 40.5850322058289,
+      "boylam": 33.62056454791559
+    },
+    {
+      "okul_adi": "Selahattin İnal Güzel Sanatlar Lisesi",
+      "tam_ad": "Çankırı - Merkez - Selahattin İnal Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankiriguzelsanatlar.meb.k12.tr",
+      "enlem": 40.58732173246239,
+      "boylam": 33.6228712476684
+    },
+    {
+      "okul_adi": "Çankırı 15 Temmuz Şehitler Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı 15 Temmuz Şehitler Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankirianadolulisesi.meb.k12.tr",
+      "enlem": 40.58685731524725,
+      "boylam": 33.62156232966913
+    },
+    {
+      "okul_adi": "Çankırı Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı Gazi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankirigazimtal.meb.k12.tr",
+      "enlem": 40.583581860152854,
+      "boylam": 33.62027486934198
+    },
+    {
+      "okul_adi": "Çankırı Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankirilisesi.meb.k12.tr",
+      "enlem": 40.599900508755375,
+      "boylam": 33.61215314044489
+    },
+    {
+      "okul_adi": "Çankırı Şehit Erdem Öztürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı Şehit Erdem Öztürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankirikml.meb.k12.tr",
+      "enlem": 40.60161524281318,
+      "boylam": 33.61372089161409
+    },
+    {
+      "okul_adi": "Çankırı Şehit Hasan Gülhan Cumhuriyet Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı Şehit Hasan Gülhan Cumhuriyet Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://cankiricumhuriyetanadolulisesi.meb.k12.tr",
+      "enlem": 40.57488192694224,
+      "boylam": 33.617750240106716
+    },
+    {
+      "okul_adi": "Çankırı Şehit Korhan Kuruçay Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı Şehit Korhan Kuruçay Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://catmel.meb.k12.tr",
+      "enlem": 40.59862155732886,
+      "boylam": 33.60843023433222
+    },
+    {
+      "okul_adi": "Çankırı Şehit Mehmet Ata Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Çankırı - Merkez - Çankırı Şehit Mehmet Ata Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Merkez",
+      "website": "http://tarim18.meb.k12.tr",
+      "enlem": 40.64754640219578,
+      "boylam": 33.607271520037784
+    },
+    {
+      "okul_adi": "Yıldırım Beyazıt Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Orta - Yıldırım Beyazıt Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Orta",
+      "website": "http://yildirimbeyazitcpal.meb.k12.tr",
+      "enlem": 40.62858698492061,
+      "boylam": 33.10028573646082
+    },
+    {
+      "okul_adi": "Yapraklı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Yapraklı - Yapraklı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Yapraklı",
+      "website": "http://yapraklicpl.meb.k12.tr",
+      "enlem": 40.76426558665227,
+      "boylam": 33.784790841479435
+    },
+    {
+      "okul_adi": "19 Mayıs Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Çerkeş - 19 Mayıs Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Çerkeş",
+      "website": "http://19mayiscpal.meb.k12.tr",
+      "enlem": 40.81061663290013,
+      "boylam": 32.89550980700983
+    },
+    {
+      "okul_adi": "Çerkeş Anadolu Lisesi",
+      "tam_ad": "Çankırı - Çerkeş - Çerkeş Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Çerkeş",
+      "website": "http://cerkesanadolulisesi.meb.k12.tr",
+      "enlem": 40.8127786479746,
+      "boylam": 32.887546328444614
+    },
+    {
+      "okul_adi": "Şabanözü Anadolu Lisesi",
+      "tam_ad": "Çankırı - Şabanözü - Şabanözü Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Şabanözü",
+      "website": "http://sabanozuanadolulisesi.meb.k12.tr",
+      "enlem": 40.48475402523635,
+      "boylam": 33.28321775569452
+    },
+    {
+      "okul_adi": "Şabanözü Şehit Dilaver Karsavuranoğlu Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Çankırı - Şabanözü - Şabanözü Şehit Dilaver Karsavuranoğlu Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Çankırı",
+      "ilce": "Şabanözü",
+      "website": "http://dilaverkarsavuranoglucpal.meb.k12.tr",
+      "enlem": 40.488515737324306,
+      "boylam": 33.279897180934086
+    }
+  ],
+  "meta": {
+    "title": "Çankırı Liseleri (High Schools in Çankırı) - Ücretsiz İndir",
+    "description": "Çankırı ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (29 kayıt) (High schools in Çankırı province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 29 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Çankırı Liseleri (High Schools in Çankırı) | ListBase",
+    "seo_description": "İndir Çankırı Liseleri (High Schools in Çankırı) — 29 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 29 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

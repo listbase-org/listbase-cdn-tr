@@ -1,0 +1,151 @@
+{
+  "id": "tr-marmara-cities",
+  "name": "Marmara Bölgesi İlleri (Marmara Region — Provinces)",
+  "title": "Marmara Bölgesi İlleri (Marmara Region — Provinces)",
+  "description": "Marmara Bölgesi'nde yer alan 10 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 10 provinces of Marmara Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34",
+      "name": "İstanbul",
+      "slug": "istanbul",
+      "area_code": "212-216",
+      "area_km2": 5461,
+      "population": 15907951,
+      "density_per_km2": 2913
+    },
+    {
+      "code": "16",
+      "name": "Bursa",
+      "slug": "bursa",
+      "area_code": "224",
+      "area_km2": 10813,
+      "population": 3194720,
+      "density_per_km2": 295.5
+    },
+    {
+      "code": "41",
+      "name": "Kocaeli",
+      "slug": "kocaeli",
+      "area_code": "262",
+      "area_km2": 3397,
+      "population": 2079072,
+      "density_per_km2": 612
+    },
+    {
+      "code": "10",
+      "name": "Balıkesir",
+      "slug": "balikesir",
+      "area_code": "266",
+      "area_km2": 14583,
+      "population": 1257590,
+      "density_per_km2": 86.2
+    },
+    {
+      "code": "59",
+      "name": "Tekirdağ",
+      "slug": "tekirdag",
+      "area_code": "282",
+      "area_km2": 6190,
+      "population": 1142451,
+      "density_per_km2": 184.6
+    },
+    {
+      "code": "54",
+      "name": "Sakarya",
+      "slug": "sakarya",
+      "area_code": "264",
+      "area_km2": 4824,
+      "population": 1080080,
+      "density_per_km2": 223.9
+    },
+    {
+      "code": "22",
+      "name": "Edirne",
+      "slug": "edirne",
+      "area_code": "284",
+      "area_km2": 6145,
+      "population": 414714,
+      "density_per_km2": 67.5
+    },
+    {
+      "code": "39",
+      "name": "Kırklareli",
+      "slug": "kirklareli",
+      "area_code": "288",
+      "area_km2": 6459,
+      "population": 369347,
+      "density_per_km2": 57.2
+    },
+    {
+      "code": "77",
+      "name": "Yalova",
+      "slug": "yalova",
+      "area_code": "226",
+      "area_km2": 798,
+      "population": 296333,
+      "density_per_km2": 371.3
+    },
+    {
+      "code": "11",
+      "name": "Bilecik",
+      "slug": "bilecik",
+      "area_code": "228",
+      "area_km2": 4179,
+      "population": 228673,
+      "density_per_km2": 54.7
+    }
+  ],
+  "meta": {
+    "title": "Marmara Bölgesi İlleri (Marmara Region — Provinces) - Ücretsiz İndir",
+    "description": "Marmara Bölgesi'nde yer alan 10 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 10 provinces of Marmara Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².) İçerik 10 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Marmara Bölgesi İlleri (Marmara Region — Provinces) | ListBase",
+    "seo_description": "İndir Marmara Bölgesi İlleri (Marmara Region — Provinces) — 10 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 10 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

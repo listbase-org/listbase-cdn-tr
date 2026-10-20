@@ -1,0 +1,376 @@
+{
+  "id": "tr-izmir-tcdd-istasyonlari",
+  "name": "İZMİR TCDD Tren İstasyonları (Railway stations in İZMİR)",
+  "title": "İZMİR TCDD Tren İstasyonları (Railway stations in İZMİR)",
+  "description": "İZMİR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in İZMİR province.) (35 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ADNANMENDERES HAVAALANI",
+      "il": "İZMİR",
+      "kaynak_metin": "ADNANMENDERES HAVAALANI , İZMİR",
+      "gidis_id": 300,
+      "donus_id": 300,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 59
+    },
+    {
+      "istasyon": "ARIKBAŞI",
+      "il": "İZMİR",
+      "kaynak_metin": "ARIKBAŞI , İZMİR",
+      "gidis_id": 286,
+      "donus_id": 286,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 27
+    },
+    {
+      "istasyon": "AYVACIK",
+      "il": "İZMİR",
+      "kaynak_metin": "AYVACIK , İZMİR",
+      "gidis_id": 289,
+      "donus_id": 289,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "BAYINDIR",
+      "il": "İZMİR",
+      "kaynak_metin": "BAYINDIR , İZMİR",
+      "gidis_id": 1150,
+      "donus_id": 1150,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "BAYINDIR MYO",
+      "il": "İZMİR",
+      "kaynak_metin": "BAYINDIR MYO , İZMİR",
+      "gidis_id": 276,
+      "donus_id": 276,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 26
+    },
+    {
+      "istasyon": "BEYTİKÖY",
+      "il": "İZMİR",
+      "kaynak_metin": "BEYTİKÖY , İZMİR",
+      "gidis_id": 299,
+      "donus_id": 299,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "DEREBAŞI",
+      "il": "İZMİR",
+      "kaynak_metin": "DEREBAŞI , İZMİR",
+      "gidis_id": 310,
+      "donus_id": 310,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 26
+    },
+    {
+      "istasyon": "DOYRANLI",
+      "il": "İZMİR",
+      "kaynak_metin": "DOYRANLI , İZMİR",
+      "gidis_id": 333,
+      "donus_id": 333,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "ELİFLİ",
+      "il": "İZMİR",
+      "kaynak_metin": "ELİFLİ , İZMİR",
+      "gidis_id": 334,
+      "donus_id": 334,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 28
+    },
+    {
+      "istasyon": "EMİRALEM",
+      "il": "İZMİR",
+      "kaynak_metin": "EMİRALEM , İZMİR",
+      "gidis_id": 335,
+      "donus_id": 335,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 68
+    },
+    {
+      "istasyon": "FEN LİSESİ DURAĞI",
+      "il": "İZMİR",
+      "kaynak_metin": "FEN LİSESİ DURAĞI , İZMİR",
+      "gidis_id": 881,
+      "donus_id": 881,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "FURUNLU",
+      "il": "İZMİR",
+      "kaynak_metin": "FURUNLU , İZMİR",
+      "gidis_id": 317,
+      "donus_id": 317,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 29
+    },
+    {
+      "istasyon": "GAZİEMİR",
+      "il": "İZMİR",
+      "kaynak_metin": "GAZİEMİR , İZMİR",
+      "gidis_id": 318,
+      "donus_id": 318,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 63
+    },
+    {
+      "istasyon": "GÜRGÜR",
+      "il": "İZMİR",
+      "kaynak_metin": "GÜRGÜR , İZMİR",
+      "gidis_id": 325,
+      "donus_id": 325,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 25
+    },
+    {
+      "istasyon": "KARPUZLU",
+      "il": "İZMİR",
+      "kaynak_metin": "KARPUZLU , İZMİR",
+      "gidis_id": 342,
+      "donus_id": 342,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MENDERES",
+      "il": "İZMİR",
+      "kaynak_metin": "MENDERES , İZMİR",
+      "gidis_id": 303,
+      "donus_id": 303,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "MENEMEN",
+      "il": "İZMİR",
+      "kaynak_metin": "MENEMEN , İZMİR",
+      "gidis_id": "",
+      "donus_id": 373,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PAMUKÖREN",
+      "il": "İZMİR",
+      "kaynak_metin": "PAMUKÖREN , İZMİR",
+      "gidis_id": "",
+      "donus_id": 320,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PANCAR",
+      "il": "İZMİR",
+      "kaynak_metin": "PANCAR , İZMİR",
+      "gidis_id": 365,
+      "donus_id": 365,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PINARLI DURAĞI",
+      "il": "İZMİR",
+      "kaynak_metin": "PINARLI DURAĞI , İZMİR",
+      "gidis_id": "",
+      "donus_id": 263,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SART",
+      "il": "İZMİR",
+      "kaynak_metin": "SART , İZMİR",
+      "gidis_id": 389,
+      "donus_id": 389,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SELÇUK",
+      "il": "İZMİR",
+      "kaynak_metin": "SELÇUK , İZMİR",
+      "gidis_id": 375,
+      "donus_id": 375,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TAŞKESİK",
+      "il": "İZMİR",
+      "kaynak_metin": "TAŞKESİK , İZMİR",
+      "gidis_id": 383,
+      "donus_id": 383,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TEPEKÖY",
+      "il": "İZMİR",
+      "kaynak_metin": "TEPEKÖY , İZMİR",
+      "gidis_id": 386,
+      "donus_id": 386,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOKI DURAĞI",
+      "il": "İZMİR",
+      "kaynak_metin": "TOKI DURAĞI , İZMİR",
+      "gidis_id": 392,
+      "donus_id": 392,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TORBALI",
+      "il": "İZMİR",
+      "kaynak_metin": "TORBALI , İZMİR",
+      "gidis_id": 410,
+      "donus_id": 410,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TİRE",
+      "il": "İZMİR",
+      "kaynak_metin": "TİRE , İZMİR",
+      "gidis_id": 409,
+      "donus_id": 409,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAKAKÖY",
+      "il": "İZMİR",
+      "kaynak_metin": "YAKAKÖY , İZMİR",
+      "gidis_id": 399,
+      "donus_id": 399,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇAMLIK",
+      "il": "İZMİR",
+      "kaynak_metin": "ÇAMLIK , İZMİR",
+      "gidis_id": 1116,
+      "donus_id": 1116,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 49
+    },
+    {
+      "istasyon": "ÇATAL",
+      "il": "İZMİR",
+      "kaynak_metin": "ÇATAL , İZMİR",
+      "gidis_id": 1155,
+      "donus_id": 1155,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇİĞLİ",
+      "il": "İZMİR",
+      "kaynak_metin": "ÇİĞLİ , İZMİR",
+      "gidis_id": 305,
+      "donus_id": 305,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 91
+    },
+    {
+      "istasyon": "ÖDEMİŞ GAR",
+      "il": "İZMİR",
+      "kaynak_metin": "ÖDEMİŞ GAR , İZMİR",
+      "gidis_id": 1054,
+      "donus_id": 1054,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÖDEMİŞ ŞEHİR",
+      "il": "İZMİR",
+      "kaynak_metin": "ÖDEMİŞ ŞEHİR , İZMİR",
+      "gidis_id": "",
+      "donus_id": 1148,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İLKKURŞUN",
+      "il": "İZMİR",
+      "kaynak_metin": "İLKKURŞUN , İZMİR",
+      "gidis_id": 351,
+      "donus_id": 351,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 22
+    },
+    {
+      "istasyon": "İZMİR (BASMANE)",
+      "il": "İZMİR",
+      "kaynak_metin": "İZMİR (BASMANE) , İZMİR",
+      "gidis_id": 312,
+      "donus_id": 312,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 145
+    }
+  ],
+  "meta": {
+    "title": "İZMİR TCDD Tren İstasyonları (Railway stations in İZMİR) - Ücretsiz İndir",
+    "description": "İZMİR ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in İZMİR province.) (35 kayıt.) İçerik 35 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "İZMİR TCDD Tren İstasyonları (Railway stations in İZMİR) | ListBase",
+    "seo_description": "İndir İZMİR TCDD Tren İstasyonları (Railway stations in İZMİR) — 35 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 35 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

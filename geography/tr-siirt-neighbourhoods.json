@@ -1,0 +1,3663 @@
+{
+  "id": "tr-siirt-neighbourhoods",
+  "name": "Siirt Mahalleleri (Siirt Neighbourhoods)",
+  "title": "Siirt Mahalleleri (Siirt Neighbourhoods)",
+  "description": "Siirt ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (516 kayıt.) (All neighbourhoods (mahalle) in Siirt province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 516,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Adakale Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akbudak Mah (obalı Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akdiken Mah (obalı Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ardıçdalı Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Atabağı Mah (atabağı Beldesi)",
+      "district_name": "Baykan",
+      "postal_code": "56465",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (veyselkarani Beldesi)",
+      "district_name": "Baykan",
+      "postal_code": "56466",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ayranlı Mah (narlıyurt Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aşağı Tütenocak Mah (tütenocak Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bardaklı Mah (çaykaya Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Binegöl Mah (yeşilçevre Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Cefan Mah",
+      "district_name": "Baykan",
+      "postal_code": "56460",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dedebakırı Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demirışık Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Derince Mah (derince Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dilektepe Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dokuzçavuş Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dumanlı Mah (ünlüce Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Engin Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Eğri Mah (yeşilçevre Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Eğridere Mah (karakaya Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Geçit Mah (çaykaya Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Goraşa Mah (çaykaya Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gümüşkaş Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Günbuldu Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Havel Mah",
+      "district_name": "Baykan",
+      "postal_code": "56460",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karakaya Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah (çaykaya Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Baykan",
+      "postal_code": "56460",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kasımlı Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kumluca Mah (çevrimtepe Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Köklü Mah (obalı Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Mah (obalı Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Meşelik Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Narlıyurt Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Obalı Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ocaklı Mah (obalı Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ormanpınar Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Oymaklı Mah (çevrimtepe Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıdana Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarısalkım Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıyurt Mah (yarımca Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sıralı Mah (narlıyurt Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Topraklı Mah (adakale Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Toptepe Mah (adakale Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tütenocak Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ulaştı Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ulukapı Mah (çevrimtepe Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Uzunkavak Mah (narlıyurt Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah (narlıyurt Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yarımca Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Baykan",
+      "postal_code": "56460",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çamtaşı Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çay Mah (veyselkarani Beldesi)",
+      "district_name": "Baykan",
+      "postal_code": "56466",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çaykaya Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çelikli Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çevrimtepe Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çukurca Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çukurtaş Mah (yeşilçevre Köyü)",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ünlüce Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56462",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İkizler Köyü",
+      "district_name": "Baykan",
+      "postal_code": "56470",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Baykan",
+      "postal_code": "56460",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Şeyhosman Mah (veyselkarani Beldesi)",
+      "district_name": "Baykan",
+      "postal_code": "56466",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akdiken Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akmeşe Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aydoğmuş Mah (gönülaldı Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ballıkavak Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bayramlı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bayıryüzü Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bağgöze Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bilgili Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bingöl Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bozatlı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bozkuş Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Budamış Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bölüklü Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Cintepe Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dadaklı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dalkorur Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dağdöşü Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah (bilgili Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demiremek Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dih Mah",
+      "district_name": "Eruh",
+      "postal_code": "56800",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dikboğaz Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Direkli Mah (kekliktepe Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Duaf Mah (kekliktepe Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Duygulu Mah (kekliktepe Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dönerdöver Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ekinyolu Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Erenkaya Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Eruh",
+      "postal_code": "56800",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gedikaşar Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gelenkardeş Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gölgelikonak Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gönülaldı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Görendoruk Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gülburnu Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah (yelkesen Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karabıyık Mah (yelkesen Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karadayılar Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kavakgölü Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kaşıkyayla Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kekliktepe Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kohan Mah (çırpılı Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kuşdalı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kılıçkaya Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Milan Mah (kılıçkaya Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Narlıdere Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Okçular Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Oymakılıç Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Payamlı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Salkımbağlar Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıgül Mah",
+      "district_name": "Eruh",
+      "postal_code": "56800",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Savaş Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sevindik Mah (ekinyolu Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tatlıpınar Mah (kuşdalı Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tünekpınar Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ufaca Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ulaşlar Mah (ortaklı Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yanıkses Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yanılmaz Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yediyaprak Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yelkesen Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yerliçoban Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeşilören Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yokuşlu Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çayırlı Mah (bilgili Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çeltiksuyu Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çetinkol Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çimencik Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çizmeli Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çırpılı Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Özlüpelit Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56540",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Üzümlük Köyü",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Şetrük Mah (payamlı Köyü)",
+      "district_name": "Eruh",
+      "postal_code": "56802",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akbulut Mah (tulumtaş Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akdem Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akdoğan Mah (akdem Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aksöğüt Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aktepe Mah (aksöğüt Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akçagedik Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akçalı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Atalay Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Avcılar Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aydemir Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aydıncık Mah (tütün Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Azıklı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ağaçlıpınar Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aşağı Bişer Mah (üçpınar Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aşağı Dibekli Mah (bağlıca Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah (saipbeyli Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ballıkaya Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Balıklı Mah (çeltikbaşı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah (kayabağlar Beldesi)",
+      "district_name": "Kurtalan",
+      "postal_code": "56505",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bağlıca Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Beykent Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Beşler Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Birke Mah (gürgöze Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bozdoğan Mah (yuvalı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bozhüyük Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bölüktepe Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demirbaşı Mah (güzeldere Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demirkuyu Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Derince Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dicle Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Doğanlı Mah (tosunbağı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ekinli Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Erdurağı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ergüven Mah (çeltikbaşı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Evciler Mah (tulumtaş Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Fırat Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Garzan Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gökdoğan Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Göztepe Mah (saipbeyli Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (erdurağı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (kılıçlı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gümüşsuyu Mah (uluköy Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gürgöze Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Güzeldere Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Huzur Mah (gözpınar Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kanikarvana Mah (kılıçlı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kapıkaya Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karabağ Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kargılı Mah (üçpınar Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kayalı Mah (kayabağlar Beldesi)",
+      "district_name": "Kurtalan",
+      "postal_code": "56505",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kayalısu Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kaynaklı Mah (erdurağı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Konakpınar Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kuyucuk Mah (gürgöze Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kuyulu Mah (şenköy Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kısmet Mah (gözpınar Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Mağaralı Mah (yürekveren Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah (bölüktepe Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Saipbeyli Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah (gözpınar Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Mah (yuvalı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sümer Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sıcaksu Mah (erdurağı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tatlı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tekel Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah (tütün Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Teylan Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tosunbağı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Toytepe Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tulumtaş Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tuzla Mah (toytepe Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tütün Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Uluağaç Mah (kılıçlı Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Uluköy Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Y.dibekli Mah (bağlıca Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yakıttepe Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yanarsu Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yapılar Mah (tütün Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yayıkdere Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yayıklı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yazılı Mah (iğdeli Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yellice Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Kurtalan",
+      "postal_code": "56500",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeniköprü Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (şenköy Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeşilkonak Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yolboyu Mah (incirlik Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yoldurağı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yunuslar Mah (gökdoğan Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah (ballıkaya Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah (gökdoğan Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yürekveren Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çakıllı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çalıdüzü Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çattepe Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çay Mah (tütün Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çayırlı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çeltikbaşı Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çeşme Mah (kayabağlar Beldesi)",
+      "district_name": "Kurtalan",
+      "postal_code": "56505",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çeşmeli Mah (bölüktepe Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çukurlu Mah (tulumtaş Köyü)",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Üçpınar Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İncirlik Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İğdeli Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Şenköy Köyü",
+      "district_name": "Kurtalan",
+      "postal_code": "56502",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Afetevleri Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akarsu Mah (demirkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akdoğmuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akyamaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Mah (pınarca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Alan Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Algül Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aydoğan Mah (inkapı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bakırt Mah (aktaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Batı Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bayraktepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah (gökçebağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "56210",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bağlıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Beşyol Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bostancık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Conkbayır Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demirkapı Mah (konacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Doluharman Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Doğan Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Düzlüce Mah (aktaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ekinli Mah (tuzkuyusu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ekmekçiler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Erdoğdu Mah (kemerli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Eğlence Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Halenze Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kalender Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karakol Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Mah (sarıtepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kavaközü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kayaboğaz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kayacık Mah (sarıtepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kemerli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Konacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Konaklı Mah (aktaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kooperatif Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Koçlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Koçpınar Mah (gökçebağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "56210",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kutluca Mah (inkapı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kışlacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Meydandere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Meşelidere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah (doluharman Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ormanardı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Oğulcak Mah (yağmurtepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Pınarca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Pınarova Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıtepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sağlarca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sağırsu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Söğüt Mah (köprübaşı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Mah (kışlacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Taraklı Mah (sarıtepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (tuzkuyusu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tuzkuyusu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tınaztepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ulus Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Veysel Karani Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yazlıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yağmurtepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (gökçebağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "56210",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yerlibahçe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yokuşbağları Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yolbuldu Mah (inkapı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yurt Mah (tuzkuyusu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yüklüce Mah (yağmurtepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yığınlı Mah (yokuşbağları Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Zorkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çal Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çağbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çevre Mah (tuzkuyusu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Mah (konacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ülkü Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İnkapı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "56220",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Merkez",
+      "postal_code": "56100",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aydın Mah",
+      "district_name": "Pervari",
+      "postal_code": "56700",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ayvalıbağ Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aşağıayvalıbağ Mah (ayvalıbağ Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aşağıbalcılar Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Belenoluk Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bentköy Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Berkevir Mah (karşıkaya Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Beşan Mah (tuzcular Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dolusalkım Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Doğanca Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Doğanköy Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Düğüncüler Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ekindüzü Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Erkent Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah (beğendik Beldesi)",
+      "district_name": "Pervari",
+      "postal_code": "56705",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gökbel Mah (gökçekoru Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gökbudak Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gökçekoru Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gölgeli Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gölköy Mah (gökçekoru Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gözlükuyu Mah (karşıkaya Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gözlükuyu Mah (yapraktepe Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Güleçler Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gümüşören Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Güzelbağ Mah (yapraktepe Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (beğendik Beldesi)",
+      "district_name": "Pervari",
+      "postal_code": "56705",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karadayı Mah (sarıyaprak Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karamik Mah (doğanköy Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karasungur Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karşıkaya  Mah (köy Merkezi Mah) (karşıkaya Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Keskin Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kiverik Mah (köprüçay Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kocaçavuş Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kubik Mah (gökçekoru Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Köprüçay Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kışlacık Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Narsuyu Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Nurs Mah (dolusalkım Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ormancık Mah (düğüncüler Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ormandalı Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Palamutlu Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah (güleçler Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarı Çıçek Mah (gümüşören Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıdam Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıyaprak Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sökmen Mah (sarıdam Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Söğütönü Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sığırlı Mah (doğanca Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sığırlı Mah (erkent Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Taşdibek Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tosuntarla Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tuzcular Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Mah (gümüşören Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Umurlu Mah (palamutlu Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yapraktepe Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yazıcık Mah (palamutlu Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yeniaydın Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yukarıayvalıbağ Mah (ayvalıbağ Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yukarıbalcılar Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yukarıekindüzü Mah (ekindüzü Köyü)",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çatköy Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çobanören Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çukurköy Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Üçoyuk Köyü",
+      "district_name": "Pervari",
+      "postal_code": "56702",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Şakiran Mah",
+      "district_name": "Pervari",
+      "postal_code": "56700",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akyayla Köyü",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aynsuç Mah (fersaf Köyü)",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah (hatrant Köyü)",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Fakirullah Mah",
+      "district_name": "Tillo",
+      "postal_code": "56870",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Fersaf Köyü",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Hatrant Köyü",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kargacık Mah (akyayla Köyü)",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kurşun Mah (hatrant Köyü)",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Mücahit Mah",
+      "district_name": "Tillo",
+      "postal_code": "56870",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Saydanlar Mah",
+      "district_name": "Tillo",
+      "postal_code": "56870",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sinep Köyü",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Taşbalta Köyü",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İkizbağlar Köyü",
+      "district_name": "Tillo",
+      "postal_code": "56872",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Adıgüzel Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akgeçit Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah (yamaçlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akyokuş Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Akçayar Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Asmalıdere Mah (yağcılar Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Atmaca Mah (nallıkaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ayn Kebir Mah (kesmetaş Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ayranlı Mah (boylu Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bağcılar Mah",
+      "district_name": "Şirvan",
+      "postal_code": "56760",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Başçavuş Mah (yedikapı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Belençay Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bindal Mah (kesmetaş Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bistan Mah (kesmetaş Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Bombat Mah (cevizlik Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Boylu Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Cevizlik Mah (cevizlik Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Cüm Mah (akgeçit Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Daltepe Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Damlı Mah (damlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Demirkapı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Derecik Mah (belençay Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Derinçay Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dilecik Mah (derinçay Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Dişlinar Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Doğruca Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Elmadalı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Evsel Mah (cevizlik Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Şirvan",
+      "postal_code": "56760",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gözlüce Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Gümüş Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Halenze Mah (yamaçlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Hatti Mah (cevizlik Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Hilki Mah (yağcılar Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Hörgüç Mah (boylu Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Hürmüz Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Hıdran Mah (cevizlik Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (kesmetaş Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kalkancık Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kapılı Mah (kapılı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karaca Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Karayel Mah (boylu Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kasımlı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kayahisar Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kayalı Mah (kayahisar Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kesmetaş Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kirazlı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kumlu Mah (boylu Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kömürlü Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Küfre Mah",
+      "district_name": "Şirvan",
+      "postal_code": "56760",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kırtepe Mah",
+      "district_name": "Şirvan",
+      "postal_code": "56760",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Kısraklı Mah (pirinçli Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Madenköy Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (durankaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (incekaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kayahisar Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (pirinçli Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (soğanlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (taşlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Meşecik Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Mülki Mah (yağcılar Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Nallıkaya Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Nergizli Mah (ikizler Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ormanbağı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ormanlı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Otluk Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Oya Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sarıdana Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Serinpınar Mah (pirinçli Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Serinpınar Mah (yaylacı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sevincik Mah (durankaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sevindik Mah (durankaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sit Mah",
+      "district_name": "Şirvan",
+      "postal_code": "56760",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sivrikavak Mah (kasımlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Suludere Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Suluyazı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Söbetaş Mah (taşlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Sırçalı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tatlıpayam Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Taşyaka Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Turgutlu Mah (nallıkaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Tüylüce Mah (nallıkaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yalkaya Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yamaçlı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56873",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yarımtepe Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yatağan Mah (taşlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yaylacı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yayladağ Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yedikapı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yelken Mah (kömürlü Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yok  Mah (kale Mah) (incekaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yok Mah (köşk Mah) (incekaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yok Mah (orta Mah) (incekaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Yolbaşı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Zinihari Mah (incekaya Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çayağzı Mah (ikizler Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çeltikyolu Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çöğürlü Mah (ormanlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ördekli Mah (taşlı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Özpınar Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "Ümranlı Mah (yedikapı Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İkizler Köyü",
+      "district_name": "Şirvan",
+      "postal_code": "56762",
+      "city_code": "56",
+      "city_name": "Siirt"
+    },
+    {
+      "neighbourhood_name": "İnecik Mah (belençay Köyü)",
+      "district_name": "Şirvan",
+      "postal_code": "56763",
+      "city_code": "56",
+      "city_name": "Siirt"
+    }
+  ],
+  "meta": {
+    "title": "Siirt Mahalleleri (Siirt Neighbourhoods) - Ücretsiz İndir",
+    "description": "Siirt ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (516 kayıt.) (All neighbourhoods (mahalle) in Siirt province with their parent district and postal code.) İçerik 516 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Siirt Mahalleleri (Siirt Neighbourhoods) | ListBase",
+    "seo_description": "İndir Siirt Mahalleleri (Siirt Neighbourhoods) — 516 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 516 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "id": "tr-artvin-liseler",
+  "name": "Artvin Liseleri (High Schools in Artvin)",
+  "title": "Artvin Liseleri (High Schools in Artvin)",
+  "description": "Artvin ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Artvin province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Ardanuç Anadolu Lisesi",
+      "tam_ad": "Artvin - Ardanuç - Ardanuç Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Ardanuç",
+      "website": "http://ardanucanadolu.meb.k12.tr",
+      "enlem": 41.12510701387277,
+      "boylam": 42.06963827981485
+    },
+    {
+      "okul_adi": "Ardanuç Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Ardanuç - Ardanuç Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Ardanuç",
+      "website": "http://ardanucihl.meb.k12.tr",
+      "enlem": 41.12392858067735,
+      "boylam": 42.065242139239444
+    },
+    {
+      "okul_adi": "İskender Paşa Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Artvin - Ardanuç - İskender Paşa Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Ardanuç",
+      "website": "http://iskenderpasacpal.meb.k12.tr",
+      "enlem": 41.124906484728974,
+      "boylam": 42.06942638530268
+    },
+    {
+      "okul_adi": "Arhavi  Kanuni Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Arhavi - Arhavi  Kanuni Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Arhavi",
+      "website": "http://arhavikihl.meb.k12.tr",
+      "enlem": 41.35723706560022,
+      "boylam": 41.31583830489649
+    },
+    {
+      "okul_adi": "Arhavi Anadolu Lisesi",
+      "tam_ad": "Artvin - Arhavi - Arhavi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Arhavi",
+      "website": "http://arhavianadolulisesi.meb.k12.tr",
+      "enlem": 41.3484767036578,
+      "boylam": 41.301413384814396
+    },
+    {
+      "okul_adi": "Arhavi Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Arhavi - Arhavi Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Arhavi",
+      "website": "http://arhaviteml.meb.k12.tr",
+      "enlem": 41.33719381154211,
+      "boylam": 41.2998469747497
+    },
+    {
+      "okul_adi": "Ertuğrul Kurdoğlu Fen Lisesi",
+      "tam_ad": "Artvin - Arhavi - Ertuğrul Kurdoğlu Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Artvin",
+      "ilce": "Arhavi",
+      "website": "http://arhavifenlisesi.meb.k12.tr",
+      "enlem": 41.33929628694515,
+      "boylam": 41.29705747737421
+    },
+    {
+      "okul_adi": "Orhan Yücel Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Arhavi - Orhan Yücel Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Arhavi",
+      "website": "http://orhanyucelktml.meb.k12.tr",
+      "enlem": 41.34955394342357,
+      "boylam": 41.30549570693506
+    },
+    {
+      "okul_adi": "Borçka Anadolu Lisesi",
+      "tam_ad": "Artvin - Borçka - Borçka Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Borçka",
+      "website": "http://borckaanadolu.meb.k12.tr",
+      "enlem": 41.354674112275596,
+      "boylam": 41.67676976098551
+    },
+    {
+      "okul_adi": "Borçka Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Borçka - Borçka Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Borçka",
+      "website": "http://borckamtal.meb.k12.tr",
+      "enlem": 41.36064344279638,
+      "boylam": 41.67459448947443
+    },
+    {
+      "okul_adi": "Osman Bakır Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Borçka - Osman Bakır Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Borçka",
+      "website": "http://borckaihl.meb.k12.tr",
+      "enlem": 41.355296236693725,
+      "boylam": 41.67784532680048
+    },
+    {
+      "okul_adi": "Hopa Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Hopa - Hopa Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Hopa",
+      "website": "http://hopaihl.meb.k12.tr",
+      "enlem": 41.387996707517225,
+      "boylam": 41.42672618999018
+    },
+    {
+      "okul_adi": "Hopa Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Hopa - Hopa Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Hopa",
+      "website": "http://hopamtalmeslek.meb.k12.tr",
+      "enlem": 41.399763726274756,
+      "boylam": 41.42612537517084
+    },
+    {
+      "okul_adi": "Hopa Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Hopa - Hopa Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Hopa",
+      "website": "http://hopamtalsaglik.meb.k12.tr",
+      "enlem": 41.4042059865111,
+      "boylam": 41.42872175349726
+    },
+    {
+      "okul_adi": "Hopa Nuri Vatan Anadolu Lisesi",
+      "tam_ad": "Artvin - Hopa - Hopa Nuri Vatan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Hopa",
+      "website": "http://hopaanadolulisesi.meb.k12.tr",
+      "enlem": 41.38171794653795,
+      "boylam": 41.42657598628534
+    },
+    {
+      "okul_adi": "Kemalpaşa Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Artvin - Hopa - Kemalpaşa Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Hopa",
+      "website": "http://kemalpasacpl.meb.k12.tr",
+      "enlem": 41.48182604930069,
+      "boylam": 41.54000660552515
+    },
+    {
+      "okul_adi": "Artvin Fen Lisesi",
+      "tam_ad": "Artvin - Merkez - Artvin Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Artvin",
+      "ilce": "Merkez",
+      "website": "http://artvinfenlisesi.meb.k12.tr",
+      "enlem": 41.196237969446514,
+      "boylam": 41.83843454494013
+    },
+    {
+      "okul_adi": "Artvin Kazım Karabekir Anadolu Lisesi",
+      "tam_ad": "Artvin - Merkez - Artvin Kazım Karabekir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Merkez",
+      "website": "http://artvinkkal.meb.k12.tr",
+      "enlem": 41.189641995984886,
+      "boylam": 41.80898925437464
+    },
+    {
+      "okul_adi": "Artvin Kazım Karabekir Anadolu Lisesi",
+      "tam_ad": "Artvin - Merkez - Artvin Kazım Karabekir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Merkez",
+      "website": "http://artvinkkal.meb.k12.tr",
+      "enlem": 41.18966008462877,
+      "boylam": 41.80898925437464
+    },
+    {
+      "okul_adi": "Artvin Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Merkez - Artvin Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Merkez",
+      "website": "http://artvineml.meb.k12.tr",
+      "enlem": 41.18148693638131,
+      "boylam": 41.81594690455927
+    },
+    {
+      "okul_adi": "Artvin Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Merkez - Artvin Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Merkez",
+      "website": "http://artvineml.meb.k12.tr",
+      "enlem": 41.181505025025196,
+      "boylam": 41.81594690455927
+    },
+    {
+      "okul_adi": "Ayhan Şahenk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Merkez - Ayhan Şahenk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Merkez",
+      "website": "http://ayhansahenkmtal.meb.k12.tr",
+      "enlem": 41.184773305344194,
+      "boylam": 41.814530698199405
+    },
+    {
+      "okul_adi": "Murgul Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Murgul - Murgul Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Murgul",
+      "website": "http://murgulanadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 41.279038727573166,
+      "boylam": 41.56374415530695
+    },
+    {
+      "okul_adi": "Murgul Atatürk Anadolu Lisesi",
+      "tam_ad": "Artvin - Murgul - Murgul Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Murgul",
+      "website": "http://ataanadolu.meb.k12.tr",
+      "enlem": 41.282791843625155,
+      "boylam": 41.564849225421085
+    },
+    {
+      "okul_adi": "Murgul Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Artvin - Murgul - Murgul Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Murgul",
+      "website": "http://murgulmtal.meb.k12.tr",
+      "enlem": 41.290140230945035,
+      "boylam": 41.587336865801944
+    },
+    {
+      "okul_adi": "Yusufeli Kılıçkaya Çok Programlı Lisesi",
+      "tam_ad": "Artvin - Yusufeli - Yusufeli Kılıçkaya Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Artvin",
+      "ilce": "Yusufeli",
+      "website": "http://kilickayacpal.meb.k12.tr",
+      "enlem": 40.71205149708292,
+      "boylam": 41.48091754092707
+    },
+    {
+      "okul_adi": "Şehit Dursun Acar Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Yusufeli - Şehit Dursun Acar Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Yusufeli",
+      "website": "http://sehitdursunacaraihl.meb.k12.tr",
+      "enlem": 40.81899024294072,
+      "boylam": 41.54637819304003
+    },
+    {
+      "okul_adi": "Şehit Salih Hüseyin Parça Anadolu Lisesi",
+      "tam_ad": "Artvin - Yusufeli - Şehit Salih Hüseyin Parça Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Yusufeli",
+      "website": "http://sehitsalihhuseyinparcaal.meb.k12.tr",
+      "enlem": 40.817408980321844,
+      "boylam": 41.54241791142954
+    },
+    {
+      "okul_adi": "Meydancık Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Artvin - Şavşat - Meydancık Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Şavşat",
+      "website": "http://meydancikcpal.meb.k12.tr",
+      "enlem": 41.25072416898688,
+      "boylam": 42.35989889277948
+    },
+    {
+      "okul_adi": "Şavşat Anadolu Lisesi",
+      "tam_ad": "Artvin - Şavşat - Şavşat Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Şavşat",
+      "website": "http://savsatal.meb.k12.tr",
+      "enlem": 41.25517660195433,
+      "boylam": 42.34775385036005
+    },
+    {
+      "okul_adi": "Şavşat Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Artvin - Şavşat - Şavşat Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Artvin",
+      "ilce": "Şavşat",
+      "website": "http://savsatihl.meb.k12.tr",
+      "enlem": 41.25170824732384,
+      "boylam": 42.360617724795475
+    },
+    {
+      "okul_adi": "Şavşat Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Artvin - Şavşat - Şavşat Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Artvin",
+      "ilce": "Şavşat",
+      "website": "http://savsatcpl.meb.k12.tr",
+      "enlem": 41.25442648504805,
+      "boylam": 42.35132655276789
+    }
+  ],
+  "meta": {
+    "title": "Artvin Liseleri (High Schools in Artvin) - Ücretsiz İndir",
+    "description": "Artvin ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (32 kayıt) (High schools in Artvin province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 32 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Artvin Liseleri (High Schools in Artvin) | ListBase",
+    "seo_description": "İndir Artvin Liseleri (High Schools in Artvin) — 32 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 32 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

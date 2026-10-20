@@ -1,0 +1,6806 @@
+{
+  "id": "tr-agri-neighbourhoods",
+  "name": "Ağrı Mahalleleri (Ağrı Neighbourhoods)",
+  "title": "Ağrı Mahalleleri (Ağrı Neighbourhoods)",
+  "description": "Ağrı ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (965 kayıt.) (All neighbourhoods (mahalle) in Ağrı province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 965,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "14 Nisan Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abdulkadir Çetin Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Adakent Mah (davut Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ahmet Işık Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akbıyık Mah (pirali Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akyolaç Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akçay Mah (sürenkök Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akçevre Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alaçayır Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Altınkilit Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Altınkilit Mah (altınkilit Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Amereşk Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Apro Mah (mutlu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Atadamı Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Atayolu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Köh Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Uğur Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıakpazar Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıdalören Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkardeşli Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıtütek Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Batıbeyli Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beyaztaş Mah (atayolu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah (büvetli Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beşevler Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Boyalan Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Budak Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Burgulu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Büvetli Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (taşkesen Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Davut Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dedebulak Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Delihasan Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dibekli Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dokuztaş Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Durak Mah (batıbeyli Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gedik Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gulebıst Mah (günbuldu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Göl Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gözüpek Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Göğebakan Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (akyolaç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Günbuldu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hacıhalit Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Harabe Mah (taşbasamak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hası Kali Komu Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Heybeliyurt Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kamil Işık Komu Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kapanca Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaplıca Mah (davut Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaplıca Mah (kuşburnu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karapazar Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karataş Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaynaklı Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ketenpınar Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kezo Mah (yukarıtütek Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kocaçoban Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kom Mah (sürenkök Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kotancı Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kurt Dere Mah (sürmelikoç Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kuşburnu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kuşlu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kırmızı Kom Mah (mutlu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mecburiyet Mah (heybeliyurt Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollakara Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Murat Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mutlu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Omuzbaşı Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Otlubayır Mah (oğuloba Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Oğuloba Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Pirali Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Rahmankulu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Saitbey Mah (yanıkçukur Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Satıcılar Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Seyitler Mah (yeniçadır Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sürenkök Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sürmelikoç Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tarlabaşı Mah (batıbeyli Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tarım Mah (günbuldu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tazekent Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taşbasamak Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taşkesen Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Teyip Mah (sürenkök Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Toklucak Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ulukent Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uysallı Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yanıkçukur Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeniçadır Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşildurak Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yol Boyu Mah (yeşildurak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yol Mah (omuzbaşı Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yol Üstü Mah (yeniçadır Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yolcupınarı Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kardeşli Mah (aşağıkardeşli Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Köh Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (yeşildurak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Satıcılar Mah (satıcılar Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Uğur Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıakpazar Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıdalören Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıtütek Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yuva Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yörükatlı Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yüceler Mah (akçevre Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yıldız Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zorava Mah (boyalan Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çifçi Mah (günbuldu Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İbrahim Komu Mah (yeniçadır Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İpek Mah (yeniçadır Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İsaağa Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İsaağa Mah",
+      "district_name": "Diyadin",
+      "postal_code": "04900",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İsaselam Mah (yanıkçukur Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şahinbey Mah (dedebulak Köyü)",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şahinşah Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şekerbulak Köyü",
+      "district_name": "Diyadin",
+      "postal_code": "04902",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abdigör Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ahmedihani Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aktarla Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aktuğlu Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akçukur Mah (yanoba Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Altun Tepe Mah (günyolu Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alıntepe Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Arpalı Mah (ayrancı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Atabakan Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aydoğan Mah (ortadirek Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ayrancı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ağa Mah (üçgöze Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aş.küçük Yılanlı Mah (yılanlı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Güngören Mah (güngören Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıtavla Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bardaklı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Barındı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Başköy Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bedir Mah (bardaklı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bekirağıl Mah (gölyüzü Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bereket Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Besler Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bezirhane Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Binkaya Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bozkurt Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bozyayla Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bulakbaşı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Buyuretti Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bölücek Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Büyük Ağrı Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cebekümbet Mah (çiftlik Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dalbahçe Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Darık Mah (esnemez Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dağdelen Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Demir Kapı Mah (yaygınyurt Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Demir Kılıç Mah (bulakbaşı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Demirtepe Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dolaklı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dostali Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Duryan Mah (günyolu Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Elle Mah (gölyüzü Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eskisu Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esnemez Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Göksügüzel Mah (örmeli Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gökçebulak Mah (çetenli Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gökçekaynak Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Göller Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gölyüzü Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gözükara Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gültepe Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güngören Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Günyolu Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gürbulak Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güzel Mah (yaygınyurt Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gır Mah (güngören Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Halaç Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hasankeyf Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Haso Mah (seslitaş Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (günyolu Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kalecik Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kalhasan Mah (güngören Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karabulak Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karaburun Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karaca Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karakent Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karaşeyh Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kargakonmaz Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kazan Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kesme Taş Mah (bulakbaşı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Konut Mah (yağmurdüşen Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Konutlar Mah (seslitaş Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Koçkıran Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kucak Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kurutepe Mah (tanıktepe Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kutlubulak Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Körük Mah (günyolu Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Künütepe Mah (tanıktepe Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Küplü Mah (sağlıksuyu Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Küçük Uzun Yazı Mah (uzunyazı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Küçük Yılanlı Mah (yılanlı Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kızılkaya Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Melikşah Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mescitköy Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mirağıl Mah (gölyüzü Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortaca Mah (karaburun Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortadirek Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Pullutarla Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Rızde Mah (üzengili Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Samanlı Mah (bezirhane Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıbıyık Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıgül Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıçavuş Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sazoba Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sağdıç Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sağlıksuyu Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Seslitaş Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Somkaya Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Subeşiği Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Suluçem Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sütcü Mah (yaygınyurt Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tab Mah (yalınsaz Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tanıktepe Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taşlı Mah (çalıköy Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Telçeker Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tepeli Mah (çalıköy Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Topçatan Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tutak Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tutumlu Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Türkmen Mah (çiftlik Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tımır Mah (seslitaş Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uluyol Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzunyazı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uğrak Mah (mescitköy Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Vatan Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yakacık Mah (güngören Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yalınsaz Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yanoba Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yaygınyurt Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yağmurdüşen Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeniharman Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (atabakan Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yiğityatağı Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yolüstü Mah (karaşeyh Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Melikşah Mah (melikşah Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıtavla Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yığınçal Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ziyaret Mah (sağlıksuyu Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çalıköy Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çatkıran Mah (yaygınyurt Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (örmeli Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çetenli Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çevirme Mah (gölyüzü Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çiftepınar Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çömçeli Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ömerbey Mah (karaşeyh Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Örmeli Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Örtülü Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üzengili Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üçgöze Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üçmurat Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İncesu Köyü",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İshakpaşa Mah",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04400",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şevket Mah (yağmurdüşen Köyü)",
+      "district_name": "Doğubayazıt",
+      "postal_code": "04402",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abdiköy Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akyumak Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akyumak Mezrası Mah (akyumak Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alagün Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ali Paşa Mah (mollasüleyman Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alkuşak Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Arifbey Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aydoğdu Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aydıntepe Mah (tahir Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04401",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıcihanbey Mah (yayladüzü Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04640",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkopuz Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yayladüzü Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04640",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dalkılıç Konutlar Mah (dalkılıç Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dalkılıç Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Değirmengeçidi Mah (yayladüzü Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04640",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Değirmenoluğu Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dolutaş Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Düzağıl Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Düzyayla Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ergözü Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (yücekapı Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04630",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eyüpkomu Mah (yağmurlu Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Goncalı Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gökçayır Mah (yayladüzü Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04640",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gözaydın Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güneykaya Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güvence Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Han Mah (yukarıkopuz Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Harebegül Mah (aydoğdu Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hasanpınarı Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Haydaroğlu Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hayrangöl Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kanatgeren Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karabacak Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (tahir Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04401",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (yayladüzü Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04640",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kayayolu Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kokulupınar Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Körpeçayır Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Lozan Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollahüseyin Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollasüleyman Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Müftüselim Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Oklavalı Mah (yücekapı Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04630",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Palakçayırı Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Pirabat Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Posto Mah (goncalı Köyü)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ramazan Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sadaklı Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Salkımlı Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıköy Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sultanabat Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Söbetaş Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Süzgeçli Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Toprakkale Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Türkeli Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uludal Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzunyazı Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yanıkdere Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yağmurlu Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yelkesen Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah (tahir Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04401",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (yücekapı Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04630",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıkopuz Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yığıntaş Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çatalpınar Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çatkösedağ Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çetinsu Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çiftepınar Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Öztoprak Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İkizgeçe Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İkizgöl Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İndere Köyü",
+      "district_name": "Eleşkirt",
+      "postal_code": "04602",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Eleşkirt",
+      "postal_code": "04600",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şehit Engin Mah (yücekapı Beldesi)",
+      "district_name": "Eleşkirt",
+      "postal_code": "04630",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abdiçıkmaz Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Adımova Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akyurt Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akören Mah (karakazan Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alakoyun Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aliağa Mah (kılıç Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Altın Yurt Mah (özdirek Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ayvacık Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aş Koyuncu Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Göze Mah (gültepe Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kayalar Mah (yukarıgözlüce Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mollahasan Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Yurt Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıaladağ Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıderedibi Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıgözlüce Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkarabal Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıyenigün Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Baldere Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bekciler Mezrası Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beklemez Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bozo Çayırı Mah (karakazan Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah (gümüşkuşak Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Buzhane Mah",
+      "district_name": "Hamur",
+      "postal_code": "04850",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ceylanlı Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Danacık Mah (karakazan Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Danakıran Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Demirkapı Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ekincik Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Erdoğan Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esenören Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gome Mah (baldere Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güllüce Mah (nallıkonak Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gültepe Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gümüşkuşak Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güveç Mah (aşağıyenigün Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hanik Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Hamur",
+      "postal_code": "04850",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kamışlı Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kandildağı Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karadoğu Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karakazan Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karaseyitali Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kardeşler Mah (beklemez Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karlıca Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kayalar Mah (esenören Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaynaklı Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaçmaz Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Keleşkom Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kuncık Mah (aşağıderedibi Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Köşk Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kümbet Mah",
+      "district_name": "Hamur",
+      "postal_code": "04850",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kılıç Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (seyithanbey Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Musabey Mah (ayvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Nallıkonak Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Nenik Mah (esenören Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Oluklu Mah (özdirek Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Orta Mollahasan Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah (ceylanlı Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ovakent Mah (abdiçıkmaz Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıbuğday Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Selim Mah (esenören Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Seslidoğan Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Seyithanbey Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Soğanlıtepe Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Süleymankümbet Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tatlısu Mah (ceylanlı Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tazeköy Mah (ceylanlı Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah (abdiçıkmaz Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Toklu Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tutak Mah (yukarıyenigün Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tükenmez Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzun Çeşme Mah (aşağıyenigün Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzun Çeşme Mah (yukarıaladağ Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uğurtaş Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yamaç Mah (ekincik Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yapılı Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yazılı Mah (karakazan Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Hamur",
+      "postal_code": "04850",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah (yukarıyenigün Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yk Kuyuncu Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yk Yurt Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yk. Mollahasan Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yoğunhisar Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yoğurtçu Mah (gültepe Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Deredibi Mah (aşağıderedibi Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Göze Mah (gültepe Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kaya Mah (gültepe Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıaladağ Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıekincik Mah (ekincik Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıgözlüce Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıtepecik Mah (abdiçıkmaz Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıyenigün Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yuvacık Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çeşme Mah (esenören Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ömerşaban Mah (erdoğan Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Örenli Mah (özdirek Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Özdirek Köyü",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üç Evler Mah (süleymankümbet Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şehit Mah (karakazan Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şikeft Mah (yuvacık Köyü)",
+      "district_name": "Hamur",
+      "postal_code": "04852",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "100.yıl Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abide Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ahmetbey Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akbulgur Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akçay Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alpaslan Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Altınçayır Mah (kocataş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Anakaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Arakonak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Arap Mah (çobanbeyi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aslangazi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ayranlı Mah (kovancık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ağrı Osb Mah (murat Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ağılbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Pınar Mah (uzunveli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıağadeve Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıdürmeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkent Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıküpkıran Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıpamuktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağısaklıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağısubaşı Mah (kovancık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıyoldüzü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşkale Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Badıllı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Balkaynak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ballıbostan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Baloluk Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Balıksu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Başkent Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Başçavuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bezirhane Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beşbulak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beşiktepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Boztoprak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bölükbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumaçay Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Darboğaz Mah (yukarıağadeve Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Darıca Mah (kovancık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dedemaksut Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Doğutepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dumanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dönerdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eliaçık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esen Köy Mah (esenköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esenköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eskiharman Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eğribelen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ferhat Mah (sarıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Fırat Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Geçitalan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gölsevti Mah (kovancık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gülçimen Mah (yukarıağadeve Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gümüşyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güneysu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güvendik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güvenli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hacısefer Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hanoba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hıdır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kalender Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karasu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kavacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kavakköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kayabey Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kazlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kocataş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Komik Mah (cumaçay Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Konak Mah (mollaosman Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Konuktepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kovancık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Koçbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kumlugeçit Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Leylek Pınar Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mamık Mah (aşağısaklıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (aşağıpamuktaş Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (doğutepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollaali Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollaosman Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Murat Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Murat Mah",
+      "district_name": "Merkez",
+      "postal_code": "04200",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Murathan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortakent Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortayokuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Otlubayır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ozanlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Oğlaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Pınarcık Mah (kovancık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Reşo Mah (sarıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sabuncu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıdoğan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıharman Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıtaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sağırtaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Soğancumaçay Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Soğanköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Suçatağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sıtkıye Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taypınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taştekne Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tellisırt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tezeren Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uçarkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yakınca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yalnızkonak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yavuz Mah",
+      "district_name": "Merkez",
+      "postal_code": "04100",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yaylaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yayıklı Mah (kovancık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yazıcı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yazılı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yolluyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yolugüzel Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yoncalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yorgunsöğüt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Pınar Mah (uzunveli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Subaşı Mah (sarıharman Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıağadeve Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıdürmeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıküpkıran Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıpamuktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarısaklıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıyoldüzü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yurtpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yığıntepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ziyaret Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çakıroba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çamurlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çatalipaşa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah (oğlaklı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çayırköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çobanbeyi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çukuralan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çukurçayır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Özbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Özveren Köyü",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üç Evler Mah (murat Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "04010",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "14 Nisan Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abdullah Mah (taşkın Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Abdulvehap Küfrevi Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Adalet Mah (köseler Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ahmed-i Hani Mahallesi Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akbulut Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akdilek Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aktepe Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akyemiş Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akçaören Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alatay Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alpaslan Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Andaçlı Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Armutlu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Arpacık Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağı Tepe Önü Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıgöçmez Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkamışlı Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Badişan Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Mah (akdilek Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Balcılar Mah (karbasan Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Baltacık Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Batıbeyli Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Baştarla Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bozo Mah (zirekli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bozoğlak Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Budak Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Budak Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Canik Mah (gençali Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet  Mah (liç Mah) (yalçınkaya Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cızvız Mah (pirömer Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dambat Mah (baştarla Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dağalan Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Demirören Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Derecik Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Derekomu Mah (karbasan Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dermo Mah (akyemiş Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Değirmendüzü Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dibek Mah (yukarıgöçmez Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dikilitaş Mah (yukarıkülecik Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dinçer Mah (edremit Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dizginkale Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Doğansu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Düzce Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Düzceli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Edremit Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ergeçli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eryılmaz Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esenbel Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (ergeçli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Eskikonak Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Evren Mah (hacılar Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gelebızın Mah (akçaören Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gençali Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Geçit Mah (yukarıkülecik Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gökoğlu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gökçeali Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Göl Mah (gökçeali Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Göl Mah (taşkın Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gönlüaçık Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gül Mah (baltacık Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güldüz Mah (akdilek Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gülçimen Mah (hacılar Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Günbeli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gündüz Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güvercinli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güzeldere Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Halife Mah (uzungün Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Harabekent Mah (taşkın Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hasandolu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hazne Mah (gökçeali Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hisar Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hırba Gülan Mah (zirekli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hırbe Mah (kazanbey Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kale Mah (alatay Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kanışeviti Mah (yukarıkülecik Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karabulak Mah (gönlüaçık Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karatoklu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karbasan Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kazanbey Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaş Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Keleşler Mezrası Mah (çukurbağ Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Keçelbaba Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Konakbeyi Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Koçaklar Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kucak Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kuruyaka Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kuşkaya Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Küncük Mah (sağrıca Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kürekli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kızkapan Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kızılağıl Mah (değirmendüzü Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kızıltepe Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Maltepe Mah (aktepe Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mecnungölü Mah (ergeçli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Meydandağı Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (yürekveren Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollaibrahim Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Onbaşılar Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortadamla Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Oyacık Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Pirömer Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Salahane Mah (yukarıkülecik Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıdibek Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarısu Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Satıbulak Mah (zirekli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sağrıca Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Selahaddini Eyyubi Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Serhad Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Suluca Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Susuz Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Süphan Dağı Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sütlü Pınar Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tanguç Mah (kuruyaka Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tanyeli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tapu Mah (çakırbey Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taşkın Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tekik Mah (kuruyaka Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tekmal Mah (susuz Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tepeli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tozbelen Mah (ortadamla Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Turgut Özal Mah",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Usluca Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzunca Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzungün Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Varan Mah (yukarıkülecik Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Y.salahana Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yalçınkaya Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yayalar Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yağız Mah (ürküt Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (yukarıgöçmez Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşil Çimen Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilce Mah (armutlu Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilhisar Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeşilçimen Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yk.dumanlı Mah (çaputlu Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yk.hırbe Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarı Tepe Önü Mah (tanyeli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıdamla Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıgöçmez Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıkamışlı Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıkülecik Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarımahalle Mah (yukarıgöçmez Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yunusemre Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yurtöven Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yusuf Mah (çavuşköy Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yüncüler Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yürekveren Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Mah (ergeçli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zali Mah (derecik Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zincirkale Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zirekli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ziyaret Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zorava Mah (ergeçli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zübeyt Komu Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çakırbey Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çamurlu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çaputlu Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çatmaoluk Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çavuş Mah (bozoğlak Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çaybaşı Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çevlik Mah (zirekli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çimenli Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çiçek Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çiçek Mah (hasandolu Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çortali Mah (kazanbey Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah (ergeçli Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Örendik Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Özdemir Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ürküt Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04510",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mah (dedeli Beldesi)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Üçoymak Köyü",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İncesu Mah (yukarıgöçmez Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Patnos",
+      "postal_code": "04500",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şekerova Mah (akdilek Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şeytanova Mah (baştarla Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04503",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şırık Mah (çakırbey Köyü)",
+      "district_name": "Patnos",
+      "postal_code": "04502",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "15 Temmuz Şehitler Mah",
+      "district_name": "Taşlıçay",
+      "postal_code": "04800",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Adakent Mah (tanyolu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Taşlıçay",
+      "postal_code": "04800",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alakoçlu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aras Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıdumanlı Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıdüzmeydan Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıesen Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıtoklu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Balçiçek Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bayramyazı Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bayıraltı Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Boyuncak Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Taşlıçay",
+      "postal_code": "04800",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dilekyazı Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Döşeme Mah (alakoçlu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Düzgören Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esen Mah (kumlubucak Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Geçitveren Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gözucu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (samanyolu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gümüşlü Mah (yeltepe Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güneysöğüt Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Taşlıçay",
+      "postal_code": "04800",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kado Mah (taşteker Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karagöz Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kayalık Mah (tanyolu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kağnılı Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kağnılı Mah (kağnılı Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kumlubucak Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kumluca Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kürekli Mah (tanrıverdi Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Samanyolu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Satikomu Mah (gözucu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sivrice Mah (yukarıdüzmeydan Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tanrıverdi Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tanyolu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taşteker Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yanalyol Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yankaya Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yardımcılar Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yassıkaya Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah (tanrıverdi Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah (tanyolu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeltepe Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (kumluca Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıdumanlı Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıdüzmeydan Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıesen Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıtaşlıçay Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıtoklu Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çermik Mah (çöğürlü Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çökelge Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çökelge Mah (çökelge Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çöğürlü Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İkiyamaç Köyü",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İnanlı Mah (samanyolu Köyü)",
+      "district_name": "Taşlıçay",
+      "postal_code": "04802",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ada Mah (soğukpınar Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Adakent Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ahmetabat Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aksu Mah (palandöken Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Akyele Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alacahan Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Alihirco Mah (uzunöz Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Atabindi Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ataköy Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aydın Mah (çelebaşı Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Azizler Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkarahalit Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkargalık Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıköşkköy Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıkülecik Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Aşağıözdek Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bahçe Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Batmış Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Beydamarlı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bintosun Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bişi Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bolaşlı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bozkaş Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Bulutpınar Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Burnubulak Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Tutak",
+      "postal_code": "04700",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Daldalık Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Damlakaya Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dayıpınarı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dağlıca Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dibelek Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dikbıyık Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dikme Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dorukdibi Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Doğangün Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Dönertaş Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Döşkaya Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Edisler Mah (karaağaç Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ekincek Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Erdal Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ergeçidi Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Esmer Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Geçimli Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gültepe Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gülçimen Mah (aşağıköşkköy Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Gülçimen Mah (çelebaşı Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Güneşgören Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hacı Ali Komu Mah (öndül Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hacıyusuf Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hurisan Mah (karaağaç Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Hurriyet Mah (soğukpınar Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karacan Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karahan Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Tutak",
+      "postal_code": "04700",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah (bahçe Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kaşönü Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kesik Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kuşkaya Mah (karacan Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Kılıçgediği Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Lal Yusuf Mah (yukarıkargalık Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Merpezer Mah (bolaşlı Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollahalit Mah (sarıgöze Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mollahasan Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Murat Mah",
+      "district_name": "Tutak",
+      "postal_code": "04700",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Mızrak Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Nüsret Mah (dağlıca Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ocakbaşı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ortayamaç Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Otluca Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Ozanpınar Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Oğlaksuyu Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Palandöken Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah",
+      "district_name": "Tutak",
+      "postal_code": "04700",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sarıgöze Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sincan Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sofukacıl Mah (bintosun Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Sorguçlu Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Soğukpınar Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Suvar Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Taşbudak Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Tepebaşı Mah (bayındır Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Topi Mah (güneşgören Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Uzunöz Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yayıklı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yazı Başı Mah (ipekkuşak Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Tutak",
+      "postal_code": "04700",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yenikent Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıkarahalit Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıkargalık Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıköşk Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Yukarıözdek Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Zozo Mah (yukarıkargalık Köyü)",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çelebaşı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çobanoba Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çukurkonak Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Çırpılı Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Öndül Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İkigözüm Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İpekkuşak Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "İsaabat Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    },
+    {
+      "neighbourhood_name": "Şekerbulak Köyü",
+      "district_name": "Tutak",
+      "postal_code": "04702",
+      "city_code": "04",
+      "city_name": "Ağrı"
+    }
+  ],
+  "meta": {
+    "title": "Ağrı Mahalleleri (Ağrı Neighbourhoods) - Ücretsiz İndir",
+    "description": "Ağrı ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (965 kayıt.) (All neighbourhoods (mahalle) in Ağrı province with their parent district and postal code.) İçerik 965 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Ağrı Mahalleleri (Ağrı Neighbourhoods) | ListBase",
+    "seo_description": "İndir Ağrı Mahalleleri (Ağrı Neighbourhoods) — 965 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 965 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

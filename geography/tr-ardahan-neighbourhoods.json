@@ -1,0 +1,2480 @@
+{
+  "id": "tr-ardahan-neighbourhoods",
+  "name": "Ardahan Mahalleleri (Ardahan Neighbourhoods)",
+  "title": "Ardahan Mahalleleri (Ardahan Neighbourhoods)",
+  "description": "Ardahan ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (347 kayıt.) (All neighbourhoods (mahalle) in Ardahan province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 347,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Ata Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Burmadere Köyü",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü Yayla Evleri",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Eskikılıç Köyü",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Eskikılıç Köyü Yayla Evleri",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kalender Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Konuk Sever Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Otağlı Köyü",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Serhat Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Seyitören Köyü",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü Merkez",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Yayla Evleri Mah (tepeköy Köyü)",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çaybaşı Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "İkizdere Köyü",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "İkizdere Köyü Yayla Evleri",
+      "district_name": "Damal",
+      "postal_code": "75602",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Damal",
+      "postal_code": "75600",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Arpaşen Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Balçeşme Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Bellitepe Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Budaklı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Büyükaltınbulak Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Damlasu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dedekılıcı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dedeşen Mah (köprülü Beldesi)",
+      "district_name": "Göle",
+      "postal_code": "75780",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dengeli Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dereyolu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Durançam Mah (köprülü Beldesi)",
+      "district_name": "Göle",
+      "postal_code": "75780",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dölekçayır Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Esenboğaz Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Esenyayla Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Eskidemirkapı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Göle",
+      "postal_code": "75700",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Filizli Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gedik Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gevrik Mah (büyükaltınbulak Köyü)",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Güldere Mah (çobanköy Köyü)",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gülistan Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gülçeşme Mah (çobanköy Köyü)",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Günorta Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Hoşdülbent Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kalecik Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Karlıyazı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kayaaltı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Göle",
+      "postal_code": "75700",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kore Mah (durucasu Köyü)",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Koyunlu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kubilay Bey Mah",
+      "district_name": "Göle",
+      "postal_code": "75700",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kuytuca Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kuzupınarı Mah (köprülü Beldesi)",
+      "district_name": "Göle",
+      "postal_code": "75780",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (dedekılıcı Köyü)",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Köprülü Merkez Mah (köprülü Beldesi)",
+      "district_name": "Göle",
+      "postal_code": "75780",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Küçükaltınbulak Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Mollahasan Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Okçu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Salim Bey Mah",
+      "district_name": "Göle",
+      "postal_code": "75700",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Samandöken Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Senemoğlu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Serinçayır Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sürügüden Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tahtakıran Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tellioğlu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Toptaş Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Uğurtaşı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yanatlı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yavuzlar Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yağmuroğlu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yeleçli Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yenidemirkapı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yiğitkonağı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çakıldere Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çakırüzüm Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çalıdere Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çardaklı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çullu Köyü",
+      "district_name": "Göle",
+      "postal_code": "75702",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Alaçam Mah",
+      "district_name": "Hanak",
+      "postal_code": "75900",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Altınemek Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Arıkonak Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Atalar Mah",
+      "district_name": "Hanak",
+      "postal_code": "75900",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Avcılar Mah",
+      "district_name": "Hanak",
+      "postal_code": "75900",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Çat Mah (çatköy Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağıaydere Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Baştoklu Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Binbaşak Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Börk Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dilekdere Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Geç Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Güneşgören Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Hanak",
+      "postal_code": "75900",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Karakale Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (çimliçayır Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kireçhane Mah (koyunpınarı Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Koyunpınarı Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Mah (koyunpınarı Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ortakent Merkez Mah",
+      "district_name": "Hanak",
+      "postal_code": "75900",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Oğuzyolu Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sazlıçayır Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Selam Verdi Mah",
+      "district_name": "Hanak",
+      "postal_code": "75900",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Serinkuyu Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Serinkuyu Yaylası Mah (serinkuyu Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sevimli Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sevimli Yayla Evleri Mah (sevimli Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sulakçayır Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yamaçyolu Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yamçılı Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (güneşgören Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (çatköy Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (çimliçayır Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (incedere Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (çayağzı Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (çiçeklidağ Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Çat Mah (çatköy Köyü)",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarıaydere Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yünbüken Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çavdarlı Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çayağzı Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çimliçayır Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çiçeklidağ Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "İncedere Köyü",
+      "district_name": "Hanak",
+      "postal_code": "75902",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Akyaka Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Alagöz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Altaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ardıçdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ağaçlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ağzıpek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (açıkyazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (kocaköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (samanbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (çağlayık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (ömerağa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağıkurtoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Balıkçılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Bayramoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Bağdaşen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Beşiktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Binbaşar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Büyüksütlüce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dağcı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dağevi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dedegül Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (ölçek Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Derindere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah (nebioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Değirmenli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Edegül Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Eski Mah (taşlıdere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Giriş Mah (nebioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gölgeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gürçayır Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Güzçimeni Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Hacıali Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Halilefendi Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Hasköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Höçvan Bucağı Hasköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kaptanpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Karagöl Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kartalpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kartalpınarosb Mah (kartalpınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kazlıköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (höçvan Bucağı Hasköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Köprücük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Küçüksütlüce Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kıraç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kızılkilise Mah (güzelyurt Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Lehimli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çağlayık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (çağlayık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Meşedibi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (nebioğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ortageçit Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ortageçit Mah (ortageçit Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Otbiçen Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ovapınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sarıyamaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sugöze Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sulakyurt Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sulakyurt Mah (sulakyurt Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tazeköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Taşlıdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tepeler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tepesuyu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tulumba Mah (ölçek Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tunçoluk Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Uzunova Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yanlızçam Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah (gölgeli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah (yaylacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (taşlıdere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yokuşdibi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (açıkyazı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kocaköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (samanbeyli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (ömerağa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarıkurtoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çalabaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75110",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çamlıçatak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çamlıçatak Mah (çamlıçatak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çataldere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çatalköprü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çerme Mah (ölçek Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çetinsu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çeğilli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (büyüksütlüce Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çimenkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "75210",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Merkez",
+      "postal_code": "75100",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Şehiryolu Mah (tepesuyu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "75002",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Akballı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Alabalık Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Alköy Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Armutveren Köy Yaylası",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Armutveren Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Arılı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Asmakonak Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (demirdöver Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (günlüce Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşıkzülali Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşıküzeyir Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Balgöze Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Binbaşıeminbey Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Binbaşıeminbey Köyü Yayla Evleri",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Cadeze Mah (günlüce Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kolköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Cumatel Mah (baykent Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Damala Mah (kırköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Derindere Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Derinsu Mah (binbaşıeminbey Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Doğrular Mah",
+      "district_name": "Posof",
+      "postal_code": "75800",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Erim Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gönülaçan Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gönülaçan Köyü Yaylası",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gümüşkavak Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Günbatan Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gürarmut Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Hurgeşen Mah (demirdöver Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kaleönü Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kaleönü Köyü Yaylaları",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kalkankaya Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kapan Mah (gürarmut Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah (kolköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kayınlı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kopuzlu Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kumlukoz Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kurşunçavuş Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kır Mah (kırköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kısa Mah (kolköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kışla Yaylası Mah (akballı Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Marzolat Mah (arılı Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Posof",
+      "postal_code": "75800",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (baykent Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kolköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sarıdarı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sarıçiçek Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Savaşır Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sekene Mah (kolköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Söğütlükaya Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Söğütlükaya Köyü Yaylaları",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Süngülü Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sütoluk Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sütoluk Yayla Evleri Mah (sütoluk Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Taşkıran Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Tikas Mah (demirdöver Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Türkgözü Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Türkgözü Mah (türkgözü Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Uluçam Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Uğurca Köy Yaylaları",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Uğurca Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evi Mah (baykent Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (derindere Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (kolköy Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (kopuzlu Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (kurşunçavuş Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (savaşır Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (süngülü Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Evleri Mah (taşkıran Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (aşıkzülali Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (gümüşkavak Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (incedere Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (kumlukoz Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (yaylaaltı Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (yolağzı Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yaylaaltı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yolağzı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (baykent Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (demirdöver Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (günlüce Köyü)",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yurtbaşı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yurtbekler Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çakırkoç Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çambeli Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çamyazı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çayırçimen Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Özbaşı Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "İncedere Köyü",
+      "district_name": "Posof",
+      "postal_code": "75802",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Akdarı Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Akkiraz Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Akçakale Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Akçıl Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ağıllı Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşağıcambaz Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Aşıkşenlik Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Baltalı Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Başköy Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Damlıca Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dedekorkut Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Dirsekkaya Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Doğankaya Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Eskibeyrehatun Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Eşmepınar Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gölbelen Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Gölebakan Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Güvenocak Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Horozöttü Mah (kenardere Köyü)",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Karakale Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kayabeyi Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kaşlıkaya Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kenarbel Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kotanlı Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kotanlı Yayla Evleri Mah (kotanlı Köyü)",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kurtkale Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Kuzukaya Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kenardere Köyü)",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Meryemköy Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sabaholdu Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Saymalı Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Sazlısu Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Semihaşakir Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Suhara Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Taşdeğirmen Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Ufuktepe Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yakınsu Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yenibeyrehatun Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yukarıcambaz Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Yıldırımtepe Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çankaya Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Çıldır",
+      "postal_code": "75400",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Öncül Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    },
+    {
+      "neighbourhood_name": "Övündü Köyü",
+      "district_name": "Çıldır",
+      "postal_code": "75402",
+      "city_code": "75",
+      "city_name": "Ardahan"
+    }
+  ],
+  "meta": {
+    "title": "Ardahan Mahalleleri (Ardahan Neighbourhoods) - Ücretsiz İndir",
+    "description": "Ardahan ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (347 kayıt.) (All neighbourhoods (mahalle) in Ardahan province with their parent district and postal code.) İçerik 347 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Ardahan Mahalleleri (Ardahan Neighbourhoods) | ListBase",
+    "seo_description": "İndir Ardahan Mahalleleri (Ardahan Neighbourhoods) — 347 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 347 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

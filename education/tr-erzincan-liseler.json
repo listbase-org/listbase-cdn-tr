@@ -1,0 +1,412 @@
+{
+  "id": "tr-erzincan-liseler",
+  "name": "Erzincan Liseleri (High Schools in Erzincan)",
+  "title": "Erzincan Liseleri (High Schools in Erzincan)",
+  "description": "Erzincan ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (28 kayıt) (High schools in Erzincan province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Kemah Sultan Melik Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Erzincan - Kemah - Kemah Sultan Melik Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Kemah",
+      "website": "http://kemahsultanmelikcpal.meb.k12.tr",
+      "enlem": 39.60886293711546,
+      "boylam": 39.030234125991
+    },
+    {
+      "okul_adi": "Hacı Ali Akın Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Erzincan - Kemaliye - Hacı Ali Akın Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Kemaliye",
+      "website": "http://hacialiakinlisesi.meb.k12.tr",
+      "enlem": 39.258100740629914,
+      "boylam": 38.5002966798736
+    },
+    {
+      "okul_adi": "Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Atatürk Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzincanataturkmtal.meb.k12.tr",
+      "enlem": 39.74171404494473,
+      "boylam": 39.50551485790743
+    },
+    {
+      "okul_adi": "Ertuğrulgazi Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Ertuğrulgazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://egal.meb.k12.tr",
+      "enlem": 39.75382055000438,
+      "boylam": 39.46465274467005
+    },
+    {
+      "okul_adi": "Erzincan Güzel Sanatlar Lisesi",
+      "tam_ad": "Erzincan - Merkez - Erzincan Güzel Sanatlar Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://egsl.meb.k12.tr",
+      "enlem": 39.73885647160751,
+      "boylam": 39.4800432599975
+    },
+    {
+      "okul_adi": "Erzincan Lisesi",
+      "tam_ad": "Erzincan - Merkez - Erzincan Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzincanlisesi.meb.k12.tr",
+      "enlem": 39.751824427523374,
+      "boylam": 39.49210247172846
+    },
+    {
+      "okul_adi": "Erzincan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Erzincan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzincaneml.meb.k12.tr",
+      "enlem": 39.74228843278877,
+      "boylam": 39.490906206507816
+    },
+    {
+      "okul_adi": "Erzincan Milli Egemenlik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Erzincan Milli Egemenlik Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzincanmeal.meb.k12.tr",
+      "enlem": 39.74224718427012,
+      "boylam": 39.523897377390995
+    },
+    {
+      "okul_adi": "Erzincan Sosyal Bilimler Lisesi",
+      "tam_ad": "Erzincan - Merkez - Erzincan Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzincansbl.meb.k12.tr",
+      "enlem": 39.760554974441675,
+      "boylam": 39.50558861865534
+    },
+    {
+      "okul_adi": "Erzincan Spor Lisesi",
+      "tam_ad": "Erzincan - Merkez - Erzincan Spor Lisesi ",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzspor.meb.k12.tr",
+      "enlem": 39.74292365685775,
+      "boylam": 39.52307662143244
+    },
+    {
+      "okul_adi": "Fatih Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Fatih Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://fatem.meb.k12.tr",
+      "enlem": 39.74388885624751,
+      "boylam": 39.51029857768549
+    },
+    {
+      "okul_adi": "Gül-celal Toraman Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Gül - Celal Toraman Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://gulcelaltoramanmtal.meb.k12.tr",
+      "enlem": 39.72725856096447,
+      "boylam": 39.47205499784718
+    },
+    {
+      "okul_adi": "Mustafa Doğan Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Mustafa Doğan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://mustafadogan.meb.k12.tr",
+      "enlem": 39.7567898813774,
+      "boylam": 39.47686752452387
+    },
+    {
+      "okul_adi": "Sabahat Hanım Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Sabahat Hanım Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://shal.meb.k12.tr",
+      "enlem": 39.742457551456546,
+      "boylam": 39.52357551230887
+    },
+    {
+      "okul_adi": "Ulalar Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - Ulalar Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://ulalaranadolulisesi.meb.k12.tr",
+      "enlem": 39.751236715150824,
+      "boylam": 39.4436617769195
+    },
+    {
+      "okul_adi": "İpekyolu Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Merkez - İpekyolu Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "website": "http://erzincanipekyolu.meb.k12.tr",
+      "enlem": 39.7523605818054,
+      "boylam": 39.492413607974186
+    },
+    {
+      "okul_adi": "Otlukbeli Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Erzincan - Otlukbeli - Otlukbeli Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Otlukbeli",
+      "website": "http://otlukbelicpal.meb.k12.tr",
+      "enlem": 39.968189562440024,
+      "boylam": 40.016549435992374
+    },
+    {
+      "okul_adi": "Refahiye Anadolu Lisesi",
+      "tam_ad": "Erzincan - Refahiye - Refahiye Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Refahiye",
+      "website": "http://refahiyeanadolulisesi.meb.k12.tr",
+      "enlem": 39.90679681247177,
+      "boylam": 38.76929005755915
+    },
+    {
+      "okul_adi": "Refahiye Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Erzincan - Refahiye - Refahiye Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Erzincan",
+      "ilce": "Refahiye",
+      "website": "http://refahiyeaihl.meb.k12.tr",
+      "enlem": 39.906525222834404,
+      "boylam": 38.77221902980341
+    },
+    {
+      "okul_adi": "Refahiye Fen Lisesi",
+      "tam_ad": "Erzincan - Refahiye - Refahiye Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Erzincan",
+      "ilce": "Refahiye",
+      "website": "http://refahiyefenlisesi.meb.k12.tr",
+      "enlem": 39.9051261076432,
+      "boylam": 38.769601193804874
+    },
+    {
+      "okul_adi": "Refahiye Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Erzincan - Refahiye - Refahiye Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Refahiye",
+      "website": "http://refahiyecpl.meb.k12.tr",
+      "enlem": 39.90749635657937,
+      "boylam": 38.7715511597587
+    },
+    {
+      "okul_adi": "Fahriye Gültekin Çok Programlı Lisesi",
+      "tam_ad": "Erzincan - Tercan - Fahriye Gültekin Çok Programlı Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Erzincan",
+      "ilce": "Tercan",
+      "website": "http://fahriyegultekinlisesi.meb.k12.tr",
+      "enlem": 39.66963630967014,
+      "boylam": 40.201332179446354
+    },
+    {
+      "okul_adi": "Çayırlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Çayırlı - Çayırlı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Çayırlı",
+      "website": "http://cayirlimtal.meb.k12.tr",
+      "enlem": 39.80835333551948,
+      "boylam": 40.03465971126093
+    },
+    {
+      "okul_adi": "Çayırlı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Erzincan - Çayırlı - Çayırlı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Çayırlı",
+      "website": "http://cayirlicpal.meb.k12.tr",
+      "enlem": 39.81394103975518,
+      "boylam": 40.03312548770441
+    },
+    {
+      "okul_adi": "Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Üzümlü - Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Üzümlü",
+      "website": "http://uzumluktml.meb.k12.tr",
+      "enlem": 39.69324095488092,
+      "boylam": 39.683346656699314
+    },
+    {
+      "okul_adi": "Üzümlü Anadolu Lisesi",
+      "tam_ad": "Erzincan - Üzümlü - Üzümlü Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Üzümlü",
+      "website": "http://uzumluanadolu.meb.k12.tr",
+      "enlem": 39.692937562013306,
+      "boylam": 39.68953451289667
+    },
+    {
+      "okul_adi": "Üzümlü Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Erzincan - Üzümlü - Üzümlü Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "Üzümlü",
+      "website": "http://uzumlumtal.meb.k12.tr",
+      "enlem": 39.69379201198505,
+      "boylam": 39.68736192359461
+    },
+    {
+      "okul_adi": "İliç Seyda Fırat Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Erzincan - İliç - İliç Seyda Fırat Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Erzincan",
+      "ilce": "İliç",
+      "website": "http://seydafiratlisesi.meb.k12.tr",
+      "enlem": 39.46403605200326,
+      "boylam": 38.56019040717615
+    }
+  ],
+  "meta": {
+    "title": "Erzincan Liseleri (High Schools in Erzincan) - Ücretsiz İndir",
+    "description": "Erzincan ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (28 kayıt) (High schools in Erzincan province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 28 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Erzincan Liseleri (High Schools in Erzincan) | ListBase",
+    "seo_description": "İndir Erzincan Liseleri (High Schools in Erzincan) — 28 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 28 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

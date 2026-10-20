@@ -1,0 +1,4909 @@
+{
+  "id": "tr-van-neighbourhoods",
+  "name": "Van Mahalleleri (Van Neighbourhoods)",
+  "title": "Van Mahalleleri (Van Neighbourhoods)",
+  "description": "Van ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (694 kayıt.) (All neighbourhoods (mahalle) in Van province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 694,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akyayla Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Altındere Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Altıntas Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Arvas Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bağcılar Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cevizlibelen Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Elmayaka Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Fekiye Teyran Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güneyyamaç Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kaşıkçılar Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ulubeyli Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yaylakonak Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yaşlıkavak Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çatbayır Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çömlekçi Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ünlüce Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İslam Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şişli Mah",
+      "district_name": "Bahçesaray",
+      "postal_code": "65710",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akçalı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Albayrak Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Atlılar Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aydemir Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Azıklı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Açıkağıl Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşalan Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıküme Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Belencik Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beşocak Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bilgeç Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bölekli Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Böğrüpek Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Büklümdere Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dereiçi Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Deringeçit Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ekecek Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erek Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erkonağı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Esenyamaç Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Evbakan Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Eşmepınar Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gedikbaşı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gelenler Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güleçler Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güroluk Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güvendik Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hafiziye Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hasanbey Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ilıcak Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Işıklı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kavurgalı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kaşkol Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Keçilioba Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kocaköy Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Konuksayar Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kovalıpınar Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçdağı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köprüağzı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mahmutabat Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ortayazı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ortayol Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Oğulveren Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sallıdere Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Savaşköy Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Saçan Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sualtı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tahıl Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tepebaşı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tınazlı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yanal Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yavuzlar Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yolmaçayır Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıdallı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıdarıca Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıdikmen Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yurttepe Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çakırdoğan Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çaldıran Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ömerdağı Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Öncüler Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Örenkale Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Örmetaş Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Özpınar Mah",
+      "district_name": "Başkale",
+      "postal_code": "65600",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akın Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Andaç Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ayazpınar Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bakacık Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bakımlı Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dilkaya Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Doğanlar Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dönemeç Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Elmalık Mah",
+      "district_name": "Edremit",
+      "postal_code": "65170",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Eminpaşa Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Enginsu Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erdemkent Mah",
+      "district_name": "Edremit",
+      "postal_code": "65170",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erenkent Mah",
+      "district_name": "Edremit",
+      "postal_code": "65170",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Eski Cami Mah",
+      "district_name": "Edremit",
+      "postal_code": "65170",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gölkaşı Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kavurma Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kurubaş Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köklü Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köprüler Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köşkköy Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kıyıcak Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mülk Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Selahattin Eyyubi Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Süphan Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Taşkonak Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeni Cami Mah",
+      "district_name": "Edremit",
+      "postal_code": "65170",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Edremit",
+      "postal_code": "65170",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çayırbaşı Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şabaniye Mah",
+      "district_name": "Edremit",
+      "postal_code": "65300",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Abdalmezrası Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akbaş Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aksakal Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akçayuva Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alkanat Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ağaçören Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ağırkaya Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıakçagedik Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıgöze Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıkozluca Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıçökek Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıışıklı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bayramlı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beyazıt Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bozyaka Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bucakönü Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Camiikebir Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Deliçay Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Derekent Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Derimevi Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dinlence Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Doluca Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Doğancı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Duracak Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Düvenci Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ekiciler Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ergücü Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Evbeyli Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gedikdibi Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gergili Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gökoğlan Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gölağzı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Görüşlü Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gözütok Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gümüşoluk Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hacıkaş Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hasanabdal Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Haydarbey Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hocaali Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kadirasker Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karatavuk Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kardoğan Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karlıyayla Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kasımbağı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kayaboyun Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kekiksırtı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Keklikova Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kocapınar Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçköprü Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köycük Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kırkdeğirmen Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kızılören Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Latifiye Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mağara Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Nişancı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ortayayla Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Oyalı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Payköy Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sabanbüken Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sahil Kent Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Salihiye Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Salmanağa Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Taşevler Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Taşkapı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Taşlıçay Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tekevler Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tekler Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Topraklı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ulupamir Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uncular Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Vanyolu Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yalındam Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yankıtepe Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yetişen Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yoldere Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıakçagedik Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıışıklı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yöreli Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yünören Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çakırbey Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çatakdibi Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çataltepe Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çelebibağı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çetintaş Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çimen Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çobandüzü Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Örene Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İkizçalı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İşbaşı Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şehirpazar Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şerefli Mah",
+      "district_name": "Erciş",
+      "postal_code": "65400",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Abalı Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aladüz Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Altınsaç Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Anaköy Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Atalan Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aydınocak Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Barışık Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bağlama Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Daldere Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dağyöre Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dereağzı Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Değirmitaş Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dilmetaş Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dokuzağaç Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Elmalı Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Göründü Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gündoğan Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güzelkonak Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hasbey Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hişet Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kayalar Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kazanç Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçak Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kurultu Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kuşluk Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kızıltaş Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Timar Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Töreli Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uysal Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uğurveren Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yanıkçay Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yemişlik Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yoldöndü Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yuva Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İkizler Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İnköy Mah",
+      "district_name": "Gevaş",
+      "postal_code": "65700",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akbulut Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akdoğu Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alnıak Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Arındı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıkaymaz Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bağrıyanık Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beşbudak Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bozyiğit Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bölmeçalı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bükeç Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cevizalan Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dağseven Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Değirmendüzü Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dikbıyık Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dolaylı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Doluçıkın Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Elaçmaz Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erkaldı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Geziyurt Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Geçerli Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Giyimli Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gölardı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güleçler Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Günbaşı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hacıköy Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hoşab Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Işıkpınar Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kalkanlı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kapçık Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karakoç Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koyunyatağı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçgüden Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kuşdağı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kılıçtutan Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kırkgeçit Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mollahüseyin Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Murataldı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ongun Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Otbiçer Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Oğuldamı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Parmakkapı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sakalar Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sapakonak Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Savacık Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sevindik Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sütlüce Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sıcaksu Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Taşdöndüren Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Taşlıyazı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tepegören Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Topsakal Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Topyıldız Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Topçudeğirmeni Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tutak Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tutmaç Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Umut Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uzungedik Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yalınca Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yaramış Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yatağan Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yedisalkım Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yolaşan Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yoldüştü Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıkaymaz Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yurtbaşı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Zernek Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çakınlı Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çatakdibi Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çavuştepe Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çepkenli Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çörekli Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Örmeli Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Öveçli Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Özlüce Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Üçdoğan Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Üçgen Mah",
+      "district_name": "Gürpınar",
+      "postal_code": "65900",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Adaklı Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akbulak Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akçaçay Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alkasnak Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Açıkyol Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıargıt Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Babacan Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Balaklı Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beydağı Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beşparmak Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dağören Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Devetaş Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Doğangün Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dürükkaş Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erişen Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Esenkoç Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gönderme Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Görecek Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güllüçimen Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gümüştepe Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kandahar Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karahan Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karaoğlan Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kemerköprü Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Keçikıran Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kocasaban Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kuşçu Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köşk Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Otlakbaşı Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ovapınar Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sarımemet Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sürüyolu Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tansu Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Topuzarpa Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uluşar Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yakıncak Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yalındüz Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yavuzselim Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıargıt Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yumaklı Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ünseli Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şehitmehmetbey Mah",
+      "district_name": "Muradiye",
+      "postal_code": "65500",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bakışık Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Baltepe Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beyarslan Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Değirmigöl Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dolutaş Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Feritmelen Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kapıköy Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karahisar Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kargalı Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kazlıgöl Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kazımpaşa Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kekikdüzü Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kepir Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Keçikayası Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçbaşı Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kurucan Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sırımlı Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Turanköy Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yamanyurt Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeşilağaç Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Zincirkıran Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çakmakköy Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çartak Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çaybağı Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Örenburç Mah",
+      "district_name": "Saray",
+      "postal_code": "65830",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Abdurrahman Gazi Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Adıgüzel Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akköprü Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65030",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akçaören Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akçift Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alabayır Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alaköy Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Altıntepe Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Arısu Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Atmaca Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ayanıs Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşıt Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bardakçı Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bağdaşan Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beyüzümü Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dağönü Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Derebey Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Değirmenözü Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dibekdüzü Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dilimli Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ermişler Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Esenpınar Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gedelova Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gedikbulak Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Göllü Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gölyazı Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gülsünler Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güvençli Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Halkalı Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hıdırköy Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kalecik Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kasımoğlu Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kelle Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kolsatan Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kozluca Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçköy Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kumluca Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Meydancık Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mollakasım Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ocaklı Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Otluca Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Pirgarip Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Satıbey Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sağlamtaş Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tabanlı Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tevekli Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Topaktaş Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yalnızağaç Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yaylıyaka Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yemlice Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeniköşk Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeşilsu Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yumrutepe Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çakırbey Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çitören Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çobanoğlu Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çolpan Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çomaklı Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Özkaynak Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Özyurt Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İskele Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65030",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şahgeldi Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şemsibey Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şemsibeyosb Mah",
+      "district_name": "Tuşba",
+      "postal_code": "65040",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akbaşak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alakaya Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alikelle Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Altıyol Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Avcıbaşı Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ayrancılar Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıdikme Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıgülderen Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıkuyucak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağımutlu Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıyanıktaş Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıçanak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Başeğmez Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beyazıt Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beydoğan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bezirhane Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Burçakalan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Buğulukaynak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Demircik Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Direkli Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Doyumalan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erginler Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Evciler Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gülyolu Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Güngören Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hangediği Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hanköy Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kalkandelen Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karadulda Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kaşım Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kilimli Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Koçovası Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kurtoğlan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kuskunkıran Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kılavuz Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Osmanlı Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Recep Tayyip Erdoğan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Salahane Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sarıharman Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sarıçimen Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sellik Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Serpmetaş Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sungur Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tekindere Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Temrenli Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Toprakseven Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Umuttepe Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yassıtepe Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yaykılıç Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yağıbasan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeniyaka Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıdikme Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıgülderen Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıkuyucak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarımutlu Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarısağmallı Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıyanıktaş Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıçanak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yuvacık Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yücelen Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Zülfibulak Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çayırköy Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İncealan Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İsmailbaba Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şehit Jandarma Binbaşı Kıvanç Cesur Mah",
+      "district_name": "Çaldıran",
+      "postal_code": "65970",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Akçabük Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alacayar Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Atlıhan Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ağaçlık Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağınarlıca Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bilgi Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Boyunpınar Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dalbastı Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Derebaşı Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dokuzdam Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Eliaçık Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Görentaş Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hacıosman Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Işınlı Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kaçıt Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Konalga Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Korulu Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Narlı Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Onağıl Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sugeldi Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sözveren Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sırmalı Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Teknecik Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Toyga Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Uzuntekne Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarınarlıca Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çılga Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Övecek Mah",
+      "district_name": "Çatak",
+      "postal_code": "65870",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aksorguç Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Altınboğa Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıakçagül Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıbalçıklı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıkoçkıran Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağımollahasan Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıtulgalı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıyorganlı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bağrıaçık Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bodurağaç Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Boyaldı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Boğazkesen Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Damlacık Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dağdeviren Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dorutay Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dönerdere Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Eski Emek Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Eğribelen Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gözdeğmez Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Günyüzlü Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hacıali Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hacıkışlak Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hazine Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kalecik Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kargalı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karlıyamaç Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kaşıkara Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kırkçalı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mehmetalan Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Mollatopuz Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Oymaklı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sarıköy Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Savatlı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sağmalı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Seydibey Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sugeçer Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Tepedam Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yarımkaya Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yavuzlar Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıayazca Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıbalçıklı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarımollahasan Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıtulgalı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıyorganlı Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıçavdarlık Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yumruklu Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yünkuşak Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çamurlu Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çırakköy Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şehittepe Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şemsettin Mah",
+      "district_name": "Özalp",
+      "postal_code": "65800",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aktaş Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65210",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Alipaşa Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Arıtoprak Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ağzıkara Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65210",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıgölalan Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Aşağıçitli Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bahçıvan Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Baklatepe Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bakraçlı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Beşçatak Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Bostaniçi Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Buzhane Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cevdet Paşa Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dereüstü Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Değirmenarkı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Değirmenköy Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Dibekli Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Erçek Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65210",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Esenler Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Gövelek Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hacıbekir Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hafiziye Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Halilağa Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Hatuniye Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ilıkaynak Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Irgat Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karagündüz Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karakoç Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karpuzalanı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kavuncu Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kaymaklı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kevenli Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Köşebaşı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Kıratlı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Ortanca Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Sarmaç Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Selimbey Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Serhat Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Seyit Fehim Arvasi Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Vali Mithat Bey Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yalınağaç Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yatıksırt Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıgölalan Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Yukarıgüneyce Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Çalımlı Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "İpekyolu",
+      "postal_code": "65100",
+      "city_code": "65",
+      "city_name": "Van"
+    }
+  ],
+  "meta": {
+    "title": "Van Mahalleleri (Van Neighbourhoods) - Ücretsiz İndir",
+    "description": "Van ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (694 kayıt.) (All neighbourhoods (mahalle) in Van province with their parent district and postal code.) İçerik 694 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Van Mahalleleri (Van Neighbourhoods) | ListBase",
+    "seo_description": "İndir Van Mahalleleri (Van Neighbourhoods) — 694 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 694 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

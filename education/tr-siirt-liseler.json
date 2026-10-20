@@ -1,0 +1,268 @@
+{
+  "id": "tr-siirt-liseler",
+  "name": "Siirt Liseleri (High Schools in Siirt)",
+  "title": "Siirt Liseleri (High Schools in Siirt)",
+  "description": "Siirt ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (16 kayıt) (High schools in Siirt province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Baykan Anadolu Lisesi",
+      "tam_ad": "Siirt - Baykan - Baykan Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Baykan",
+      "website": "http://baykananadolulisesi.meb.k12.tr",
+      "enlem": 38.16888497340299,
+      "boylam": 41.79314008130564
+    },
+    {
+      "okul_adi": "Baykan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Siirt - Baykan - Baykan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Siirt",
+      "ilce": "Baykan",
+      "website": "http://baykananadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 38.161548322444816,
+      "boylam": 41.78237369431986
+    },
+    {
+      "okul_adi": "Veysel Karani Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Siirt - Baykan - Veysel Karani Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Baykan",
+      "website": "http://veyselkaranicpal.meb.k12.tr",
+      "enlem": 38.126554638768184,
+      "boylam": 41.71402296199335
+    },
+    {
+      "okul_adi": "Bağgöze Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Siirt - Eruh - Bağgöze Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Eruh",
+      "website": "http://eruhbaggozecpal.meb.k12.tr",
+      "enlem": 37.708735092434,
+      "boylam": 41.91523155345453
+    },
+    {
+      "okul_adi": "Kurtalan Ekspresi Anadolu Lisesi",
+      "tam_ad": "Siirt - Kurtalan - Kurtalan Ekspresi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Kurtalan",
+      "website": "http://kurtalanekspresianadolulisesi.meb.k12.tr",
+      "enlem": 37.935256626811174,
+      "boylam": 41.70852443351282
+    },
+    {
+      "okul_adi": "Kurtalan Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Siirt - Kurtalan - Kurtalan Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Siirt",
+      "ilce": "Kurtalan",
+      "website": "http://kurtalankizihl.meb.k12.tr",
+      "enlem": 37.92417493788794,
+      "boylam": 41.69951757564081
+    },
+    {
+      "okul_adi": "Atatürk Anadolu Lisesi",
+      "tam_ad": "Siirt - Merkez - Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Merkez",
+      "website": "http://siirtaal.meb.k12.tr",
+      "enlem": 37.937223991468706,
+      "boylam": 41.92873915805353
+    },
+    {
+      "okul_adi": "Milli Egemenlik Anadolu Lisesi",
+      "tam_ad": "Siirt - Merkez - Milli Egemenlik Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Merkez",
+      "website": "http://siirtmel.meb.k12.tr",
+      "enlem": 37.92877875947028,
+      "boylam": 41.95027193202509
+    },
+    {
+      "okul_adi": "Siirt Milli İrade Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Siirt - Merkez - Siirt Milli İrade Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Siirt",
+      "ilce": "Merkez",
+      "website": "http://siirtmilliiradekihl.meb.k12.tr",
+      "enlem": 37.94059800502806,
+      "boylam": 41.94195976628794
+    },
+    {
+      "okul_adi": "İsmail Fakirullah Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Siirt - Merkez - İsmail Fakirullah Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Siirt",
+      "ilce": "Merkez",
+      "website": "http://ismailfakirullahihl.meb.k12.tr",
+      "enlem": 37.9162328797945,
+      "boylam": 41.9306609608127
+    },
+    {
+      "okul_adi": "Pervari Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Siirt - Pervari - Pervari Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Siirt",
+      "ilce": "Pervari",
+      "website": "http://pervariihl.meb.k12.tr",
+      "enlem": 37.9324387611962,
+      "boylam": 42.54504105224146
+    },
+    {
+      "okul_adi": "Pervari İmkb Anadolu Lisesi",
+      "tam_ad": "Siirt - Pervari - Pervari İmkb Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Pervari",
+      "website": "http://pervariimkbanadolulisesi.meb.k12.tr",
+      "enlem": 37.92830484996972,
+      "boylam": 42.54683813228144
+    },
+    {
+      "okul_adi": "Park Elektrik Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Siirt - Şirvan - Park Elektrik Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Şirvan",
+      "website": "http://sirvanparkaeml.meb.k12.tr",
+      "enlem": 38.05858241654322,
+      "boylam": 42.036038247485294
+    },
+    {
+      "okul_adi": "Şirvan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Siirt - Şirvan - Şirvan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Siirt",
+      "ilce": "Şirvan",
+      "website": "http://sirvanimamhatip.meb.k12.tr",
+      "enlem": 38.05827829942743,
+      "boylam": 42.03744908942713
+    },
+    {
+      "okul_adi": "Şirvan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Siirt - Şirvan - Şirvan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Şirvan",
+      "website": "http://sirvanktml.meb.k12.tr",
+      "enlem": 38.062214828835856,
+      "boylam": 42.027498093981876
+    },
+    {
+      "okul_adi": "Şirvan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Siirt - Şirvan - Şirvan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Siirt",
+      "ilce": "Şirvan",
+      "website": "http://sirvancpal.meb.k12.tr",
+      "enlem": 38.05868378863447,
+      "boylam": 42.036231366534366
+    }
+  ],
+  "meta": {
+    "title": "Siirt Liseleri (High Schools in Siirt) - Ücretsiz İndir",
+    "description": "Siirt ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (16 kayıt) (High schools in Siirt province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 16 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Siirt Liseleri (High Schools in Siirt) | ListBase",
+    "seo_description": "İndir Siirt Liseleri (High Schools in Siirt) — 16 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 16 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

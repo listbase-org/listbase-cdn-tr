@@ -1,0 +1,169 @@
+{
+  "id": "tr-adana-tcdd-istasyonlari",
+  "name": "ADANA TCDD Tren İstasyonları (Railway stations in ADANA)",
+  "title": "ADANA TCDD Tren İstasyonları (Railway stations in ADANA)",
+  "description": "ADANA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ADANA province.) (12 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ADANA (KİREMİTHANE)",
+      "il": "ADANA",
+      "kaynak_metin": "ADANA (KİREMİTHANE) , ADANA",
+      "gidis_id": 747,
+      "donus_id": 747,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "ADANA",
+      "il": "ADANA",
+      "kaynak_metin": "ADANA , ADANA",
+      "gidis_id": 753,
+      "donus_id": 753,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "BELEMEDİK",
+      "il": "ADANA",
+      "kaynak_metin": "BELEMEDİK , ADANA",
+      "gidis_id": 762,
+      "donus_id": 762,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 21
+    },
+    {
+      "istasyon": "CEYHAN",
+      "il": "ADANA",
+      "kaynak_metin": "CEYHAN , ADANA",
+      "gidis_id": 765,
+      "donus_id": 765,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 12
+    },
+    {
+      "istasyon": "DURAK",
+      "il": "ADANA",
+      "kaynak_metin": "DURAK , ADANA",
+      "gidis_id": 772,
+      "donus_id": 772,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 22
+    },
+    {
+      "istasyon": "HACIKIRI",
+      "il": "ADANA",
+      "kaynak_metin": "HACIKIRI , ADANA",
+      "gidis_id": 781,
+      "donus_id": 781,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "KARAİSALIBUCAĞI",
+      "il": "ADANA",
+      "kaynak_metin": "KARAİSALIBUCAĞI , ADANA",
+      "gidis_id": "",
+      "donus_id": 789,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "Kelebek",
+      "il": "ADANA",
+      "kaynak_metin": "Kelebek , ADANA",
+      "gidis_id": 1396,
+      "donus_id": 1396,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "POZANTI",
+      "il": "ADANA",
+      "kaynak_metin": "POZANTI , ADANA",
+      "gidis_id": "",
+      "donus_id": 810,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAKAPINAR",
+      "il": "ADANA",
+      "kaynak_metin": "YAKAPINAR , ADANA",
+      "gidis_id": 802,
+      "donus_id": 802,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İNCİRLİK",
+      "il": "ADANA",
+      "kaynak_metin": "İNCİRLİK , ADANA",
+      "gidis_id": 786,
+      "donus_id": 786,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 13
+    },
+    {
+      "istasyon": "ŞEHİTLİK",
+      "il": "ADANA",
+      "kaynak_metin": "ŞEHİTLİK , ADANA",
+      "gidis_id": 836,
+      "donus_id": 836,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "ADANA TCDD Tren İstasyonları (Railway stations in ADANA) - Ücretsiz İndir",
+    "description": "ADANA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in ADANA province.) (12 kayıt.) İçerik 12 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "ADANA TCDD Tren İstasyonları (Railway stations in ADANA) | ListBase",
+    "seo_description": "İndir ADANA TCDD Tren İstasyonları (Railway stations in ADANA) — 12 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 12 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

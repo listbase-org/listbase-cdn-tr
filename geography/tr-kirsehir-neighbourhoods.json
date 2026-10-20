@@ -1,0 +1,3005 @@
+{
+  "id": "tr-kirsehir-neighbourhoods",
+  "name": "Kırşehir Mahalleleri (Kırşehir Neighbourhoods)",
+  "title": "Kırşehir Mahalleleri (Kırşehir Neighbourhoods)",
+  "description": "Kırşehir ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (422 kayıt.) (All neighbourhoods (mahalle) in Kırşehir province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 422,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Alipaşa Mah",
+      "district_name": "Akpınar",
+      "postal_code": "40320",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Alişar Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (büyükabdiuşağı Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Berecik Mah (hanyerisarıkaya Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Boyalık Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Büyük Dere Mezrası Mah (alişar Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Akpınar",
+      "postal_code": "40320",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (aşağıhomurlu Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Demirci Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Deveci Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Doğancı 2 Mah (hacımirza Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Doğancı Mah (hacımirza Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Durmuşlu Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Eldeleklidemirel Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Eldelekliortaoba Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Eşrefli Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (büyükabdiuşağı Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gülveren Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hacı Hüseyin Efendi Mah",
+      "district_name": "Akpınar",
+      "postal_code": "40320",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hacıselimli Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hanyerisarıkaya Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Himmetuşağı Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kaleyazı Mah",
+      "district_name": "Akpınar",
+      "postal_code": "40320",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karaova Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kelismailuşağı Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kırdök Mah (çayözü Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kızılay Mah (köşker Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Pekmezci Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Seymenli Mah (aşağıhomurlu Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sofrazlı Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ulukışla Mah (aşağıhomurlu Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yayla Mazrası Mah (alişar Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (köşker Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Akpınar",
+      "postal_code": "40320",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yüzbaşıoğlu Mah (köşker Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çalıburnu Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çayözü Mah (çayözü Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çebişler Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çelebiuşağı Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiftlikmehmetağa Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiftliksarıkaya Köyü",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah (büyükabdiuşağı Köyü)",
+      "district_name": "Akpınar",
+      "postal_code": "40322",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah",
+      "district_name": "Akpınar",
+      "postal_code": "40320",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aliefendi Mah (mahsenli Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Avanoğlu Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ayvalı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (ödemişli Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Derefakılı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güllühüyük Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güneşli Mah (yetikli Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güvemli Mah (yaylaözü Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hacıfakılı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hamzabey Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hasanali Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hatunkara Mah (güllühüyük Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (mahsenli Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kilimli Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kösefakılı Bucak Merkezi Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küçükabdiuşağı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Polatlı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Solakuşağı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Taşlıoluk Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (mahsenli Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tepefakılı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yaylaözü Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Akçakent",
+      "postal_code": "40720",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Mah",
+      "district_name": "Akçakent",
+      "postal_code": "40720",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yetikli Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40723",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çökelek Mah (avanoğlu Köyü)",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ödemişli Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ömeruşağı Köyü",
+      "district_name": "Akçakent",
+      "postal_code": "40722",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şehricedid Mah",
+      "district_name": "Akçakent",
+      "postal_code": "40720",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (karacaören Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Mah",
+      "district_name": "Boztepe",
+      "postal_code": "40020",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Büyükkışla Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Eskidoğanlı Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Harmanaltı Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hatunoğlu Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hatunoğlu Yayla Mah (hatunoğlu Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Külhüyük Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Malya T.i.m. Mah (yenidoğanlı Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Boztepe",
+      "postal_code": "40020",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah (karacaören Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Uzunpınar Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Doğanlı Mah (yenidoğanlı Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Boztepe",
+      "postal_code": "40020",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (karacaören Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çamalak Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çevirme Mah (çevirme Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çimeli Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiğdeli Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Üçkuyu Köyü",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şababzade Çiftliği Mah (çevirme Köyü)",
+      "district_name": "Boztepe",
+      "postal_code": "40060",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ahievran Mah (demirli Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ağapınar Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (kurancılı Beldesi)",
+      "district_name": "Kaman",
+      "postal_code": "40390",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (çağırkan Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bayramözü Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Mah (isahocalı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Benzer Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Büğüz Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cuma Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (başköy Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (hamit Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (isahocalı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kargınyenice Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kurancılı Beldesi)",
+      "district_name": "Kaman",
+      "postal_code": "40390",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yelek Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (ömerhacılı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Darıözü Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Darıözü Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Değirmenözü Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Esentepe Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Fakılı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (çağırkan Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah (başköy Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gaffar Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gökeşme Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gültepe Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hacıpınar Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hicret Mah (demirli Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hirfanlı Barajı Mah (hirfanlı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hirfanlı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (kargınyenice Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kale Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karahabalı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karakaya Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karakütük Mah (mollaosmanlar Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karkınkızıközü Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karkınmeşe Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karkınselimağa Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah (ömerhacılı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kekilliali Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Melemez Mah (ömerkahya Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah (demirli Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Meşeköy Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Mollaosmanlar Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Müderris Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kurancılı Beldesi)",
+      "district_name": "Kaman",
+      "postal_code": "40390",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (savcılıbüyükoba Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (çağırkan Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (ömerhacılı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sarıuşağı Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sarıömerli Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Savcılıbağbaşı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Savcılıebeyit Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Savcılıkurutlu Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Savcılıkışla Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Savcılımeryemkaşı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sırbeli Mah (savcılıbüyükoba Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tatık Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yazıyolu Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yağmurlu Sarıuşağı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hamit Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (isahocalı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kargınyenice Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kurancılı Beldesi)",
+      "district_name": "Kaman",
+      "postal_code": "40390",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (savcılıbüyükoba Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (yelek Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (çağırkan Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (ömerhacılı Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeniyapan Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yukarı Çiftlik Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah (demirli Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ziyarettepe Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çadırlı Hacıbayram Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çadırlı Körmehmet Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çamsarı Mah (hamit Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiftlikli Mah",
+      "district_name": "Kaman",
+      "postal_code": "40300",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ömerkahya Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İbrişim Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İkizler Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İmancı Köyü",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (yelek Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şehit Fedakar Erol Mah (kargınyenice Köyü)",
+      "district_name": "Kaman",
+      "postal_code": "40302",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ahievran Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Akçaağıl Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aşağı Köy Mah (saraycık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aşıkpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bağbaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bağderesi Mah (kortulu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Boruklu Mah (karalar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Mah (karahıdır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Büyükcamii Mah (çayağzı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (ulupınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Davulağıl Mah (sıdıklıbüyükoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Dedeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Değirmenkaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Dulkadirlikaraisa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ecikağıl Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Göbekkaya Mah (yağmurlukale Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gölhisar Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Göllü Bucak Merkezi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güldiken Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güldikenosb Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güllütarla Mah (yağmurlubüyükoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güzler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hashüyük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Helvacılar Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Homurlu Beşler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Homurlu Üçler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (toklümen Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah (toklümen Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kalankaldı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karaboğaz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karaduraklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karalar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karasüleyman Çiftliği Mah (çuğun Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kartalkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karıncalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (dulkadirli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah (toklümen Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kervansaray Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kesikköprü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Killik Mah (sıdıklıbüyükoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kocabey Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kortulu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kulpak Mah (sıdıklıküçükoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kurtbeliyeniyapan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kuruağıl Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kuytuluk Mah (yağmurlubüyükoba Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kuşdilli Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Körpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kındam Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kırkpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kışlapınar Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Medrese Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Nasuhdede Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Saraylar Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sevdiğin Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Seyrekköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıbüyükoba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıdarboğaz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıikizağıl Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıkumarkaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıküçükboğaz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıküçükoba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Sıdıklıortaoba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Taburoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tatarilyaskışla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tatarilyasyayla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tepesidelik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Terziali Mah (çayağzı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tosunburnu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Uzunaliuşağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yarımkale Mah (dulkadirli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (karahıdır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yağmurluarmutlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yağmurlubüyükoba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yağmurlukale Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yağmurlusayobası Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (çayağzı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeraltı Şehri Mah (dulkadirli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeşiloba Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yukarı Homurlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah (ulupınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çadırlıhacıyusuf Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çamlıbel Mah (karahıdır Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çukurçayır Mah",
+      "district_name": "Merkez",
+      "postal_code": "40100",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çuğun Köyü",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Örcün Mah (özbağ Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "40080",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İnli Murat Mah (dulkadirli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (ulupınar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şeker Fabrikası Mah (akçaağıl Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "40002",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Acıöz Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aksaklı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Altınyazı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Asma Mah (asmakaradam Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Asmakaradam Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Avcıköy Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aydoğmuş Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aşagı Rahmalar Mah (rahmalar Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Babur Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Mah (dalakçı Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (kurugöl Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bayramuşağı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bazlamaç Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Budak Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Büyükkayapa Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cavlaklar Mah (yeniköy Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Dalakçı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Dağçiftliğiköyü Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Devepınarı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah (kurugöl Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Geycek Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gümüşkümbet Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güzyurdu Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karaarkaç Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karacalı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karadam Mah (asmakaradam Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karkın Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (kurugöl Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kepez Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kuşaklı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küçük Köpekli Mah (dalakçı Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küçükburnağıl Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küçükkavak Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küçükkayapa Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kıran Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kızılağıl Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kızıldağyeniyapan Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Medetsiz Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Obruk Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kurugöl Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Palangıç Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Pınarkaya Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Rışvan Mah (karakuyu Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Seyfe Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Solaklı Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Susuz Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Türktur Mantar İşletmesi Mah (asmakaradam Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yazıkınık Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kurugöl Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeniyayla Mah (seyfe Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeğenağa Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yukarı Rahmalar Mah (rahmalar Köyü)",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yürücek Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çatalarkaç Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İnaç Köyü",
+      "district_name": "Mucur",
+      "postal_code": "40502",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şatıroğlu Mah",
+      "district_name": "Mucur",
+      "postal_code": "40500",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "A Grubu Mah (hacıhasanlı Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Acıköy Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Akbıyıklı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Alahacılı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Alanköy Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Alimpınar Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Armutlu Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Aşağıhacıahmetli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "B Grubu Mah (alanköy Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "B Grubu Mah (alimpınar Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "B Grubu Mah (gölcük Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "B Grubu Mah (hacıhasanlı Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (köseli Beldesi)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40730",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bahçepınar Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Baraklı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah (boğazevci Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Beşikli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Boyalık Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bozlar Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Bozlarevci Mah (bozlar Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Büyükteflek Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Camili Kümesi Mah (beşikli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cenderözü Mah (hacıhasanlı Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (köseli Beldesi)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40730",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Demirli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Devreceli Mah (köseli Beldesi)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40730",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Doğankaş Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Gölcük Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Güzeltepe Mah (boğazevci Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hacıduraklı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hacıoğlu Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Halaçlı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Harmanpınar Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Haydarlı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Hüseyinli Çiftliği Mah (hacıhasanlı Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Işıklar Kümesi Mah (beşikli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kabaklı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kaleevci Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kaletepe Mah (boğazevci Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Kümesi Mah (aşağıhacıahmetli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karakızalanı Mah (armutlu Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Karaosman Kümesi Mah (beşikli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kavaklıöz Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Konurkale Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küme 2 Mah (aşağıhacıahmetli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küme 3 Mah (aşağıhacıahmetli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Küçükteflek Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kırdök Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Kızılcalı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Mahmutlu Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (mahmutlu Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Ortahacıahmetli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Osman Şevki Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Pöhrenk Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Safalı Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tatbekirli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Tepecik Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Topalali Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yalnızağaç Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (boğazevci Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40700",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Yukarıhacıahmetli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çanakpınar Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çepni Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (köseli Beldesi)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40730",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiftlik İşletmesi Mah (tatbekirli Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiçek Mah (köseli Beldesi)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40730",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çopraşık Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Çubuktarla Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İbikli Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "İğdeliöz Mah (hacıhasanlı Köyü)",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    },
+    {
+      "neighbourhood_name": "Şahinoğlu Köyü",
+      "district_name": "Çiçekdağı",
+      "postal_code": "40702",
+      "city_code": "40",
+      "city_name": "Kırşehir"
+    }
+  ],
+  "meta": {
+    "title": "Kırşehir Mahalleleri (Kırşehir Neighbourhoods) - Ücretsiz İndir",
+    "description": "Kırşehir ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (422 kayıt.) (All neighbourhoods (mahalle) in Kırşehir province with their parent district and postal code.) İçerik 422 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kırşehir Mahalleleri (Kırşehir Neighbourhoods) | ListBase",
+    "seo_description": "İndir Kırşehir Mahalleleri (Kırşehir Neighbourhoods) — 422 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 422 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

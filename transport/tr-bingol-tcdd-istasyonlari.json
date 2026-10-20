@@ -1,0 +1,124 @@
+{
+  "id": "tr-bingol-tcdd-istasyonlari",
+  "name": "BİNGÖL TCDD Tren İstasyonları (Railway stations in BİNGÖL)",
+  "title": "BİNGÖL TCDD Tren İstasyonları (Railway stations in BİNGÖL)",
+  "description": "BİNGÖL ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BİNGÖL province.) (7 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ASMAKAYA",
+      "il": "BİNGÖL",
+      "kaynak_metin": "ASMAKAYA , BİNGÖL",
+      "gidis_id": 1308,
+      "donus_id": 1308,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 64
+    },
+    {
+      "istasyon": "BOZKANAT",
+      "il": "BİNGÖL",
+      "kaynak_metin": "BOZKANAT , BİNGÖL",
+      "gidis_id": 1332,
+      "donus_id": 1332,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "GENÇ",
+      "il": "BİNGÖL",
+      "kaynak_metin": "GENÇ , BİNGÖL",
+      "gidis_id": 1122,
+      "donus_id": 1122,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 66
+    },
+    {
+      "istasyon": "HODAN",
+      "il": "BİNGÖL",
+      "kaynak_metin": "HODAN , BİNGÖL",
+      "gidis_id": 724,
+      "donus_id": 724,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 24
+    },
+    {
+      "istasyon": "SUVEREN",
+      "il": "BİNGÖL",
+      "kaynak_metin": "SUVEREN , BİNGÖL",
+      "gidis_id": 718,
+      "donus_id": 718,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULUKAYA",
+      "il": "BİNGÖL",
+      "kaynak_metin": "ULUKAYA , BİNGÖL",
+      "gidis_id": 1333,
+      "donus_id": 1333,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UYANIK",
+      "il": "BİNGÖL",
+      "kaynak_metin": "UYANIK , BİNGÖL",
+      "gidis_id": 1334,
+      "donus_id": 1334,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "BİNGÖL TCDD Tren İstasyonları (Railway stations in BİNGÖL) - Ücretsiz İndir",
+    "description": "BİNGÖL ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in BİNGÖL province.) (7 kayıt.) İçerik 7 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "BİNGÖL TCDD Tren İstasyonları (Railway stations in BİNGÖL) | ListBase",
+    "seo_description": "İndir BİNGÖL TCDD Tren İstasyonları (Railway stations in BİNGÖL) — 7 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 7 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

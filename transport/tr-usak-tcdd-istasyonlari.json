@@ -1,0 +1,142 @@
+{
+  "id": "tr-usak-tcdd-istasyonlari",
+  "name": "UŞAK TCDD Tren İstasyonları (Railway stations in UŞAK)",
+  "title": "UŞAK TCDD Tren İstasyonları (Railway stations in UŞAK)",
+  "description": "UŞAK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in UŞAK province.) (9 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AHMETLER",
+      "il": "UŞAK",
+      "kaynak_metin": "AHMETLER , UŞAK",
+      "gidis_id": 279,
+      "donus_id": 279,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "ARMUTLU DURAĞI",
+      "il": "UŞAK",
+      "kaynak_metin": "ARMUTLU DURAĞI , UŞAK",
+      "gidis_id": 404,
+      "donus_id": 404,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "BANAZ",
+      "il": "UŞAK",
+      "kaynak_metin": "BANAZ , UŞAK",
+      "gidis_id": 290,
+      "donus_id": 290,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "DAVUTLAR KÖYÜ",
+      "il": "UŞAK",
+      "kaynak_metin": "DAVUTLAR KÖYÜ , UŞAK",
+      "gidis_id": 1189,
+      "donus_id": 1189,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "EŞME",
+      "il": "UŞAK",
+      "kaynak_metin": "EŞME , UŞAK",
+      "gidis_id": 316,
+      "donus_id": 316,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    },
+    {
+      "istasyon": "GÜNEYKÖY",
+      "il": "UŞAK",
+      "kaynak_metin": "GÜNEYKÖY , UŞAK",
+      "gidis_id": 1052,
+      "donus_id": 1052,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 35
+    },
+    {
+      "istasyon": "OTURAK",
+      "il": "UŞAK",
+      "kaynak_metin": "OTURAK , UŞAK",
+      "gidis_id": "",
+      "donus_id": 363,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "UŞAK",
+      "il": "UŞAK",
+      "kaynak_metin": "UŞAK , UŞAK",
+      "gidis_id": 397,
+      "donus_id": 397,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "İNAY",
+      "il": "UŞAK",
+      "kaynak_metin": "İNAY , UŞAK",
+      "gidis_id": 352,
+      "donus_id": 352,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 50
+    }
+  ],
+  "meta": {
+    "title": "UŞAK TCDD Tren İstasyonları (Railway stations in UŞAK) - Ücretsiz İndir",
+    "description": "UŞAK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in UŞAK province.) (9 kayıt.) İçerik 9 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "UŞAK TCDD Tren İstasyonları (Railway stations in UŞAK) | ListBase",
+    "seo_description": "İndir UŞAK TCDD Tren İstasyonları (Railway stations in UŞAK) — 9 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 9 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

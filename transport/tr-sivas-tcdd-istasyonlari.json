@@ -1,0 +1,376 @@
+{
+  "id": "tr-sivas-tcdd-istasyonlari",
+  "name": "SİVAS TCDD Tren İstasyonları (Railway stations in SİVAS)",
+  "title": "SİVAS TCDD Tren İstasyonları (Railway stations in SİVAS)",
+  "description": "SİVAS ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in SİVAS province.) (35 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AKGEDİK",
+      "il": "SİVAS",
+      "kaynak_metin": "AKGEDİK , SİVAS",
+      "gidis_id": 1067,
+      "donus_id": 1067,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 80
+    },
+    {
+      "istasyon": "AKÇAMAĞARA",
+      "il": "SİVAS",
+      "kaynak_metin": "AKÇAMAĞARA , SİVAS",
+      "gidis_id": 630,
+      "donus_id": 630,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 95
+    },
+    {
+      "istasyon": "AVŞAR",
+      "il": "SİVAS",
+      "kaynak_metin": "AVŞAR , SİVAS",
+      "gidis_id": 464,
+      "donus_id": 464,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 67
+    },
+    {
+      "istasyon": "AŞAĞI GÜNEŞ",
+      "il": "SİVAS",
+      "kaynak_metin": "AŞAĞI GÜNEŞ , SİVAS",
+      "gidis_id": 443,
+      "donus_id": 443,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 16
+    },
+    {
+      "istasyon": "BAHÇELİ (KM.755+290 S)",
+      "il": "SİVAS",
+      "kaynak_metin": "BAHÇELİ (KM.755+290 S) , SİVAS",
+      "gidis_id": 431,
+      "donus_id": 431,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 15
+    },
+    {
+      "istasyon": "BEDİRLİ",
+      "il": "SİVAS",
+      "kaynak_metin": "BEDİRLİ , SİVAS",
+      "gidis_id": 487,
+      "donus_id": 487,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 83
+    },
+    {
+      "istasyon": "BOSTANKAYA",
+      "il": "SİVAS",
+      "kaynak_metin": "BOSTANKAYA , SİVAS",
+      "gidis_id": 471,
+      "donus_id": 471,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 117
+    },
+    {
+      "istasyon": "BURMAHAN (KM.801+150)",
+      "il": "SİVAS",
+      "kaynak_metin": "BURMAHAN (KM.801+150) , SİVAS",
+      "gidis_id": 1305,
+      "donus_id": 1305,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "CÜREK",
+      "il": "SİVAS",
+      "kaynak_metin": "CÜREK , SİVAS",
+      "gidis_id": 477,
+      "donus_id": 477,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 60
+    },
+    {
+      "istasyon": "DAZLAK",
+      "il": "SİVAS",
+      "kaynak_metin": "DAZLAK , SİVAS",
+      "gidis_id": 506,
+      "donus_id": 506,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 23
+    },
+    {
+      "istasyon": "DEMİRDAĞ",
+      "il": "SİVAS",
+      "kaynak_metin": "DEMİRDAĞ , SİVAS",
+      "gidis_id": 508,
+      "donus_id": 508,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 56
+    },
+    {
+      "istasyon": "DEMİRİZ",
+      "il": "SİVAS",
+      "kaynak_metin": "DEMİRİZ , SİVAS",
+      "gidis_id": 1068,
+      "donus_id": 1068,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 98
+    },
+    {
+      "istasyon": "DUTLUK",
+      "il": "SİVAS",
+      "kaynak_metin": "DUTLUK , SİVAS",
+      "gidis_id": 620,
+      "donus_id": 620,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "DİVRİĞİ",
+      "il": "SİVAS",
+      "kaynak_metin": "DİVRİĞİ , SİVAS",
+      "gidis_id": 1151,
+      "donus_id": 1151,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 64
+    },
+    {
+      "istasyon": "FIRAT",
+      "il": "SİVAS",
+      "kaynak_metin": "FIRAT , SİVAS",
+      "gidis_id": 652,
+      "donus_id": 652,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 86
+    },
+    {
+      "istasyon": "GÖÇENTAŞI",
+      "il": "SİVAS",
+      "kaynak_metin": "GÖÇENTAŞI , SİVAS",
+      "gidis_id": 472,
+      "donus_id": 472,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 54
+    },
+    {
+      "istasyon": "GÜNEŞ",
+      "il": "SİVAS",
+      "kaynak_metin": "GÜNEŞ , SİVAS",
+      "gidis_id": 510,
+      "donus_id": 510,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 57
+    },
+    {
+      "istasyon": "KALIN",
+      "il": "SİVAS",
+      "kaynak_metin": "KALIN , SİVAS",
+      "gidis_id": 520,
+      "donus_id": 520,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 67
+    },
+    {
+      "istasyon": "SANDAL",
+      "il": "SİVAS",
+      "kaynak_metin": "SANDAL , SİVAS",
+      "gidis_id": 500,
+      "donus_id": 500,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SUBAŞI",
+      "il": "SİVAS",
+      "kaynak_metin": "SUBAŞI , SİVAS",
+      "gidis_id": 1119,
+      "donus_id": 1119,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİVAS",
+      "il": "SİVAS",
+      "kaynak_metin": "SİVAS , SİVAS",
+      "gidis_id": 566,
+      "donus_id": 566,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİVAS(ADATEPE)",
+      "il": "SİVAS",
+      "kaynak_metin": "SİVAS(ADATEPE) , SİVAS",
+      "gidis_id": "",
+      "donus_id": 556,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TECER",
+      "il": "SİVAS",
+      "kaynak_metin": "TECER , SİVAS",
+      "gidis_id": 574,
+      "donus_id": 574,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "TOPULYURDU",
+      "il": "SİVAS",
+      "kaynak_metin": "TOPULYURDU , SİVAS",
+      "gidis_id": "",
+      "donus_id": 1065,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ULAŞŞEHİR",
+      "il": "SİVAS",
+      "kaynak_metin": "ULAŞŞEHİR , SİVAS",
+      "gidis_id": 420,
+      "donus_id": 420,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YAĞDONDURAN",
+      "il": "SİVAS",
+      "kaynak_metin": "YAĞDONDURAN , SİVAS",
+      "gidis_id": 154,
+      "donus_id": 154,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİ KARASAR",
+      "il": "SİVAS",
+      "kaynak_metin": "YENİ KARASAR , SİVAS",
+      "gidis_id": 1089,
+      "donus_id": 1089,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİKANGAL",
+      "il": "SİVAS",
+      "kaynak_metin": "YENİKANGAL , SİVAS",
+      "gidis_id": 456,
+      "donus_id": 456,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YENİÇUBUK",
+      "il": "SİVAS",
+      "kaynak_metin": "YENİÇUBUK , SİVAS",
+      "gidis_id": 502,
+      "donus_id": 502,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YILDIZELİ",
+      "il": "SİVAS",
+      "kaynak_metin": "YILDIZELİ , SİVAS",
+      "gidis_id": 586,
+      "donus_id": 586,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YILDIZELİ YHT",
+      "il": "SİVAS",
+      "kaynak_metin": "YILDIZELİ YHT , SİVAS",
+      "gidis_id": "",
+      "donus_id": 1389,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇETİNKAYA",
+      "il": "SİVAS",
+      "kaynak_metin": "ÇETİNKAYA , SİVAS",
+      "gidis_id": 484,
+      "donus_id": 484,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 133
+    },
+    {
+      "istasyon": "ÇİZÖZÜ",
+      "il": "SİVAS",
+      "kaynak_metin": "ÇİZÖZÜ , SİVAS",
+      "gidis_id": 416,
+      "donus_id": 416,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "ÇİĞDEM",
+      "il": "SİVAS",
+      "kaynak_metin": "ÇİĞDEM , SİVAS",
+      "gidis_id": 638,
+      "donus_id": 638,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 20
+    },
+    {
+      "istasyon": "ŞARKIŞLA",
+      "il": "SİVAS",
+      "kaynak_metin": "ŞARKIŞLA , SİVAS",
+      "gidis_id": 571,
+      "donus_id": 571,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "SİVAS TCDD Tren İstasyonları (Railway stations in SİVAS) - Ücretsiz İndir",
+    "description": "SİVAS ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in SİVAS province.) (35 kayıt.) İçerik 35 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "SİVAS TCDD Tren İstasyonları (Railway stations in SİVAS) | ListBase",
+    "seo_description": "İndir SİVAS TCDD Tren İstasyonları (Railway stations in SİVAS) — 35 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 35 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

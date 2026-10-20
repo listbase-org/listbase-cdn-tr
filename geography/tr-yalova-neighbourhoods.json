@@ -1,0 +1,807 @@
+{
+  "id": "tr-yalova-neighbourhoods",
+  "name": "Yalova Mahalleleri (Yalova Neighbourhoods)",
+  "title": "Yalova Mahalleleri (Yalova Neighbourhoods)",
+  "description": "Yalova ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (108 kayıt.) (All neighbourhoods (mahalle) in Yalova province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Ahmediye Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Aktoprak Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Altınkent Mah (subaşı Beldesi)",
+      "district_name": "Altınova",
+      "postal_code": "77710",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Altınova",
+      "postal_code": "77700",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Denizgören Mah (subaşı Beldesi)",
+      "district_name": "Altınova",
+      "postal_code": "77710",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Devletyolu Altı Mah (çavuşçiftliği Köyü)",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Devletyolu Üstü Mah (çavuşçiftliği Köyü)",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (tavşanlı Beldesi)",
+      "district_name": "Altınova",
+      "postal_code": "77740",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Fevziye Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Geyikdere Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Havuzdere Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Hersek Mah",
+      "district_name": "Altınova",
+      "postal_code": "77700",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Altınova",
+      "postal_code": "77700",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Karadere Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy Altı Mah (tokmak Köyü)",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (tokmak Köyü)",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kaytazdere Beldesi)",
+      "district_name": "Altınova",
+      "postal_code": "77720",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (subaşı Beldesi)",
+      "district_name": "Altınova",
+      "postal_code": "77710",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Sermayecik Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Soğuksu Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Çavuş Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Örencik Köyü",
+      "district_name": "Altınova",
+      "postal_code": "77702",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Şehitlik Mah (tavşanlı Beldesi)",
+      "district_name": "Altınova",
+      "postal_code": "77740",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "50. Yıl Mah",
+      "district_name": "Armutlu",
+      "postal_code": "77500",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Bayır Mah",
+      "district_name": "Armutlu",
+      "postal_code": "77500",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Hayriye Merkez Mah (hayriye Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Armutlu",
+      "postal_code": "77500",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (fıstıklı Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (kapaklı Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (mecidiye Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy Merkezi Mah (selimiye Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah (fıstıklı Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah (mecidiye Köyü)",
+      "district_name": "Armutlu",
+      "postal_code": "77502",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Bayraktepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Gazi Osman Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Güneyköy Mah (güneyköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Kazım Karabekir Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (elmalık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (esadiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (güneyköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hacımehmet Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kadıköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "77210",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kazımiye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kirazlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kurtköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (safran Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (samanlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (soğucak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sugören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Paşakent Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Rüstem Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah (kirazlı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Seyrantepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Sugören Mah (sugören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Süleyman Bey Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Süpürgelik Mah (sugören Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "77202",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Özden Mah (kadıköy Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "77210",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "İsmet Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "77200",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Gökçedere Mah",
+      "district_name": "Termal",
+      "postal_code": "77400",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (akköy Köyü)",
+      "district_name": "Termal",
+      "postal_code": "77402",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (yenimahalle Köyü)",
+      "district_name": "Termal",
+      "postal_code": "77402",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Üvezpınar Mah",
+      "district_name": "Termal",
+      "postal_code": "77400",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "500 Evler Mah",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77600",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Burhaniye Köyü",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Gacık Mah (gacık Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Göllü Mah (gacık Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Kabaklı Köyü",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77610",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Kılıç Merkez Mah (kılıç Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77600",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (denizçalı Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77610",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ilyasköy Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kabaklı Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77610",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (laledere Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çukurköy Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77600",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Siteler Mah",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77600",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Sultaniye Mah",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77600",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Taşköprü Merkez Mah (taşköprü Beldesi)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77610",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Taşköprü Yeni Mah (taşköprü Beldesi)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77610",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Yalova İzmit Karayolu Mah (kılıç Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (ilyasköy Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (çukurköy Köyü)",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77602",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Çiftlikköy",
+      "postal_code": "77600",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Aliye Hanım Mah (esenköy Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77310",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Atakent Mah (koru Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77340",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (koru Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77340",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (teşvikiye Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77330",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Harmanlar Mah",
+      "district_name": "Çınarcık",
+      "postal_code": "77300",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Hasanbaba Mah",
+      "district_name": "Çınarcık",
+      "postal_code": "77300",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah (koru Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77340",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Karpuzdere Mah",
+      "district_name": "Çınarcık",
+      "postal_code": "77300",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (teşvikiye Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77330",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Köy İçi Mah (şenköy Köyü)",
+      "district_name": "Çınarcık",
+      "postal_code": "77302",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Liman Mah (esenköy Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77310",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kocadere Köyü)",
+      "district_name": "Çınarcık",
+      "postal_code": "77302",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ortaburun Köyü)",
+      "district_name": "Çınarcık",
+      "postal_code": "77302",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çalıca Köyü)",
+      "district_name": "Çınarcık",
+      "postal_code": "77302",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Taşliman Mah",
+      "district_name": "Çınarcık",
+      "postal_code": "77300",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah (kocadere Köyü)",
+      "district_name": "Çınarcık",
+      "postal_code": "77302",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Çınarcık",
+      "postal_code": "77300",
+      "city_code": "77",
+      "city_name": "Yalova"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (teşvikiye Beldesi)",
+      "district_name": "Çınarcık",
+      "postal_code": "77330",
+      "city_code": "77",
+      "city_name": "Yalova"
+    }
+  ],
+  "meta": {
+    "title": "Yalova Mahalleleri (Yalova Neighbourhoods) - Ücretsiz İndir",
+    "description": "Yalova ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (108 kayıt.) (All neighbourhoods (mahalle) in Yalova province with their parent district and postal code.) İçerik 108 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Yalova Mahalleleri (Yalova Neighbourhoods) | ListBase",
+    "seo_description": "İndir Yalova Mahalleleri (Yalova Neighbourhoods) — 108 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 108 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

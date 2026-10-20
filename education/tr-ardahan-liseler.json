@@ -1,0 +1,256 @@
+{
+  "id": "tr-ardahan-liseler",
+  "name": "Ardahan Liseleri (High Schools in Ardahan)",
+  "title": "Ardahan Liseleri (High Schools in Ardahan)",
+  "description": "Ardahan ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (15 kayıt) (High schools in Ardahan province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Şehit Piyade Assteğmen Yılmaz Kaan Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Ardahan - Damal - Şehit Piyade Assteğmen Yılmaz Kaan Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Damal",
+      "website": "http://yilmazkaancpl.meb.k12.tr",
+      "enlem": 41.34061734787909,
+      "boylam": 42.856515256304874
+    },
+    {
+      "okul_adi": "Göle Feride Karabacak Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ardahan - Göle - Göle Feride Karabacak Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Göle",
+      "website": "http://golekizmeslek.meb.k12.tr",
+      "enlem": 40.789634323297975,
+      "boylam": 42.612557617564335
+    },
+    {
+      "okul_adi": "Göle Nurettin Yılmaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ardahan - Göle - Göle Nurettin Yılmaz Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Göle",
+      "website": "http://goleasml.meb.k12.tr",
+      "enlem": 40.78822903911393,
+      "boylam": 42.6220794595672
+    },
+    {
+      "okul_adi": "Kazım Karabekir Paşa Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ardahan - Göle - Kazım Karabekir Paşa Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Göle",
+      "website": "http://golekazimkarabekirpasamtal.meb.k12.tr",
+      "enlem": 40.7820998653234,
+      "boylam": 42.599044648547306
+    },
+    {
+      "okul_adi": "Hanak Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Ardahan - Hanak - Hanak Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ardahan",
+      "ilce": "Hanak",
+      "website": "http://hanakanadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    },
+    {
+      "okul_adi": "Ardahan Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ardahan - Merkez - Ardahan Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Merkez",
+      "website": "http://meslekveteknikanadolulisesi.meb.k12.tr",
+      "enlem": 41.10448061988649,
+      "boylam": 42.704423276324405
+    },
+    {
+      "okul_adi": "Ardahan Rekabet Kurumu Fen Lisesi",
+      "tam_ad": "Ardahan - Merkez - Ardahan Rekabet Kurumu Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Ardahan",
+      "ilce": "Merkez",
+      "website": "http://ardahanfenlisesi.meb.k12.tr",
+      "enlem": 41.10375302826843,
+      "boylam": 42.71678289546503
+    },
+    {
+      "okul_adi": "Ardahan Salim Dursunoğlu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Ardahan - Merkez - Ardahan Salim Dursunoğlu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ardahan",
+      "ilce": "Merkez",
+      "website": "http://ardahanihl.meb.k12.tr",
+      "enlem": 41.103798159151154,
+      "boylam": 42.713982719430305
+    },
+    {
+      "okul_adi": "Ardahan Spor Lisesi",
+      "tam_ad": "Ardahan - Merkez - Ardahan Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Ardahan",
+      "ilce": "Merkez",
+      "website": "http://ardahansporlisesi.meb.k12.tr",
+      "enlem": 41.1182730191586,
+      "boylam": 42.71477123870386
+    },
+    {
+      "okul_adi": "Kazım Karabekir Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ardahan - Merkez - Kazım Karabekir Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Merkez",
+      "website": "http://ardahankazimkarabekirmeslekital.meb.k12.tr",
+      "enlem": 41.105232456089574,
+      "boylam": 42.70177057160868
+    },
+    {
+      "okul_adi": "Yalnızçam Lisesi",
+      "tam_ad": "Ardahan - Merkez - Yalnızçam Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Ardahan",
+      "ilce": "Merkez",
+      "website": "http://yalnzcamlisesi.meb.k12.tr",
+      "enlem": 41.05697623494581,
+      "boylam": 42.50263532771601
+    },
+    {
+      "okul_adi": "Posof Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Ardahan - Posof - Posof Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Posof",
+      "website": "http://posoflisesi.meb.k12.tr",
+      "enlem": 41.50827063911966,
+      "boylam": 42.72776922359003
+    },
+    {
+      "okul_adi": "Posof İmam Hatip Lisesi",
+      "tam_ad": "Ardahan - Posof - Posof İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ardahan",
+      "ilce": "Posof",
+      "website": "http://posofimamhatiplisesi.meb.k12.tr",
+      "enlem": 41.50656732458029,
+      "boylam": 42.7254947103454
+    },
+    {
+      "okul_adi": "Çıldır Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Ardahan - Çıldır - Çıldır Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ardahan",
+      "ilce": "Çıldır",
+      "website": "http://cildirihl.meb.k12.tr",
+      "enlem": 41.126405639917806,
+      "boylam": 43.128126469988956
+    },
+    {
+      "okul_adi": "Çıldır Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Ardahan - Çıldır - Çıldır Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ardahan",
+      "ilce": "Çıldır",
+      "website": "http://cildirlisesi.meb.k12.tr",
+      "enlem": 41.125399472155515,
+      "boylam": 43.12909206523432
+    }
+  ],
+  "meta": {
+    "title": "Ardahan Liseleri (High Schools in Ardahan) - Ücretsiz İndir",
+    "description": "Ardahan ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (15 kayıt) (High schools in Ardahan province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 15 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Ardahan Liseleri (High Schools in Ardahan) | ListBase",
+    "seo_description": "İndir Ardahan Liseleri (High Schools in Ardahan) — 15 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 15 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

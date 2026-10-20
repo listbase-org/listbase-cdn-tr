@@ -1,0 +1,142 @@
+{
+  "id": "tr-karabuk-tcdd-istasyonlari",
+  "name": "KARABÜK TCDD Tren İstasyonları (Railway stations in KARABÜK)",
+  "title": "KARABÜK TCDD Tren İstasyonları (Railway stations in KARABÜK)",
+  "description": "KARABÜK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KARABÜK province.) (9 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "BALIKISIK",
+      "il": "KARABÜK",
+      "kaynak_metin": "BALIKISIK , KARABÜK",
+      "gidis_id": 104,
+      "donus_id": 104,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "BOLKUŞ",
+      "il": "KARABÜK",
+      "kaynak_metin": "BOLKUŞ , KARABÜK",
+      "gidis_id": 1041,
+      "donus_id": 1041,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 33
+    },
+    {
+      "istasyon": "CEBECİLER",
+      "il": "KARABÜK",
+      "kaynak_metin": "CEBECİLER , KARABÜK",
+      "gidis_id": 113,
+      "donus_id": 113,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "IBRICAK",
+      "il": "KARABÜK",
+      "kaynak_metin": "IBRICAK , KARABÜK",
+      "gidis_id": 237,
+      "donus_id": 237,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 34
+    },
+    {
+      "istasyon": "KARABÜK",
+      "il": "KARABÜK",
+      "kaynak_metin": "KARABÜK , KARABÜK",
+      "gidis_id": 153,
+      "donus_id": 153,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KAYADİBİ",
+      "il": "KARABÜK",
+      "kaynak_metin": "KAYADİBİ , KARABÜK",
+      "gidis_id": "",
+      "donus_id": 161,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KÖLEMEN",
+      "il": "KARABÜK",
+      "kaynak_metin": "KÖLEMEN , KARABÜK",
+      "gidis_id": "",
+      "donus_id": 226,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "YEŞİLYENİCE",
+      "il": "KARABÜK",
+      "kaynak_metin": "YEŞİLYENİCE , KARABÜK",
+      "gidis_id": "",
+      "donus_id": 220,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇAMLARALTI",
+      "il": "KARABÜK",
+      "kaynak_metin": "ÇAMLARALTI , KARABÜK",
+      "gidis_id": 213,
+      "donus_id": 213,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    }
+  ],
+  "meta": {
+    "title": "KARABÜK TCDD Tren İstasyonları (Railway stations in KARABÜK) - Ücretsiz İndir",
+    "description": "KARABÜK ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KARABÜK province.) (9 kayıt.) İçerik 9 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KARABÜK TCDD Tren İstasyonları (Railway stations in KARABÜK) | ListBase",
+    "seo_description": "İndir KARABÜK TCDD Tren İstasyonları (Railway stations in KARABÜK) — 9 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 9 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

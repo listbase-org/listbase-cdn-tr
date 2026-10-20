@@ -1,0 +1,3467 @@
+{
+  "id": "tr-kocaeli-neighbourhoods",
+  "name": "Kocaeli Mahalleleri (Kocaeli Neighbourhoods)",
+  "title": "Kocaeli Mahalleleri (Kocaeli Neighbourhoods)",
+  "description": "Kocaeli ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (488 kayıt.) (All neighbourhoods (mahalle) in Kocaeli province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 488,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Aksığın Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Altınkent Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Atakent Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41275",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Aydınkent Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41190",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Camidüzü Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Damlar Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41245",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Doğantepe Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Döngel Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41190",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Havuzlubahçe Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41030",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karadenizliler Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41245",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kazandere Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kullar Tepecik Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kullar Yakacık Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Körfez Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41245",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kılıçarslan Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41030",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mahmutpaşa Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mehmetağa Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Paşadağ Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41190",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sepetlipınar Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41275",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sepetlipınar Sb Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41275",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Serdar Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41190",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Serindere Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Servetiye Cami Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Servetiye Karşı Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Seymen Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41245",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41090",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Vezirçiftliği Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41140",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Merkez Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41275",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41030",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41190",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yuvacık Yakacık Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41190",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şehitekrem Mah",
+      "district_name": "Başiskele",
+      "postal_code": "41030",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Abdi İpekçi Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bayramoğlu Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cami Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fevziçakmak Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kazımkarabekir Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Nenehatun Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Osmangazi Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Piri Reis Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sırasöğütler Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yalı Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Zincirlikuyu Mah",
+      "district_name": "Darıca",
+      "postal_code": "41700",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Deniz Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Geredeli Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karagöllü Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kaşıkçı Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mersincik Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sırrıpaşa Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tahtalı Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Terziler Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Toylar Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yavuz Sultan Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çenedağ Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İbnisina Mah",
+      "district_name": "Derince",
+      "postal_code": "41900",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Demirciler Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Demircilerosb Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Diliskelesi Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dilovasıosb Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kayapınar Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kocaeli-gebze Kömürcüler Osb Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Köseler Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Orhangazi Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tavşancıl Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Turgut Özal Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çerkeşli Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çerkeşliosb Mah",
+      "district_name": "Dilovası",
+      "postal_code": "41455",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Adem Yavuz Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ahatlı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Arapçeşme Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Balçık Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Barış Sb Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Beylikbağı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumaköy Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Denizli Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Duraklı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Elbizli Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Eskihisar Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gebze Dilovası Osb Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gebze Osb Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Güzeller Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacıhalil Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hatipler Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kadıllı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kargalı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kirazpınar Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Köşklü Çeşme Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mollafenari Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Muallimköy Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mudarlı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mustafapaşa Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Osman Yılmaz Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pelitli Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sultan Orhan Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tatlıkuyu Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tavşanlı Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tepemanayır Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ulus Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yavuz Selim Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah Gebze Plastikçiler Osb Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah.gebze Güzeller Osb Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Gebze",
+      "postal_code": "41400",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ayvazpınarı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Deniz Evler Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Değirmendere Merkez Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Değirmendere Yalı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Donanma Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Düzağaç Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Eskiferhadiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ferhadiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Halıdere Yalı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Halıdere Yeni Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hasaneyn Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hisareyn Merkez Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karaköprü Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Körfez Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Lütfiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mamuriye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mesruriye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Nimetiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Nüzhetiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Panayır Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Piyalepaşa Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Saraylı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Siyretiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Topçular Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ulaşlı Yalı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ulaşlı Yavuz Sultan Selim Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yazlık Merkez Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yazlık Yeni Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yüzbaşılar Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41950",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Örcün Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ümmiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İcadiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Merkez Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İpek Yolu Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İrşadiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şehitler Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şevketiye Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şirinköy Mah",
+      "district_name": "Gölcük",
+      "postal_code": "41650",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ahmethacılar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akbal Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akdurak Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akçabeyli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akçakese Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akçaova Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akıncı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alaybey Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alefli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Antaplı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Avdan Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Aydınlık Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ağaçağıl Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Babaköy Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Babalı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Balaban Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Balcı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ballar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bağırganlı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Beyce Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Beylerbeyi Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bolu Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bozburun Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cebeci Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dalca Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Deliveli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Doğancılı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Duraklı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Döngelli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Elmacık Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Eğercili Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ferizli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gebeşler Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Goncaaydın Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacımazlı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacışeyh Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hediyeli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hüdaverdiler Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hıdırlar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kabaağaç Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kanatlar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karadivan Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karlı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kaymaz Erikli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kaymaz Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kefken Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kerpe Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kocakaymas Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kubuzcu Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kurtyeri Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kırkarmut Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kızılcapınar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Lokmanlı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mancarlar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Merkez Erikli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mülküşehsuvar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Nasuhlar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Orhan Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pelitpınarı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pirceler Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pınardüzü Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Safalı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sarnıçlar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sarıahmetler Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sarıcaali Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sarıgazi Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Selametli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Selimköy Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sepetçi Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Seyitaliler Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sinanlıbilallı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sucuali Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Süllü Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tatarahmet Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Teksen Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Terziler Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Topluca Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yağcılar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yusufça Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çakmaklar Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çakırcaali Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çalca Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çalköy Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çalyer Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çamkonak Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çarşı Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çerçili Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ömerli Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Özbey Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Üğümce Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İncecik Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şerefsungur Mah",
+      "district_name": "Kandıra",
+      "postal_code": "41600",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "4 Temmuz Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akçat Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Avcıköy Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ereğli Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fulacık Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hayriye Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kadriye Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karaahmetli Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kayacık Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kızderbent Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Oluklu Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pazarköy Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Safiye Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Semetler Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Senaiye Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Suludere Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tahtalı Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yalakdere Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çamdibi Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çamçukur Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İnebeyli Mah",
+      "district_name": "Karamürsel",
+      "postal_code": "41500",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Acısu Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Arslanbey Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41285",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Arslanbey Osb Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41285",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ataevler Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41180",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ataşehir Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41285",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Balaban Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Derbent Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41250",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Emekevler Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41180",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ertuğrul Gazi Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41180",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Eşme Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41255",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Eşmeahmediye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fatih Sultan Mehmet Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41250",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Havluburun Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karatepe Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ketenciler Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Köseköy Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41250",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Maşukiye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41295",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Nusretiye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Pazarçayırı Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Rahmiye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41285",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sarımeşe Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41285",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Serinlik Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Suadiye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41170",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sultaniye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Uzunbey Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41180",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Uzuntarla Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41255",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Uzunçiftlik Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41180",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çepni Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41170",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İbrikdere Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41255",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41250",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şevkatiye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41285",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şirinsulhiye Mah",
+      "district_name": "Kartepe",
+      "postal_code": "41080",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "17 Ağustos Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Agah Ateş Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alihocalar Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Atalar Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Belen Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cuma Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dikenli Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Elmacık Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacı Akif Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacı Osman Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Himmetli Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kalburcu Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karayakuplu Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kirazlıyalı Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kutluca Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kuzey Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kışladüzü Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Naip Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Osmanlı Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sevindikli Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sipahiler Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yavuz Sultan Selim Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeniyalı Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yukarı Hereke Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çamlıtepe Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çıraklı Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İlimtepe Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şemsettin Mah",
+      "district_name": "Körfez",
+      "postal_code": "41780",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şirinyalı Mah",
+      "district_name": "Körfez",
+      "postal_code": "41800",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akse Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gebze Osb2 Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tosb Otomotiv  Mah (osb Mah)",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çayırova Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Özgürlük Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şekerpınar Mah",
+      "district_name": "Çayırova",
+      "postal_code": "41420",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "28 Haziran Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akarca Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akmeşe Atatürk Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akmeşe Cumhuriyet Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Akçakoca Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alikahya Atatürk Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alikahya Cumhuriyet Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alikahya Fatih Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alikahya Merkez Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Alikahya Osb Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ambarcı Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Arpalıkihsaniye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Arızlı Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Atatürk  Mah (osb Mah)",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ayazma Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Balören Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bayraktar Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bağlıca Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bekirdere Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Biberoğlu Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Bulduk Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Böğürgen Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cedit Mah",
+      "district_name": "İzmit",
+      "postal_code": "41300",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Dağköy Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Doğan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Durhasan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Düğmeciler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Emirhan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Eseler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fethiye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gedikli Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gökçeören Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gülbahçe Kadriye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Güvercinlik Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacıhasan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hacıhızır Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hakaniye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hasancıklar Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Hatipköy Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kabaoğlu Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "İzmit",
+      "postal_code": "41050",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karaabdülbaki Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karabaş Mah",
+      "district_name": "İzmit",
+      "postal_code": "41040",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Karadenizliler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41310",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kaynarca Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kocatepe Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kozluca Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kozluk Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kulfallı Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kulmahmut Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kurtdere Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kuruçeşme Fatih Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Körfez Mah",
+      "district_name": "İzmit",
+      "postal_code": "41040",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Kısalar Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "M.alipaşa Mah",
+      "district_name": "İzmit",
+      "postal_code": "41050",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Malta Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Mecidiye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Nebihoca Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Orhan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ortaburun Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "İzmit",
+      "postal_code": "41040",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sapakpınar Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sarışeyh Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sekbanlı Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sepetçi Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Serdar Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Sultaniye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Süverler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tavşantepe Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Terzibayırı Mah",
+      "district_name": "İzmit",
+      "postal_code": "41300",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Topçular Mah",
+      "district_name": "İzmit",
+      "postal_code": "41300",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Turgut Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Tüysüzler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Veliahmet Mah",
+      "district_name": "İzmit",
+      "postal_code": "41200",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yahyakaptan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41050",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yassıbağ Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yenişehir Mah",
+      "district_name": "İzmit",
+      "postal_code": "41050",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "İzmit",
+      "postal_code": "41060",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Zabıtan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Zeytinburnu Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çavuşoğlu Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çayırköy Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çağırgan Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çubuklubala Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çubukluosmaniye Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Mah",
+      "district_name": "İzmit",
+      "postal_code": "41300",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Ömerağa Mah",
+      "district_name": "İzmit",
+      "postal_code": "41300",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şahinler Mah",
+      "district_name": "İzmit",
+      "postal_code": "41001",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    },
+    {
+      "neighbourhood_name": "Şirintepe Mah",
+      "district_name": "İzmit",
+      "postal_code": "41100",
+      "city_code": "41",
+      "city_name": "Kocaeli"
+    }
+  ],
+  "meta": {
+    "title": "Kocaeli Mahalleleri (Kocaeli Neighbourhoods) - Ücretsiz İndir",
+    "description": "Kocaeli ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (488 kayıt.) (All neighbourhoods (mahalle) in Kocaeli province with their parent district and postal code.) İçerik 488 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Kocaeli Mahalleleri (Kocaeli Neighbourhoods) | ListBase",
+    "seo_description": "İndir Kocaeli Mahalleleri (Kocaeli Neighbourhoods) — 488 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 488 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

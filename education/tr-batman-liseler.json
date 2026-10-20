@@ -1,0 +1,340 @@
+{
+  "id": "tr-batman-liseler",
+  "name": "Batman Liseleri (High Schools in Batman)",
+  "title": "Batman Liseleri (High Schools in Batman)",
+  "description": "Batman ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (22 kayıt) (High schools in Batman province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Beşiri Anadolu Lisesi",
+      "tam_ad": "Batman - Beşiri - Beşiri Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Beşiri",
+      "website": "http://besirial.meb.k12.tr",
+      "enlem": 37.92106042454477,
+      "boylam": 41.287476626773014
+    },
+    {
+      "okul_adi": "Beşiri Kız Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Batman - Beşiri - Beşiri Kız Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Batman",
+      "ilce": "Beşiri",
+      "website": "http://besirikizanadoluihl.meb.k12.tr",
+      "enlem": 37.923565586960535,
+      "boylam": 41.29036268367304
+    },
+    {
+      "okul_adi": "Beşiri Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Batman - Beşiri - Beşiri Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Batman",
+      "ilce": "Beşiri",
+      "website": "http://besirimtal.meb.k12.tr",
+      "enlem": 37.922025260714726,
+      "boylam": 41.288174001116886
+    },
+    {
+      "okul_adi": "Yunus Emre Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Batman - Beşiri - Yunus Emre Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Batman",
+      "ilce": "Beşiri",
+      "website": "http://besiriktml.meb.k12.tr",
+      "enlem": 37.923531733983424,
+      "boylam": 41.290706006426944
+    },
+    {
+      "okul_adi": "Dicle Anadolu Lisesi",
+      "tam_ad": "Batman - Gercüş - Dicle Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Gercüş",
+      "website": "http://dicleanadolu.meb.k12.tr",
+      "enlem": 37.570890892379566,
+      "boylam": 41.39077386035456
+    },
+    {
+      "okul_adi": "Gercüş Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Batman - Gercüş - Gercüş Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Batman",
+      "ilce": "Gercüş",
+      "website": "http://gercusaihl.meb.k12.tr",
+      "enlem": 37.56970887281906,
+      "boylam": 41.39014622344507
+    },
+    {
+      "okul_adi": "Gercüş Kayapınar Anadolu Lisesi",
+      "tam_ad": "Batman - Gercüş - Gercüş Kayapınar Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Gercüş",
+      "website": "http://kayapinaranadolulisesi.meb.k12.tr",
+      "enlem": 37.558202335570954,
+      "boylam": 41.167367307086124
+    },
+    {
+      "okul_adi": "Gercüş Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Batman - Gercüş - Gercüş Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Gercüş",
+      "website": "http://gercuscpal.meb.k12.tr",
+      "enlem": 37.568641637604905,
+      "boylam": 41.3804795421554
+    },
+    {
+      "okul_adi": "Gerçüş Anadolu Lisesi",
+      "tam_ad": "Batman - Gercüş - Gerçüş Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Gercüş",
+      "website": "http://gercusanadolulisesi.meb.k12.tr",
+      "enlem": 37.5684928187307,
+      "boylam": 41.38668617381586
+    },
+    {
+      "okul_adi": "Hasankeyf Beşir Tutuş Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Batman - Hasankeyf - Hasankeyf Beşir Tutuş Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Hasankeyf",
+      "website": "http://besirtutuscpl.meb.k12.tr",
+      "enlem": 37.73491565974751,
+      "boylam": 41.41058465613855
+    },
+    {
+      "okul_adi": "15 Temmuz Anadolu Lisesi",
+      "tam_ad": "Batman - Kozluk - 15 Temmuz Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Kozluk",
+      "website": "http://15temmuzanadolulisesi.meb.k12.tr",
+      "enlem": 38.164777045955454,
+      "boylam": 41.50409182681574
+    },
+    {
+      "okul_adi": "Kozluk Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Batman - Kozluk - Kozluk Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Batman",
+      "ilce": "Kozluk",
+      "website": "http://kozlukimamhatip.meb.k12.tr",
+      "enlem": 38.176062746766775,
+      "boylam": 41.501077023883
+    },
+    {
+      "okul_adi": "Kozluk Merkez Anadolu Lisesi",
+      "tam_ad": "Batman - Kozluk - Kozluk Merkez Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Kozluk",
+      "website": "http://kozlukmerkezanadolulisesi.meb.k12.tr",
+      "enlem": 38.19297958916273,
+      "boylam": 41.48709735049738
+    },
+    {
+      "okul_adi": "Şehit Şenay Aybüke Yalçın  Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Batman - Kozluk - Şehit Şenay Aybüke Yalçın  Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Kozluk",
+      "website": "http://kozlukcpl.meb.k12.tr",
+      "enlem": 38.17763147265823,
+      "boylam": 41.50886615886225
+    },
+    {
+      "okul_adi": "Ahmedi Hani Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Batman - Merkez - Ahmedi Hani Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Batman",
+      "ilce": "Merkez",
+      "website": "http://ahmedihanianadoluihl.meb.k12.tr",
+      "enlem": 37.91475905601605,
+      "boylam": 41.1302079833938
+    },
+    {
+      "okul_adi": "Atatürk Anadolu Lisesi",
+      "tam_ad": "Batman - Merkez - Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Merkez",
+      "website": "http://batmanataturkal.meb.k12.tr",
+      "enlem": 37.86967943938347,
+      "boylam": 41.12729108109011
+    },
+    {
+      "okul_adi": "Gazi Erkek İmam Hatip Lisesi",
+      "tam_ad": "Batman - Merkez - Gazi Erkek İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Batman",
+      "ilce": "Merkez",
+      "website": "http://gazierkekihl.meb.k12.tr",
+      "enlem": 37.95043147180753,
+      "boylam": 41.14245226754679
+    },
+    {
+      "okul_adi": "Yunus Emre Anadolu Lisesi",
+      "tam_ad": "Batman - Merkez - Yunus Emre Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Merkez",
+      "website": "http://batmanyeal.meb.k12.tr",
+      "enlem": 37.91593134610468,
+      "boylam": 41.12852892055048
+    },
+    {
+      "okul_adi": "Zeynel Bey Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Batman - Merkez - Zeynel Bey Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Batman",
+      "ilce": "Merkez",
+      "website": "http://zeynelbey.meb.k12.tr",
+      "enlem": 37.83824967676391,
+      "boylam": 41.131908503909244
+    },
+    {
+      "okul_adi": "Sason Anadolu Lisesi",
+      "tam_ad": "Batman - Sason - Sason Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Sason",
+      "website": "http://sasonanadolulisesi.meb.k12.tr",
+      "enlem": 38.33545272965091,
+      "boylam": 41.410568562884464
+    },
+    {
+      "okul_adi": "Sason Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Batman - Sason - Sason Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Batman",
+      "ilce": "Sason",
+      "website": "http://sasonmtal.meb.k12.tr",
+      "enlem": 38.33574727578431,
+      "boylam": 41.425546018023624
+    },
+    {
+      "okul_adi": "Sason Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Batman - Sason - Sason Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Batman",
+      "ilce": "Sason",
+      "website": "http://sasoncpal.meb.k12.tr",
+      "enlem": 38.33573886019715,
+      "boylam": 41.4172204412414
+    }
+  ],
+  "meta": {
+    "title": "Batman Liseleri (High Schools in Batman) - Ücretsiz İndir",
+    "description": "Batman ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (22 kayıt) (High schools in Batman province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 22 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Batman Liseleri (High Schools in Batman) | ListBase",
+    "seo_description": "İndir Batman Liseleri (High Schools in Batman) — 22 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 22 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

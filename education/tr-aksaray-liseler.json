@@ -1,0 +1,364 @@
+{
+  "id": "tr-aksaray-liseler",
+  "name": "Aksaray Liseleri (High Schools in Aksaray)",
+  "title": "Aksaray Liseleri (High Schools in Aksaray)",
+  "description": "Aksaray ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (24 kayıt) (High schools in Aksaray province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Ağaçören Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Aksaray - Ağaçören - Ağaçören Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Aksaray",
+      "ilce": "Ağaçören",
+      "website": "http://agacorenaihl.meb.k12.tr",
+      "enlem": 38.8793728907749,
+      "boylam": 33.915124741931095
+    },
+    {
+      "okul_adi": "Ağaçören Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Aksaray - Ağaçören - Ağaçören Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Ağaçören",
+      "website": "http://agacorencpl.meb.k12.tr",
+      "enlem": 38.879498171686265,
+      "boylam": 33.91525348796381
+    },
+    {
+      "okul_adi": "Eskil Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Aksaray - Eskil - Eskil Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Aksaray",
+      "ilce": "Eskil",
+      "website": "http://eskilaihl.meb.k12.tr",
+      "enlem": 38.40504590939465,
+      "boylam": 33.409753648181095
+    },
+    {
+      "okul_adi": "Eşmekaya Anadolu Lisesi",
+      "tam_ad": "Aksaray - Eskil - Eşmekaya Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Eskil",
+      "website": "http://esmekayalisesi.meb.k12.tr",
+      "enlem": 38.256462790026696,
+      "boylam": 33.44277700557245
+    },
+    {
+      "okul_adi": "Gülağaç 75. Yıl Anadolu Lisesi",
+      "tam_ad": "Aksaray - Gülağaç - Gülağaç 75. Yıl Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Gülağaç",
+      "website": "http://gulagac75ylal.meb.k12.tr",
+      "enlem": 38.38581953176695,
+      "boylam": 34.33970770015253
+    },
+    {
+      "okul_adi": "Gülpınar Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Aksaray - Gülağaç - Gülpınar Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Gülağaç",
+      "website": "http://gulpinarcpl.meb.k12.tr",
+      "enlem": 38.425448108260575,
+      "boylam": 34.36359813584818
+    },
+    {
+      "okul_adi": "Saratlı Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Aksaray - Gülağaç - Saratlı Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Gülağaç",
+      "website": "http://saratlicpl.meb.k12.tr",
+      "enlem": 38.447151166418074,
+      "boylam": 34.2336209691955
+    },
+    {
+      "okul_adi": "Güzelyurt Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Aksaray - Güzelyurt - Güzelyurt Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Aksaray",
+      "ilce": "Güzelyurt",
+      "website": "http://guzelyurtaihl68.meb.k12.tr",
+      "enlem": 38.26972640687103,
+      "boylam": 34.37494119777216
+    },
+    {
+      "okul_adi": "Güzelyurt Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Aksaray - Güzelyurt - Güzelyurt Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Güzelyurt",
+      "website": "http://guzelyurtlisesi68.meb.k12.tr",
+      "enlem": 38.27799335547155,
+      "boylam": 34.365006295581
+    },
+    {
+      "okul_adi": "Ihlara Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Aksaray - Güzelyurt - Ihlara Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Güzelyurt",
+      "website": "http://ihlaramtalisesi.meb.k12.tr",
+      "enlem": 38.24183588737322,
+      "boylam": 34.30279513968958
+    },
+    {
+      "okul_adi": "75. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - 75. Yıl Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://75atem.meb.k12.tr",
+      "enlem": 38.36701284677266,
+      "boylam": 34.04466470851435
+    },
+    {
+      "okul_adi": "Aksaray Merkez Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - Aksaray Merkez Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://aksarayanadolulisesi.meb.k12.tr",
+      "enlem": 38.37467362841777,
+      "boylam": 34.02818789853586
+    },
+    {
+      "okul_adi": "Kanber Demir Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - Kanber Demir Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://kdal.meb.k12.tr",
+      "enlem": 38.35499957958564,
+      "boylam": 34.037465659518375
+    },
+    {
+      "okul_adi": "Necmiye-mehmet Yazıcı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - Necmiye - Mehmet Yazıcı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://aksaraykml.meb.k12.tr",
+      "enlem": 38.36021987513642,
+      "boylam": 33.99139603747858
+    },
+    {
+      "okul_adi": "Sultanhanı Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Aksaray - Merkez - Sultanhanı Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://sultanhaniaihl.meb.k12.tr",
+      "enlem": 38.2393879528606,
+      "boylam": 33.54297360553278
+    },
+    {
+      "okul_adi": "Taşpınar Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - Taşpınar Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://taspinaral.meb.k12.tr",
+      "enlem": 38.175000042298365,
+      "boylam": 34.0346064247085
+    },
+    {
+      "okul_adi": "Yeşilova Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - Yeşilova Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://yesiloval.meb.k12.tr",
+      "enlem": 38.40547889597982,
+      "boylam": 33.83839210643305
+    },
+    {
+      "okul_adi": "Yunus Emre Anadolu Lisesi",
+      "tam_ad": "Aksaray - Merkez - Yunus Emre Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Merkez",
+      "website": "http://aksarayunusemre.meb.k12.tr",
+      "enlem": 38.41200280701517,
+      "boylam": 34.00170644893183
+    },
+    {
+      "okul_adi": "Ertuğrul Gazi Anadolu Lisesi",
+      "tam_ad": "Aksaray - Ortaköy - Ertuğrul Gazi Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Ortaköy",
+      "website": "http://ertugrulgazianadolulisesi.meb.k12.tr",
+      "enlem": 38.737923798308906,
+      "boylam": 34.03779825343622
+    },
+    {
+      "okul_adi": "Ortaköy Anadolu Lisesi",
+      "tam_ad": "Aksaray - Ortaköy - Ortaköy Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Ortaköy",
+      "website": "http://ortakoyanadolulisesi.meb.k12.tr",
+      "enlem": 38.72821129880828,
+      "boylam": 34.051193205256595
+    },
+    {
+      "okul_adi": "Ortaköy Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Aksaray - Ortaköy - Ortaköy Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Ortaköy",
+      "website": "http://ometem.meb.k12.tr",
+      "enlem": 38.746116254332335,
+      "boylam": 34.04167136325373
+    },
+    {
+      "okul_adi": "İbn-i Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Aksaray - Ortaköy - İbn - İ Sina Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Ortaköy",
+      "website": "http://ortakoysml.meb.k12.tr",
+      "enlem": 38.753830864225115,
+      "boylam": 34.057721701998844
+    },
+    {
+      "okul_adi": "Şehit Nurullah Sabırer Fen Lisesi",
+      "tam_ad": "Aksaray - Ortaköy - Şehit Nurullah Sabırer Fen Lisesi",
+      "tur_kodu": "fen_lisesi",
+      "tur": "Fen Lisesi",
+      "tur_en": "Science High School",
+      "il": "Aksaray",
+      "ilce": "Ortaköy",
+      "website": "http://ortakoyfenlisesi.meb.k12.tr",
+      "enlem": 38.72824059312311,
+      "boylam": 34.05080160274042
+    },
+    {
+      "okul_adi": "Hacı Mehmet Cömert Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Aksaray - Sarıyahşi - Hacı Mehmet Cömert Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Aksaray",
+      "ilce": "Sarıyahşi",
+      "website": "http://hmcl.meb.k12.tr",
+      "enlem": 38.97824259504485,
+      "boylam": 33.84188970698847
+    }
+  ],
+  "meta": {
+    "title": "Aksaray Liseleri (High Schools in Aksaray) - Ücretsiz İndir",
+    "description": "Aksaray ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (24 kayıt) (High schools in Aksaray province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 24 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Aksaray Liseleri (High Schools in Aksaray) | ListBase",
+    "seo_description": "İndir Aksaray Liseleri (High Schools in Aksaray) — 24 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 24 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

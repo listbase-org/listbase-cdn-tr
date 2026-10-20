@@ -1,0 +1,82 @@
+{
+  "id": "tr-usak-districts",
+  "name": "Uşak İlçeleri (Uşak Districts)",
+  "title": "Uşak İlçeleri (Uşak Districts)",
+  "description": "Uşak ilinin ilçeleri. (Districts (ilçe) of Uşak province in Türkiye.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_name": "Banaz",
+      "slug": "banaz",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "district_name": "Eşme",
+      "slug": "esme",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "district_name": "Karahallı",
+      "slug": "karahalli",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "district_name": "Merkez",
+      "slug": "merkez",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "district_name": "Sivaslı",
+      "slug": "sivasli",
+      "city_code": "64",
+      "city_name": "Uşak"
+    },
+    {
+      "district_name": "Ulubey",
+      "slug": "ulubey",
+      "city_code": "64",
+      "city_name": "Uşak"
+    }
+  ],
+  "meta": {
+    "title": "Uşak İlçeleri (Uşak Districts) - Ücretsiz İndir",
+    "description": "Uşak ilinin ilçeleri. (Districts (ilçe) of Uşak province in Türkiye.) İçerik 6 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Uşak İlçeleri (Uşak Districts) | ListBase",
+    "seo_description": "İndir Uşak İlçeleri (Uşak Districts) — 6 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 6 kayıt / 4 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

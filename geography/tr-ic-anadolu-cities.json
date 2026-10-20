@@ -1,0 +1,202 @@
+{
+  "id": "tr-ic-anadolu-cities",
+  "name": "İç Anadolu Bölgesi İlleri (Central Anatolia Region — Provinces)",
+  "title": "İç Anadolu Bölgesi İlleri (Central Anatolia Region — Provinces)",
+  "description": "İç Anadolu Bölgesi'nde yer alan 15 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 15 provinces of Central Anatolia Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².)",
+  "category": "geography",
+  "source": "https://github.com/snrylmz/il-ilce-json",
+  "source_url": "https://github.com/snrylmz/il-ilce-json",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "data_quality_notes",
+      "label": "Data Quality Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "06",
+      "name": "Ankara",
+      "slug": "ankara",
+      "area_code": "312",
+      "area_km2": 25632,
+      "population": 5782285,
+      "density_per_km2": 225.6
+    },
+    {
+      "code": "42",
+      "name": "Konya",
+      "slug": "konya",
+      "area_code": "332",
+      "area_km2": 40838,
+      "population": 2296347,
+      "density_per_km2": 56.2
+    },
+    {
+      "code": "38",
+      "name": "Kayseri",
+      "slug": "kayseri",
+      "area_code": "352",
+      "area_km2": 16970,
+      "population": 1441523,
+      "density_per_km2": 84.9
+    },
+    {
+      "code": "26",
+      "name": "Eskişehir",
+      "slug": "eskisehir",
+      "area_code": "222",
+      "area_km2": 13960,
+      "population": 906617,
+      "density_per_km2": 64.9
+    },
+    {
+      "code": "58",
+      "name": "Sivas",
+      "slug": "sivas",
+      "area_code": "346",
+      "area_km2": 28164,
+      "population": 634924,
+      "density_per_km2": 22.5
+    },
+    {
+      "code": "60",
+      "name": "Tokat",
+      "slug": "tokat",
+      "area_code": "356",
+      "area_km2": 10042,
+      "population": 596454,
+      "density_per_km2": 59.4
+    },
+    {
+      "code": "43",
+      "name": "Kütahya",
+      "slug": "kutahya",
+      "area_code": "274",
+      "area_km2": "",
+      "population": 580701,
+      "density_per_km2": "",
+      "data_quality_notes": "Source 'yuzolcumu' = 577.941 parses to 577,941 km² which exceeds Türkiye's total land area of 783,562 km² — treated as a source-side typo and nullified. Real value per published TÜİK / harita.gov.tr statistics is approximately 11,634 km² but is NOT inserted here per project no-fabrication rule."
+    },
+    {
+      "code": "68",
+      "name": "Aksaray",
+      "slug": "aksaray",
+      "area_code": "382",
+      "area_km2": 7659,
+      "population": 433055,
+      "density_per_km2": 56.5
+    },
+    {
+      "code": "66",
+      "name": "Yozgat",
+      "slug": "yozgat",
+      "area_code": "354",
+      "area_km2": 13690,
+      "population": 418442,
+      "density_per_km2": 30.6
+    },
+    {
+      "code": "51",
+      "name": "Niğde",
+      "slug": "nigde",
+      "area_code": "388",
+      "area_km2": 7234,
+      "population": 365419,
+      "density_per_km2": 50.5
+    },
+    {
+      "code": "50",
+      "name": "Nevşehir",
+      "slug": "nevsehir",
+      "area_code": "384",
+      "area_km2": 5485,
+      "population": 310011,
+      "density_per_km2": 56.5
+    },
+    {
+      "code": "71",
+      "name": "Kırıkkale",
+      "slug": "kirikkale",
+      "area_code": "318",
+      "area_km2": 4791,
+      "population": 277046,
+      "density_per_km2": 57.8
+    },
+    {
+      "code": "70",
+      "name": "Karaman",
+      "slug": "karaman",
+      "area_code": "338",
+      "area_km2": 8678,
+      "population": 260838,
+      "density_per_km2": 30.1
+    },
+    {
+      "code": "40",
+      "name": "Kırşehir",
+      "slug": "kirsehir",
+      "area_code": "386",
+      "area_km2": 6584,
+      "population": 244519,
+      "density_per_km2": 37.1
+    },
+    {
+      "code": "18",
+      "name": "Çankırı",
+      "slug": "cankiri",
+      "area_code": "376",
+      "area_km2": 7542,
+      "population": 195766,
+      "density_per_km2": 26
+    }
+  ],
+  "meta": {
+    "title": "İç Anadolu Bölgesi İlleri (Central Anatolia Region — Provinces) - Ücretsiz İndir",
+    "description": "İç Anadolu Bölgesi'nde yer alan 15 ilin listesi. Her il için plaka kodu, telefon alan kodu, yüzölçümü (km²), nüfus (ADNS 2022) ve kilometrekare başına yoğunluk değerleri verilmiştir. (The 15 provinces of Central Anatolia Region with plate code, telephone area code, area (km²), 2022 ADNS population, and density per km².) İçerik 15 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "İç Anadolu Bölgesi İlleri (Central Anatolia Region — Provinces) | ListBase",
+    "seo_description": "İndir İç Anadolu Bölgesi İlleri (Central Anatolia Region — Provinces) — 15 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 15 kayıt / 8 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/snrylmz/il-ilce-json"
+    ]
+  }
+}

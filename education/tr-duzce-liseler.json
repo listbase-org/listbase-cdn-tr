@@ -1,0 +1,340 @@
+{
+  "id": "tr-duzce-liseler",
+  "name": "Düzce Liseleri (High Schools in Düzce)",
+  "title": "Düzce Liseleri (High Schools in Düzce)",
+  "description": "Düzce ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (22 kayıt) (High schools in Düzce province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Akcakoca Anadolu Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akcakoca Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akal81.meb.k12.tr",
+      "enlem": 41.08733156720638,
+      "boylam": 31.16595706119074
+    },
+    {
+      "okul_adi": "Akçakoca Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akçakoca Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akcakocaihl.meb.k12.tr",
+      "enlem": 41.08380579466362,
+      "boylam": 31.127043572802677
+    },
+    {
+      "okul_adi": "Akçakoca Fedai Karabıyık Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akçakoca Fedai Karabıyık Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akcakocaatleml.meb.k12.tr",
+      "enlem": 41.08887605476426,
+      "boylam": 31.146076527972355
+    },
+    {
+      "okul_adi": "Akçakoca Nene Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akçakoca Nene Hatun Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akcakocakml.meb.k12.tr",
+      "enlem": 41.08885988230781,
+      "boylam": 31.13275131358637
+    },
+    {
+      "okul_adi": "Akçakoca Piri Reis Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akçakoca Piri Reis Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akcakocapirireismtal.meb.k12.tr",
+      "enlem": 41.08824532601108,
+      "boylam": 31.119297353167667
+    },
+    {
+      "okul_adi": "Akçakoca Sosyal Bilimler Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akçakoca Sosyal Bilimler Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akcakocasbl.meb.k12.tr",
+      "enlem": 41.08479137226461,
+      "boylam": 31.118998286862507
+    },
+    {
+      "okul_adi": "Akçakoca Süha Güven Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Akçakoca Süha Güven Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://akcakocaaotml.meb.k12.tr",
+      "enlem": 41.08842322447753,
+      "boylam": 31.146334020037784
+    },
+    {
+      "okul_adi": "Barbaros Anadolu Lisesi",
+      "tam_ad": "Düzce - Akçakoca - Barbaros Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Akçakoca",
+      "website": "http://barbarosal.meb.k12.tr",
+      "enlem": 41.0871294064621,
+      "boylam": 31.142342893023624
+    },
+    {
+      "okul_adi": "Cumayeri Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Düzce - Cumayeri - Cumayeri Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Düzce",
+      "ilce": "Cumayeri",
+      "website": "http://cumayerianadoluimamhatiplisesi.meb.k12.tr",
+      "enlem": 40.865982601819255,
+      "boylam": 30.959072915454044
+    },
+    {
+      "okul_adi": "Gölyaka Anadolu Lisesi",
+      "tam_ad": "Düzce - Gölyaka - Gölyaka Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Gölyaka",
+      "website": "http://golyakaanadolu.meb.k12.tr",
+      "enlem": 40.78026790836051,
+      "boylam": 31.016552654643192
+    },
+    {
+      "okul_adi": "Gölyaka Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Gölyaka - Gölyaka Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Gölyaka",
+      "website": "http://golyakamtal.meb.k12.tr",
+      "enlem": 40.78058880912832,
+      "boylam": 31.010163632769718
+    },
+    {
+      "okul_adi": "Gümüşova Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Düzce - Gümüşova - Gümüşova Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Düzce",
+      "ilce": "Gümüşova",
+      "website": "http://gumusovabistaihl.meb.k12.tr",
+      "enlem": 40.85019977513537,
+      "boylam": 30.938584861893787
+    },
+    {
+      "okul_adi": "Şehit Sabri Altınbaş Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Kaynaşlı - Şehit Sabri Altınbaş Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Kaynaşlı",
+      "website": "http://kaynaslisabrimtal.meb.k12.tr",
+      "enlem": 40.78244715967111,
+      "boylam": 31.278631297488346
+    },
+    {
+      "okul_adi": "Atatürk Anadolu Lisesi",
+      "tam_ad": "Düzce - Merkez - Atatürk Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Merkez",
+      "website": "http://duzceataturkal.meb.k12.tr",
+      "enlem": 40.85777924708493,
+      "boylam": 31.228473988909855
+    },
+    {
+      "okul_adi": "Düzce Turgut Özal Anadolu Lisesi",
+      "tam_ad": "Düzce - Merkez - Düzce Turgut Özal Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Merkez",
+      "website": "http://duzcetoal.meb.k12.tr",
+      "enlem": 40.85593314937864,
+      "boylam": 31.145282594103946
+    },
+    {
+      "okul_adi": "Düzce Yavuz Selim Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Düzce - Merkez - Düzce Yavuz Selim Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Merkez",
+      "website": "http://duzceystml.meb.k12.tr",
+      "enlem": 40.841903154708746,
+      "boylam": 31.184623894829883
+    },
+    {
+      "okul_adi": "Osman Kuyumcu Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Düzce - Merkez - Osman Kuyumcu Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Düzce",
+      "ilce": "Merkez",
+      "website": "http://osmankuyumcuanadoluihl.meb.k12.tr",
+      "enlem": 40.837457167200306,
+      "boylam": 31.1694439329101
+    },
+    {
+      "okul_adi": "Zübeyde Hanım Kız Teknik Ve Meslek Lisesi",
+      "tam_ad": "Düzce - Merkez - Zübeyde Hanım Kız Teknik Ve Meslek Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Düzce",
+      "ilce": "Merkez",
+      "website": "http://duzcezhkml.meb.k12.tr",
+      "enlem": 40.86575542070953,
+      "boylam": 31.231445876498356
+    },
+    {
+      "okul_adi": "Yığılca Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Düzce - Yığılca - Yığılca Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Düzce",
+      "ilce": "Yığılca",
+      "website": "http://yigilcaaihl.meb.k12.tr",
+      "enlem": 40.95961415429165,
+      "boylam": 31.442356017966404
+    },
+    {
+      "okul_adi": "Yığılca Çok Programlı Anadolu Lisesi",
+      "tam_ad": "Düzce - Yığılca - Yığılca Çok Programlı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Düzce",
+      "ilce": "Yığılca",
+      "website": "http://yigilcacpl.meb.k12.tr",
+      "enlem": 40.965202351342064,
+      "boylam": 31.45382246150507
+    },
+    {
+      "okul_adi": "Çilimli Anadolu Kalkınma Vakfı Çok Prog.lisesi",
+      "tam_ad": "Düzce - Çilimli - Çilimli Anadolu Kalkınma Vakfı Çok Prog.lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Düzce",
+      "ilce": "Çilimli",
+      "website": "http://cilimliakvcpl.meb.k12.tr",
+      "enlem": 40.8909520516115,
+      "boylam": 31.049049628515377
+    },
+    {
+      "okul_adi": "Çilimli Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Düzce - Çilimli - Çilimli Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Düzce",
+      "ilce": "Çilimli",
+      "website": "http://cilimliaihl.meb.k12.tr",
+      "enlem": 39.91765128641145,
+      "boylam": 32.853463498492374
+    }
+  ],
+  "meta": {
+    "title": "Düzce Liseleri (High Schools in Düzce) - Ücretsiz İndir",
+    "description": "Düzce ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (22 kayıt) (High schools in Düzce province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 22 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Düzce Liseleri (High Schools in Düzce) | ListBase",
+    "seo_description": "İndir Düzce Liseleri (High Schools in Düzce) — 22 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 22 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

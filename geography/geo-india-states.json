@@ -1,0 +1,480 @@
+{
+  "id": "geo-india-states",
+  "name": "Hindistan Eyaletleri ve Birlik Bölgeleri Kapsamlı Veri Seti",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_hi",
+      "label": "Name (Hindi)",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    },
+    {
+      "key": "languages",
+      "label": "Official Languages (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "Andhra Pradesh",
+      "name_hi": "आंध्र प्रदेश",
+      "capital": "Amaravati",
+      "type": "Eyalet",
+      "region": "Güney Hindistan",
+      "iso_code": "IN-AP",
+      "population": 49577103,
+      "area_km2": 162975,
+      "languages": "Telugu dili"
+    },
+    {
+      "name_en": "Arunachal Pradesh",
+      "name_hi": "अरुणाचल प्रदेश",
+      "capital": "Itanagar",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-AR",
+      "population": 1383727,
+      "area_km2": 83743,
+      "languages": "İngilizce, Hintçe"
+    },
+    {
+      "name_en": "Assam",
+      "name_hi": "असम",
+      "capital": "Dispur",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-AS",
+      "population": 31205576,
+      "area_km2": 78438,
+      "languages": "Assamca"
+    },
+    {
+      "name_en": "Bihar",
+      "name_hi": "बिहार",
+      "capital": "Patna",
+      "type": "Eyalet",
+      "region": "Doğu Hindistan",
+      "iso_code": "IN-BR",
+      "population": 104099452,
+      "area_km2": 94163,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Chhattisgarh",
+      "name_hi": "छत्तीसगढ़",
+      "capital": "Raipur",
+      "type": "Eyalet",
+      "region": "Orta Hindistan",
+      "iso_code": "IN-CT",
+      "population": 25545198,
+      "area_km2": 135192,
+      "languages": "Hintçe, Chhattisgarhi dili"
+    },
+    {
+      "name_en": "Goa",
+      "name_hi": "गोवा",
+      "capital": "Panaji",
+      "type": "Eyalet",
+      "region": "Batı Hindistan",
+      "iso_code": "IN-GA",
+      "population": 1458545,
+      "area_km2": 3702,
+      "languages": "Konkani dili"
+    },
+    {
+      "name_en": "Gujarat",
+      "name_hi": "गुजरात",
+      "capital": "Gandhinagar",
+      "type": "Eyalet",
+      "region": "Batı Hindistan",
+      "iso_code": "IN-GJ",
+      "population": 60439692,
+      "area_km2": 196024,
+      "languages": "Gujarati dili"
+    },
+    {
+      "name_en": "Haryana",
+      "name_hi": "हरियाणा",
+      "capital": "Chandigarh",
+      "type": "Eyalet",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-HR",
+      "population": 25351462,
+      "area_km2": 44212,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Himachal Pradesh",
+      "name_hi": "हिमाचल प्रदेश",
+      "capital": "Shimla",
+      "type": "Eyalet",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-HP",
+      "population": 6864602,
+      "area_km2": 55673,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Jharkhand",
+      "name_hi": "झारखंड",
+      "capital": "Ranchi",
+      "type": "Eyalet",
+      "region": "Doğu Hindistan",
+      "iso_code": "IN-JH",
+      "population": 32988134,
+      "area_km2": 79716,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Karnataka",
+      "name_hi": "कर्नाटक",
+      "capital": "Bengaluru",
+      "type": "Eyalet",
+      "region": "Güney Hindistan",
+      "iso_code": "IN-KA",
+      "population": 61095297,
+      "area_km2": 191791,
+      "languages": "Kannada dili"
+    },
+    {
+      "name_en": "Kerala",
+      "name_hi": "केरल",
+      "capital": "Thiruvananthapuram",
+      "type": "Eyalet",
+      "region": "Güney Hindistan",
+      "iso_code": "IN-KL",
+      "population": 33406061,
+      "area_km2": 38852,
+      "languages": "Malayalam dili"
+    },
+    {
+      "name_en": "Madhya Pradesh",
+      "name_hi": "मध्य प्रदेश",
+      "capital": "Bhopal",
+      "type": "Eyalet",
+      "region": "Orta Hindistan",
+      "iso_code": "IN-MP",
+      "population": 72626809,
+      "area_km2": 308252,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Maharashtra",
+      "name_hi": "महाराष्ट्र",
+      "capital": "Mumbai",
+      "type": "Eyalet",
+      "region": "Batı Hindistan",
+      "iso_code": "IN-MH",
+      "population": 112374333,
+      "area_km2": 307713,
+      "languages": "Marathi dili"
+    },
+    {
+      "name_en": "Manipur",
+      "name_hi": "मणिपुर",
+      "capital": "Imphal",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-MN",
+      "population": 2855794,
+      "area_km2": 22327,
+      "languages": "Meitei dili"
+    },
+    {
+      "name_en": "Meghalaya",
+      "name_hi": "मेघालय",
+      "capital": "Shillong",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-ML",
+      "population": 2966889,
+      "area_km2": 22429,
+      "languages": "İngilizce, Khasi dili"
+    },
+    {
+      "name_en": "Mizoram",
+      "name_hi": "मिज़ोरम",
+      "capital": "Aizawl",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-MZ",
+      "population": 1097206,
+      "area_km2": 21081,
+      "languages": "Mizo dili, İngilizce"
+    },
+    {
+      "name_en": "Nagaland",
+      "name_hi": "नागालैंड",
+      "capital": "Kohima",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-NL",
+      "population": 1978502,
+      "area_km2": 16579,
+      "languages": "İngilizce"
+    },
+    {
+      "name_en": "Odisha",
+      "name_hi": "ओडिशा",
+      "capital": "Bhubaneswar",
+      "type": "Eyalet",
+      "region": "Doğu Hindistan",
+      "iso_code": "IN-OR",
+      "population": 41974218,
+      "area_km2": 155707,
+      "languages": "Odia dili"
+    },
+    {
+      "name_en": "Punjab",
+      "name_hi": "पंजाब",
+      "capital": "Chandigarh",
+      "type": "Eyalet",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-PB",
+      "population": 27743338,
+      "area_km2": 50362,
+      "languages": "Pencapça"
+    },
+    {
+      "name_en": "Racastan",
+      "name_hi": "राजस्थान",
+      "capital": "Caypur",
+      "type": "Eyalet",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-RJ",
+      "population": 68548437,
+      "area_km2": 342239,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Sikkim",
+      "name_hi": "सिक्किम",
+      "capital": "Gangtok",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-SK",
+      "population": 610577,
+      "area_km2": 7096,
+      "languages": "İngilizce, Nepalce"
+    },
+    {
+      "name_en": "Tamil Nadu",
+      "name_hi": "तमिलनाडु",
+      "capital": "Çennai",
+      "type": "Eyalet",
+      "region": "Güney Hindistan",
+      "iso_code": "IN-TN",
+      "population": 72147030,
+      "area_km2": 130060,
+      "languages": "Tamilce"
+    },
+    {
+      "name_en": "Telangana",
+      "name_hi": "तेलंगाना",
+      "capital": "Haydarabad",
+      "type": "Eyalet",
+      "region": "Güney Hindistan",
+      "iso_code": "IN-TG",
+      "population": 35003674,
+      "area_km2": 112077,
+      "languages": "Teluguca, Urduca"
+    },
+    {
+      "name_en": "Tripura",
+      "name_hi": "त्रिपुरा",
+      "capital": "Agartala",
+      "type": "Eyalet",
+      "region": "Kuzeydoğu Hindistan",
+      "iso_code": "IN-TR",
+      "population": 3673917,
+      "area_km2": 10486,
+      "languages": "Bengalce, Kokborokça"
+    },
+    {
+      "name_en": "Uttar Pradeş",
+      "name_hi": "उत्तर प्रदेश",
+      "capital": "Lakhnau",
+      "type": "Eyalet",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-UP",
+      "population": 199812341,
+      "area_km2": 240928,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Uttarakhand",
+      "name_hi": "उत्तराखंड",
+      "capital": "Dehradun",
+      "type": "Eyalet",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-UT",
+      "population": 10086292,
+      "area_km2": 53483,
+      "languages": "Hintçe"
+    },
+    {
+      "name_en": "Batı Bengal",
+      "name_hi": "पश्चिम बंगाल",
+      "capital": "Kalküta",
+      "type": "Eyalet",
+      "region": "Doğu Hindistan",
+      "iso_code": "IN-WB",
+      "population": 91276115,
+      "area_km2": 88752,
+      "languages": "Bengalce"
+    },
+    {
+      "name_en": "Andaman ve Nikobar Adaları",
+      "name_hi": "अंडमान और निकोबार द्वीपसमूह",
+      "capital": "Port Blair",
+      "type": "Birlik Bölgesi",
+      "region": "Adalar",
+      "iso_code": "IN-AN",
+      "population": 380581,
+      "area_km2": 8249,
+      "languages": "Hintçe, İngilizce"
+    },
+    {
+      "name_en": "Chandigarh",
+      "name_hi": "चंडीगढ़",
+      "capital": "Chandigarh",
+      "type": "Birlik Bölgesi",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-CH",
+      "population": 1055450,
+      "area_km2": 114,
+      "languages": "Hintçe, Pencapça"
+    },
+    {
+      "name_en": "Dadra ve Nagar Haveli ve Daman ve Diu",
+      "name_hi": "दादरा और नगर हवेली और दमन और दीव",
+      "capital": "Daman",
+      "type": "Birlik Bölgesi",
+      "region": "Batı Hindistan",
+      "iso_code": "IN-DH",
+      "population": 585764,
+      "area_km2": 603,
+      "languages": "Gucaratça, Hintçe"
+    },
+    {
+      "name_en": "Delhi",
+      "name_hi": "दिल्ली",
+      "capital": "Yeni Delhi",
+      "type": "Birlik Bölgesi",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-DL",
+      "population": 16787941,
+      "area_km2": 1484,
+      "languages": "Hintçe, İngilizce"
+    },
+    {
+      "name_en": "Cemmu ve Keşmir",
+      "name_hi": "जम्मू और कश्मीर",
+      "capital": "Srinagar (Yaz), Jammu (Kış)",
+      "type": "Birlik Bölgesi",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-JK",
+      "population": 12267032,
+      "area_km2": 42241,
+      "languages": "Urduca, Hintçe"
+    },
+    {
+      "name_en": "Ladakh",
+      "name_hi": "लद्दाख",
+      "capital": "Leh",
+      "type": "Birlik Bölgesi",
+      "region": "Kuzey Hindistan",
+      "iso_code": "IN-LA",
+      "population": 274000,
+      "area_km2": 59146,
+      "languages": "Ladakhi, Hintçe"
+    },
+    {
+      "name_en": "Lakşadvip",
+      "name_hi": "लक्षद्वीप",
+      "capital": "Kavaratti",
+      "type": "Birlik Bölgesi",
+      "region": "Adalar",
+      "iso_code": "IN-LD",
+      "population": 64473,
+      "area_km2": 32,
+      "languages": "Malayalamca"
+    },
+    {
+      "name_en": "Puduçeri",
+      "name_hi": "पुडुचेरी",
+      "capital": "Puduçeri",
+      "type": "Birlik Bölgesi",
+      "region": "Güney Hindistan",
+      "iso_code": "IN-PY",
+      "population": 1247953,
+      "area_km2": 479,
+      "languages": "Tamilce, Fransızca"
+    }
+  ],
+  "meta": {
+    "seo_title": "Hindistan Eyaletleri & Birlikleri Verileri - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Hindistan'ın 36 eyalet ve Birlik Bölgesi verilerini, başkent, nüfus, alan ve diller dahil ücretsiz indirin. Excel, CSV ve PDF formatlarında mevcuttur.",
+    "title": "Hindistan Eyaletleri ve Birlik Bölgeleri Kapsamlı Veri Seti",
+    "description": "Bu veri seti, Hindistan'ın 36 eyalet ve birlik bölgesinin tümüne ait İngilizce ve Hintçe adları, başkentleri, türleri, bölgeleri, ISO kodları, nüfusları, alanları ve resmi dilleri dahil olmak üzere ayrıntılı bilgi sağlar.",
+    "key_takeaways": [
+      "Hindistan'ın 36 eyalet ve birlik bölgesinin tümüne ait güncel bilgilere erişin.",
+      "Nüfus, alan ve resmi diller gibi önemli demografik ve coğrafi verileri keşfedin.",
+      "Her idari bölge için başkentler, bölgeler ve ISO kodları hakkında eksiksiz bilgi indirin.",
+      "Eğitim, araştırma veya geliştirme projeleri için yapılandırılmış verilerden yararlanın."
+    ],
+    "keywords": [
+      "hindistan eyalet verileri",
+      "birlik bölgeleri listesi",
+      "hindistan eyalet başkentleri",
+      "hindistan nüfus verileri",
+      "iso kodları hindistan",
+      "hindistan verileri csv indir"
+    ],
+    "use_cases": [
+      "Coğrafi veri analizi ve uygulama geliştirmeyi desteklemek için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyalarınıza aktarın.",
+      "Hindistan idari bölümleri hakkında hızlı analitik raporlar oluşturmak için **Excel** dosyasını Pivot Tablolar oluşturmak, verileri bölgeye göre filtrelemek veya DÜŞEYARA (VLOOKUP) yapmak için kullanın.",
+      "Hindistan eyaletleri ve birlik bölgeleri hakkında sınıf referansı, eğitim sunumları veya çevrimdışı coğrafi çalışmalar için **PDF** sürümünü yazdırın.",
+      "Hindistan genelinde bölgesel kalkınma ve şehir planlaması üzerine karşılaştırmalı çalışmalar için nüfus ve alan verilerini analiz edin."
+    ]
+  },
+  "record_count": 36,
+  "title": "Hindistan Eyaletleri ve Birlik Bölgeleri Kapsamlı Veri Seti"
+}

@@ -1,0 +1,5469 @@
+{
+  "id": "tr-ordu-neighbourhoods",
+  "name": "Ordu Mahalleleri (Ordu Neighbourhoods)",
+  "title": "Ordu Mahalleleri (Ordu Neighbourhoods)",
+  "description": "Ordu ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (774 kayıt.) (All neighbourhoods (mahalle) in Ordu province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 774,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alan Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ambargürgen Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ceyhanlı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Damyeri Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dağyolu Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düğencili Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gedikli Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gökçebayır Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gürgenliyatak Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Haliluşağı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karaçal Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kargı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kemikgeriş Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ketendere Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Koçcuvaz Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtboğaz Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuşçulu Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Külekçili Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kızılelma Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Meyvalı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Muratlı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ormancık Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortabölme Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Salman Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Seferli Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tuzakköy Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yazlıkbelen Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilgüneycik Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yolbaşı Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıdüğencili Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çaldere Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çamalan Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çavdar Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çayıralan Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çukurköy Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çökek Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şahinköy Mah",
+      "district_name": "Akkuş",
+      "postal_code": "52950",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akkise Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akyazı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akçatepe Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alembey Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alisayvan Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Altunyurt Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alınca Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Arpaköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Artıklı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ataköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aydınlık Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aziziye Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bahariye Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bayadı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bayramlı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bucak Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Burhanettinköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet  Mah (köy Mah)",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dedeli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Delikkaya Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dikence Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Durugöl Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düz Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düzköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Emen Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Erenli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eskipazar Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eyüplü Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gerce Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gökömer Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gümüşköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Günören Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyalı  Mah (uzunisa Mah)",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyalı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hatipli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Işıklı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karacaömer Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karaoluk Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karapınarosb Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kirazlimanı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kovancı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kumbaşı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtulmuş Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuylu Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kökenli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kısacık Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kızılhisar Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mubarek Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Nizamettin Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Oğmaca Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Pelitli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sağırlı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Subaşı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taşbaşı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Terzili Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Teyneli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Topluca Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uzunisa Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uzunmusa Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yaraşlı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yağızlı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yemişli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıtepe Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yıldızlı Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Zaferimilli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Öceli Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Övündük Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şahincili Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şarkiye Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52100",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şenköy Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şenocak Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52210",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah",
+      "district_name": "Altınordu",
+      "postal_code": "52200",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alacalar Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beştam Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esenli Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hisarcık Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karamanlı Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Koyunculu Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kutlular Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Küçükyaka Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Pelitözü Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıyar Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sefalık Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Toygar Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uzundere Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Zaferimilli Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çakırlı Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çukur Mah",
+      "district_name": "Aybastı",
+      "postal_code": "52500",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ahmetler Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Arpalık Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aslancami Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ayazlı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağıardıç Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağıtepe Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağıyavaş Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bacanak Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bahçeler Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bağlarca Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Başköy Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beyceli Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bolaman Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bozdağı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bucaklı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Buhari Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bülbül Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Büyükkoç Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Demirci Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dereyurt Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dolunay Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Duayeri Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düğünlük Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eskiordu Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Evkaf Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fatsa Osb Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Geyikçeli Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gölköy Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güvercinlik Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hacıköy Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hamlık Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hatipli Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hoylu Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hıdırbeyli Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kabakdağı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kaleönü Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kargucak Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kavraz Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayaca Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayaköy Akçakese Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Konakbaşı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kulak Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kösebucağı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Küpdüşen Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Küçükkoç Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kılavuzömer Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mehmetakif Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Meşebükü Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mustafakemalpaşa Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Oluklu Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Palazlı Kömürlük Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Salihli Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saraytepe Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sazcılar Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sefaköy Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sudere Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tahtabaş Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tayalı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taşlıca Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uzundere Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yalıköy Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yapraklı Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yassıbahçe Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yassıtaş Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yavaş Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenipazar Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniyurt Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıardıç Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıbahçeler Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıtepe Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yusuflu Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çömlekli Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çötelü Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Örencik Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İslamdağ Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şerefiye Mah",
+      "district_name": "Fatsa",
+      "postal_code": "52400",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ahmetli Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akçalı Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alanyurt Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aydoğan Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bayıralan Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bulut Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cihadiye Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Damarlı Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Direkli Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düzyayla Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Emirler Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gölköy Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyayla Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Haruniye Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karagöz Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karahasan Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kozören Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuşluvan Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Paşapınar Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıca Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yuvapınar Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çatak Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çetilli Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Özlü Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İçyaka Mah",
+      "district_name": "Gölköy",
+      "postal_code": "52600",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alibey Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ambarcılı Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ayrılık Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gülistan Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hoşköy Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kestane Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mustafalı Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sayaca Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taşlıçay Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepealtı Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Turnasuyu Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ürümbey Mah",
+      "district_name": "Gülyalı",
+      "postal_code": "52010",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akmescit Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akyurt Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akören Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alaseher Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ağızlar Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bahtiyarlar Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Döşek Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eskiköy Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Göller Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gülbelen Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hasancık Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Işıktepe Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kirazgüneyi Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Muratçık Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Okçabel Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tikenlice Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tuzla Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yurtseven Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çatalağaç Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şirinköy Mah",
+      "district_name": "Gürgentepe",
+      "postal_code": "52610",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akgüney Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Başköy Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Derinçay Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dişkaya Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esenyurt Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gelinkaya Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gülpınar Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gümüşdere Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Harami Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kabadüz Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karakiraz Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kirazdere Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Musakırık Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Turnalık Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilada Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yokuşdibi Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kirazdere Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Özlükent Mah",
+      "district_name": "Kabadüz",
+      "postal_code": "52020",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alanbaşı Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alankent Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ardıç Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Belen Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beylerli Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düz Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eceli Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Elbeyi Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hoşkadem Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ilıcak Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kabataş Yeni Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayıncık Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuzköy Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yakacık Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniceli Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çukurcak Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şifa Suyu Mah",
+      "district_name": "Kabataş",
+      "postal_code": "52520",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağıkozpınar Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağıyaylacık Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Belalan Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beypınarı Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Büyükakçakese Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dip Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Durali Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karakoyunlu Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karakışla Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Koçcuğaz Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıalıç Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Soğukpınar Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tatarcık Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepealan Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Terzili Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yazıcı Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenipınar Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilalan Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıkozpınar Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıyaylacık Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çamlı Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çayırkent Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çitlice Mah",
+      "district_name": "Korgan",
+      "postal_code": "52700",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akçadere Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Avdullu Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ayvalı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ağcaalantürk Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ballık Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Balı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Demircili Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Derbent Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Divanıtürk Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Duman Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ergentürk Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Erikçeli Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esence Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eskiçokdeğirmen Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fizme Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gökçeli Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güneycik Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kadıncık Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karacalar Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karacalı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Konaklı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kovancılı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Küçükakçakese Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortaca Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortaçokdeğirmen Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Samur Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tekkeköy Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yalnızdam Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yemişken Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniakçaalan Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenidivan Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniergen Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıdamlalı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çatılı Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şenyurt Mah",
+      "district_name": "Kumru",
+      "postal_code": "52800",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Abdili Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akkırık Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alan Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Armutkolu Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Arpaalan Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Arıcılar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Arıkmusa Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağıgökçe Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşıklı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Balıklı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bayraklı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bayırköy Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beyağaç Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beyseki Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beşpınar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Birebir Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Celal Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Darıcabaşı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dayılı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Derebaşı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Doğançam Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dursunlu Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Erikköy Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esatlı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gölbaşı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Göçbeyi Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gülpınar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güneyce Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güvenli Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelce Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzle Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hamzalı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Herközü Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ilışar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karabayır Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karacaören Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kavaklıdere Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Konacık Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Köşe Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kışlacık Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Maksutalan Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Musalı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Müslüm Sarıca Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Pınarlı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıca Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıyayla Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Topçam Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Türkköyü Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yardere Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yavşan Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yağmurlar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeveli Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilce Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilçit Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıgökçe Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yuvalı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çaltepe Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çardaklı Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çavdar Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çerçi Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çitliksarıca Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çukuralan Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Üçyol Mah",
+      "district_name": "Mesudiye",
+      "postal_code": "52900",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Alınca Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Anaç Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aziziye Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Babalı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bekirli Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beyli Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bolatlı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Boğazcık Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dereiçi Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Doğan Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düz Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Efirli Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ekinciler Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hacılar Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kacalı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kaleyaka Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kazancılı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kovanlı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kozağzı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kutluca Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuyluca Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kırlı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Medreseönü Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mersin Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Neneli Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Okçulu Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortatepe Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ramazan Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Selimiye Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Soğukpınar Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sırakovancı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tarlacık Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepecik Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Töngeldüzü Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yarlı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniöz Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yumrutaş Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çamarası Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çandır Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çaytepe Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çerli Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İmeçli Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İstanbulboğazı Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şenyurt Mah",
+      "district_name": "Perşembe",
+      "postal_code": "52750",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akoluk Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Başçardak Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Belenyurt Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cevizlik Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Doğlu Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Durak Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Elmaçukur Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eymür Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gündüzlü Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güvenköy Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güvenyurt Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hocaoğlu Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kadıncık Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kalıcak Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karakoca Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kardeşler Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kirazlık Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Koşaca Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kumanlar Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kumrulu Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kıranyağmur Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ohtamış Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Oyumgürgen Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Refahiye Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uzunmahmut Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenimahalle Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenisayaca Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yolbaşı Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarıkızılen Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çatallı Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çubuklu Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çukur Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ören Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şahinkaya Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şekeroluk Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şıhlar Mah",
+      "district_name": "Ulubey",
+      "postal_code": "52850",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akköy Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Budak Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Burhan Güneyi Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Danışman Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Edirli Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Giden Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gümüşlü Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hisarbey Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kemal Paşa Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kestaneyokuşu Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kocaman Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sakargeriş Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıyakup Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sucuali Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Söken Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepeli Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uzunali Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilvadi Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çavuşbaşı Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Örmeli Mah",
+      "district_name": "Çamaş",
+      "postal_code": "52430",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akkaya Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Elmaköy Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Göller Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güney Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güneyce Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hatipler Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Haşal Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karahamza Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karahasan Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kayatepe Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Keçili Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kıran Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Madenköy Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sayacatürk Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Terimli Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İncirli Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şirinköy Mah",
+      "district_name": "Çatalpınar",
+      "postal_code": "52420",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Akbaba Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşıklı Çakıllı Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Boras Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cemallı Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cevizliyatak Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eğribel Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gürcek Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hacıali Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kapılı Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kargalı Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurudere Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuşlu Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Köklük Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Mollalı Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Namazlı Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taşkesiği Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenicuma Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çandır Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çayır Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İlküvez Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İçeribükü Mah",
+      "district_name": "Çaybaşı",
+      "postal_code": "52310",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ataköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aydıntepe Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ağıdere Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bayramca Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Başköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beylerce Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Burunucu Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Cevizdere Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Denizbükü Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dizdar Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Döşemedibi Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düzköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düzsaylan Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Elmalık Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Erenyurt Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esenkale Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Eskikızılcakese Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Göbü Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gölcüğez Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gölevi Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Günpınarı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gürecülü Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelkale Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Güzelyalı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hanyanı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hızabaşıgünlük Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Hızarbaşıkumarlı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kaledere Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kaledibi Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Keş Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Killik Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kocuklu Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuşdoğan Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kuşçulu Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Liseler Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Nadırlı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Nurettin Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Nuriye Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Orta Yılmazlar Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Pelitliyatak Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sahilköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saraçlı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sarıhalil Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Saylan Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Sofutepesi Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taflancık Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Taşça Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tekkiraz Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Uğurlu Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yavı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yaycı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yaylalı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yazkonağı Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenikent Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenikızılcakese Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilada Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yeşilkent Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yiğitler Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yüceler Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çamurlu Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çatak Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çatalpınar Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çataltepe Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çiğdem Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çınarcık Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Çınarlık Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Üçpınar Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İnkur Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "İpekyolu Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şenyurt Mah",
+      "district_name": "Ünye",
+      "postal_code": "52300",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Ağcaalan Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağı Karlıtepe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kaynartaş Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Başönü Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Beylerce Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Bolluk Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Derebaşı Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Devecik Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Diyek Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Dumantepe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düzmeşe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Düzpelit Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Enağızlı Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kervansaray Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kiraztepe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kocaman Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtköy Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Kurtluca Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Seymenli Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Tombaşlı Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yoğunoluk Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarı Karlıtepe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kaynartaş Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Yunuskırığı Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Özpınar Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    },
+    {
+      "neighbourhood_name": "Şentepe Mah",
+      "district_name": "İkizce",
+      "postal_code": "52320",
+      "city_code": "52",
+      "city_name": "Ordu"
+    }
+  ],
+  "meta": {
+    "title": "Ordu Mahalleleri (Ordu Neighbourhoods) - Ücretsiz İndir",
+    "description": "Ordu ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (774 kayıt.) (All neighbourhoods (mahalle) in Ordu province with their parent district and postal code.) İçerik 774 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Ordu Mahalleleri (Ordu Neighbourhoods) | ListBase",
+    "seo_description": "İndir Ordu Mahalleleri (Ordu Neighbourhoods) — 774 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 774 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

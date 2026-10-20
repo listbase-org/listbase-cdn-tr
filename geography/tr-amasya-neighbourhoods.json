@@ -1,0 +1,4986 @@
+{
+  "id": "tr-amasya-neighbourhoods",
+  "name": "Amasya Mahalleleri (Amasya Neighbourhoods)",
+  "title": "Amasya Mahalleleri (Amasya Neighbourhoods)",
+  "description": "Amasya ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (705 kayıt.) (All neighbourhoods (mahalle) in Amasya province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 705,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Abacı Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Afet Evler Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alan Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ardıçpınar Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Armutdibi Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Asar Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aynının Önü Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ayvalıpınar Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ağcapınar Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Çulpara Mah (çulpara Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşılık Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Başpınar Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bekdemir Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beşiktepe Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Göynücek",
+      "postal_code": "05900",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Davutevi Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gökçeli Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güzalan Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Harmancık Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hasanbey Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ilısu Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kafarlı Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karapınar Mevki Mah (ikizyaka Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karayakup Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaşar Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kertme Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kervansaray Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kilise Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Konuralan Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Koyuncu Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuruluk Mah (karayakup Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuyma Mah (ılısu Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuyulu Kavaklı Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuyulu Mah (kuyulu Kavaklı Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızılören Mah (terziköy Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kışlabeyi Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Göynücek",
+      "postal_code": "05900",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (damlaçimen Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05900",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mezra Mah (yassıkışla Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Orta Mevki Mah (ikizyaka Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Orta Şarklı Mah (şarklı Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Penpeli Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sığırçayı Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tencirli Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tepe Şarklı Mah (şarklı Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Terziköy Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yassıkışla Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Göynücek",
+      "postal_code": "05900",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Mah (gediksaray Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (tencirli Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çamurlu Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çayan Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çaykışla Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çeşmebaşı Mah (gediksaray Köyü)",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çulpara Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İkizyaka Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şarklı Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şıhlar Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şıhoğlu Köyü",
+      "district_name": "Göynücek",
+      "postal_code": "05902",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Adatepe Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ahlatlı Mah (kızık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Albaz Deresi Mah (çalköy Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alören Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alıçlı Çukur Mah (sarayözü Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Armutalan Mah (sarayözü Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Artıkabat Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ağcadede Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Balıklı Mah (balıklı Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bacakoğlu Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bademli Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ballık Mah (saraycık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beden Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Berberoğlu Mah (imirler Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bilaloğlu Mah (yeniköy Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Camikebir Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumaoğlu Kışlası Mah (imirler Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumara Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Darçinler Kışlası Mah (sarayözü Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Derbentobruğu Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (aşağıovacık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Doluca Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dumanlı Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Erenler Mah (imirler Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eslemez Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (imirler Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güplüce Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güvemözü Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıyahya Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hayatdere Mah (kızık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Irgat Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaali Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karakaya Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (aşağıovacık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kağnıcı Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kelahmetler Mah (güller Mah) (aşağıovacık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Keçi Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kiziroğlu Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Konuktepe Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Korkut Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kurtderesi Mah (sarayözü Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kutluca Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuzalan Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuşburnu Mah (konuktepe Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Köseler Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (çalköy Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kılıçaslan Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kırca Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızık Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızılca Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızırcaören Mah (pusacak Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (aşağıovacık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (balıklı Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (koltuk Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mürseller Mah (bademli Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Nizamlar Mah (aşağıovacık Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ovabaşı Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Pusacak Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sallar Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarayözü Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sekü Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Semercioğlu Mah (sarayözü Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yazıyeri Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yenicami Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yongalık Mah (derbentobruğu Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarı Obruk Mah (derbentobruğu Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çalköy Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çamınbaşı Mah (sarayözü Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çat Mah (koltuk Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çayanlar Mah (yeniköy Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çetmi Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çiftçioğlu Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çitli Köyü",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çömezler Mah (korkut Köyü)",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05702",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şıhlar Mah",
+      "district_name": "Gümüşhacıköy",
+      "postal_code": "05700",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aksu Mah (yukarıovacık Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alanköy Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Arkutbey Mah",
+      "district_name": "Hamamözü",
+      "postal_code": "05720",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aycalar Mah (tepeköy Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Damladere Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dedeköy Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gölköy Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Göçeri Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hamitkaplan Mah",
+      "district_name": "Hamamözü",
+      "postal_code": "05720",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hıdırlar Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah (tepeköy Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Hamamözü",
+      "postal_code": "05720",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızılcaören Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mağaraobruğu Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (arpadere Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (tepeköy Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (arpadere Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Hamamözü",
+      "postal_code": "05720",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarayözü Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saraçlar Mah (arpadere Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tekçam Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tutkunlar Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Umarca Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (gölköy Köyü)",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yemişen Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarıovacık Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çayköy Köyü",
+      "district_name": "Hamamözü",
+      "postal_code": "05722",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Abacı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ahmet Koltuğu Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akbilek Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aksalur Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akyazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alakadı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alan Mah (avşar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alaşık Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Albayrak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ardıçlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (albayrak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Avşar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aydoğdu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aydınlık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ağıllar Mah (mahmatlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (ziyaret Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "05240",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bahçeleraltı Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bahçeleriçi Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bayat Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlarüstü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlarüstü Mah (bağlarüstü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlıca Mah (bağlıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlıcaosb Mah (bağlıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beke Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beldağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Belmebük Mah (karaköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beyazıtpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Boğaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Boğazköy Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bulduklu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Böke Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Büyükkızılca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dadı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Damudere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Demet Evler Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Değirmendere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dikmenardı Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dikyol Mah (damudere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Direkli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dirgen Mah (kızılkışlacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Duruca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eliktekke Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ellibeşevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Erikli Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Erkonaş Mah (yassıçal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ermiş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eski Ardıçlar Mah (ardıçlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eskikızılca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fethiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Filingirler Mah (yassıçal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fındıklı Mah (direkli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gerne Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Geygeler Mah (kızoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gökdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gökhöyük Mah (doğantepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gökmedrese Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Göllü Bağları Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gölönü Mah (yassıçal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gözlek Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gümüşlü Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacı İlyas Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacılar Meydanı Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Halifeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hamdi Apaydın Çifliği Mah (oluz Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Han Mah (çengelkayı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hasabdal Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hatun Pınarı Mah (musaköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hatuniye Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Helvacı Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hızırpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kabaardıç Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kadirgilin Ağıl Mah (sarıkız Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kaleboğazı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kapıkaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kapıkaya Mah (kapıkaya Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaali Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karadut Mah (sevincer Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaibrahim Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah (yeşildere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karakese Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karasenir Mah",
+      "district_name": "Merkez",
+      "postal_code": "05110",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karasu Mah (damudere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karataş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaçalılık Mah (ipekköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaçavuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karsan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (doğantepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kavaklıağıl Mah (ilyas Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kavalan Çayı Mah (kızılkışlacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kayacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah (avşar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kayrak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kazanasmaz Mah (ardıçlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kazanasmaz Mah (kutu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kaşka Mah (boğaköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Keltir Mah (kızılkışlacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Keçili Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Keşlik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kirazlıdere Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kirazpınarı Mah (ardıçlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Koza Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Koçalan Mah (kızılkışlacık Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kurban Armudu Mah (sarıkız Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kurşunlu Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kutu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuzgeçe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah (meşeliçiftliği Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Köyceğiz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Küçük Sanayi Sitesi Mah (dadı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Küçükkızılca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızoğlu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızseki Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızılkışlacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mahmatlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mehmet Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Melikyurdu Mah (sarıkız Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (aydınca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (doğantepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ezinepazar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karaköprü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Meşeliçiftliği Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Musaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Nergiz Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Nohutluk Mah (karaibrahim Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Oba Önü Mah (ardıçlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Oluz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Orman Bağları Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ormanözü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ova Mah (sarıyar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ovasaray Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Pamuklu Mah (ormanözü Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Pirinççi Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Salamut Mah (aksalur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saraycık Mah (ziyaret Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "05240",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarayözü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarıalan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarıkız Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarımeşe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarıyar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Savadiye Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sazköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sevincer Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Soma Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sulakbaşı Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sıracevizler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tartışık Mah (ardıçlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tartışık Mah (sarıkız Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tatar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Terziköy/kaplıca Mah (çivi Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tuzsuz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yavru Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yazı Bağları Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yağcıabdal Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yağmur Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (duruca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (uygur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşildere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilyenice Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilöz Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yolyanı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yolyanı Mah (mahmatlar Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kayrak Mah (kayrak Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kızseki Mah (kızseki Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (ziyaret Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "05240",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yuvacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yuvaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yüzevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yıkılgan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yıldızköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yıldızköy Mah (yıldızköy Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çakallar Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çanaklı Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çatalçam Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çavuş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çay Köyü Mah (aksalur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çaydere Mah (sarıalan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çengel Mah (karaibrahim Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çengelkayı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çivi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çiğdemlik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çıtırın Çördük Mah (yağcıabdal Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Özfındıklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ümük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Üçler Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İbecik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İbonun Ağıl Mah (sarıkız Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İlgazi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İlyas Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah (uygur Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İpekköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah (kızoğlu Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şamlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "05200",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şehirüstü Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şeyhcui Mah",
+      "district_name": "Merkez",
+      "postal_code": "05100",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şeyhsadi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "05220",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Abidehatun Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Afet Evleri Mah (akören Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akpınar Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aktarla Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alıcık Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alışar Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağıbük Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Mah (bahçecik Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Balgöze Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bayazıt Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah (aksungur Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bulak Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Buğdaylı Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Büklüce Mah (derealan Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Büyükçay Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Camicedit Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Demirpınar Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Değirmenyolu Mah (sarı Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Diphacı Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Elmayolu Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Esentepe Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eski Camii Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eymir Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gazimahbup Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gelinsini Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gökçebağ Mah (gökçebağ Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gümüştepe Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacet Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıbalı Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıhasan Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıyakup Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Han Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Han Mah (bayat Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Harmanlar Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hayrettin Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hocasüleyman Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hırka Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Irmakbaşı Mah (uzunyazı Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah (kayadüzü Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kalburcu Mah (kızıleğrek Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kamışlı Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karacakaya Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karamağara Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karamustafapaşa Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karatepe Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Koç Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuyu Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kümbet Hatun Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kümbethatunosb Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Küçükçay Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kıreymir Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızıleğrek Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mahmutlu Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mahsen Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mahsenli Mah (kayadüzü Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (aksungur Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (bayat Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (derealan Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (muşruf Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Naccar Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Nusratiye Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ortabük Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ortaova Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Osmanoğlu Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Oymaağaç Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Oymak Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Pekmezci Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saraycık Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarı Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarı Mah (sarı Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sarıbuğday Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sazlıca Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Selimiye Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sofular Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tavşan Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tellioğlu Mah (muşruf Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Türkoğlu Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Uzunyazı Mah (uzunyazı Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yakacık Mah (muşruf Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yakup Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yalnız Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeniçeltek Mah (kayadüzü Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah (kayadüzü Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilören Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yolüstü Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (akören Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarıbük Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Merzifon",
+      "postal_code": "05300",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çavundur Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çaybaşı Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çayır Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çayırözü Mah (çayırözü Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çobanören Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ören Mah (gökçebağ Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İlemi Çayırı Mah (sazlıca Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İnalanı Köyü",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şeyhyeni Mah (şeyhyeni Köyü)",
+      "district_name": "Merzifon",
+      "postal_code": "05302",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Afetevleri-cebeci Mah (armutlu Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akören Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alabedir Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Arucak Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ata Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ayderesi Mah (karaağaç Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ayrancı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağıkarasu Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bayırlı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Besi Osb Mah (salucu Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beyazıt Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bingüş Mah (karaağaç Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bir Eylül Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Borsa Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Boyalı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cevizdibi Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cürlü Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dere Ağılı Mezrası Mah (yüzbeyi Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Derebaşalan Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Deveci Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Erikli Mah (eğribük Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eymir Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Eğribük Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Girne Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıbayram Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıhayta Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Harmanağılı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Harmanlar Mah (eraslan Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hasan Emmi Çiftligi Mah (dere Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kanatpınar Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kapancı Ağılı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kazanlı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kazanlı Organize Sanayi Bölgesi Mah (kazanlı Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kerimoğlu Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kolay Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kulu Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kurnaz Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kutlu Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuzalan Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Küpeli Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kılıçaslan Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kıranbaşalan Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Maarif Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Magosa Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mahmut Demir Çiftliği Mah (dere Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (armutlu Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dere Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ortayazı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Oğulbağı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Salucu Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saraydüzü Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Saygılı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Seyfe Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Soku Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Uluçınar Mah (eraslan Köyü)",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Uzunoba Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yolpınar Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yüzbeyi Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çayüstü Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çeltekmadeni Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çukurören Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Özalakadı Köyü",
+      "district_name": "Suluova",
+      "postal_code": "05502",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şeker Mah",
+      "district_name": "Suluova",
+      "postal_code": "05500",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akkişiler Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah (karsavul Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Akçanın Dere Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alan Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alan Mah (sofualan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Altınlı Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Alçakbel Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Andıran Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ardıçönü Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Arpaderesi Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah (esençay Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aydınyeri Mah (yeşiltepe Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Gökdere Mah (gökpınar Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Gökdere Mah (sofualan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (sepetli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Mah (yeşiltepe Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (boraboy Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Bakırpınar Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ballıca Mah (ballıca Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Barcın Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Beyalan Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (uluköy Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (özbaraklı Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dazlı Mah (hüsnüoğlu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (sepetli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dereli Mah (dereli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Devre Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Doğa Yeri Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Doğan Çukuru Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Doğanşah Mah (alpaslan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Doğu Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Durucasu Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dutluk Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Döllük Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dönertaş Mah (hüsnüoğlu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Dörtyol Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ebece Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Elmakırı Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Elmalık Mah (sofualan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Erbeğendi Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ergüneş Mah (uluköy Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fadara Mah (ardıçönü Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fevzioğlu Mah (alpaslan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Fındıcak Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gelemiç Mah (ardıçönü Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gemibükü Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Geriş Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Geydoğan Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gökpınar Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gücükgeriş Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güngörmüş Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Gürsu Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güvencealan Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Güvendik Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıbeyköyü Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hacıgeriş Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Haydarağa Mah (korubaşı Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Hüsnüoğlu Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ilıca Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ilıpınar Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kadılar Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karabük Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karadüz Mah (yeşiltepe Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karamuk Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karamuk Mah (korubaşı Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karaçukur Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karlık Dere Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karlık Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Karsavul Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Katıralan Mah (korubaşı Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kavaloluğu Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah (belevi Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kocalan Mah (korubaşı Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Korubaşı Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kozalan Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kozluca Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kumluca Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuz Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kuzkışla Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Köseli Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kırdağın Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kırkharman Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kırık Çukuru Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızgüldüren Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızılağaç Mah (mercimekköy Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Kızılcı Alan Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Leğenkaya Mah (yeşiltepe Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mercimekköy Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (destek Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (sofualan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Meymaşlar Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Meşeli Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Mülkbükü Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Nurettin Bey Mah (alpaslan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Oruçgazi Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sakarat Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sakızlık Arsası Mah (sepetli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sanayii Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Selçuklu Mah (özbaraklı Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Serçeler Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sinan Paşa Mah (uluköy Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Sıtma Pınarı Mah (karsavul Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tacettin Bey Mah (alpaslan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tatlıpınar Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Taştepe Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (tekke Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tekpınar Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (sepetli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Terzili Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Topalın Fırın Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Turan Güneş Mah (esençay Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Tuzlalı Geriş Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Türkmendamı Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Ulupara Mah (yeşiltepe Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yakakent Mah (boraboy Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yalamageriş Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yatak Mah (alçakbel Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yayladibi Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yaylasaray Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yağbasan Mah (sofualan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yemişen Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yenidere Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yerkozlu Mah (yerkozlu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yeşilırmak Mah",
+      "district_name": "Taşova",
+      "postal_code": "05800",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yolaçan Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarı Gökdere Mah (sofualan Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Yukarıbaraklı Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Zana Mah (karsavul Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çakılcık Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çakırsu Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çalkaya Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çambükü Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çaydibi Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah (esençay Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çerkezler Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çermik Mah (şeyhli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah (karlık Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çorak Mah (sepetli Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çöküyanı Mah (yeşiltepe Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çılkıdır Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Çıngılık Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İkipöğre Mah (karsavul Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İkisamanlık Mah (kavaloluğu Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "İsmet Paşa Mah (belevi Köyü)",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şahinler Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    },
+    {
+      "neighbourhood_name": "Şeyhli Köyü",
+      "district_name": "Taşova",
+      "postal_code": "05802",
+      "city_code": "05",
+      "city_name": "Amasya"
+    }
+  ],
+  "meta": {
+    "title": "Amasya Mahalleleri (Amasya Neighbourhoods) - Ücretsiz İndir",
+    "description": "Amasya ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (705 kayıt.) (All neighbourhoods (mahalle) in Amasya province with their parent district and postal code.) İçerik 705 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Amasya Mahalleleri (Amasya Neighbourhoods) | ListBase",
+    "seo_description": "İndir Amasya Mahalleleri (Amasya Neighbourhoods) — 705 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 705 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

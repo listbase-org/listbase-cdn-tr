@@ -1,0 +1,151 @@
+{
+  "id": "tr-istanbul-tcdd-istasyonlari",
+  "name": "İSTANBUL TCDD Tren İstasyonları (Railway stations in İSTANBUL)",
+  "title": "İSTANBUL TCDD Tren İstasyonları (Railway stations in İSTANBUL)",
+  "description": "İSTANBUL ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in İSTANBUL province.) (10 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ISPARTAKULE",
+      "il": "İSTANBUL",
+      "kaynak_metin": "ISPARTAKULE , İSTANBUL",
+      "gidis_id": 1086,
+      "donus_id": 1086,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 17
+    },
+    {
+      "istasyon": "KABAKÇA",
+      "il": "İSTANBUL",
+      "kaynak_metin": "KABAKÇA , İSTANBUL",
+      "gidis_id": 995,
+      "donus_id": 995,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "KURFALLI",
+      "il": "İSTANBUL",
+      "kaynak_metin": "KURFALLI , İSTANBUL",
+      "gidis_id": 1002,
+      "donus_id": 1002,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SİNEKLİ",
+      "il": "İSTANBUL",
+      "kaynak_metin": "SİNEKLİ , İSTANBUL",
+      "gidis_id": "",
+      "donus_id": 1013,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇATALCA",
+      "il": "İSTANBUL",
+      "kaynak_metin": "ÇATALCA , İSTANBUL",
+      "gidis_id": 1085,
+      "donus_id": 1085,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 19
+    },
+    {
+      "istasyon": "İSTANBUL(BAKIRKÖY)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(BAKIRKÖY) , İSTANBUL",
+      "gidis_id": 1328,
+      "donus_id": 1328,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 24
+    },
+    {
+      "istasyon": "İSTANBUL(BOSTANCI)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(BOSTANCI) , İSTANBUL",
+      "gidis_id": 1323,
+      "donus_id": 1323,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 46
+    },
+    {
+      "istasyon": "İSTANBUL(HALKALI)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(HALKALI) , İSTANBUL",
+      "gidis_id": 992,
+      "donus_id": 992,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 41
+    },
+    {
+      "istasyon": "İSTANBUL(PENDİK)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(PENDİK) , İSTANBUL",
+      "gidis_id": 48,
+      "donus_id": 48,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 71
+    },
+    {
+      "istasyon": "İSTANBUL(SÖĞÜTLÜÇEŞME)",
+      "il": "İSTANBUL",
+      "kaynak_metin": "İSTANBUL(SÖĞÜTLÜÇEŞME) , İSTANBUL",
+      "gidis_id": 1325,
+      "donus_id": 1325,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 68
+    }
+  ],
+  "meta": {
+    "title": "İSTANBUL TCDD Tren İstasyonları (Railway stations in İSTANBUL) - Ücretsiz İndir",
+    "description": "İSTANBUL ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in İSTANBUL province.) (10 kayıt.) İçerik 10 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "İSTANBUL TCDD Tren İstasyonları (Railway stations in İSTANBUL) | ListBase",
+    "seo_description": "İndir İSTANBUL TCDD Tren İstasyonları (Railway stations in İSTANBUL) — 10 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 10 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

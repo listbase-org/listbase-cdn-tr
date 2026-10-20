@@ -1,0 +1,156 @@
+{
+  "id": "tr-ist-marmara-tff-kulupleri",
+  "name": "İST./MARMARA Bölgesi Futbol Kulüpleri (İST./MARMARA Region Football Clubs)",
+  "title": "İST./MARMARA Bölgesi Futbol Kulüpleri (İST./MARMARA Region Football Clubs)",
+  "description": "TFF kayıtlarında İST./MARMARA bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (9 kayıt.) (Süper Lig and TFF 1st League clubs registered in the İST./MARMARA region, 2020-21 season.)",
+  "category": "sports",
+  "source": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "source_url": "https://github.com/kadocolak/turkey-football-super-league-json-data-set",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kulup",
+      "label": "Kulup",
+      "type": "string"
+    },
+    {
+      "key": "tff_id",
+      "label": "Tff Id",
+      "type": "number"
+    },
+    {
+      "key": "sehir",
+      "label": "Sehir",
+      "type": "string"
+    },
+    {
+      "key": "bolge",
+      "label": "Bolge",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "adres",
+      "label": "Adres",
+      "type": "string"
+    },
+    {
+      "key": "logo_url",
+      "label": "Logo Url",
+      "type": "string"
+    },
+    {
+      "key": "stadyum",
+      "label": "Stadyum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kulup": "BEŞİKTAŞ A.Ş.",
+      "tff_id": 148,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(212)9481903",
+      "adres": "VİŞNEZADE MH. KADIRGALAR CD. NO:1 VODAFONE PARK",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000148_120x120.png",
+      "stadyum": "VODAFONE PARK"
+    },
+    {
+      "kulup": "FATİH KARAGÜMRÜK A.Ş.",
+      "tff_id": 169,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0212)5327844",
+      "adres": "AYAZAĞA MH. MİMAR SİNAN SK. NO.21/C BLOK OFİS 23",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000169_120x120.png",
+      "stadyum": ""
+    },
+    {
+      "kulup": "FENERBAHÇE A.Ş.",
+      "tff_id": 150,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0216)5421907",
+      "adres": "FENERBAHÇE ŞÜKRÜ SARACOĞLU STADI KIZILTOPRAK - KADIKÖY",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000150_120x120.png",
+      "stadyum": "ÜLKER STADYUMU FB ŞÜKRÜ SARACOĞLU SPOR KOMPLEKSİ"
+    },
+    {
+      "kulup": "GALATASARAY A.Ş.",
+      "tff_id": 162,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "2123051905",
+      "adres": "A.SAMİ YEN SPOR KOMP. TT ARENA STADI HUZUR MAH. SEYRANTEPE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000162_120x120.png",
+      "stadyum": "ALİ SAMİ YEN SPOR KOMPLEKSİ TÜRK TELEKOM STADYUMU"
+    },
+    {
+      "kulup": "İSTANBULSPOR A.Ş.",
+      "tff_id": 175,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0212)8612212",
+      "adres": "ULUS MAH TAŞOCAĞI SOK.İST TESİ NO:3/3 B.ÇEKMECE/İSTANBUL",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000175_120x120.png",
+      "stadyum": "ESENYURT NECMİ KADIOĞLU STADI"
+    },
+    {
+      "kulup": "KASIMPAŞA A.Ş.",
+      "tff_id": 38,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0212)3642000",
+      "adres": "MİMAR SİNAN MAH. BAHÇEKÖY CD. Ç.ÇİFTLİK SK.NO:26 KEMERBURGAZ",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000038_120x120.png",
+      "stadyum": "RECEP TAYYİP ERDOĞAN STADYUMU"
+    },
+    {
+      "kulup": "MEDİPOL BAŞAKŞEHİR FK",
+      "tff_id": 240,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "2124733333",
+      "adres": "BAŞAKŞEHİR FATİH TERİM STADI İBNİ SİNA CD NO.5A 4.ETAP İST",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000240_120x120.png",
+      "stadyum": "BAŞAKŞEHİR FATİH TERİM"
+    },
+    {
+      "kulup": "TUZLASPOR A.Ş.",
+      "tff_id": 14782,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0216)5071004",
+      "adres": "İÇMELER MAH. BİLGEHAN SOK. NO:5 TUZLA / İSTANBUL",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/014782_120x120.png",
+      "stadyum": ""
+    },
+    {
+      "kulup": "ÜMRANİYESPOR",
+      "tff_id": 232,
+      "sehir": "İSTANBUL",
+      "bolge": "İST./MARMARA",
+      "telefon": "(0216)6302008",
+      "adres": "KÜÇÜKSU CAD. HEKİMBAŞI MAH. ÜMRANİYE SOS. SPOR T. ÜMRANİYE",
+      "logo_url": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000232_120x120.png",
+      "stadyum": "ÜMRANİYE BELEDİYESİ ŞEHİR STADI"
+    }
+  ],
+  "meta": {
+    "title": "İST./MARMARA Bölgesi Futbol Kulüpleri (İST./MARMARA Region Football Clubs) - Ücretsiz İndir",
+    "description": "TFF kayıtlarında İST./MARMARA bölgesine bağlı Süper Lig ve TFF 1. Lig kulüpleri (2020-21 sezonu). (9 kayıt.) (Süper Lig and TFF 1st League clubs registered in the İST./MARMARA region, 2020-21 season.) İçerik 9 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "İST./MARMARA Bölgesi Futbol Kulüpleri (İST./MARMARA Region Football Clubs) | ListBase",
+    "seo_description": "İndir İST./MARMARA Bölgesi Futbol Kulüpleri (İST./MARMARA Region Football Clubs) — 9 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 9 kayıt / 8 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/kadocolak/turkey-football-super-league-json-data-set"
+    ]
+  }
+}

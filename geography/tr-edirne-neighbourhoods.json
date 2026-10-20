@@ -1,0 +1,2627 @@
+{
+  "id": "tr-edirne-neighbourhoods",
+  "name": "Edirne Mahalleleri (Edirne Neighbourhoods)",
+  "title": "Edirne Mahalleleri (Edirne Neighbourhoods)",
+  "description": "Edirne ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (368 kayıt.) (All neighbourhoods (mahalle) in Edirne province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 368,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Abdurrahim Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyükevren Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gaziömerbey Mah",
+      "district_name": "Enez",
+      "postal_code": "22700",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gülçavuş Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hasköy Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hisarlı Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Işıklı Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karaincirli Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kocaali Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçükevren Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sultaniçe Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sütçüler Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Umurbey Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Vakıf Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yazır Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Enez",
+      "postal_code": "22700",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yenice Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çandır Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çataltepe Mah",
+      "district_name": "Enez",
+      "postal_code": "22700",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çavuşköy Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çeribaşı Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şehitler Köyü",
+      "district_name": "Enez",
+      "postal_code": "22750",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Abalar Mah (abalar Köyü)",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Abalar Merkez Mah (abalar Köyü)",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Arpaç Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22530",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Azatlı Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bakışlar Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bostanlı Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Havsa",
+      "postal_code": "22500",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Habiller Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22530",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hacıgazi Mah",
+      "district_name": "Havsa",
+      "postal_code": "22500",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hacıisa Mah",
+      "district_name": "Havsa",
+      "postal_code": "22500",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hasköy Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22530",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Helvacı Mah",
+      "district_name": "Havsa",
+      "postal_code": "22500",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kabaağaç Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kulubalık Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kuzucu Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Köseömer Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Musulca Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22530",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Naipyusuf Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Necatiye Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Osmanlı Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Oğulpaşa Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Oğulpaşa Mah (oğulpaşa Köyü)",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Söğütlüdere Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22530",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Tahal Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Taptık Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Varoş Mah",
+      "district_name": "Havsa",
+      "postal_code": "22500",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Havsa",
+      "postal_code": "22500",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yolageldi Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çukurköy Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şerbettar Köyü",
+      "district_name": "Havsa",
+      "postal_code": "22532",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Akhoca Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Akçeşme Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Altıntaş Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (mecidiye Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (yenimuhacir Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22810",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (çamlıca Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Aydoğan Mah (beğendik Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22890",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Aşağı Zaferiye Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bahçeköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Barağı Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Beykent Mah (beğendik Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22890",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Beyköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Boztepe Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyük Cami Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyükdoğanca Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (mecidiye Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (yenimuhacir Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22810",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Danişment Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Danişment Mah (danişment Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Dişbudak Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Erikli Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Erikli Mah (erikli Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Fevzipaşa Mah (çamlıca Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gökçetepe Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gökçetepe Mah (gökçetepe Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gündüzler Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karacaali Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karahisar Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karasatı Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karlı Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah (beğendik Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22890",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Koruklu Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kozköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçükdoğanca Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kılıçköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kızkapan Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Lalacık Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Mahmutköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Maltepe Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Mercan Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Paşa Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Paşayiğit Mah",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Pırnar Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sazlıdere Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sazlıdere Mah (sazlıdere Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Seydiköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Siğilli Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Suluca Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Türkmen Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yayla Mah (yaylaköy Köyü)",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yaylaköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (beğendik Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22890",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeniceçiftlik Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yenimescit Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yerlisu Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yukarı Zaferiye Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çelebi Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çeltik Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çobançeşmesi Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah (yenimuhacir Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22810",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İspat Cami Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Keşan",
+      "postal_code": "22800",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (yenimuhacir Beldesi)",
+      "district_name": "Keşan",
+      "postal_code": "22810",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İzzetiye Mah",
+      "district_name": "Keşan",
+      "postal_code": "22880",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şabanmera Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22410",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şükrüköy Köyü",
+      "district_name": "Keşan",
+      "postal_code": "22272",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyünlü Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Demirköy Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Dombay Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Doğanköy Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hacıdanişment Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hamzabeyli Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hanlıyenice Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hüseyinpınar Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kalkansöğüt Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçünlü Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Lalapaşa",
+      "postal_code": "22950",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Ortakçı Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Saksağan Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sarıdanişment Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sinanköy Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Süleymandanişment Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Taşlımüsellim Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Tuğlalık Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Uzunbayır Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Vaysal Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yünlüce Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çallıdere Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çatma Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çömlek Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çömlekakpınar Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Ömeroba Köyü",
+      "district_name": "Lalapaşa",
+      "postal_code": "22970",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Adasarhanlı Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22610",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Akçadam Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Akıncılar Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Alibey Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "B.doğanca Mah",
+      "district_name": "Meriç",
+      "postal_code": "22600",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyükaltıağaç Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22610",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah (küplü Beldesi)",
+      "district_name": "Meriç",
+      "postal_code": "22610",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hasırcıarnavutköy Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "K. Doğanca Mah",
+      "district_name": "Meriç",
+      "postal_code": "22600",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kadıdondurma Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karahamza Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karayusuflu Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küpdere Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçükaltıağaç Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22610",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (küplü Beldesi)",
+      "district_name": "Meriç",
+      "postal_code": "22610",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Nasuhbey Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Olacak Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Paşayenice Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Rahmanca Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Saatağacı Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Serem Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Umurca Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yakupbey Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yenicegörüce Köyü",
+      "district_name": "Meriç",
+      "postal_code": "22680",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İzzet Paşa Mah (subaşı Beldesi)",
+      "district_name": "Meriç",
+      "postal_code": "22670",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şehit Mehmet Aydın Mah (subaşı Beldesi)",
+      "district_name": "Meriç",
+      "postal_code": "22670",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "1.murat Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Abdurrahman Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Ahı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Avarız Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Babademirtaş Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Barutluk Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bosna Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Budakdoğanca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyükdöllük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyükismailçe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Demirhanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Değirmenyeni Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Dilaverbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Doyran Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Ekmekçi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Elçili Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Eskikadın Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hacıumur Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hasanağa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hatip Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hıdırağa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karabulut Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karakasım Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karayusuf Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kayapa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kemal Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Koca Sinan Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Korucu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Köşençiftliği Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçükdöllük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Medrese Ali Bey Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Menekşesofular Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Menzilahır Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Mithat Paşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Muratçalı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Musabeyli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Nişancıpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Orhaniye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sabuni Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sarayakpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sarıcapaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sazlıdere Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Suakacağı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Talatpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Tayakadın Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Umurbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Uzgaç Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yancıkçı Şahin Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeniimaret Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yenikadın Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yolüstü Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Beyazıt Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Hacı Sarraf Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çavuşbey Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Üyüklütatar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İskender Köyü",
+      "district_name": "Merkez",
+      "postal_code": "22130",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İstasyon Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şükrüpaşa Mah",
+      "district_name": "Merkez",
+      "postal_code": "22100",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Akardere Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyük Gerdelli Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Süloğlu",
+      "postal_code": "22560",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Domurcalı Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Geçkinli Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Keramettin Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küküler Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Süloğlu",
+      "postal_code": "22560",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Organize Sanayi Bölgesi Mah",
+      "district_name": "Süloğlu",
+      "postal_code": "22560",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sülecik Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Tatarlar Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Taşlısekban Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yağcılı Köyü",
+      "district_name": "Süloğlu",
+      "postal_code": "22580",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Süloğlu",
+      "postal_code": "22560",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Şafak Mah",
+      "district_name": "Süloğlu",
+      "postal_code": "22560",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Altınyazı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Alıç Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Aslıhan Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22300",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (kurtbey Köyü)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Aşçıoğlu Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22300",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Balaban Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Balaban Mah (kırcasalih Beldesi)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Balabankoru Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bayramlı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Başağıl Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Beykonak Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Büyük Şehsuvarbey Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bıldır Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kırcasalih Beldesi)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Danişment Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Demirtaş Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22300",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Değirmenci Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Elmalı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Eskiköy Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah (kurtbey Köyü)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gazimehmet Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gemici Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Habib Hoca Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Halise Hatun Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hamitli Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Harmanlı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hasanpınar Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kadıağılı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karabürçek Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karapınar Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karayayla Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kavacık Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22300",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kavakayazma Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kiremitçisalih Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kurdu Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kurttepe Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçük Şehsuvarbey Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kırkkavak Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kırköy Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Maksutlu Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Malkoç Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Mareşal Fevzi Çakmak Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Mescit Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Meşeli Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Muhacırkadı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Muradiye Cami Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Muradiye Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22300",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah (kurtbey Köyü)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Okullar Mah (kırcasalih Beldesi)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Rızaefendi Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Salarlı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sazlımalkoç Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Saçlımüsellim Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sipahi Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sultanşah Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Süleymaniye Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sığırcılı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Turnacı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Türkobası Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yağmurca Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çakmak Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çalı Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22360",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çobanpınar Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Çöpköy Mah",
+      "district_name": "Uzunköprü",
+      "postal_code": "22200",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Ömerbey Köyü",
+      "district_name": "Uzunköprü",
+      "postal_code": "22270",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah (kurtbey Köyü)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22402",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah (kırcasalih Beldesi)",
+      "district_name": "Uzunköprü",
+      "postal_code": "22260",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Aliçopehlivan Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (esetçe Beldesi)",
+      "district_name": "İpsala",
+      "postal_code": "22440",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (kocahıdır Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (sultan Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Balabancık Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bayrambey Mah",
+      "district_name": "İpsala",
+      "postal_code": "22400",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Bozkurt Mah",
+      "district_name": "İpsala",
+      "postal_code": "22400",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (esetçe Beldesi)",
+      "district_name": "İpsala",
+      "postal_code": "22440",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (kocahıdır Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "İpsala",
+      "postal_code": "22400",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah (yenikarpuzlu Beldesi)",
+      "district_name": "İpsala",
+      "postal_code": "22420",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah (yenikarpuzlu Beldesi)",
+      "district_name": "İpsala",
+      "postal_code": "22420",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gemici Mah (ibriktepe Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Gündoğan Mah (hacı Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah (ibriktepe Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Hıdırköy Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kapucu Mah",
+      "district_name": "İpsala",
+      "postal_code": "22400",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Korucu Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Koyuntepe Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kumdere Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah (esetçe Beldesi)",
+      "district_name": "İpsala",
+      "postal_code": "22440",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Köprü Mah",
+      "district_name": "İpsala",
+      "postal_code": "22400",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Küçükdoğanca Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah (sultan Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Pazardere Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Paşaköy Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Saraç İlyas Mah",
+      "district_name": "İpsala",
+      "postal_code": "22400",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sarpdere Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Sarıcaali Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Selanik Mah (hacı Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Selanik Mah (ibriktepe Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Tevfikiye Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Turpçular Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Yapıldak Köyü",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "Zaferiye Mah (hacı Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah (ibriktepe Köyü)",
+      "district_name": "İpsala",
+      "postal_code": "22490",
+      "city_code": "22",
+      "city_name": "Edirne"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah (yenikarpuzlu Beldesi)",
+      "district_name": "İpsala",
+      "postal_code": "22420",
+      "city_code": "22",
+      "city_name": "Edirne"
+    }
+  ],
+  "meta": {
+    "title": "Edirne Mahalleleri (Edirne Neighbourhoods) - Ücretsiz İndir",
+    "description": "Edirne ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (368 kayıt.) (All neighbourhoods (mahalle) in Edirne province with their parent district and postal code.) İçerik 368 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Edirne Mahalleleri (Edirne Neighbourhoods) | ListBase",
+    "seo_description": "İndir Edirne Mahalleleri (Edirne Neighbourhoods) — 368 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 368 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

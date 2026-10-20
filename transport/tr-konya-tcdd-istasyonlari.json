@@ -1,0 +1,160 @@
+{
+  "id": "tr-konya-tcdd-istasyonlari",
+  "name": "KONYA TCDD Tren İstasyonları (Railway stations in KONYA)",
+  "title": "KONYA TCDD Tren İstasyonları (Railway stations in KONYA)",
+  "description": "KONYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KONYA province.) (11 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "AKŞEHİR",
+      "il": "KONYA",
+      "kaynak_metin": "AKŞEHİR , KONYA",
+      "gidis_id": 893,
+      "donus_id": 893,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 29
+    },
+    {
+      "istasyon": "ARGITHAN",
+      "il": "KONYA",
+      "kaynak_metin": "ARGITHAN , KONYA",
+      "gidis_id": 1110,
+      "donus_id": 1110,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "ARIKÖREN",
+      "il": "KONYA",
+      "kaynak_metin": "ARIKÖREN , KONYA",
+      "gidis_id": 777,
+      "donus_id": 777,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 30
+    },
+    {
+      "istasyon": "ILGIN",
+      "il": "KONYA",
+      "kaynak_metin": "ILGIN , KONYA",
+      "gidis_id": 1111,
+      "donus_id": 1111,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 32
+    },
+    {
+      "istasyon": "KADINHAN",
+      "il": "KONYA",
+      "kaynak_metin": "KADINHAN , KONYA",
+      "gidis_id": 924,
+      "donus_id": 924,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 31
+    },
+    {
+      "istasyon": "KAŞINHAN",
+      "il": "KONYA",
+      "kaynak_metin": "KAŞINHAN , KONYA",
+      "gidis_id": 793,
+      "donus_id": 793,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "KONYA",
+      "il": "KONYA",
+      "kaynak_metin": "KONYA , KONYA",
+      "gidis_id": "",
+      "donus_id": 796,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SARAYÖNÜ",
+      "il": "KONYA",
+      "kaynak_metin": "SARAYÖNÜ , KONYA",
+      "gidis_id": "",
+      "donus_id": 955,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "SELÇUKLU YHT (KONYA)",
+      "il": "KONYA",
+      "kaynak_metin": "SELÇUKLU YHT (KONYA) , KONYA",
+      "gidis_id": "",
+      "donus_id": 1336,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "ÇAVUŞCUGÖL",
+      "il": "KONYA",
+      "kaynak_metin": "ÇAVUŞCUGÖL , KONYA",
+      "gidis_id": 892,
+      "donus_id": 892,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 29
+    },
+    {
+      "istasyon": "ÇUMRA",
+      "il": "KONYA",
+      "kaynak_metin": "ÇUMRA , KONYA",
+      "gidis_id": 770,
+      "donus_id": 770,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 40
+    }
+  ],
+  "meta": {
+    "title": "KONYA TCDD Tren İstasyonları (Railway stations in KONYA) - Ücretsiz İndir",
+    "description": "KONYA ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KONYA province.) (11 kayıt.) İçerik 11 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KONYA TCDD Tren İstasyonları (Railway stations in KONYA) | ListBase",
+    "seo_description": "İndir KONYA TCDD Tren İstasyonları (Railway stations in KONYA) — 11 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 11 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

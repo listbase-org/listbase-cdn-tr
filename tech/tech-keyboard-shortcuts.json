@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "Windows ve macOS için Evrensel Klavye Kısayolları Veri Seti",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action (EN)",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "Kopyala",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Kes",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Yapıştır",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Geri Al",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Yinele",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Tümünü Seç",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Kaydet",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Bul",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Bul ve Değiştir",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Yazdır",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Yeni",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Aç",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Pencereyi/Sekmeyi Kapat",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Uygulamadan Çık",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Yardım",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "Evrensel",
+      "application": "All"
+    },
+    {
+      "action": "Masaüstünü Göster",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Dosya Gezgini/Bilgisayarı Aç",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Ekranı Kilitle",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Görev Görünümü/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Uygulamalar Arasında Geçiş Yap",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Ekran Görüntüsü Seçimi",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Tam Ekran Görüntüsü",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Görev Yöneticisi/Zorla Kapat",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Çalıştır/Spotlight",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Ayarlar/Tercihler",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Yeni Sekme",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Kapatılan Sekmeyi Yeniden Aç",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Sonraki Sekme",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Önceki Sekme",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Adres Çubuğuna Odaklan",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Sayfayı Yenile",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Zorla Yenile (Önbelleği Temizle)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Sayfayı İşaretle",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Yer İşaretleri Çubuğunu Aç/Kapat",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "İndirilenler",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Geçmiş",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Yeni Gizli Pencere",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "Tarayıcı",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "Yeni Gizli Pencere",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Tarayıcı",
+      "application": "Firefox"
+    },
+    {
+      "action": "Geliştirici Araçları",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Sayfa Kaynağını Görüntüle",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "Tarayıcı",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Komut Paleti",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Hızlı Dosya Aç",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Terminali Değiştir",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Kenar Çubuğunu Değiştir",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Satır Yorumunu Değiştir",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Satırı Sil",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Satırı Yukarı/Aşağı Taşı",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Sonraki Öğeyi Seç",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Tüm Öğeleri Seç",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Satıra Git",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Sembolü Yeniden Adlandır",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Tanıma Git",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Dosyalarda Ara",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Satır Yorumu Ekle",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Satır Yorumunu Kaldır",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "Düzenleyici",
+      "application": "VS Code"
+    },
+    {
+      "action": "Kelimeyle Taşı",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "Metin",
+      "application": "All"
+    },
+    {
+      "action": "Kelimeyle Seç",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "Metin",
+      "application": "All"
+    },
+    {
+      "action": "Satır Başına/Sonuna Git",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "Metin",
+      "application": "All"
+    },
+    {
+      "action": "Belge Başına/Sonuna Git",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "Metin",
+      "application": "All"
+    },
+    {
+      "action": "Önceki Kelimeyi Sil",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "Metin",
+      "application": "All"
+    },
+    {
+      "action": "Sonraki Kelimeyi Sil",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "Metin",
+      "application": "All"
+    },
+    {
+      "action": "Kalın",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Metin",
+      "application": "Word Processors"
+    },
+    {
+      "action": "İtalik",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "Metin",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Altı Çizili",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "Metin",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Geçerli Tarihi Ekle",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Geçerli Saati Ekle",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Sütun Seç",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Satır Seç",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Hücre Ekle",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Hücre Sil",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Mutlak Başvuruyu Değiştir",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Formülleri Göster",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "E-Tablo",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "İptal Et/Kes",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Ekranı Temizle",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Otomatik Tamamlama",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Komut Geçmişi",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Komut Geçmişini Ara",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "Terminal",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "Klavye Kısayolları - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Windows ve macOS için 77 yaygın klavye kısayolunu ücretsiz indirin. Excel, CSV, PDF formatlarında üretkenliğinizi artırın.",
+    "title": "Windows ve macOS için Evrensel Klavye Kısayolları Veri Seti",
+    "description": "Bu veri seti, Windows ve macOS için eylem ve uygulamaya göre kategorize edilmiş 77 yaygın klavye kısayolunun kapsamlı bir listesini sunar. Temel komutlara hızlı erişimle üretkenliğinizi artırın.",
+    "key_takeaways": [
+      "Windows ve macOS için 77 temel klavye kısayoluna erişin.",
+      "Üretkenlik için evrensel ve uygulamaya özel komutları keşfedin.",
+      "Kapsamlı kısayol listelerini birden fazla uygun formatta indirin.",
+      "Yaygın bilgisayar işlemlerinde ustalaşarak iş akışı verimliliğini artırın."
+    ],
+    "keywords": [
+      "klavye kısayolları excel",
+      "windows kısayollar csv",
+      "macOS kısayollar pdf",
+      "ortak kısayollar listesi",
+      "üretkenlik kısayolları indir",
+      "bilgisayar kısayol tuşları"
+    ],
+    "use_cases": [
+      "Özel uygulamanıza veya öğrenme platformunuza **CSV** dosyasını aktararak kısayol referanslarını entegre edin.",
+      "Kişiselleştirilmiş kopya kağıtları ve eğitim materyalleri için **Excel** dosyasını kullanarak kısayolları kategoriye, uygulamaya veya platforma göre filtreleyin ve sıralayın.",
+      "Masaüstü için pratik bir referans kılavuzu olarak veya bilgisayar okuryazarlığı eğitim atölyelerinde dağıtmak üzere **PDF** versiyonunu yazdırın.",
+      "Geliştiriciler, kullanıcılara verimli gezinmeyi ve komut yürütmeyi öğreten etkileşimli sınavlar veya yardımcı araçlar oluşturmak için bu verilerden yararlanabilir."
+    ]
+  },
+  "record_count": 77,
+  "title": "Windows ve macOS için Evrensel Klavye Kısayolları Veri Seti"
+}

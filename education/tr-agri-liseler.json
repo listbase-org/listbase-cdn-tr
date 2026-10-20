@@ -1,0 +1,292 @@
+{
+  "id": "tr-agri-liseler",
+  "name": "Ağrı Liseleri (High Schools in Ağrı)",
+  "title": "Ağrı Liseleri (High Schools in Ağrı)",
+  "description": "Ağrı ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (18 kayıt) (High schools in Ağrı province, Türkiye, with school type, district, official website and geographic coordinates.)",
+  "category": "education",
+  "source": "https://github.com/alpcanaydin/liseler",
+  "source_url": "https://github.com/alpcanaydin/liseler",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "okul_adi",
+      "label": "Okul Adi",
+      "type": "string"
+    },
+    {
+      "key": "tam_ad",
+      "label": "Tam Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur_kodu",
+      "label": "Tur Kodu",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "tur_en",
+      "label": "Tur En",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "ilce",
+      "label": "Ilce",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "okul_adi": "Cemal Kaya Anadolu Lisesi",
+      "tam_ad": "Ağrı - Diyadin - Cemal Kaya Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Diyadin",
+      "website": "http://cemalkayaanadolu.meb.k12.tr",
+      "enlem": 39.529887173970636,
+      "boylam": 43.67807587756647
+    },
+    {
+      "okul_adi": "Tendürek Dağı Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ağrı - Diyadin - Tendürek Dağı Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Diyadin",
+      "website": "http://diyadinkizmeslek.meb.k12.tr",
+      "enlem": 39.54429258084443,
+      "boylam": 43.66826972140802
+    },
+    {
+      "okul_adi": "Muhammed Celali Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ağrı - Doğubayazıt - Muhammed Celali Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Doğubayazıt",
+      "website": "http://muhammedcelalimtal.meb.k12.tr",
+      "enlem": 39.55479894698148,
+      "boylam": 44.077735749621525
+    },
+    {
+      "okul_adi": "Şehit Polis Fethi Sekin Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ağrı - Doğubayazıt - Şehit Polis Fethi Sekin Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Doğubayazıt",
+      "website": "http://dogubayazitkizmesleklisesi.meb.k12.tr",
+      "enlem": 39.54450355109115,
+      "boylam": 44.0584238447143
+    },
+    {
+      "okul_adi": "Ahmedi Hani Anadolu Lisesi",
+      "tam_ad": "Ağrı - Doğubeyazıt - Ahmedi Hani Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Doğubeyazıt",
+      "website": "http://ahmedihanianadolulisesi.meb.k12.tr",
+      "enlem": 39.54728333443943,
+      "boylam": 44.083212820429935
+    },
+    {
+      "okul_adi": "Dr. Reşat Erden Anadolu Lisesi",
+      "tam_ad": "Ağrı - Doğubeyazıt - Dr. Reşat Erden Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Doğubeyazıt",
+      "website": "http://dreal.meb.k12.tr",
+      "enlem": 39.543909937093744,
+      "boylam": 44.04369583501352
+    },
+    {
+      "okul_adi": "Gevher Nesibe Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ağrı - Doğubeyazıt - Gevher Nesibe Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Doğubeyazıt",
+      "website": "http://dogubayazitsml.meb.k12.tr",
+      "enlem": 39.54427189745238,
+      "boylam": 44.0584962643577
+    },
+    {
+      "okul_adi": "Medine Müdafii Fahrettin Paşa Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Ağrı - Doğubeyazıt - Medine Müdafii Fahrettin Paşa Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ağrı",
+      "ilce": "Doğubeyazıt",
+      "website": "http://medinemudafiifahrettinpasaaihl.meb.k12.tr",
+      "enlem": 39.56084145494318,
+      "boylam": 44.085455147166385
+    },
+    {
+      "okul_adi": "Eleşkirt Anadolu Lisesi",
+      "tam_ad": "Ağrı - Eleşkirt - Eleşkirt Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Eleşkirt",
+      "website": "http://eleskirtanadolulisesi.meb.k12.tr",
+      "enlem": 39.79536305276891,
+      "boylam": 42.716439572711124
+    },
+    {
+      "okul_adi": "Eleşkirt Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ağrı - Eleşkirt - Eleşkirt Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Eleşkirt",
+      "website": "http://eleskirteml.meb.k12.tr",
+      "enlem": 39.798330592495056,
+      "boylam": 42.68382391109003
+    },
+    {
+      "okul_adi": "Recep Tayyip Erdoğan Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Ağrı - Eleşkirt - Recep Tayyip Erdoğan Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ağrı",
+      "ilce": "Eleşkirt",
+      "website": "http://eleskirtaihl.meb.k12.tr",
+      "enlem": 39.797704122548375,
+      "boylam": 42.68676361217035
+    },
+    {
+      "okul_adi": "Ağrı Spor Lisesi",
+      "tam_ad": "Ağrı - Merkez - Ağrı Spor Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Ağrı",
+      "ilce": "Merkez",
+      "website": "http://agrisporlisesi.meb.k12.tr",
+      "enlem": 39.718892434742635,
+      "boylam": 43.01173469199671
+    },
+    {
+      "okul_adi": "Semerkant Mesleki Ve Teknik Anadolu Lisesi",
+      "tam_ad": "Ağrı - Merkez - Semerkant Mesleki Ve Teknik Anadolu Lisesi",
+      "tur_kodu": "meslek_lisesi",
+      "tur": "Mesleki ve Teknik Anadolu Lisesi",
+      "tur_en": "Vocational and Technical Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Merkez",
+      "website": "http://semerkantmtal.meb.k12.tr",
+      "enlem": 39.72705780152839,
+      "boylam": 43.05559953822626
+    },
+    {
+      "okul_adi": "Öğretmenler Anadolu Lisesi",
+      "tam_ad": "Ağrı - Merkez - Öğretmenler Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Merkez",
+      "website": "http://agriogretmenlerlisesi.meb.k12.tr",
+      "enlem": 39.73179813929438,
+      "boylam": 43.04662486686243
+    },
+    {
+      "okul_adi": "Şemsi Türkmen Anadolu Lisesi",
+      "tam_ad": "Ağrı - Merkez - Şemsi Türkmen Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Merkez",
+      "website": "http://semsiturkmen.meb.k12.tr",
+      "enlem": 39.71926379630981,
+      "boylam": 43.043508139987125
+    },
+    {
+      "okul_adi": "Şerife Bacı Kız Teknik Ve Meslek Lisesi",
+      "tam_ad": "Ağrı - Merkez - Şerife Bacı Kız Teknik Ve Meslek Lisesi",
+      "tur_kodu": "lise",
+      "tur": "Lise",
+      "tur_en": "General High School",
+      "il": "Ağrı",
+      "ilce": "Merkez",
+      "website": "http://agriserifebaciktml.meb.k12.tr",
+      "enlem": 39.71277293342126,
+      "boylam": 43.08465322627558
+    },
+    {
+      "okul_adi": "Süphandağı Anadolu Lisesi",
+      "tam_ad": "Ağrı - Patnos - Süphandağı Anadolu Lisesi",
+      "tur_kodu": "anadolu_lisesi",
+      "tur": "Anadolu Lisesi",
+      "tur_en": "Anatolian High School",
+      "il": "Ağrı",
+      "ilce": "Patnos",
+      "website": "http://suphandagianadolulisesi.meb.k12.tr",
+      "enlem": 39.236207398418074,
+      "boylam": 42.85382231845392
+    },
+    {
+      "okul_adi": "Taşlıçay Anadolu İmam Hatip Lisesi",
+      "tam_ad": "Ağrı - Taşlıçay - Taşlıçay Anadolu İmam Hatip Lisesi",
+      "tur_kodu": "imam_hatip",
+      "tur": "İmam Hatip Lisesi",
+      "tur_en": "Imam Hatip High School",
+      "il": "Ağrı",
+      "ilce": "Taşlıçay",
+      "website": "http://taslicayimamhatiplisesi.meb.k12.tr",
+      "enlem": 39.63276927389134,
+      "boylam": 43.38813981189264
+    }
+  ],
+  "meta": {
+    "title": "Ağrı Liseleri (High Schools in Ağrı) - Ücretsiz İndir",
+    "description": "Ağrı ilindeki liseler; okul türü, ilçe, resmî web sitesi ve koordinat bilgisiyle. (18 kayıt) (High schools in Ağrı province, Türkiye, with school type, district, official website and geographic coordinates.) İçerik 18 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Ağrı Liseleri (High Schools in Ağrı) | ListBase",
+    "seo_description": "İndir Ağrı Liseleri (High Schools in Ağrı) — 18 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 18 kayıt / 10 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/alpcanaydin/liseler"
+    ]
+  }
+}

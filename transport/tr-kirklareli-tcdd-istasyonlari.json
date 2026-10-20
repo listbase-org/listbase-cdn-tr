@@ -1,0 +1,97 @@
+{
+  "id": "tr-kirklareli-tcdd-istasyonlari",
+  "name": "KIRKLARELİ TCDD Tren İstasyonları (Railway stations in KIRKLARELİ)",
+  "title": "KIRKLARELİ TCDD Tren İstasyonları (Railway stations in KIRKLARELİ)",
+  "description": "KIRKLARELİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KIRKLARELİ province.) (4 kayıt.)",
+  "category": "transport",
+  "source": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "source_url": "https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "istasyon",
+      "label": "Istasyon",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "kaynak_metin",
+      "label": "Kaynak Metin",
+      "type": "string"
+    },
+    {
+      "key": "gidis_id",
+      "label": "Gidis Id",
+      "type": "number"
+    },
+    {
+      "key": "donus_id",
+      "label": "Donus Id",
+      "type": "number"
+    },
+    {
+      "key": "varis_listesi_tam",
+      "label": "Varis Listesi Tam",
+      "type": "boolean"
+    },
+    {
+      "key": "dogrudan_varis_sayisi",
+      "label": "Dogrudan Varis Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "istasyon": "ALPULLU",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "ALPULLU , KIRKLARELİ",
+      "gidis_id": 976,
+      "donus_id": 976,
+      "varis_listesi_tam": true,
+      "dogrudan_varis_sayisi": 18
+    },
+    {
+      "istasyon": "KAYABEYLİ",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "KAYABEYLİ , KIRKLARELİ",
+      "gidis_id": 996,
+      "donus_id": 996,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "LÜLEBURGAZ",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "LÜLEBURGAZ , KIRKLARELİ",
+      "gidis_id": "",
+      "donus_id": 1128,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    },
+    {
+      "istasyon": "PEHLİVANKÖY",
+      "il": "KIRKLARELİ",
+      "kaynak_metin": "PEHLİVANKÖY , KIRKLARELİ",
+      "gidis_id": "",
+      "donus_id": 1009,
+      "varis_listesi_tam": false,
+      "dogrudan_varis_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "KIRKLARELİ TCDD Tren İstasyonları (Railway stations in KIRKLARELİ) - Ücretsiz İndir",
+    "description": "KIRKLARELİ ilindeki TCDD bilet sisteminde yer alan tren istasyonları. (TCDD stations in KIRKLARELİ province.) (4 kayıt.) İçerik 4 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "KIRKLARELİ TCDD Tren İstasyonları (Railway stations in KIRKLARELİ) | ListBase",
+    "seo_description": "İndir KIRKLARELİ TCDD Tren İstasyonları (Railway stations in KIRKLARELİ) — 4 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 4 kayıt / 7 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://gist.github.com/Furkangunduz/6572d971219260c058d943afbc321aee"
+    ]
+  }
+}

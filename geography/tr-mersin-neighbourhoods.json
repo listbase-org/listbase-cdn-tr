@@ -1,0 +1,5728 @@
+{
+  "id": "tr-mersin-neighbourhoods",
+  "name": "Mersin Mahalleleri (Mersin Neighbourhoods)",
+  "title": "Mersin Mahalleleri (Mersin Neighbourhoods)",
+  "description": "Mersin ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (811 kayıt.) (All neighbourhoods (mahalle) in Mersin province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 811,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Abdullah Şahutoğlu Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33260",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Adanalıoğlu Limonlu Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33280",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Adanalıoğlu Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33280",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdam Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdeniz Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33280",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Anadolu Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33280",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33010",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Aşağıburhan Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Kürkçü Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Yukarıburhan Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahşiş Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Barış Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33010",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bağcılar-ihsaniye Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bağlarbaşı Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bekirde Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Burhanosb Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cami Şerif Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33060",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Camili Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Civanyaylağı Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33295",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demirhisar Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dikilitaş Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Esenli Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evci Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evciosb Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gündoğdu Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33040",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güneş Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33040",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hal Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33300",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hamidiye Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33010",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hebilli Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33295",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Iğdır Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karacailyas Emek Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33260",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karacailyas Evren Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33260",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karacailyas Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33260",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaduvar Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33020",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaduvar Sb Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33020",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kazanlı Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33295",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kiremithane Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33010",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kulak Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Köselerli Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33010",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mahmudiye Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33070",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mesudiye Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33060",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33040",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Müfide İlhan Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33300",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Nacarlı Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Nacarlıosb Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33270",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Nusratiye Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33050",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Parmakkurdu Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Puğkaracadağ Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıibrahimli Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Siteler Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33040",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Toroslar Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33290",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Turgutreis Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33010",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yanpar Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33050",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilova Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33261",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilçimen Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33020",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çankaya Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33070",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çay Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33020",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çilek Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33020",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Özgürlük Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33300",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Üçocak Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33050",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İhsaniye Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33070",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şakirgülmen Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33260",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şevketsümer Mah",
+      "district_name": "Akdeniz",
+      "postal_code": "33300",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akarca Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdeniz Mah",
+      "district_name": "Anamur",
+      "postal_code": "33650",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akine Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alataş Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Anıtlı Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aşağıkükür Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah",
+      "district_name": "Anamur",
+      "postal_code": "33640",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Anamur",
+      "postal_code": "33650",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bozdoğan Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Boğuntu Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demirören Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Emirşah Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evciler Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Anamur",
+      "postal_code": "33650",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gercebahşiş Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Göktaş Mah",
+      "district_name": "Anamur",
+      "postal_code": "33640",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güleç Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güneybahşiş Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güngören Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Anamur",
+      "postal_code": "33650",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kalınören Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaağa Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karalarbahşiş Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaçukur Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaşdişlen Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Korucuk Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kılıç Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılaliler Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Lale Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Malaklar Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ormancık Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ovabaşı Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Anamur",
+      "postal_code": "33640",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıağaç Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıdana Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah",
+      "district_name": "Anamur",
+      "postal_code": "33640",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sugözü Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sultan Alaaddin Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Toroslar Mah",
+      "district_name": "Anamur",
+      "postal_code": "33640",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Uçarı Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yalıevleri Mah",
+      "district_name": "Anamur",
+      "postal_code": "33650",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Anamur",
+      "postal_code": "33640",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kükür Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yıldırım Beyazıt Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çaltıbükü Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıpınar Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıpınaralanı Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çarıklar Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çataloluk Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çeltikçi Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurabanoz Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ören Mah",
+      "district_name": "Anamur",
+      "postal_code": "33630",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İskele Mah",
+      "district_name": "Anamur",
+      "postal_code": "33650",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33840",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33840",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Duruhan Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Eskiyürük Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıbahattin Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33840",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaseki Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33840",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pembecik Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Teknecik Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33840",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yenikaş Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeniyürük Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeniyürükkaş Mah",
+      "district_name": "Aydıncık",
+      "postal_code": "33847",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akcami Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ardıçlıtaş Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33707",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçekoyağı Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Beyreli Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Denizciler Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Derebaşı Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33707",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Elmakuzu Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33707",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gözce Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gözsüzce Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gürlevik Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaledibi Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaisalı Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kömürlü Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kötekler Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33707",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Lenger Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Narince Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sıcakyurt Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tekedüzü Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tekeli Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tekmen Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ustalar Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çopurlu Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çubukkoyağı Mah",
+      "district_name": "Bozyazı",
+      "postal_code": "33830",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Adnan Menderes Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdeniz Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akpınar Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alata Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alibeyli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arpaçbahşiş Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arslanlı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ayaş Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aydınlar Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Batısandal Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dağlı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Doğusandal Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Elbeyli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Elvanlı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Esenpınar Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evdilek Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fakılı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gücüş Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güneyli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güzeloluk Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıalanı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıhalilarpaç Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Harfilli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hüsametli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaahmetli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karahıdırlı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karakeşli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karayakup Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kargıcak Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kargıpınarı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kayacı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocahasanlı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Koramşalı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Koyuncu Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuşluca Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kösbucağı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kösereli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Küstülü Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızkalesi Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılen Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Limonlu Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıkaya Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıyer Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sinap Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sorgun Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sıraç Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tabiye Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tapureli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Toros Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tozlu Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tömük Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Türbe Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tırtar Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Veyselli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yarenler Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yağda Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeniyurt Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yüksek Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlı Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çerçili Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çeşmeli Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çiftepınar Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çiriş Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Üzümlü Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Üçtepe Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İlemin Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şahna Mah",
+      "district_name": "Erdemli",
+      "postal_code": "33730",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdeniz Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33700",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akova Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ardıçpınarı Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arıkuyusu Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ayvalı Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33700",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bereket Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Beydili Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bolyaran Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bozağaç Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Büyükeceli Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dayıcık Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dedeler Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Delikkaya Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demirözü Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Emirhacı Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gezende Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Göktürk Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıpınar Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33700",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Halifeler Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ilısu Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kavakoluğu Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kayrak Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Konur Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Korucuk Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Koçaşlı Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurbağa Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuskan Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Köseçobanlı Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mollaömerli Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33700",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıkavak Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sipahili Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Taşoluk Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tozkovan Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tırnak Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yanışlı Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yarmasu Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yassıbağ Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Zeyne Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurasma Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurkonak Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Örenpınar Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Örtülü Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Üçoluk Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İshaklar Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şeyhömer Mah",
+      "district_name": "Gülnar",
+      "postal_code": "33702",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "75.yıl Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33190",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akarca Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdeniz Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Anayurt Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33190",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33200",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bozön Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cemilli Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33190",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Davultepe Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33190",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demirışık Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Deniz Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33180",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Doğançay Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Doğlu Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Esenbağlar Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Eski Mezitli Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33200",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fındıkpınarı Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33180",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaleköy Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocayer Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuyuluk Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuzucu Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuzucubelen Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33200",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33200",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pelitkoyağı Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarılar Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Seymenli Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33180",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Takanlı Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tece Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33180",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tol Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Viranşehir Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33200",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33200",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Zeybekler Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çankaya Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33210",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çevlik Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33170",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33190",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şahin Tepesi Mah",
+      "district_name": "Mezitli",
+      "postal_code": "33180",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alaçam Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aydınoğlu Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aşağıköselerli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ballı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Barabanlı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bağcağız Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bozdoğan Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Burunköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ceritler Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dağpazarı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demirkapı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dereköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Derinçay Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Deveci Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Diştaş Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Doğancı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Elbeyli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Elmapınar Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Esençay Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evren Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fakırca Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gençali Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Geçimli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Göcekler Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gökçetaş Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güllük Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güme Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güzelköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güzelyurt Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıahmetli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıilyaslı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacınuhlu Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacısait Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hamam Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Haydarköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hisarköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hocalı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ilıca Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Irmaklı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Işıklar Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kadıköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karacaoğlan Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karadiken Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kavaközü Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kayabaşı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kayaönü Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kelceköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kemenli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kumaçukuru Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurtsuyu Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Köselerli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kültür Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kürkçü Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kırkkavak Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılalan Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kışlaköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Meydan Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mirahor Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mucuk Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Narlı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Narlıdere Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Palantepe Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pamuklu Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sakız Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıveliler Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Selamlı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Suçatı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tekeli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Topkaya Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Topluca Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tuğrul Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yalnızcabağ Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yapıntı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yatırtaş Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yazalanı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yukarıköselerli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yıldızköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Zeytinçukuru Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çaltılı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çampınar Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çatakbağ Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çatalharman Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çağlayangedik Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çivi Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çortak Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çömelek Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çınarlı Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Özköy Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Özlü Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İbrahimli Mah",
+      "district_name": "Mut",
+      "postal_code": "33600",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akdere Mah",
+      "district_name": "Silifke",
+      "postal_code": "33900",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arkum Mah",
+      "district_name": "Silifke",
+      "postal_code": "33960",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atakent Mah",
+      "district_name": "Silifke",
+      "postal_code": "33990",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atayurt Mah",
+      "district_name": "Silifke",
+      "postal_code": "33980",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atik Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ayaştürkmenli Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçederesi Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Balandız Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bayındır Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bolacalıkoyuncu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bucaklı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Burunucu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bükdeğirmeni Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Camiikebir Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Canbazlı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cılbayır Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demircili Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ekşiler Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evkafçiftliği Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Silifke",
+      "postal_code": "33960",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gedikpınarı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gökbelen Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Göksu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33960",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gülümpaşalı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gündüzler Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hüseyinler Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hırmanlı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Işıklı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kabasakallı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33960",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karahacılı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karakaya Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kargıcak Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Keben Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kepez Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Keşlitürkmenli Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocaoluk Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocapınar Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurtuluş Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kıca Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kırtıl Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılgeçit Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mara Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mukaddem Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Narlıkuyu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Nasrullah Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Nuru Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ortaören Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ovacık Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pazarkaşı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pelitpınarı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sabak Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıaydın Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıcalar Mah",
+      "district_name": "Silifke",
+      "postal_code": "33960",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Say Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sayağzı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33960",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Senir Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Seydili Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Seyranlık Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sökün Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sömek Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Taşucu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33900",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Toros Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tosmurlu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tosmurlu Osb Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Türkmenuşağı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ulugöz Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Uzuncaburç Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Uşakpınarı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Silifke",
+      "postal_code": "33950",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yenibahçe Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yenisu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeğenli Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilovacık Mah",
+      "district_name": "Silifke",
+      "postal_code": "33900",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çadırlı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çaltıbozkır Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıbel Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çatak Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çeltikçi Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ören Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Özboynuinceli Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Öztürkmenli Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İmambekirli Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İmamlı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İmamuşağı Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şahmurlu Mah",
+      "district_name": "Silifke",
+      "postal_code": "33940",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "82evler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33460",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akarsu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akgedik Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akçakocalı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akşemsettin Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33480",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aladağ Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aliağa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alibeyli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aliefendioğlu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alifakı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Altaylılar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33420",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Anıt Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33430",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ardıçlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arıklı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atalar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33420",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Avadan Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ağzıdelik Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Baharlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçe Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahşiş Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ballıca Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Baltalı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33420",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Belen Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Beydeğirmeni Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33470",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Beylice Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bolatlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Boztepe Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Boğazpınar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Böğrüeğri Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Büyükkösebalcı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Camilimanda Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Caminur Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cin Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cırbıklar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dadalı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Damlama Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dedeler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dorak Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Duatepe Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Egemen Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Eminlik Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Emirler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ergenekon Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33420",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Esenler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Eski Ömerli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Eskişehir Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fahrettin Paşa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33470",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33460",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ferahimşalvuz Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33470",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33460",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gaziler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33420",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gazipaşa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33430",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Girne Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gömmece Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gözlükule Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Göçük Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gülek Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Günyurdu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıbozan Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hacıhamzalı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Halitağa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hasanağa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Heleke Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaburgediği Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kadelli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaklıktaşı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaleburcu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kanberhüyüğü Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karadiken Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karadirlik Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karakütük Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karayayla Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaçerçili Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kargılı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karsavran Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33410",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kefeli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kelahmet Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kemalpaşa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33470",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kerimler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Keşli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocaköy Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Konaklar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kozoluk Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Koçmarlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kulak Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kumdere Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurbanlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurtçukuru Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuşçular Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Körlü Beyi Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kösebalcı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Köselerli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kütüklü Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kırklarsırtı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33480",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kırıt Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılmurat Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılçukur Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mahmutağa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mantaş Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Meşelik Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mithatpaşa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33430",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Muratlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Nemiroğlu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Olukkoyağı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pirömerli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Reşadiye Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sandal Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sanlıca Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıveli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sayköy Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sağlıklı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Simithacılı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sucular Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sıraköy Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Takbaş Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Taşkuyu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Taşobası Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Taşçılı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tekeliören Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33460",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tepeköy Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tepetaşpınar Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tepeçaylak Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Topaklı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Topçu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tozkoparan Zahit Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33470",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ulaş Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Verimli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yalamık Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yanıkkışla Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yaramış Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yarbay Şemsettin Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33470",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yazlık Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33480",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeni Ömerli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33800",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeniçay Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilevler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşiltepe Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeşilyurt Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yunusoğlu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yüksek Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çakırlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamalan B.m Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamtepe Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çatalca Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çavdarlı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çağbaşı Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çağlayan Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33460",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çevreli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çiftlik Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çiriştepe Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çokak Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurbağ Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çöplü Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Özbek Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33401",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Özlüce Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Öğretmenler Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İbrişim Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33403",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İncirgediği Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İncirlikuyu Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33405",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İnköy Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33404",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İsmetpaşa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şahin Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33450",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şehitishak Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33410",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şehitkerim Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33440",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şehitler Tepesi Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33480",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şehitmustafa Mah",
+      "district_name": "Tarsus",
+      "postal_code": "33400",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akbelen Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33220",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aladağ Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alanyalı Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Alsancak Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arpaçsakarlar Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33240",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Arslanköy Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Ayvagediği Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bekiralanı Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Buluklu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dalakdere Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Darısekisi Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Demirtaş Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Değirmendere Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Değnek Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Doruklu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Düğdüören Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Evrenli Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gözne Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güneykent Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33240",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güzelyayla Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Halkkent Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33240",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hamzabeyli Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Horozlu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hüseyin Okan Merzeci Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Işıktepe Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karaisalı Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kavaklıpınar Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kayrakkeşli Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kaşlı Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kepirli Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kerimler Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Korucular Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Korukent Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33230",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurdali Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33250",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kurudere Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kızılkaya Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mevlana Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33250",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mithat Toroğlu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33080",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Musalı Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Mustafa Kemal Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Osmaniye Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33220",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Portakal Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Resulköy Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sadiye Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sağlık Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33080",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Selçuklar Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33250",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Soğucak Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Toroslar Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33250",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tozkoparan Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33080",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Turgut Türkalp Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Turunçlu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33090",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Tırtar Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yalınayak Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33240",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yavca Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yusuf Kılıç Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33220",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Yüksekoluk Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Zeki Ayan Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33220",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çamlıdere Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çandır Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çavuşlu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33230",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çağdaşkent Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33230",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çağlarca Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çelebili Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çopurlu Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurova Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33230",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Şahinpınarı Mah",
+      "district_name": "Toroslar",
+      "postal_code": "33251",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "50. Yıl Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33120",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Akkent Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33150",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Aydınlıkevler Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33140",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33140",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33150",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Batıkent Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33150",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33110",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Deniz Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33120",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Değirmençay Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Dumlupınar Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33140",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Emirler Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Eğriçam Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33150",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fuatmorel Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33120",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gazi Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33140",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Gökçebelen Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33120",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Güvenevler Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33140",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33110",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Karahacılı Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocahamzalı Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kocavilayet Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33120",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kuzeykent Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33120",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Limonluk Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33110",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Menteş Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33150",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Palmiye Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33110",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Pirireis Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33110",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Turunçlu Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Uzunkaş Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çavak Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çiftlikköy Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33150",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çukurkeşli Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İnsu Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33112",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Yenişehir",
+      "postal_code": "33140",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Bağçatağı Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Belçınar Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Cumayakası Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33580",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Darıpınarı Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Fakılar Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Giden Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kale Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33580",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Kesecik Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Korucak Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Körmenlik Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıkavak Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sarıkoyak Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33582",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Sebil Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33580",
+      "city_code": "33",
+      "city_name": "Mersin"
+    },
+    {
+      "neighbourhood_name": "Çayırekinliği Mah",
+      "district_name": "Çamlıyayla",
+      "postal_code": "33580",
+      "city_code": "33",
+      "city_name": "Mersin"
+    }
+  ],
+  "meta": {
+    "title": "Mersin Mahalleleri (Mersin Neighbourhoods) - Ücretsiz İndir",
+    "description": "Mersin ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (811 kayıt.) (All neighbourhoods (mahalle) in Mersin province with their parent district and postal code.) İçerik 811 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Mersin Mahalleleri (Mersin Neighbourhoods) | ListBase",
+    "seo_description": "İndir Mersin Mahalleleri (Mersin Neighbourhoods) — 811 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 811 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

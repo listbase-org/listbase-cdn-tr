@@ -1,0 +1,3544 @@
+{
+  "id": "tr-burdur-neighbourhoods",
+  "name": "Burdur Mahalleleri (Burdur Neighbourhoods)",
+  "title": "Burdur Mahalleleri (Burdur Neighbourhoods)",
+  "description": "Burdur ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (499 kayıt.) (All neighbourhoods (mahalle) in Burdur province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 499,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Bel Mah (ballık Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Gülpınar Mah",
+      "district_name": "Altınyayla",
+      "postal_code": "15420",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Heybeli Mah",
+      "district_name": "Altınyayla",
+      "postal_code": "15420",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavakpınarı Mah (çörten Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kaymakcı Mah (ballık Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (asmabağ Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (ballık Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kızılyaka Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çatak Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çörten Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Söben Mah (ballık Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Süpürgelik Mah (ballık Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Taşyaka Mah",
+      "district_name": "Altınyayla",
+      "postal_code": "15420",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Altınyayla",
+      "postal_code": "15420",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çukurkavak Mah (ballık Köyü)",
+      "district_name": "Altınyayla",
+      "postal_code": "15422",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağıyumrutaş Köyü",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bakırlı Mah (yumrutaş Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bala Mah",
+      "district_name": "Ağlasun",
+      "postal_code": "15800",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Deregözü Mah (yeşilbaşköy Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Eynazlı Mah (yeşilbaşköy Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (mamak Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Gökbel Mah (çamlıdere Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hamam Mah",
+      "district_name": "Ağlasun",
+      "postal_code": "15800",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Harmancık Mah (çamlıdere Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hisar Köyü",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karagöl Mah (çamlıdere Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kiprit Köyü",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kum Mah",
+      "district_name": "Ağlasun",
+      "postal_code": "15800",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kıraç Mah",
+      "district_name": "Ağlasun",
+      "postal_code": "15800",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sakarca Mah",
+      "district_name": "Ağlasun",
+      "postal_code": "15800",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sakarlar Mah (yazır Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sakızlık Mah (çamlıdere Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yavuz Mah (mamak Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yazır Köyü",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamlıdere Köyü",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamova Mah (yumrutaş Köyü)",
+      "district_name": "Ağlasun",
+      "postal_code": "15802",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Ağlasun",
+      "postal_code": "15800",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Afetler Mah (taşyayla Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Akçapınar Mah (kuşbaba Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Alaattin Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ali Hüseyin Sarınçları Mah (kuyubaşı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Alkaya Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Anbahan Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ankara Mah (ürkütlü Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Atilla Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Avdan Mah (kızılkaya Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15310",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aykırı Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (kuşbaba Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (taşyayla Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Barboros Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Belören Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Beşkonak Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bozyaka Mah (elsazı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Boğaz Mah (elsazı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Boğazköy Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kızılseki Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Camii Mah",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Camii Mah (kocaaliler Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (uğurlu Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Dağarcık Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Dereağzı Mah (çobanpınarı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Değirmen Deresi Mah (kuşbaba Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Elmalıbük Mah (kızıllı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Erekli Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Esirlik Mah (kızılseki Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (uğurlu Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Gökalan Mah (kocaaliler Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Güllüalan Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hacıbağ Mah (çamlık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hacıismailler Mah (kızıllı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hanyıkığı Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Harmancık Mah (kargı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hatipköy Mah (kızıllı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaaliler Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah (çobanpınarı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karapınar Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaseki Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karayvatlar Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah (kocaaliler Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavacık Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavak Mah (elsazı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavaklı Mah (çamlık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayı Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kestel Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ketrit Mah (dutalanı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Keçili Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kocayer Mah (çobanpınarı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kozağacı Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köletaşı Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyyatağı Mah (karaot Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kızılca Mah (çobanpınarı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kızılcaağaç Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (avdancık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (dutalanı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (elsazı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (gündoğdu Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kargı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kuyubaşı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mersinaltı Mah (kuşbaba Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mimar Sinan Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Narağacı Mah (çobanpınarı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Narlı Mah (çamlık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Onaç Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kuşbaba Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Oğuzhan Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (kocaaliler Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (kızılkaya Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15310",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (ürkütlü Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazaralan Mah (çobanpınarı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sahil Mah (çamlık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Saka Mah (çamlık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sanayi Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sarıotlu Mah (kızılseki Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Seki Avlığı Mah (kızılseki Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Seydiköy Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sinanbaba Mah (kızılseki Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sivişler Mah (avdancık Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Susuz Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sığındı Mah (dutalanı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Taşbaşı Mah (kargı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Taşdibi Mah (kargı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tepe Boynu Mah (dutalanı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (gündoğdu Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (kızılkaya Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15310",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah (elsazı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yetmiş Evler Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yoncaağaç Mah (kızılseki Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15325",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kuyubaşı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yuva Mah (kızılkaya Beldesi)",
+      "district_name": "Bucak",
+      "postal_code": "15310",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yörükler Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yüreğil Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamlıca Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamlıcaosb Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çavuşlar Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çobanlar Mah (kargı Köyü)",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çukur Mah",
+      "district_name": "Bucak",
+      "postal_code": "15300",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Üzümlübel Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İncirdere Köyü",
+      "district_name": "Bucak",
+      "postal_code": "15302",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Armutlu Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Asmalı Köyü",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Balcılar Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bayramlar Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Başpınar Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Damarası Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Delicin Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Deprem Evleri Mah (evciler Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Divre Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Doğanlar Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Gökçe Pınar Mah (yeşildere Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Göçekiçi Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hanyanı Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Horzum Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karataş Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kelaliler Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kocatarla Mah (hisarardı Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kuşdili Mevkii Mah (karapınar Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Künüklü Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kürtlüyamaç Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Camii Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (evciler Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (hisarardı Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (karapınar Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kargalı Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (uylupınar Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (yeşildere Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Yeri Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Selmanlar Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sorkun Köyü",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tekeliler Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Turanlar Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ulucamii Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yamadı Köyü",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yapraklı Mah (ibecik Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yağpınarı Mah (kargalı Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (ibecik Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (uylupınar Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yusufça Mah (yusufça Beldesi)",
+      "district_name": "Gölhisar",
+      "postal_code": "15413",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yılanlı Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çakmak Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamiçi Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamköy Köyü",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah (ibecik Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çayiçi Mah (elmalıyurt Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çeşme Mah",
+      "district_name": "Gölhisar",
+      "postal_code": "15400",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Üçoluk Mah (yeşildere Köyü)",
+      "district_name": "Gölhisar",
+      "postal_code": "15402",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (bademli Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (manca Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Barbaros Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cafer Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (kılçan Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Camii Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Dere Mah (kılavuzlar Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Eşeler Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hantaşı Mevkii Mah (dereköy Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hürriyet Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kantar Mah (kağılcık Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaman Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayalı Köyü",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kılavuzlar Köyü",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kılçan Köyü",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mürseller Köyü",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (kağılcık Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Okul Mah (kılavuzlar Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Taşocağı Mah (manca Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (kılavuzlar Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (kılçan Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tepe Mevkii Mah (dereköy Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (bademli Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kağılcık Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (manca Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çamlık Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çay Mevkii Mah (dereköy Köyü)",
+      "district_name": "Karamanlı",
+      "postal_code": "15702",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İstiklal Mah",
+      "district_name": "Karamanlı",
+      "postal_code": "15700",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Akçaören Köyü",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Akören Köyü",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (belenli Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (yakalar Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Elmacık Köyü",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Kemer",
+      "postal_code": "15090",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (yakalar Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kayı Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orta Tepe Mah (belenli Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Köyü",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Saray Mah",
+      "district_name": "Kemer",
+      "postal_code": "15090",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Camii Mah",
+      "district_name": "Kemer",
+      "postal_code": "15090",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (kayı Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Tepe Mah (belenli Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Tepe Mah (yakalar Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çay Kenarı Mah (kayı Köyü)",
+      "district_name": "Kemer",
+      "postal_code": "15092",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aksu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Akyaka Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Akın Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Armağan İlci Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Armut Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aydınlıkevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "15040",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aziziye Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Cinbilli Mah (cimbilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (çallıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Müslümler Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Tekkeönü Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Başakevler Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Başakevler Osb Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Başmakçı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bereket Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Beşkavak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bozkurt Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bozlar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Boğaziçi Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Burç Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (akyayla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cemil Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Dere Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Değirmenler Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Deştimankale Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Düğer Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Erikli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (büğdüz Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fevzi Çakmak Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Günalan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Güneyyayla Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hacılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hal Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Halıcılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hızır İlyas Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kapaklı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kara Taş Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karacaören Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karadere Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karakent Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karasenir Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaçal Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kartalpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (akyayla Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavacık Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavak Altı Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Suludere Mah (suludere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayış Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kerpiççukuru Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kocapınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kumluca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kurna Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kuruçay Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kuyu Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kökez Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kışla Mah",
+      "district_name": "Merkez",
+      "postal_code": "15040",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kışlaosb Mah",
+      "district_name": "Merkez",
+      "postal_code": "15040",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mandıra Mah (çatağıl Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Menderes Mah (büğdüz Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mezarlık Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Mithat Paşa Mah (kozluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Necati Bey Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (ilyas Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orta Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ova Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ova Mah (çallıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Oğuzhan Mah (büğdüz Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Park Mah (kozluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Recep Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sakarya Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Saray Mah (kozluca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sarıova Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sinan Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Soğanlı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sığırbiriken Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Taşkapı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tepe Mah (cimbilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ulupınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Y.kökez Mah (kökez Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yarıköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yassıgüme Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yaylabeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yazıköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Cami Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Suludere Mah (suludere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Merkez",
+      "postal_code": "15030",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeşildağ Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yol Altı Mah (gökçebağ Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Cinbilli Mah (cimbilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (çallıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Suludere Mah (suludere Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Tekkeönü Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çay Mah (ilyas Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çendik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çeşmedamı Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çeşmeönü Mah (ilyas Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çine Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çukurçeşme Mah (askeriye Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Özgür Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Üçdibek Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İnsuyu Mah (çatağıl Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İnönü Mah",
+      "district_name": "Merkez",
+      "postal_code": "15200",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İğdederesi Mah (kayaaltı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İğdeli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "15050",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Şeker Evleri Mah",
+      "district_name": "Merkez",
+      "postal_code": "15100",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Şirinevler Mah",
+      "district_name": "Merkez",
+      "postal_code": "15040",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşıklar Mah (hasanpaşa Köyü)",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bayramlar Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Başpınar Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Belkaya Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Beşiktaş Mah (beyköy Köyü)",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah (hasanpaşa Köyü)",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ece Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Esentepe Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Eşeler Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Göktürk Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kaklık Mah (beyköy Köyü)",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karamusa Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kır Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sazak Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Seydiler Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yaylaköy Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hasanpaşa Köyü)",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yenice Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeşilköy Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yokuş Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yuva Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yuvalak Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah",
+      "district_name": "Tefenni",
+      "postal_code": "15600",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Zafer Mah (beyköy Köyü)",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çaylı Köyü",
+      "district_name": "Tefenni",
+      "postal_code": "15602",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "1.küme Evler Mah (orhanlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "2.küme Evler Mah (orhanlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Armut Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah (çuvallı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Cami Mah (güney Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Kırlı Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (salda Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bahcelievler Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bahçeli Evler Mah (çaltepe Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bayındır Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bayırbaşı Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Beyköy Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Cami Mah (çuvallı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Dereköy Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Düden Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Elden Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Gençali Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Gökçeyaka Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Horozköy Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Hüyük Mah (yarışlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaatlı Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaköy Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaköy Mah (harmanlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karşı Mah (harmanlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kavak Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayadibi Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayaköy Mah (alanköy Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Koyunlar Çeşme Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kumluk Mah (çuvallı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (akçaköy Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (alanköy Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (başkuyu Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (bedirli Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (büyükyaka Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (doğanbaba Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (onacak Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (yarışlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (çaltepe Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (çeltek Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (çuvallı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (örencik Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Köyiçi Mah (ışıklar Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah",
+      "district_name": "Yeşilova",
+      "postal_code": "15500",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (harmanlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Niyazlar Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Orhanlı Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sazak Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sağlık Ocağı Mah (yarışlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Taşpınar Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tekke Mah (yarışlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah (çaltepe Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Bağlar Mah (çuvallı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (çaltepe Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Cami Mah (güney Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Kırlı Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (onacak Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (salda Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Müslümler Mah (yarışlı Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çardak Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ömerler Mah (örencik Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İğdir Köyü",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Şehit İsmail Erçoban Mah (çaltepe Köyü)",
+      "district_name": "Yeşilova",
+      "postal_code": "15502",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Anbarcık Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15900",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bayır Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15900",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Belen Mah (kozağacı Köyü)",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bölmepınar Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Büyükalan Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Depo Mah (kozağacı Köyü)",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah (söğüt Beldesi)",
+      "district_name": "Çavdır",
+      "postal_code": "15930",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Karaköy Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kayacık Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kocapınar Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15900",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Küçükalan Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Menevşelik Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15900",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (kızıllar Köyü)",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Pazar Mah (söğüt Beldesi)",
+      "district_name": "Çavdır",
+      "postal_code": "15930",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Saray Burnu Mah (kozağacı Köyü)",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yazır Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yeşil Mah (söğüt Beldesi)",
+      "district_name": "Çavdır",
+      "postal_code": "15930",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çakır Mah (kızıllar Köyü)",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çeşme Mah (söğüt Beldesi)",
+      "district_name": "Çavdır",
+      "postal_code": "15930",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Çınar Mah",
+      "district_name": "Çavdır",
+      "postal_code": "15900",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "İshakköy Köyü",
+      "district_name": "Çavdır",
+      "postal_code": "15902",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah (güvenli Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Bucak Çay Kenarı Mah (çebiş Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Camii Mah",
+      "district_name": "Çeltikçi",
+      "postal_code": "15070",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Değirmenönü Mah (kuzköy Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "En İçi Mah (çebiş Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Güney Mah (kuzköy Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Konak Mah",
+      "district_name": "Çeltikçi",
+      "postal_code": "15070",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Kuzey Mah (kuzköy Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (çebiş Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ortayol Mah (çebiş Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Ovacık Köyü",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Sarot Kayalı Yolu Mah (çebiş Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Tekkeköy Köyü",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yaka Mah (bağsaray Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (bağsaray Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah (güvenli Köyü)",
+      "district_name": "Çeltikçi",
+      "postal_code": "15072",
+      "city_code": "15",
+      "city_name": "Burdur"
+    }
+  ],
+  "meta": {
+    "title": "Burdur Mahalleleri (Burdur Neighbourhoods) - Ücretsiz İndir",
+    "description": "Burdur ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (499 kayıt.) (All neighbourhoods (mahalle) in Burdur province with their parent district and postal code.) İçerik 499 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Burdur Mahalleleri (Burdur Neighbourhoods) | ListBase",
+    "seo_description": "İndir Burdur Mahalleleri (Burdur Neighbourhoods) — 499 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 499 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

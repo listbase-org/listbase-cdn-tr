@@ -1,0 +1,1759 @@
+{
+  "id": "tr-igdir-neighbourhoods",
+  "name": "Iğdır Mahalleleri (Iğdır Neighbourhoods)",
+  "title": "Iğdır Mahalleleri (Iğdır Neighbourhoods)",
+  "description": "Iğdır ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (244 kayıt.) (All neighbourhoods (mahalle) in Iğdır province with their parent district and postal code.)",
+  "category": "geography",
+  "source": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "source_url": "https://github.com/muratgozel/turkey-neighbourhoods",
+  "updated": "2026-04",
+  "record_count": 244,
+  "columns": [
+    {
+      "key": "neighbourhood_name",
+      "label": "Neighbourhood Name",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_code",
+      "label": "City Code",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "neighbourhood_name": "Adetli Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aras Mah",
+      "district_name": "Aralık",
+      "postal_code": "76500",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıaratan Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıtopraklı Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıçamurlu Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıçiftlik Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Babacan Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Emince Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Esenkaya Mah (karahacılı Köyü)",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gödekli Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hacıağa Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hasanhan Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hıdırlı Mah (adetli Köyü)",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karahacılı Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karasu Mah",
+      "district_name": "Aralık",
+      "postal_code": "76500",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karşıyaka Mah",
+      "district_name": "Aralık",
+      "postal_code": "76500",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kolikent Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Köprüler Mah",
+      "district_name": "Aralık",
+      "postal_code": "76500",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kırçiçeği Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ortaköy Mah",
+      "district_name": "Aralık",
+      "postal_code": "76500",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ortalar Mah (aşağıçamurlu Köyü)",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ramazankent Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Saraçlı Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Tarlabaşı Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Tazeköy Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Tigem Mah (emince Köyü)",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yenidoğan Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıaratan Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıtopraklı Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıçamurlu Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıçiftlik Köyü",
+      "district_name": "Aralık",
+      "postal_code": "76502",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aktaş Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıalican Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bayatdoğanşalı Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bekirhanlı Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bulakbaşı Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Cennetabat Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ergenekon Mah",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76700",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Fatih Mah",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76700",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gökçeli Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gölköy Mah (gölköy Köyü)",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kacardoğanşalı Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kerimbeyli Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Koçkıran Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Merkez Mah (taşburun Köyü)",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Mürşitali Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Orta Alican Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Seferkulu Mah (şıracı Köyü)",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yazlık Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıalican Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Zülfikarköy Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "İslamköy Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Şıracı Köyü",
+      "district_name": "Karakoyunlu",
+      "postal_code": "76702",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "14 Kasım Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Akyumak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ali Kamerli Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ali Köçek Mah (zor Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Alibeyköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Asma Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Atatürk Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ağaver Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıerhacı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıçarıkçı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bahçelievler Mah (halfeli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76410",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bayraktutan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bağlar Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Belalak Mah (kavaktepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bendemurat Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bezirhane Mah (çilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Elmagöl Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Emek Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Enginalan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Evci Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Faruktoka Mah (hoşhaber Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76420",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gülpınar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Güngörmez Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hakmehmet Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hakveyis Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Harmandöven Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kadıkışlak Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kanal Yolu Mah (enginalan Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karaağaç Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karabağ Mah (melekli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76401",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karagüney Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karahisar Mah (taşlıca Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karakuyu Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kasımcan Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kavaktepe Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kazancı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kervansaray Mah (harmandöven Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Konaklı Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Korhan Mah (suveren Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kuzugüden Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kuç Mah (mezraa Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Köprüköy Mah (çilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Küllük Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kızılkule Mah (güngörmez Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Mehmet Akif Ersoy Mah (melekli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76401",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Mezraa Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Mirza Mah (kavaktepe Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Namık Kemal Mah (melekli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76401",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Necefali Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Nişankaya Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Obaköy Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Panik Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Pir Sultan Abdal Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Pınarbaşı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Said Nursi Mah (halfeli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76410",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Sarıçoban Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Suveren Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Tacirli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Taşlıca Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Topçular Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Turgut Özal Mah (halfeli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76410",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yaycı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah (hoşhaber Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76420",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıerhacı Mah (aşağıerhacı Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıçarıkcı Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yunus Emre Mah (halfeli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76410",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yüzbaşılar Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Zor Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çakırtaş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çalpala Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çalpalaosb Mah (çalpala Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çiko Mah (çilli Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çilli Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Örüşmüş Köyü",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Özgür Mah",
+      "district_name": "Merkez",
+      "postal_code": "76103",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Özvatan Mah (halfeli Beldesi)",
+      "district_name": "Merkez",
+      "postal_code": "76410",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Şanlımırza Mah (suveren Köyü)",
+      "district_name": "Merkez",
+      "postal_code": "76002",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Abbasgöl Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Adalet Mah (canderviş Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Afet Konutları Mah (kula Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Akdeğirmen Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Akdiz Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Akoluk Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Alhanlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aliköse Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Alçalı Mah (kayaören Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Arslanlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ağabey Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağı Mah",
+      "district_name": "Tuzluca",
+      "postal_code": "76900",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağı Çıyrıklı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıaktaş Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıcivanlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağıkatırlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşağısutaşı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Aşık Hüseyin Mah (aşağıkatırlı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Badilli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bahçecik Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bahçelimeydan Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bağlan Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Başsinek Mah (ombulak Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Beyoğlu Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Bostanlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Boyluca Mah (yağlı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Buruksu Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Canderviş Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Cumhuriyet Mah",
+      "district_name": "Tuzluca",
+      "postal_code": "76900",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Değirmen Mah (sürmeli Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Dipsiz Mah (bahçecik Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Doğanyurt Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Elmalık Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Eğrekdere Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gaziler Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gedikli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Göktaş Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gülahmet Mah (yağlı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Güllüce Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Gültepe Mah (güllüce Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Güzeldere Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hadımlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hamurkesen Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Hasankent Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kalaça Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kamışlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kandilli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karabulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karacören Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karagüney Mah (doğanyurt Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karakoyun Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karanlık Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Karataş Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kayakışlak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kayaören Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kazkoparan Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kelekli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Konaklı Mah (ombulak Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Koçbaşı Mah (taşuçan Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kula Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kumbulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kuruağaç Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Köprübaşı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Küçükova Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kılıçlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kırkbulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kıznefer Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kızıldüz Mah (hadımlı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Kızılkelefe Mah (yağlı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Laleli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Lebi Mah (kalaça Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Mollakamer Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Nahırkıran Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ombulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Orta Mah",
+      "district_name": "Tuzluca",
+      "postal_code": "76900",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ortabucak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Osmanköy Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Pirdemir Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Pirli Mah (sürmeli Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Pınar Mah (abbasgöl Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Rağbet Mah (bahçecik Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Sarıabdal Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Sarıbulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Soğukbulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Söğütlü Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Sürmeli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Taşköprü Mah (kandilli Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Taşuçan Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Tezekçi Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Turabi Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Tutak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Uğruca Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yassıbulak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yaylacık Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yağlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yeni Mah",
+      "district_name": "Tuzluca",
+      "postal_code": "76900",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (göktaş Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yeniköy Mah (ombulak Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarı Mah",
+      "district_name": "Tuzluca",
+      "postal_code": "76900",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarı Sutaşı Mah (aşağısutaşı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıaktaş Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıcivanlı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yukarıçıyrıklı Mah (aşağı Çıyrıklı Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Yüceotak Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Zarifhane Mah (ombulak Köyü)",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çiçekli Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Çıraklı Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Ünlendi Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "Üçkaya Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "İnce Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    },
+    {
+      "neighbourhood_name": "İncesu Köyü",
+      "district_name": "Tuzluca",
+      "postal_code": "76902",
+      "city_code": "76",
+      "city_name": "Iğdır"
+    }
+  ],
+  "meta": {
+    "title": "Iğdır Mahalleleri (Iğdır Neighbourhoods) - Ücretsiz İndir",
+    "description": "Iğdır ilindeki tüm mahallelerin (neighbourhoods) listesi, bağlı olduğu ilçe ve posta kodu ile birlikte. (244 kayıt.) (All neighbourhoods (mahalle) in Iğdır province with their parent district and postal code.) İçerik 244 kayıt. Excel, CSV, PDF formatında indir.",
+    "seo_title": "Iğdır Mahalleleri (Iğdır Neighbourhoods) | ListBase",
+    "seo_description": "İndir Iğdır Mahalleleri (Iğdır Neighbourhoods) — 244 kayıt. Excel, CSV, PDF formatında mevcut.",
+    "key_takeaways": [
+      "İçerik 244 kayıt / 5 alan",
+      "Excel, CSV ve PDF formatında ücretsiz indirin",
+      "Veri kaynağı: https://github.com/muratgozel/turkey-neighbourhoods"
+    ]
+  }
+}

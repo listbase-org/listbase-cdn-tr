@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "Elektronegatiflik Tablosu (Pauling Skalası) Veri Seti",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "Hidrojen",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "Ametal",
+      "trend": "Referans"
+    },
+    {
+      "symbol": "He",
+      "name": "Helyum",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "Soygaz",
+      "trend": "Uygulanamaz - Soygaz"
+    },
+    {
+      "symbol": "Li",
+      "name": "Lityum",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Periyotta en düşük"
+    },
+    {
+      "symbol": "Be",
+      "name": "Berilyum",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "Toprak Alkali Metal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "B",
+      "name": "Bor",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "Metaloid",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "C",
+      "name": "Karbon",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "Ametal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "N",
+      "name": "Azot",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "Ametal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "O",
+      "name": "Oksijen",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "Ametal",
+      "trend": "En yüksek ikinci"
+    },
+    {
+      "symbol": "F",
+      "name": "Flor",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "Halojen",
+      "trend": "En elektronegatif element"
+    },
+    {
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "Soygaz",
+      "trend": "Uygulanamaz - Soygaz"
+    },
+    {
+      "symbol": "Na",
+      "name": "Sodyum",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Periyotta en düşük"
+    },
+    {
+      "symbol": "Mg",
+      "name": "Magnezyum",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "Toprak Alkali Metal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "Al",
+      "name": "Alüminyum",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "Geçiş Sonrası Metal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "Si",
+      "name": "Silisyum",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "Metaloid",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "P",
+      "name": "Fosfor",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "Ametal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "S",
+      "name": "Kükürt",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "Ametal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "Cl",
+      "name": "Klor",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "Halojen",
+      "trend": "Periyotta en yüksek"
+    },
+    {
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "Soygaz",
+      "trend": "Uygulanamaz - Soygaz"
+    },
+    {
+      "symbol": "K",
+      "name": "Potasyum",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Periyotta en düşük"
+    },
+    {
+      "symbol": "Ca",
+      "name": "Kalsiyum",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "Toprak Alkali Metal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "Sc",
+      "name": "Skandiyum",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Ti",
+      "name": "Titanyum",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "V",
+      "name": "Vanadyum",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Cr",
+      "name": "Krom",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Mn",
+      "name": "Mangan",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Fe",
+      "name": "Demir",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Co",
+      "name": "Kobalt",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Ni",
+      "name": "Nikel",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Cu",
+      "name": "Bakır",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Zn",
+      "name": "Çinko",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Ga",
+      "name": "Galyum",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "Geçiş Sonrası Metal",
+      "trend": "Geçiş sonrası"
+    },
+    {
+      "symbol": "Ge",
+      "name": "Germanyum",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "Metaloid",
+      "trend": "Periyotta artar"
+    },
+    {
+      "symbol": "As",
+      "name": "Arsenik",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "Metaloid",
+      "trend": "Periyotta artar"
+    },
+    {
+      "symbol": "Se",
+      "name": "Selenyum",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "Ametal",
+      "trend": "Periyotta artar"
+    },
+    {
+      "symbol": "Br",
+      "name": "Brom",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "Halojen",
+      "trend": "Periyotta en yüksek"
+    },
+    {
+      "symbol": "Kr",
+      "name": "Kripton",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "Soygaz",
+      "trend": "EN değeri olan soygaz"
+    },
+    {
+      "symbol": "Rb",
+      "name": "Rubidyum",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Periyotta en düşük"
+    },
+    {
+      "symbol": "Sr",
+      "name": "Stronsiyum",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "Toprak Alkali",
+      "trend": "Periyotta artar"
+    },
+    {
+      "symbol": "Y",
+      "name": "İtriyum",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Zr",
+      "name": "Zirkonyum",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Nb",
+      "name": "Niyobyum",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Mo",
+      "name": "Molibden",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Tc",
+      "name": "Teknesyum",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Ru",
+      "name": "Rutenyum",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Rh",
+      "name": "Rodyum",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Pd",
+      "name": "Paladyum",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Ag",
+      "name": "Gümüş",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Cd",
+      "name": "Kadmiyum",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "In",
+      "name": "İndiyum",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "Geçiş Sonrası Metal",
+      "trend": "Geçiş sonrası"
+    },
+    {
+      "symbol": "Sn",
+      "name": "Kalay",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "Geçiş Sonrası Metal",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "Sb",
+      "name": "Antimon",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "Metaloid",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "Te",
+      "name": "Tellür",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "Metaloid",
+      "trend": "Periyot boyunca artar"
+    },
+    {
+      "symbol": "I",
+      "name": "İyot",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "Halojen",
+      "trend": "Periyottaki en yüksek (ana grup)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "Ksenon",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "Soygaz",
+      "trend": "EN değeri olan soygaz"
+    },
+    {
+      "symbol": "Cs",
+      "name": "Sezyum",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "En düşük ikinci EN elementi"
+    },
+    {
+      "symbol": "Ba",
+      "name": "Baryum",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "Toprak Alkali Metal",
+      "trend": "Düşük EN"
+    },
+    {
+      "symbol": "Au",
+      "name": "Altın",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "Geçiş Metali",
+      "trend": "Metal için yüksek EN"
+    },
+    {
+      "symbol": "Hg",
+      "name": "Cıva",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "Geçiş Metali",
+      "trend": "Geçiş metali bölgesi"
+    },
+    {
+      "symbol": "Pb",
+      "name": "Kurşun",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "Geçiş Sonrası Metal",
+      "trend": "Geçiş sonrası"
+    },
+    {
+      "symbol": "Bi",
+      "name": "Bizmut",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "Geçiş Sonrası Metal",
+      "trend": "Geçiş sonrası"
+    },
+    {
+      "symbol": "At",
+      "name": "Astatin",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "Halojen",
+      "trend": "Radyoaktif halojen"
+    },
+    {
+      "symbol": "Fr",
+      "name": "Fransiyum",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "Alkali metal",
+      "trend": "Elektronegatifliği en düşük element"
+    }
+  ],
+  "meta": {
+    "seo_title": "Elektronegatiflik Tablosu (Pauling) - Ücretsiz İndir (Excel/CSV/PDF)",
+    "seo_description": "Ücretsiz indir: 62 kimyasal element için Elektronegatiflik Tablosu (Pauling Skalası). Atom özelliklerini ve eğilimlerini keşfedin. Excel, CSV, PDF formatlarında.",
+    "title": "Elektronegatiflik Tablosu (Pauling Skalası) Veri Seti",
+    "description": "Bu veri seti, 62 kimyasal element için elektronegatiflik değerlerini (Pauling Skalası) sağlar; atom numarası, periyot, grup ve element kategorisi dahil. Kimya öğrencileri, araştırmacılar ve eğitimciler için idealdir.",
+    "key_takeaways": [
+      "62 element için Pauling elektronegatiflik verilerine erişin.",
+      "Atom özelliklerini ve periyodik eğilimleri ayrıntılı olarak keşfedin.",
+      "Analiz için kapsamlı verileri Excel, CSV veya PDF olarak indirin.",
+      "Kimyasal bağlar ve reaktivite hakkında bilgi edinin."
+    ],
+    "keywords": [
+      "elektronegatiflik tablosu pauling",
+      "kimyasal element verileri",
+      "atom özellikleri veri seti",
+      "elektronegatiflik değerleri excel",
+      "periyodik eğilimler csv",
+      "ücretsiz kimya verileri"
+    ],
+    "use_cases": [
+      "Elektronegatiflik eğilimleri ve kimyasal element özellikleri üzerinde özel veri analizi yapmak için **CSV** dosyasını SQL veritabanınıza veya Python komut dosyanıza aktarın.",
+      "Akademik araştırmalar veya sınıf ödevleri için Pivot Tablolar oluşturmak, elementleri gruba veya kategoriye göre filtrelemek ve raporlar hazırlamak için **Excel** dosyasını kullanın.",
+      "Kimya laboratuvarında, sınıfta veya atomik özellikler üzerine sunumlar için hızlı, çevrimdışı bir referans kılavuzu olarak **PDF** sürümünü yazdırın.",
+      "Elektronegatifliğin periyodik eğilimlerini anlamak ve çeşitli bileşiklerdeki kimyasal bağ davranışını tahmin etmek için bu veri setini kullanın."
+    ]
+  },
+  "record_count": 62,
+  "title": "Elektronegatiflik Tablosu (Pauling Skalası) Veri Seti"
+}
