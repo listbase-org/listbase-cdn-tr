@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:33.214Z",
-  "total_datasets": 530,
-  "total_records": 596381,
+  "generated": "2026-10-27T02:31:35.686Z",
+  "total_datasets": 531,
+  "total_records": 596501,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "economy",
@@ -217,6 +217,32 @@
         "xlsx": {
           "name": "tr-muzeler_TR.xlsx",
           "size": 12667
+        }
+      }
+    },
+    {
+      "id": "tr-ulu-camiler",
+      "name": "Türkiye'deki ulu camiler",
+      "category": "culture",
+      "record_count": 120,
+      "columns": [
+        "cami",
+        "il",
+        "ilce",
+        "bani",
+        "tarih"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_ulu_camiler_listesi",
+      "updated": "2026-10",
+      "size": 18415,
+      "files": {
+        "csv": {
+          "name": "tr-ulu-camiler_TR.csv",
+          "size": 6611
+        },
+        "xlsx": {
+          "name": "tr-ulu-camiler_TR.xlsx",
+          "size": 10996
         }
       }
     },
