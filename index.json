@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:30:47.733Z",
-  "total_datasets": 512,
-  "total_records": 593484,
+  "generated": "2026-10-27T02:30:50.128Z",
+  "total_datasets": 513,
+  "total_records": 593503,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -204,6 +204,33 @@
         "xlsx": {
           "name": "tr-asgari-ucret_TR.xlsx",
           "size": 7968
+        }
+      }
+    },
+    {
+      "id": "tr-ceyreklik-ekonomik-buyume",
+      "name": "Türkiye çeyreklik ekonomik büyüme oranları (1999–2017)",
+      "category": "economy",
+      "record_count": 19,
+      "columns": [
+        "yil",
+        "ceyrek_1",
+        "ceyrek_2",
+        "ceyrek_3",
+        "ceyrek_4",
+        "yillik_buyume"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_ekonomisi",
+      "updated": "2026-10",
+      "size": 4703,
+      "files": {
+        "csv": {
+          "name": "tr-ceyreklik-ekonomik-buyume_TR.csv",
+          "size": 780
+        },
+        "xlsx": {
+          "name": "tr-ceyreklik-ekonomik-buyume_TR.xlsx",
+          "size": 7335
         }
       }
     },
