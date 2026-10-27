@@ -1,0 +1,429 @@
+{
+  "id": "tr-milli-parklar",
+  "name": "Türkiye'deki millî parklar",
+  "title": "Türkiye'deki millî parklar",
+  "description": "Türkiye'deki millî parkların listesi: bulunduğu iller, ilan tarihi ve yüzölçümü.",
+  "category": "environment",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_millî_parklar_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_millî_parklar_listesi",
+  "updated": "2026-10",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "milli_park",
+      "label": "Milli Park",
+      "type": "string"
+    },
+    {
+      "key": "iller",
+      "label": "Iller",
+      "type": "string"
+    },
+    {
+      "key": "ilan_tarihi",
+      "label": "Ilan Tarihi",
+      "type": "string"
+    },
+    {
+      "key": "yuzolcumu",
+      "label": "Yuzolcumu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "milli_park": "Abant Gölü Millî Parkı",
+      "iller": "Bolu",
+      "ilan_tarihi": "10 Haziran 2022",
+      "yuzolcumu": "1.262 hektar (12,62 km 2 )"
+    },
+    {
+      "no": 2,
+      "milli_park": "Ağrı Dağı Millî Parkı",
+      "iller": "Ağrı , Iğdır",
+      "ilan_tarihi": "17 Kasım 2004",
+      "yuzolcumu": "88.014 hektar (880,14 km 2 )"
+    },
+    {
+      "no": 3,
+      "milli_park": "Akdağ Millî Parkı",
+      "iller": "Afyonkarahisar , Denizli",
+      "ilan_tarihi": "18 Ocak 2024",
+      "yuzolcumu": "15.933 hektar (159,33 km 2 )"
+    },
+    {
+      "no": 4,
+      "milli_park": "Aladağlar Millî Parkı",
+      "iller": "Adana , Kayseri , Niğde",
+      "ilan_tarihi": "21 Nisan 1995",
+      "yuzolcumu": "37.753 hektar (377,53 km 2 )"
+    },
+    {
+      "no": 5,
+      "milli_park": "Altınbeşik Mağarası Millî Parkı",
+      "iller": "Antalya",
+      "ilan_tarihi": "31 Ağustos 1994",
+      "yuzolcumu": "1.147 hektar (11,47 km 2 )"
+    },
+    {
+      "no": 6,
+      "milli_park": "Altındere Vadisi Millî Parkı",
+      "iller": "Trabzon",
+      "ilan_tarihi": "9 Eylül 1987",
+      "yuzolcumu": "4.468 hektar (44,68 km 2 )"
+    },
+    {
+      "no": 7,
+      "milli_park": "Başkomutan Tarihî Millî Parkı",
+      "iller": "Afyonkarahisar , Kütahya , Uşak",
+      "ilan_tarihi": "8 Kasım 1981",
+      "yuzolcumu": "34.834 hektar (348,34 km 2 )"
+    },
+    {
+      "no": 8,
+      "milli_park": "Beydağları Sahil Millî Parkı",
+      "iller": "Antalya",
+      "ilan_tarihi": "16 Mart 1972",
+      "yuzolcumu": "31.166 hektar (311,66 km 2 )"
+    },
+    {
+      "no": 9,
+      "milli_park": "Beyşehir Gölü Millî Parkı",
+      "iller": "Konya",
+      "ilan_tarihi": "11 Ocak 1993",
+      "yuzolcumu": "82.156 hektar (821,56 km 2 )"
+    },
+    {
+      "no": 10,
+      "milli_park": "Boğazköy-Alacahöyük Millî Parkı",
+      "iller": "Çorum",
+      "ilan_tarihi": "21 Eylül 1988",
+      "yuzolcumu": "2.600 hektar (26 km 2 )"
+    },
+    {
+      "no": 11,
+      "milli_park": "Botan Vadisi Millî Parkı",
+      "iller": "Siirt",
+      "ilan_tarihi": "15 Ağustos 2019",
+      "yuzolcumu": "11.523 hektar (115,23 km 2 )"
+    },
+    {
+      "no": 12,
+      "milli_park": "Derebucak Çamlık Mağaraları Millî Parkı",
+      "iller": "Konya",
+      "ilan_tarihi": "7 Haziran 2022",
+      "yuzolcumu": "1.147 hektar (11,47 km 2 )"
+    },
+    {
+      "no": 13,
+      "milli_park": "Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı",
+      "iller": "Aydın",
+      "ilan_tarihi": "19 Mayıs 1966",
+      "yuzolcumu": "27.598 hektar (275,98 km 2 )"
+    },
+    {
+      "no": 14,
+      "milli_park": "Divriği Millî Parkı",
+      "iller": "Sivas",
+      "ilan_tarihi": "2 Kasım 2024",
+      "yuzolcumu": "5.049 hektar (50,49 km 2 )"
+    },
+    {
+      "no": 15,
+      "milli_park": "Fethiye-Kaş Deniz Millî Parkı",
+      "iller": "Antalya , Muğla",
+      "ilan_tarihi": "16 Ağustos 2026",
+      "yuzolcumu": "2.170.603 hektar (21.706,03 km 2 )"
+    },
+    {
+      "no": 16,
+      "milli_park": "Gala Gölü Millî Parkı",
+      "iller": "Edirne",
+      "ilan_tarihi": "5 Mart 2005",
+      "yuzolcumu": "5.923 hektar (59,23 km 2 )"
+    },
+    {
+      "no": 17,
+      "milli_park": "Geben Vadisi Millî Parkı",
+      "iller": "Kahramanmaraş",
+      "ilan_tarihi": "30 Mayıs 2025",
+      "yuzolcumu": "20.323 hektar (203,23 km 2 )"
+    },
+    {
+      "no": 18,
+      "milli_park": "Güllük Dağı Millî Parkı",
+      "iller": "Antalya",
+      "ilan_tarihi": "3 Kasım 1970",
+      "yuzolcumu": "6.700 hektar (67 km 2 )"
+    },
+    {
+      "no": 19,
+      "milli_park": "Hakkâri Cilo ve Sat Dağları Millî Parkı",
+      "iller": "Hakkâri",
+      "ilan_tarihi": "26 Eylül 2020",
+      "yuzolcumu": "27.500 hektar (275 km 2 )"
+    },
+    {
+      "no": 20,
+      "milli_park": "Hatila Vadisi Millî Parkı",
+      "iller": "Artvin",
+      "ilan_tarihi": "31 Ağustos 1994",
+      "yuzolcumu": "16.944 hektar (169,44 km 2 )"
+    },
+    {
+      "no": 21,
+      "milli_park": "Honaz Dağı Millî Parkı",
+      "iller": "Denizli",
+      "ilan_tarihi": "21 Nisan 1995",
+      "yuzolcumu": "9.429 hektar (94,29 km 2 )"
+    },
+    {
+      "no": 22,
+      "milli_park": "Ilgaz Dağı Millî Parkı",
+      "iller": "Çankırı , Kastamonu",
+      "ilan_tarihi": "2 Haziran 1976",
+      "yuzolcumu": "1.118 hektar (11,18 km 2 )"
+    },
+    {
+      "no": 23,
+      "milli_park": "İğneada Longoz Ormanları Millî Parkı",
+      "iller": "Kırklareli",
+      "ilan_tarihi": "13 Kasım 2007",
+      "yuzolcumu": "3.155 hektar (31,55 km 2 )"
+    },
+    {
+      "no": 24,
+      "milli_park": "İstiklâl Yolu Tarihî Millî Parkı",
+      "iller": "Ankara , Çankırı , Kastamonu",
+      "ilan_tarihi": "2 Kasım 2018",
+      "yuzolcumu": "235 hektar (2,35 km 2 )"
+    },
+    {
+      "no": 25,
+      "milli_park": "Kaçkar Dağları Millî Parkı",
+      "iller": "Artvin , Erzurum , Rize",
+      "ilan_tarihi": "31 Ağustos 1994",
+      "yuzolcumu": "52.970 hektar (529,7 km 2 )"
+    },
+    {
+      "no": 26,
+      "milli_park": "Karagöl-Sahara Millî Parkı",
+      "iller": "Artvin",
+      "ilan_tarihi": "31 Ağustos 1994",
+      "yuzolcumu": "3.251 hektar (32,51 km 2 )"
+    },
+    {
+      "no": 27,
+      "milli_park": "Karatepe-Aslantaş Millî Parkı",
+      "iller": "Osmaniye",
+      "ilan_tarihi": "29 Mayıs 1958",
+      "yuzolcumu": "4.143 hektar (41,43 km 2 )"
+    },
+    {
+      "no": 28,
+      "milli_park": "Kazdağı Millî Parkı",
+      "iller": "Balıkesir",
+      "ilan_tarihi": "17 Nisan 1994",
+      "yuzolcumu": "20.935 hektar (209,35 km 2 )"
+    },
+    {
+      "no": 29,
+      "milli_park": "Kızıldağ Millî Parkı",
+      "iller": "Isparta",
+      "ilan_tarihi": "9 Mayıs 1969",
+      "yuzolcumu": "80.200 hektar (802 km 2 )"
+    },
+    {
+      "no": 30,
+      "milli_park": "Kop Dağı Müdafaası Tarihî Millî Parkı",
+      "iller": "Bayburt , Erzurum",
+      "ilan_tarihi": "15 Kasım 2016",
+      "yuzolcumu": "6.335 hektar (63,35 km 2 )"
+    },
+    {
+      "no": 31,
+      "milli_park": "Kovada Gölü Millî Parkı",
+      "iller": "Isparta",
+      "ilan_tarihi": "3 Kasım 1970",
+      "yuzolcumu": "6.551 hektar (65,51 km 2 )"
+    },
+    {
+      "no": 32,
+      "milli_park": "Köprülü Kanyon Millî Parkı",
+      "iller": "Antalya",
+      "ilan_tarihi": "12 Aralık 1973",
+      "yuzolcumu": "47.473 hektar (474,73 km 2 )"
+    },
+    {
+      "no": 33,
+      "milli_park": "Kuşcenneti Millî Parkı",
+      "iller": "Balıkesir",
+      "ilan_tarihi": "27 Temmuz 1959",
+      "yuzolcumu": "17.058 hektar (170,58 km 2 )"
+    },
+    {
+      "no": 34,
+      "milli_park": "Kuzey Ege Deniz Millî Parkı",
+      "iller": "Çanakkale , Edirne",
+      "ilan_tarihi": "16 Ağustos 2026",
+      "yuzolcumu": "174.214 hektar (1.742,14 km 2 )"
+    },
+    {
+      "no": 35,
+      "milli_park": "Küre Dağları Millî Parkı",
+      "iller": "Bartın , Kastamonu",
+      "ilan_tarihi": "7 Temmuz 2000",
+      "yuzolcumu": "37.753 hektar (377,53 km 2 )"
+    },
+    {
+      "no": 36,
+      "milli_park": "Malazgirt Meydan Muharebesi Tarihî Millî Parkı",
+      "iller": "Muş",
+      "ilan_tarihi": "5 Şubat 2018",
+      "yuzolcumu": "238 hektar (2,38 km 2 )"
+    },
+    {
+      "no": 37,
+      "milli_park": "Marmaris Millî Parkı",
+      "iller": "Muğla",
+      "ilan_tarihi": "8 Mart 1996",
+      "yuzolcumu": "29.206 hektar (292,06 km 2 )"
+    },
+    {
+      "no": 38,
+      "milli_park": "Munzur Vadisi Millî Parkı",
+      "iller": "Tunceli",
+      "ilan_tarihi": "21 Aralık 1971",
+      "yuzolcumu": "42.674 hektar (426,74 km 2 )"
+    },
+    {
+      "no": 39,
+      "milli_park": "Nemrut Dağı Millî Parkı",
+      "iller": "Adıyaman , Malatya",
+      "ilan_tarihi": "7 Aralık 1988",
+      "yuzolcumu": "13.827 hektar (138,27 km 2 )"
+    },
+    {
+      "no": 40,
+      "milli_park": "Nemrut Kalderası Millî Parkı",
+      "iller": "Bitlis",
+      "ilan_tarihi": "19 Ağustos 2026",
+      "yuzolcumu": "4.804 hektar (48,04 km 2 )"
+    },
+    {
+      "no": 41,
+      "milli_park": "Nene Hatun Tarihî Millî Parkı",
+      "iller": "Erzurum",
+      "ilan_tarihi": "6 Haziran 2009",
+      "yuzolcumu": "387 hektar (3,87 km 2 )"
+    },
+    {
+      "no": 42,
+      "milli_park": "Sakarya Meydan Muharebesi Tarihî Millî Parkı",
+      "iller": "Ankara",
+      "ilan_tarihi": "8 Şubat 2015",
+      "yuzolcumu": "22.487 hektar (224,87 km 2 )"
+    },
+    {
+      "no": 43,
+      "milli_park": "Saklıkent Millî Parkı",
+      "iller": "Antalya , Muğla",
+      "ilan_tarihi": "6 Haziran 1996",
+      "yuzolcumu": "1.643 hektar (16,43 km 2 )"
+    },
+    {
+      "no": 44,
+      "milli_park": "Sarıçalı Dağı Millî Parkı",
+      "iller": "Ankara",
+      "ilan_tarihi": "28 Ekim 2021",
+      "yuzolcumu": "1.024 hektar (10,24 km 2 )"
+    },
+    {
+      "no": 45,
+      "milli_park": "Sarıkamış-Allahuekber Dağları Millî Parkı",
+      "iller": "Erzurum , Kars",
+      "ilan_tarihi": "19 Ekim 2004",
+      "yuzolcumu": "22.520 hektar (225,2 km 2 )"
+    },
+    {
+      "no": 46,
+      "milli_park": "Soğuksu Millî Parkı",
+      "iller": "Ankara",
+      "ilan_tarihi": "19 Şubat 1959",
+      "yuzolcumu": "1.186 hektar (11,86 km 2 )"
+    },
+    {
+      "no": 47,
+      "milli_park": "Spil Dağı Millî Parkı",
+      "iller": "İzmir , Manisa",
+      "ilan_tarihi": "22 Nisan 1968",
+      "yuzolcumu": "6.801 hektar (68,01 km 2 )"
+    },
+    {
+      "no": 48,
+      "milli_park": "Sultansazlığı Millî Parkı",
+      "iller": "Kayseri",
+      "ilan_tarihi": "17 Mart 2006",
+      "yuzolcumu": "39.057 hektar (390,57 km 2 )"
+    },
+    {
+      "no": 49,
+      "milli_park": "Tek Tek Dağları Millî Parkı",
+      "iller": "Şanlıurfa",
+      "ilan_tarihi": "29 Mayıs 2007",
+      "yuzolcumu": "19.335 hektar (193,35 km 2 )"
+    },
+    {
+      "no": 50,
+      "milli_park": "Troya Tarihî Millî Parkı",
+      "iller": "Çanakkale",
+      "ilan_tarihi": "7 Kasım 1996",
+      "yuzolcumu": "13.517 hektar (135,17 km 2 )"
+    },
+    {
+      "no": 51,
+      "milli_park": "Uludağ Millî Parkı",
+      "iller": "Bursa",
+      "ilan_tarihi": "20 Eylül 1961",
+      "yuzolcumu": "10.978 hektar (109,78 km 2 )"
+    },
+    {
+      "no": 52,
+      "milli_park": "Van Gölü Deveboynu Yarımadası Millî Parkı",
+      "iller": "Bitlis , Van",
+      "ilan_tarihi": "31 Ağustos 2026",
+      "yuzolcumu": "12.532 hektar (125,32 km 2 )"
+    },
+    {
+      "no": 53,
+      "milli_park": "Yedigöller Millî Parkı",
+      "iller": "Bolu",
+      "ilan_tarihi": "29 Nisan 1965",
+      "yuzolcumu": "1.623 hektar (16,23 km 2 )"
+    },
+    {
+      "no": 54,
+      "milli_park": "Yozgat Çamlığı Millî Parkı",
+      "iller": "Yozgat",
+      "ilan_tarihi": "5 Şubat 1958",
+      "yuzolcumu": "517 hektar (5,17 km 2 )"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki millî parklar - Free Download",
+    "description": "Türkiye'deki millî parkların listesi: bulunduğu iller, ilan tarihi ve yüzölçümü. Contains 54 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki millî parklar | ListBase",
+    "seo_description": "Download Türkiye'deki millî parklar — 54 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 54 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_millî_parklar_listesi"
+    ]
+  }
+}
