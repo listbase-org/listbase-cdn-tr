@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:05.464Z",
-  "total_datasets": 519,
-  "total_records": 595676,
+  "generated": "2026-10-27T02:31:07.934Z",
+  "total_datasets": 520,
+  "total_records": 595696,
   "categories": [
     {
       "id": "agriculture",
@@ -79,6 +79,10 @@
     {
       "id": "time",
       "dataset_count": 2
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -13336,6 +13340,31 @@
         "xlsx": {
           "name": "time-zodiac-signs_TR.xlsx",
           "size": 8797
+        }
+      }
+    },
+    {
+      "id": "tr-en-cok-ziyaret-edilen-muzeler",
+      "name": "Türkiye'de en çok ziyaret edilen müzeler",
+      "category": "tourism",
+      "record_count": 20,
+      "columns": [
+        "sira",
+        "muze",
+        "sehir",
+        "ziyaretci_2019"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_müzeler_listesi",
+      "updated": "2026-10",
+      "size": 4171,
+      "files": {
+        "csv": {
+          "name": "tr-en-cok-ziyaret-edilen-muzeler_TR.csv",
+          "size": 1071
+        },
+        "xlsx": {
+          "name": "tr-en-cok-ziyaret-edilen-muzeler_TR.xlsx",
+          "size": 7580
         }
       }
     },

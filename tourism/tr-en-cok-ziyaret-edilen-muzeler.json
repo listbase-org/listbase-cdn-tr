@@ -1,0 +1,166 @@
+{
+  "id": "tr-en-cok-ziyaret-edilen-muzeler",
+  "name": "Türkiye'de en çok ziyaret edilen müzeler",
+  "title": "Türkiye'de en çok ziyaret edilen müzeler",
+  "description": "Türkiye'de 2019 yılında en çok ziyaret edilen müzeler ve ziyaretçi sayıları.",
+  "category": "tourism",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_müzeler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_müzeler_listesi",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "sira",
+      "label": "Sira",
+      "type": "number"
+    },
+    {
+      "key": "muze",
+      "label": "Muze",
+      "type": "string"
+    },
+    {
+      "key": "sehir",
+      "label": "Sehir",
+      "type": "string"
+    },
+    {
+      "key": "ziyaretci_2019",
+      "label": "Ziyaretci 2019",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sira": 1,
+      "muze": "Ayasofya Camii",
+      "sehir": "İstanbul",
+      "ziyaretci_2019": 3727361
+    },
+    {
+      "sira": 2,
+      "muze": "Mevlânâ Müzesi",
+      "sehir": "Konya",
+      "ziyaretci_2019": 3464155
+    },
+    {
+      "sira": 3,
+      "muze": "Topkapı Sarayı",
+      "sehir": "İstanbul",
+      "ziyaretci_2019": 2364946
+    },
+    {
+      "sira": 4,
+      "muze": "Hacı Bektaş-ı Veli Türbesi",
+      "sehir": "Nevşehir",
+      "ziyaretci_2019": 592727
+    },
+    {
+      "sira": 5,
+      "muze": "Cumhuriyet Müzesi",
+      "sehir": "Ankara",
+      "ziyaretci_2019": 515309
+    },
+    {
+      "sira": 6,
+      "muze": "İstanbul Arkeoloji Müzesi",
+      "sehir": "İstanbul",
+      "ziyaretci_2019": 427643
+    },
+    {
+      "sira": 7,
+      "muze": "Noel Baba Kilisesi",
+      "sehir": "Antalya",
+      "ziyaretci_2019": 384893
+    },
+    {
+      "sira": 8,
+      "muze": "Zeugma Mozaik Müzesi",
+      "sehir": "Gaziantep",
+      "ziyaretci_2019": 367395
+    },
+    {
+      "sira": 9,
+      "muze": "Sivas Atatürk ve Kongre Müzesi",
+      "sehir": "Sivas",
+      "ziyaretci_2019": 345760
+    },
+    {
+      "sira": 10,
+      "muze": "Anadolu Medeniyetleri Müzesi",
+      "sehir": "Ankara",
+      "ziyaretci_2019": 327695
+    },
+    {
+      "sira": 11,
+      "muze": "Cahit Sıtkı Tarancı Evi Kültür Müzesi",
+      "sehir": "Diyarbakır",
+      "ziyaretci_2019": 305629
+    },
+    {
+      "sira": 12,
+      "muze": "Topkapı Sarayı - Harem",
+      "sehir": "İstanbul",
+      "ziyaretci_2019": 303806
+    },
+    {
+      "sira": 13,
+      "muze": "Tarihî Sinop Cezaevi",
+      "sehir": "Sinop",
+      "ziyaretci_2019": 290700
+    },
+    {
+      "sira": 14,
+      "muze": "Şanlıurfa Arkeoloji ve Mozaik Müzesi",
+      "sehir": "Şanlıurfa",
+      "ziyaretci_2019": 250865
+    },
+    {
+      "sira": 15,
+      "muze": "İslam Bilim ve Teknoloji Tarihi Müzesi",
+      "sehir": "İstanbul",
+      "ziyaretci_2019": 230233
+    },
+    {
+      "sira": 16,
+      "muze": "Hatay Arkeoloji Müzesi",
+      "sehir": "Hatay",
+      "ziyaretci_2019": 221917
+    },
+    {
+      "sira": 17,
+      "muze": "Akdamar Kilisesi",
+      "sehir": "Van",
+      "ziyaretci_2019": 218137
+    },
+    {
+      "sira": 18,
+      "muze": "Pamukkale Arkeoloji Müzesi",
+      "sehir": "Denizli",
+      "ziyaretci_2019": 209689
+    },
+    {
+      "sira": 19,
+      "muze": "Sümela Manastırı",
+      "sehir": "Trabzon",
+      "ziyaretci_2019": 201474
+    },
+    {
+      "sira": 20,
+      "muze": "Kariye Camii",
+      "sehir": "İstanbul",
+      "ziyaretci_2019": 200173
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de en çok ziyaret edilen müzeler - Free Download",
+    "description": "Türkiye'de 2019 yılında en çok ziyaret edilen müzeler ve ziyaretçi sayıları. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de en çok ziyaret edilen müzeler | ListBase",
+    "seo_description": "Download Türkiye'de en çok ziyaret edilen müzeler — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_müzeler_listesi"
+    ]
+  }
+}
