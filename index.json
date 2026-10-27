@@ -1,9 +1,13 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:30:42.726Z",
-  "total_datasets": 510,
-  "total_records": 593093,
+  "generated": "2026-10-27T02:30:45.264Z",
+  "total_datasets": 511,
+  "total_records": 593415,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 2
@@ -78,6 +82,39 @@
     }
   ],
   "datasets": [
+    {
+      "id": "tr-barajlar",
+      "name": "Türkiye'deki barajlar",
+      "category": "agriculture",
+      "record_count": 322,
+      "columns": [
+        "baraj",
+        "il",
+        "kullanim",
+        "dolgu_tipi",
+        "yapim_suresi",
+        "govde_hacmi_m3",
+        "yukseklik_m",
+        "gol_alani_km2",
+        "su_hacmi_hm3",
+        "sulama_alani_ha",
+        "yillik_icme_suyu_hm3",
+        "enerji_mw_gwh"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_barajlar_listesi",
+      "updated": "2026-10",
+      "size": 119780,
+      "files": {
+        "csv": {
+          "name": "tr-barajlar_TR.csv",
+          "size": 30869
+        },
+        "xlsx": {
+          "name": "tr-barajlar_TR.xlsx",
+          "size": 29513
+        }
+      }
+    },
     {
       "id": "tr-dunya-mirasi-alanlari-unesco",
       "name": "Türkiye'deki UNESCO Dünya Mirası Alanları",
