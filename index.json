@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:30:57.807Z",
-  "total_datasets": 516,
-  "total_records": 595510,
+  "generated": "2026-10-27T02:31:00.278Z",
+  "total_datasets": 517,
+  "total_records": 595551,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -231,6 +231,35 @@
         "xlsx": {
           "name": "tr-ceyreklik-ekonomik-buyume_TR.xlsx",
           "size": 7335
+        }
+      }
+    },
+    {
+      "id": "tr-ekonomik-gostergeler",
+      "name": "Türkiye ekonomik göstergeleri (1980–2020)",
+      "category": "economy",
+      "record_count": 41,
+      "columns": [
+        "yil",
+        "gsyih_milyar_usd_sagp",
+        "gsyih_milyar_usd_nominal",
+        "kisi_basi_gsyih_usd_sagp",
+        "gsyih_buyumesi",
+        "enflasyon_orani",
+        "issizlik",
+        "hukumet_borcu_gsyih_pct"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_ekonomisi",
+      "updated": "2026-10",
+      "size": 13755,
+      "files": {
+        "csv": {
+          "name": "tr-ekonomik-gostergeler_TR.csv",
+          "size": 2553
+        },
+        "xlsx": {
+          "name": "tr-ekonomik-gostergeler_TR.xlsx",
+          "size": 8966
         }
       }
     },

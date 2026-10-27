@@ -1,0 +1,476 @@
+{
+  "id": "tr-ekonomik-gostergeler",
+  "name": "Türkiye ekonomik göstergeleri (1980–2020)",
+  "title": "Türkiye ekonomik göstergeleri (1980–2020)",
+  "description": "Türkiye'nin yıllara göre temel ekonomik göstergeleri: GSYİH, kişi başına GSYİH, büyüme, enflasyon, işsizlik ve kamu borcu.",
+  "category": "economy",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye_ekonomisi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye_ekonomisi",
+  "updated": "2026-10",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "yil",
+      "label": "Yil",
+      "type": "number"
+    },
+    {
+      "key": "gsyih_milyar_usd_sagp",
+      "label": "Gsyih Milyar Usd Sagp",
+      "type": "number"
+    },
+    {
+      "key": "gsyih_milyar_usd_nominal",
+      "label": "Gsyih Milyar Usd Nominal",
+      "type": "string"
+    },
+    {
+      "key": "kisi_basi_gsyih_usd_sagp",
+      "label": "Kisi Basi Gsyih Usd Sagp",
+      "type": "number"
+    },
+    {
+      "key": "gsyih_buyumesi",
+      "label": "Gsyih Buyumesi",
+      "type": "string"
+    },
+    {
+      "key": "enflasyon_orani",
+      "label": "Enflasyon Orani",
+      "type": "string"
+    },
+    {
+      "key": "issizlik",
+      "label": "Issizlik",
+      "type": "string"
+    },
+    {
+      "key": "hukumet_borcu_gsyih_pct",
+      "label": "Hukumet Borcu Gsyih Pct",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yil": 1980,
+      "gsyih_milyar_usd_sagp": 155.4,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 3491,
+      "gsyih_buyumesi": "%−0.8",
+      "enflasyon_orani": "%110.6",
+      "issizlik": "%7.2",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1981,
+      "gsyih_milyar_usd_sagp": 177.3,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 3896,
+      "gsyih_buyumesi": "%4.4",
+      "enflasyon_orani": "%36.4",
+      "issizlik": "%7.2",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1982,
+      "gsyih_milyar_usd_sagp": 194.8,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 4168,
+      "gsyih_buyumesi": "%3.4",
+      "enflasyon_orani": "%31.1",
+      "issizlik": "%7.6",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1983,
+      "gsyih_milyar_usd_sagp": 212.1,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 4278,
+      "gsyih_buyumesi": "%0.3",
+      "enflasyon_orani": "%31.3",
+      "issizlik": "%7.5",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1984,
+      "gsyih_milyar_usd_sagp": 234.6,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 4624,
+      "gsyih_buyumesi": "%6.8",
+      "enflasyon_orani": "%48.4",
+      "issizlik": "%7,4",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1985,
+      "gsyih_milyar_usd_sagp": 252.4,
+      "gsyih_milyar_usd_nominal": "",
+      "kisi_basi_gsyih_usd_sagp": 4863,
+      "gsyih_buyumesi": "%4.3",
+      "enflasyon_orani": "%44.5",
+      "issizlik": "%7.0",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1986,
+      "gsyih_milyar_usd_sagp": 275.4,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 5190,
+      "gsyih_buyumesi": "%6.9",
+      "enflasyon_orani": "%34.6",
+      "issizlik": "%7.7",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1987,
+      "gsyih_milyar_usd_sagp": 310.7,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 5731,
+      "gsyih_buyumesi": "%10.0",
+      "enflasyon_orani": "%38.9",
+      "issizlik": "%8.1",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1988,
+      "gsyih_milyar_usd_sagp": 328.4,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 6158,
+      "gsyih_buyumesi": "%2.1",
+      "enflasyon_orani": "%73.7",
+      "issizlik": "%8.7",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1989,
+      "gsyih_milyar_usd_sagp": 342.1,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 6323,
+      "gsyih_buyumesi": "%0.3",
+      "enflasyon_orani": "%63.3",
+      "issizlik": "%8.6",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1990,
+      "gsyih_milyar_usd_sagp": 387.5,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 7002,
+      "gsyih_buyumesi": "%9.3",
+      "enflasyon_orani": "%60.3",
+      "issizlik": "%8.0",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1991,
+      "gsyih_milyar_usd_sagp": 404.1,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 7158,
+      "gsyih_buyumesi": "%0.9",
+      "enflasyon_orani": "%66.0",
+      "issizlik": "%7.7",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1992,
+      "gsyih_milyar_usd_sagp": 438.1,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 7633,
+      "gsyih_buyumesi": "%6.0",
+      "enflasyon_orani": "%70.1",
+      "issizlik": "%7.9",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1993,
+      "gsyih_milyar_usd_sagp": 484.6,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 8308,
+      "gsyih_buyumesi": "%8.0",
+      "enflasyon_orani": "%66.1",
+      "issizlik": "%8.4",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1994,
+      "gsyih_milyar_usd_sagp": 467.9,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 7896,
+      "gsyih_buyumesi": "%−5.5",
+      "enflasyon_orani": "%104.5",
+      "issizlik": "%8.0",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1995,
+      "gsyih_milyar_usd_sagp": 512,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 8507,
+      "gsyih_buyumesi": "%7.2",
+      "enflasyon_orani": "%89.6",
+      "issizlik": "%7.1",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1996,
+      "gsyih_milyar_usd_sagp": 557.9,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 9130,
+      "gsyih_buyumesi": "%7.0",
+      "enflasyon_orani": "%80.2",
+      "issizlik": "%6.1",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1997,
+      "gsyih_milyar_usd_sagp": 610.1,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 9837,
+      "gsyih_buyumesi": "%7.5",
+      "enflasyon_orani": "%85.7",
+      "issizlik": "%6.3",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1998,
+      "gsyih_milyar_usd_sagp": 635.8,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 10106,
+      "gsyih_buyumesi": "%3.1",
+      "enflasyon_orani": "%84.7",
+      "issizlik": "%6.4",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 1999,
+      "gsyih_milyar_usd_sagp": 623.7,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 9773,
+      "gsyih_buyumesi": "%−3.4",
+      "enflasyon_orani": "%64.9",
+      "issizlik": "%7.2",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    },
+    {
+      "yil": 2000,
+      "gsyih_milyar_usd_sagp": 680.2,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 10509,
+      "gsyih_buyumesi": "%6.6",
+      "enflasyon_orani": "%55.0",
+      "issizlik": "%6.0",
+      "hukumet_borcu_gsyih_pct": "%51.6"
+    },
+    {
+      "yil": 2001,
+      "gsyih_milyar_usd_sagp": 654.3,
+      "gsyih_milyar_usd_nominal": "n/a",
+      "kisi_basi_gsyih_usd_sagp": 9973,
+      "gsyih_buyumesi": "%−6.0",
+      "enflasyon_orani": "%54.2",
+      "issizlik": "%7.8",
+      "hukumet_borcu_gsyih_pct": "%76.1"
+    },
+    {
+      "yil": 2002,
+      "gsyih_milyar_usd_sagp": 707,
+      "gsyih_milyar_usd_nominal": 240.2,
+      "kisi_basi_gsyih_usd_sagp": 10648,
+      "gsyih_buyumesi": "%6.4",
+      "enflasyon_orani": "%45.1",
+      "issizlik": "%9.8",
+      "hukumet_borcu_gsyih_pct": "%72.1"
+    },
+    {
+      "yil": 2003,
+      "gsyih_milyar_usd_sagp": 761.6,
+      "gsyih_milyar_usd_nominal": 314.6,
+      "kisi_basi_gsyih_usd_sagp": 11335,
+      "gsyih_buyumesi": "%5.6",
+      "enflasyon_orani": "%25.3",
+      "issizlik": "%9.9",
+      "hukumet_borcu_gsyih_pct": "%65.7"
+    },
+    {
+      "yil": 2004,
+      "gsyih_milyar_usd_sagp": 858,
+      "gsyih_milyar_usd_nominal": 408.9,
+      "kisi_basi_gsyih_usd_sagp": 12615,
+      "gsyih_buyumesi": "%9.6",
+      "enflasyon_orani": "%8.6",
+      "issizlik": "%9.7",
+      "hukumet_borcu_gsyih_pct": "%57.7"
+    },
+    {
+      "yil": 2005,
+      "gsyih_milyar_usd_sagp": 965.4,
+      "gsyih_milyar_usd_nominal": 506.3,
+      "kisi_basi_gsyih_usd_sagp": 14018,
+      "gsyih_buyumesi": "%9.0",
+      "enflasyon_orani": "%8.2",
+      "issizlik": "%9.5",
+      "hukumet_borcu_gsyih_pct": "%50.7"
+    },
+    {
+      "yil": 2006,
+      "gsyih_milyar_usd_sagp": 1065.8,
+      "gsyih_milyar_usd_nominal": 557.1,
+      "kisi_basi_gsyih_usd_sagp": 15284,
+      "gsyih_buyumesi": "%7.1",
+      "enflasyon_orani": "%9.6",
+      "issizlik": "%9.0",
+      "hukumet_borcu_gsyih_pct": "%44.7"
+    },
+    {
+      "yil": 2007,
+      "gsyih_milyar_usd_sagp": 1149.2,
+      "gsyih_milyar_usd_nominal": 681.3,
+      "kisi_basi_gsyih_usd_sagp": 16280,
+      "gsyih_buyumesi": "%5.0",
+      "enflasyon_orani": "%8.8",
+      "issizlik": "%9.2",
+      "hukumet_borcu_gsyih_pct": "%38.2"
+    },
+    {
+      "yil": 2008,
+      "gsyih_milyar_usd_sagp": 1181.6,
+      "gsyih_milyar_usd_nominal": 770.4,
+      "kisi_basi_gsyih_usd_sagp": 16522,
+      "gsyih_buyumesi": "%0.8",
+      "enflasyon_orani": "%10.4",
+      "issizlik": "%10.0",
+      "hukumet_borcu_gsyih_pct": "%38.2"
+    },
+    {
+      "yil": 2009,
+      "gsyih_milyar_usd_sagp": 1134.6,
+      "gsyih_milyar_usd_nominal": 649.3,
+      "kisi_basi_gsyih_usd_sagp": 15635,
+      "gsyih_buyumesi": "%−4.7",
+      "enflasyon_orani": "%6.2",
+      "issizlik": "%13.1",
+      "hukumet_borcu_gsyih_pct": "%43.9"
+    },
+    {
+      "yil": 2010,
+      "gsyih_milyar_usd_sagp": 1245.9,
+      "gsyih_milyar_usd_nominal": 777,
+      "kisi_basi_gsyih_usd_sagp": 16900,
+      "gsyih_buyumesi": "%8.5",
+      "enflasyon_orani": "%8.6",
+      "issizlik": "%11.1",
+      "hukumet_borcu_gsyih_pct": "%40.1"
+    },
+    {
+      "yil": 2011,
+      "gsyih_milyar_usd_sagp": 1412.9,
+      "gsyih_milyar_usd_nominal": 838.8,
+      "kisi_basi_gsyih_usd_sagp": 18909,
+      "gsyih_buyumesi": "%11.1",
+      "enflasyon_orani": "%6.5",
+      "issizlik": "%9.1",
+      "hukumet_borcu_gsyih_pct": "%36.5"
+    },
+    {
+      "yil": 2012,
+      "gsyih_milyar_usd_sagp": 1507.9,
+      "gsyih_milyar_usd_nominal": 880.6,
+      "kisi_basi_gsyih_usd_sagp": 19938,
+      "gsyih_buyumesi": "%4.8",
+      "enflasyon_orani": "%8.9",
+      "issizlik": "%8.4",
+      "hukumet_borcu_gsyih_pct": "%32.7"
+    },
+    {
+      "yil": 2013,
+      "gsyih_milyar_usd_sagp": 1662.4,
+      "gsyih_milyar_usd_nominal": 957.8,
+      "kisi_basi_gsyih_usd_sagp": 21683,
+      "gsyih_buyumesi": "%8.5",
+      "enflasyon_orani": "%7.5",
+      "issizlik": "%9.0",
+      "hukumet_borcu_gsyih_pct": "%31.4"
+    },
+    {
+      "yil": 2014,
+      "gsyih_milyar_usd_sagp": 1779.6,
+      "gsyih_milyar_usd_nominal": 938.9,
+      "kisi_basi_gsyih_usd_sagp": 22905,
+      "gsyih_buyumesi": "%5.2",
+      "enflasyon_orani": "%8.9",
+      "issizlik": "%9.9",
+      "hukumet_borcu_gsyih_pct": "%28.8"
+    },
+    {
+      "yil": 2015,
+      "gsyih_milyar_usd_sagp": 1908.4,
+      "gsyih_milyar_usd_nominal": 864.3,
+      "kisi_basi_gsyih_usd_sagp": 24236,
+      "gsyih_buyumesi": "%6.1",
+      "enflasyon_orani": "%7.7",
+      "issizlik": "%10.3",
+      "hukumet_borcu_gsyih_pct": "%27.6"
+    },
+    {
+      "yil": 2016,
+      "gsyih_milyar_usd_sagp": 1994,
+      "gsyih_milyar_usd_nominal": 869.7,
+      "kisi_basi_gsyih_usd_sagp": 24982,
+      "gsyih_buyumesi": "%3.2",
+      "enflasyon_orani": "%7.8",
+      "issizlik": "%10.9",
+      "hukumet_borcu_gsyih_pct": "%28.3"
+    },
+    {
+      "yil": 2017,
+      "gsyih_milyar_usd_sagp": 2183.3,
+      "gsyih_milyar_usd_nominal": 858.9,
+      "kisi_basi_gsyih_usd_sagp": 27017,
+      "gsyih_buyumesi": "%7.4",
+      "enflasyon_orani": "%11.1",
+      "issizlik": "%10.9",
+      "hukumet_borcu_gsyih_pct": "%28.2"
+    },
+    {
+      "yil": 2018,
+      "gsyih_milyar_usd_sagp": 2299.8,
+      "gsyih_milyar_usd_nominal": 778.4,
+      "kisi_basi_gsyih_usd_sagp": 28044,
+      "gsyih_buyumesi": "%2.8",
+      "enflasyon_orani": "%16.3",
+      "issizlik": "%11.0",
+      "hukumet_borcu_gsyih_pct": "%30.2"
+    },
+    {
+      "yil": 2019,
+      "gsyih_milyar_usd_sagp": "n/a",
+      "gsyih_milyar_usd_nominal": 761.4,
+      "kisi_basi_gsyih_usd_sagp": "n/a",
+      "gsyih_buyumesi": "%0.8",
+      "enflasyon_orani": "%11.8",
+      "issizlik": "%13.4",
+      "hukumet_borcu_gsyih_pct": ""
+    },
+    {
+      "yil": 2020,
+      "gsyih_milyar_usd_sagp": "n/a",
+      "gsyih_milyar_usd_nominal": 719.5,
+      "kisi_basi_gsyih_usd_sagp": "n/a",
+      "gsyih_buyumesi": "n/a",
+      "enflasyon_orani": "%14.6",
+      "issizlik": "n/a",
+      "hukumet_borcu_gsyih_pct": "n/a"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye ekonomik göstergeleri (1980–2020) - Free Download",
+    "description": "Türkiye'nin yıllara göre temel ekonomik göstergeleri: GSYİH, kişi başına GSYİH, büyüme, enflasyon, işsizlik ve kamu borcu. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye ekonomik göstergeleri (1980–2020) | ListBase",
+    "seo_description": "Download Türkiye ekonomik göstergeleri (1980–2020) — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye_ekonomisi"
+    ]
+  }
+}
