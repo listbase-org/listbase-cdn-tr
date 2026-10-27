@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:30:55.256Z",
-  "total_datasets": 515,
-  "total_records": 595377,
+  "generated": "2026-10-27T02:30:57.807Z",
+  "total_datasets": 516,
+  "total_records": 595510,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -12566,6 +12566,34 @@
         "xlsx": {
           "name": "science-solubility-rules_TR.xlsx",
           "size": 9160
+        }
+      }
+    },
+    {
+      "id": "tr-depremler",
+      "name": "Türkiye'deki depremler",
+      "category": "science",
+      "record_count": 133,
+      "columns": [
+        "tarih",
+        "zaman",
+        "yer",
+        "enlem",
+        "boylam",
+        "kayiplar",
+        "buyukluk"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_depremler_listesi",
+      "updated": "2026-10",
+      "size": 32544,
+      "files": {
+        "csv": {
+          "name": "tr-depremler_TR.csv",
+          "size": 13704
+        },
+        "xlsx": {
+          "name": "tr-depremler_TR.xlsx",
+          "size": 16052
         }
       }
     },

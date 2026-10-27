@@ -1,0 +1,1258 @@
+{
+  "id": "tr-depremler",
+  "name": "Türkiye'deki depremler",
+  "title": "Türkiye'deki depremler",
+  "description": "Türkiye'de meydana gelen önemli depremlerin listesi: tarih, saat, yer, koordinatlar, kayıplar ve büyüklük.",
+  "category": "science",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_depremler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_depremler_listesi",
+  "updated": "2026-10",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "tarih",
+      "label": "Tarih",
+      "type": "string"
+    },
+    {
+      "key": "zaman",
+      "label": "Zaman",
+      "type": "number"
+    },
+    {
+      "key": "yer",
+      "label": "Yer",
+      "type": "string"
+    },
+    {
+      "key": "enlem",
+      "label": "Enlem",
+      "type": "number"
+    },
+    {
+      "key": "boylam",
+      "label": "Boylam",
+      "type": "number"
+    },
+    {
+      "key": "kayiplar",
+      "label": "Kayiplar",
+      "type": "string"
+    },
+    {
+      "key": "buyukluk",
+      "label": "Buyukluk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tarih": "24 Eylül 2026",
+      "zaman": "10.40",
+      "yer": "Karaköprü , Şanlıurfa",
+      "enlem": "37.45717",
+      "boylam": "38.81533",
+      "kayiplar": "Şanlıurfa GAP Havalimanı da dahil olmak üzere bazı binalarda çatlak ve hasarlar bildirildi. 40 kişi hastaneye başvurdu.",
+      "buyukluk": "5.5 Mw ( Kandilli ) 5.4 Mw ( AFAD ) 5.1 Mw ( USGS )"
+    },
+    {
+      "tarih": "20 Mayıs 2026",
+      "zaman": "09.00",
+      "yer": "Battalgazi , Malatya",
+      "enlem": "38.27417",
+      "boylam": "38.57944",
+      "kayiplar": "Üç ahır dahil olmak üzere yapısal hasarlar kaydedildi. Heyelanlar ve kaya düşmeleri gerçekleşti. 85 kişi hastaneye başvurdu.",
+      "buyukluk": "5.6 Mw ( AFAD ve Kandilli ) 5.4 Mw ( USGS )"
+    },
+    {
+      "tarih": "27 Ekim 2025",
+      "zaman": "22.48",
+      "yer": "Sındırgı , Balıkesir",
+      "enlem": "39.18389 N",
+      "boylam": "28.23083 E",
+      "kayiplar": "10 Ağustos'ta gerçekleşen depremde ağır hasarlı raporu verilen 4 binanın yıkıldığı bildirildi. Bazı binalarda çatlak ve hasarlar meydana geldi. Ayrıca 22 vatandaş hastaneye başvurdu. (4 tanesi taburcu, 18 tanesi balkondan atlama sonucu hâlâ tedavide.)",
+      "buyukluk": "6,1 Mw ( AFAD ) 6,0 Mw ( Kandilli ve USGS )"
+    },
+    {
+      "tarih": "2 Ekim 2025",
+      "zaman": "14:55",
+      "yer": "Marmaraereğlisi , Tekirdağ (BBC) Marmara Denizi (Kandili Rasathanesi)",
+      "enlem": "40.8030",
+      "boylam": "27.9462",
+      "kayiplar": "İstanbul'da 4 binada hasar meydana geldi (AFAD'ın çağrı merkezinde bu hasarla ilgili ihbarlar mevcut.) Yine İstanbul'da 17 yaralı (12' si panikatak nöbetiyle korku, 5' i ise paniğe bağlı burkulma) bilgisi 112 Acil İhbar Hattına ulaştığı biliniyor.",
+      "buyukluk": "5.3 M w ( Kandili ) 5.0 M w ( AFAD , USGS )"
+    },
+    {
+      "tarih": "28 Eylül 2025",
+      "zaman": "12:59",
+      "yer": "Yemişli Simav , Kütahya",
+      "enlem": "39.22167",
+      "boylam": "28.99389",
+      "kayiplar": "Bazı binalarda çatlaklıklar ya da hasarlar meydana geldi.",
+      "buyukluk": "5.4 M w ( AFAD , USGS ) 5.3 M w ( Kandilli )"
+    },
+    {
+      "tarih": "10 Ağustos 2025",
+      "zaman": "19.53",
+      "yer": "Sındırgı , Balıkesir",
+      "enlem": "39.312",
+      "boylam": "28.069",
+      "kayiplar": "2 ölü, 29 yaralı",
+      "buyukluk": "6.1 M w ( USGS , AFAD ) 6.0 M w ( Kandilli )"
+    },
+    {
+      "tarih": "3 Haziran 2025",
+      "zaman": "02.17",
+      "yer": "Marmaris , Muğla",
+      "enlem": "36.8",
+      "boylam": "28.3",
+      "kayiplar": "1 ölü, 75 yaralı",
+      "buyukluk": "5.8 M w ( USGS )"
+    },
+    {
+      "tarih": "23 Nisan 2025",
+      "zaman": "12.49",
+      "yer": "Silivri , İstanbul",
+      "enlem": "40.86",
+      "boylam": "28.24444",
+      "kayiplar": "1 ölü, 359 yaralı",
+      "buyukluk": "6.2 M w ( AFAD , USGS ) 6.1 M w ( Kandilli )"
+    },
+    {
+      "tarih": "16 Ekim 2024",
+      "zaman": "10.46",
+      "yer": "Kale, Malatya",
+      "enlem": "38.36583",
+      "boylam": "38.80861",
+      "kayiplar": "254 yaralı 23 bina yıkıldı",
+      "buyukluk": "6.0 M w ( USGS )"
+    },
+    {
+      "tarih": "18 Nisan 2024",
+      "zaman": "18.11",
+      "yer": "Sulusaray , Tokat",
+      "enlem": "40.0513",
+      "boylam": "35.9812",
+      "kayiplar": "",
+      "buyukluk": "5.7 M w ( Kandilli )"
+    },
+    {
+      "tarih": "17 Nisan 2024",
+      "zaman": "01.06",
+      "yer": "Kadışehri , Yozgat",
+      "enlem": "40.0875",
+      "boylam": "35.9683",
+      "kayiplar": "Bazı binalarda çatlaklıklar ya da hasarlar meydana geldi.",
+      "buyukluk": "4.8 M w ( Kandilli )"
+    },
+    {
+      "tarih": "4 Mart 2024",
+      "zaman": "21.38",
+      "yer": "Yenice , Çanakkale",
+      "enlem": "39.99306",
+      "boylam": "27.43083",
+      "kayiplar": "1 kişi panik nedeniyle balkondan atlayarak öldü",
+      "buyukluk": "4.9 M w (AFAD)"
+    },
+    {
+      "tarih": "4 Aralık 2023",
+      "zaman": "TSİ 10.42",
+      "yer": "Gemlik , Bursa",
+      "enlem": "40.42694",
+      "boylam": "28.83194",
+      "kayiplar": "2 yaralı (İstanbul) 2 binada çatlak (İstanbul) 1 binada çatlak (Mudanya/Bursa) Kaynak:",
+      "buyukluk": "5.1 M w (AFAD)"
+    },
+    {
+      "tarih": "23 Kasım 2023",
+      "zaman": "TSİ 17.46",
+      "yer": "Battalgazi , Malatya",
+      "enlem": "38.1387",
+      "boylam": "38.5358",
+      "kayiplar": "0",
+      "buyukluk": "5.2 M w"
+    },
+    {
+      "tarih": "10 Ağustos 2023",
+      "zaman": "TSİ 20.48",
+      "yer": "Yeşilyurt , Malatya",
+      "enlem": "38.307",
+      "boylam": "38.204",
+      "kayiplar": "0",
+      "buyukluk": "5.3 M w (AFAD) 5.2 (Kandilli)"
+    },
+    {
+      "tarih": "25 Temmuz 2023",
+      "zaman": "TSİ 08.44",
+      "yer": "Kozan , Adana",
+      "enlem": "37.634",
+      "boylam": "35.884",
+      "kayiplar": "0",
+      "buyukluk": "5.6 M w ( Kandilli ) 5.5 M w ( AFAD )"
+    },
+    {
+      "tarih": "27 Şubat 2023",
+      "zaman": "TSİ 12.04",
+      "yer": "Yeşilyurt , Malatya",
+      "enlem": "38.2492",
+      "boylam": "38.2912",
+      "kayiplar": "2 ölü",
+      "buyukluk": "5.6 M w (AFAD) 5.5 M w (Kandilli)"
+    },
+    {
+      "tarih": "25 Şubat 2023",
+      "zaman": "TSİ 13:27",
+      "yer": "Niğde , Bor",
+      "enlem": "37.9935",
+      "boylam": "34.0147",
+      "kayiplar": "0",
+      "buyukluk": "5.3 M w (AFAD) (Kandilli)"
+    },
+    {
+      "tarih": "20 Şubat 2023",
+      "zaman": "TSİ 20:04",
+      "yer": "Hatay , Samandağ",
+      "enlem": "36.1133",
+      "boylam": "36.0820",
+      "kayiplar": "11 ölü 592 yaralı",
+      "buyukluk": "6.4 M w (Kandilli) (AFAD) 6.6 (USGS)"
+    },
+    {
+      "tarih": "6 Şubat 2023",
+      "zaman": "TSİ 13.24",
+      "yer": "Elbistan , Kahramanmaraş",
+      "enlem": "38.0717",
+      "boylam": "37.2030",
+      "kayiplar": "62.013 (Toplam) 53.537 (Türkiye) 8.476 (Suriye)",
+      "buyukluk": "7.5 M w ( EMSC ) 7.5 M w ( USGS ) 7.6 M w ( Kandilli )"
+    },
+    {
+      "tarih": "6 Şubat 2023",
+      "zaman": "TSİ 04.17",
+      "yer": "Pazarcık , Kahramanmaraş",
+      "enlem": "37.1123",
+      "boylam": "37.1195",
+      "kayiplar": "62.013 (Toplam) 53.537 (Türkiye) 8.476 (Suriye)",
+      "buyukluk": "7.8 M w ( EMSC ) 7.8 M w ( USGS ) 7.7 M w ( Kandilli )"
+    },
+    {
+      "tarih": "23 Kasım 2022",
+      "zaman": "TSİ 04.08",
+      "yer": "Gölyaka , Düzce",
+      "enlem": "36.1133",
+      "boylam": "36.0820",
+      "kayiplar": "2",
+      "buyukluk": "6.0 M w ( Kandilli )"
+    },
+    {
+      "tarih": "4 Kasım 2022",
+      "zaman": "TSİ 03.29",
+      "yer": "Buca , İzmir",
+      "enlem": "38.3535",
+      "boylam": "27.1907",
+      "kayiplar": "2",
+      "buyukluk": "4.9 M w ( AFAD ) 4.8 M w ( USGS ) 4.5 M w ( Kandilli )"
+    },
+    {
+      "tarih": "27 Aralık 2020",
+      "zaman": "TSİ 09.37",
+      "yer": "Kavaktepe, Elazığ",
+      "enlem": "38.5088",
+      "boylam": "39.2165",
+      "kayiplar": "0",
+      "buyukluk": "5.5 M w ( USGS ) 5.6 M w ( Kandilli ) 5.3 M w ( AFAD )"
+    },
+    {
+      "tarih": "30 Ekim 2020",
+      "zaman": "TSİ 14.51",
+      "yer": "Ege Denizi",
+      "enlem": "37.9020",
+      "boylam": "26.7942",
+      "kayiplar": "119 (Toplam) 117 (Türkiye) 2 (Yunanistan)",
+      "buyukluk": "7.0 M w ( USGS ) 6.9 M w ( Kandilli ) 6.6 M w ( AFAD )"
+    },
+    {
+      "tarih": "12 Ekim 2020",
+      "zaman": "TSİ 03.30",
+      "yer": "Ege Denizi",
+      "enlem": "35.6747",
+      "boylam": "26.2647",
+      "kayiplar": "0",
+      "buyukluk": "4.8 M w ( AFAD ) 4.8 M w ( Kandilli )"
+    },
+    {
+      "tarih": "4 Ağustos 2020",
+      "zaman": "TSİ 12.37",
+      "yer": "Pütürge , Malatya",
+      "enlem": "38.1325",
+      "boylam": "38.7497",
+      "kayiplar": "0",
+      "buyukluk": "5.2 M w ( AFAD ) 5.7 M w ( Kandilli )"
+    },
+    {
+      "tarih": "28 Haziran 2020",
+      "zaman": "TSİ 20.43",
+      "yer": "Marmaris , Muğla",
+      "enlem": "36.6858",
+      "boylam": "28.2608",
+      "kayiplar": "0",
+      "buyukluk": "5.4 M w ( Kandilli )"
+    },
+    {
+      "tarih": "26 Haziran 2020",
+      "zaman": "TSİ 10.21",
+      "yer": "Sazoba , Akhisar",
+      "enlem": "38.7937",
+      "boylam": "27.8063",
+      "kayiplar": "0",
+      "buyukluk": "5.5 M w ( Kandilli )"
+    },
+    {
+      "tarih": "25 Haziran 2020",
+      "zaman": "TSİ 13.03",
+      "yer": "Örenburç , Saray",
+      "enlem": "38.4658",
+      "boylam": "44.1332",
+      "kayiplar": "0",
+      "buyukluk": "5.2 M l ( Kandilli )"
+    },
+    {
+      "tarih": "14 Haziran 2020",
+      "zaman": "TSİ 17.24",
+      "yer": "Kaynarpınar , Karlıova",
+      "enlem": "39.3495",
+      "boylam": "40.735",
+      "kayiplar": "1",
+      "buyukluk": "5.9 M w ( Kandilli )"
+    },
+    {
+      "tarih": "30 Nisan 2020",
+      "zaman": "TSİ 13.08",
+      "yer": "Muğla, Köyceğiz yakınında",
+      "enlem": "36,9842580",
+      "boylam": "28,5958041",
+      "kayiplar": "0",
+      "buyukluk": "4.9 M w (USGS)"
+    },
+    {
+      "tarih": "23 Şubat 2020",
+      "zaman": "TSİ 08.53 TSİ 19.00",
+      "yer": "İran-Türkiye sınırı , Batı Azerbaycan Eyaleti",
+      "enlem": "38.3943 38.3943",
+      "boylam": "44.3405 44.3405",
+      "kayiplar": "10",
+      "buyukluk": "5.8 M w 6.0 M w"
+    },
+    {
+      "tarih": "24 Ocak 2020",
+      "zaman": "TSİ 20.55",
+      "yer": "Sivrice , Elazığ",
+      "enlem": "38.4980",
+      "boylam": "39.1210",
+      "kayiplar": "44",
+      "buyukluk": "6.8 M w ( Kandilli )"
+    },
+    {
+      "tarih": "22 Ocak 2020",
+      "zaman": "TSİ 22.22",
+      "yer": "Musalar , Akhisar",
+      "enlem": "39.0577",
+      "boylam": "27.8390",
+      "kayiplar": "0",
+      "buyukluk": "5.6 M w"
+    },
+    {
+      "tarih": "26 Eylül 2019",
+      "zaman": "TSİ 13.59",
+      "yer": "Silivri açıkları, İstanbul",
+      "enlem": "40.890",
+      "boylam": "28.173",
+      "kayiplar": "1",
+      "buyukluk": "5.7 M w"
+    },
+    {
+      "tarih": "8 Ağustos 2019",
+      "zaman": "TSİ 14.25",
+      "yer": "Baklan , Denizli",
+      "enlem": "",
+      "boylam": "",
+      "kayiplar": "0",
+      "buyukluk": "5,9 M w"
+    },
+    {
+      "tarih": "8 Ağustos 2019",
+      "zaman": "TSİ 11.25",
+      "yer": "Denizli , Bozkurt",
+      "enlem": "37.851",
+      "boylam": "29.584",
+      "kayiplar": "0",
+      "buyukluk": "6.0 M w (AFAD)"
+    },
+    {
+      "tarih": "21 Temmuz 2017",
+      "zaman": "TSİ 01.31",
+      "yer": "Ege Denizi ( Bodrum açıkları)",
+      "enlem": "36.9620",
+      "boylam": "27.4053",
+      "kayiplar": "2",
+      "buyukluk": "6.6 M w"
+    },
+    {
+      "tarih": "12 Haziran 2017",
+      "zaman": "TSİ 15.28",
+      "yer": "Ege Denizi ( Karaburun açıkları)",
+      "enlem": "38.8497",
+      "boylam": "26.2600",
+      "kayiplar": "0",
+      "buyukluk": "6.3 M w (AFAD)"
+    },
+    {
+      "tarih": "3 Mart 2017",
+      "zaman": "TSİ 14.07",
+      "yer": "Samsat , Adıyaman",
+      "enlem": "37.560",
+      "boylam": "38.480",
+      "kayiplar": "0",
+      "buyukluk": "5.5"
+    },
+    {
+      "tarih": "10 Ocak 2016",
+      "zaman": "TSİ 19:40",
+      "yer": "Kırşehir , Çiçekdağı",
+      "enlem": "",
+      "boylam": "",
+      "kayiplar": "0",
+      "buyukluk": "5.0 M w"
+    },
+    {
+      "tarih": "24 Mayıs 2014",
+      "zaman": "TSİ 12.25",
+      "yer": "Ege Denizi ( Gökçeada açıkları)",
+      "enlem": "40.305",
+      "boylam": "25.453",
+      "kayiplar": "0",
+      "buyukluk": "6.9 M w"
+    },
+    {
+      "tarih": "8 Ocak 2013",
+      "zaman": "TSİ 16.16",
+      "yer": "Ege Denizi ( Çanakkale açıkları)",
+      "enlem": "39.646",
+      "boylam": "25.483",
+      "kayiplar": "0",
+      "buyukluk": "6.2 M w"
+    },
+    {
+      "tarih": "27 Aralık 2012",
+      "zaman": "TSİ 09.37",
+      "yer": "Sivrice , Elazığ",
+      "enlem": "",
+      "boylam": "",
+      "kayiplar": "",
+      "buyukluk": "5,5 M w"
+    },
+    {
+      "tarih": "10 Haziran 2012",
+      "zaman": "TSİ 15.44",
+      "yer": "Fethiye , Muğla",
+      "enlem": "36.4542",
+      "boylam": "28.9047",
+      "kayiplar": "1",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "9 Kasım 2011",
+      "zaman": "TSİ 21.23",
+      "yer": "Edremit , Van",
+      "enlem": "38.4295",
+      "boylam": "43.2342",
+      "kayiplar": "40",
+      "buyukluk": "5.6 M w"
+    },
+    {
+      "tarih": "23 Ekim 2011",
+      "zaman": "TSİ 13.41",
+      "yer": "Tabanlı , Van",
+      "enlem": "38.7578",
+      "boylam": "43.3602",
+      "kayiplar": "604",
+      "buyukluk": "7.2 M w"
+    },
+    {
+      "tarih": "19 Mayıs 2011",
+      "zaman": "TSİ 23.15",
+      "yer": "Simav , Kütahya",
+      "enlem": "39.14",
+      "boylam": "29.07",
+      "kayiplar": "2",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "8 Mart 2010",
+      "zaman": "TSİ 04.32",
+      "yer": "Karakoçan , Elazığ",
+      "enlem": "38.87",
+      "boylam": "39.99",
+      "kayiplar": "41",
+      "buyukluk": "6.1 M w"
+    },
+    {
+      "tarih": "20 Aralık 2007 26 Aralık 2007",
+      "zaman": "TSİ 09.48 TSİ 23.47",
+      "yer": "Bala , Ankara",
+      "enlem": "39.4173 39.396",
+      "boylam": "33.0453 33.1073",
+      "kayiplar": "0",
+      "buyukluk": "5.6 M w (AFAD)"
+    },
+    {
+      "tarih": "17 Ekim 2005 21 Ekim 2005",
+      "zaman": "TSİ 08.45 TSİ 12.46 TSİ 00.40",
+      "yer": "İzmir",
+      "enlem": "38.14 38.20 38.19",
+      "boylam": "26.60 26.66 26.67",
+      "kayiplar": "2",
+      "buyukluk": "5.7 M w 5.9 M w 5.9 M w"
+    },
+    {
+      "tarih": "25 Ocak 2005",
+      "zaman": "TSİ 17.24 TSİ 18.44",
+      "yer": "Hakkâri",
+      "enlem": "37.7802 37.8050",
+      "boylam": "43.8885 43.6793",
+      "kayiplar": "2",
+      "buyukluk": "4.8 M w 5.5 M w"
+    },
+    {
+      "tarih": "2 Temmuz 2004",
+      "zaman": "TSİ 01.30",
+      "yer": "Doğubayazıt , Ağrı",
+      "enlem": "39.71",
+      "boylam": "44.02",
+      "kayiplar": "17-18",
+      "buyukluk": "5.2 M w"
+    },
+    {
+      "tarih": "25 Mart 2004 28 Mart 2004",
+      "zaman": "TSİ 21.30 TSİ 06.51",
+      "yer": "Aşkale , Erzurum",
+      "enlem": "39.9170 39.8773",
+      "boylam": "40.8048 40.8683",
+      "kayiplar": "9",
+      "buyukluk": "5.1 M w 5.3 M w"
+    },
+    {
+      "tarih": "1 Mayıs 2003",
+      "zaman": "TSİ 00.27",
+      "yer": "Bingöl",
+      "enlem": "39.01",
+      "boylam": "40.46",
+      "kayiplar": "177",
+      "buyukluk": "6.4 M w"
+    },
+    {
+      "tarih": "27 Ocak 2003",
+      "zaman": "TSİ 05.26",
+      "yer": "Pülümür , Tunceli",
+      "enlem": "39.46",
+      "boylam": "39.79",
+      "kayiplar": "1",
+      "buyukluk": "6.1 M w (USGS)"
+    },
+    {
+      "tarih": "3 Şubat 2002",
+      "zaman": "TSİ 07.11 TSİ 09.36",
+      "yer": "Sultandağı , Afyonkarahisar",
+      "enlem": "38.573 38.23",
+      "boylam": "31.271 30.56",
+      "kayiplar": "44",
+      "buyukluk": "6.5 M w 5.8 M w"
+    },
+    {
+      "tarih": "15 Aralık 2000",
+      "zaman": "TSİ 18.44",
+      "yer": "Sultandağı , Afyonkarahisar",
+      "enlem": "38.40",
+      "boylam": "31.35",
+      "kayiplar": "6",
+      "buyukluk": "5.8 M w"
+    },
+    {
+      "tarih": "6 Haziran 2000",
+      "zaman": "TSİ 05.41",
+      "yer": "Orta , Çankırı",
+      "enlem": "40.63",
+      "boylam": "33.03",
+      "kayiplar": "3",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "29 Nisan 1903",
+      "zaman": "TSİ 01.46",
+      "yer": "Malazgirt , Muş",
+      "enlem": "39.14",
+      "boylam": "42.65",
+      "kayiplar": "600",
+      "buyukluk": "6.7 M S"
+    },
+    {
+      "tarih": "9 Ağustos 1912",
+      "zaman": "TSİ 03.29",
+      "yer": "Mürefte , Tekirdağ",
+      "enlem": "40.75",
+      "boylam": "27.2",
+      "kayiplar": "216",
+      "buyukluk": "7.3 M S"
+    },
+    {
+      "tarih": "4 Ekim 1914",
+      "zaman": "TSİ 00.07",
+      "yer": "Burdur - Isparta sınırı",
+      "enlem": "37.82",
+      "boylam": "30.27",
+      "kayiplar": "300",
+      "buyukluk": "6.9 M S"
+    },
+    {
+      "tarih": "18 Kasım 1919",
+      "zaman": "TSİ 23.54",
+      "yer": "Ayvalık , Balıkesir",
+      "enlem": "39.26",
+      "boylam": "26.70",
+      "kayiplar": "Bilinmiyor",
+      "buyukluk": "7.0 M w"
+    },
+    {
+      "tarih": "13 Eylül 1924",
+      "zaman": "TSİ 16.34",
+      "yer": "Horasan, Erzurum , Erzurum",
+      "enlem": "40.0",
+      "boylam": "42.1",
+      "kayiplar": "60",
+      "buyukluk": "6.8 M S"
+    },
+    {
+      "tarih": "7 Ağustos 1925",
+      "zaman": "TSİ 08.46",
+      "yer": "Denizli - Afyonkarahisar sınırı",
+      "enlem": "38.09",
+      "boylam": "29.81",
+      "kayiplar": "3",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "22 Ekim 1926",
+      "zaman": "TSİ 21.59",
+      "yer": "Türkiye - Ermenistan sınırı",
+      "enlem": "40.94",
+      "boylam": "43.88",
+      "kayiplar": "355",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "31 Mart 1928",
+      "zaman": "TSİ 02.29",
+      "yer": "Ödemiş , İzmir",
+      "enlem": "38.5",
+      "boylam": "28.0",
+      "kayiplar": "50",
+      "buyukluk": "6.5 M S"
+    },
+    {
+      "tarih": "18 Mayıs 1929",
+      "zaman": "TSİ 08.37",
+      "yer": "Suşehri , Sivas",
+      "enlem": "40.2",
+      "boylam": "37.9",
+      "kayiplar": "64",
+      "buyukluk": "6.1 M S"
+    },
+    {
+      "tarih": "7 Mayıs 1930",
+      "zaman": "TSİ 00.34",
+      "yer": "Türkiye - İran sınırı",
+      "enlem": "37.98",
+      "boylam": "44.48",
+      "kayiplar": "2514",
+      "buyukluk": "7.2 M w"
+    },
+    {
+      "tarih": "19 Temmuz 1933",
+      "zaman": "TSİ 22.07",
+      "yer": "Çivril , Denizli",
+      "enlem": "38.19",
+      "boylam": "29.79",
+      "kayiplar": "20",
+      "buyukluk": "5.7 M w"
+    },
+    {
+      "tarih": "4 Ocak 1935",
+      "zaman": "TSİ 16.41",
+      "yer": "Erdek , Balıkesir",
+      "enlem": "40.4",
+      "boylam": "27.5",
+      "kayiplar": "5",
+      "buyukluk": "6.4 M S"
+    },
+    {
+      "tarih": "1 Mayıs 1935",
+      "zaman": "TSİ 12.24",
+      "yer": "Digor , Kars",
+      "enlem": "40.09",
+      "boylam": "43.20",
+      "kayiplar": "200",
+      "buyukluk": "6.2 M w"
+    },
+    {
+      "tarih": "19 Nisan 1938",
+      "zaman": "TSİ 12.59",
+      "yer": "Kırşehir",
+      "enlem": "39.1",
+      "boylam": "34.0",
+      "kayiplar": "160",
+      "buyukluk": "6.6 M S"
+    },
+    {
+      "tarih": "22 Eylül 1939",
+      "zaman": "TSİ 02.36",
+      "yer": "Dikili , İzmir",
+      "enlem": "39.1",
+      "boylam": "26.8",
+      "kayiplar": "60",
+      "buyukluk": "6.6 M S"
+    },
+    {
+      "tarih": "21 Kasım 1939",
+      "zaman": "TSİ 10.48",
+      "yer": "Erzincan",
+      "enlem": "39.82",
+      "boylam": "39.70",
+      "kayiplar": "43",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "27 Aralık 1939",
+      "zaman": "TSİ 01.57",
+      "yer": "Erzincan",
+      "enlem": "39.77",
+      "boylam": "39.53",
+      "kayiplar": "33000",
+      "buyukluk": "7.9 M S"
+    },
+    {
+      "tarih": "21 Şubat 1940",
+      "zaman": "TSİ",
+      "yer": "Kayseri, Develi",
+      "enlem": "38.40",
+      "boylam": "35.30",
+      "kayiplar": "37",
+      "buyukluk": "5.4 M w"
+    },
+    {
+      "tarih": "23 Mayıs 1941",
+      "zaman": "TSİ 21.51",
+      "yer": "Muğla",
+      "enlem": "37.07",
+      "boylam": "28.21",
+      "kayiplar": "4",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "10 Eylül 1941",
+      "zaman": "TSİ 23.53",
+      "yer": "Erciş , Van",
+      "enlem": "39.5",
+      "boylam": "43.3",
+      "kayiplar": "192",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "12 Kasım 1941",
+      "zaman": "TSİ 12.04",
+      "yer": "Erzincan",
+      "enlem": "39.74",
+      "boylam": "39.42",
+      "kayiplar": "15",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "15 Kasım 1942",
+      "zaman": "TSİ 19.01",
+      "yer": "Bigadiç , Balıkesir",
+      "enlem": "39.2",
+      "boylam": "28.2",
+      "kayiplar": "16",
+      "buyukluk": "6.1 M S"
+    },
+    {
+      "tarih": "21 Kasım 1942",
+      "zaman": "TSİ 16.01",
+      "yer": "İskilip , Çorum",
+      "enlem": "40.83",
+      "boylam": "34.44",
+      "kayiplar": "2",
+      "buyukluk": "5.5 M w"
+    },
+    {
+      "tarih": "20 Aralık 1942",
+      "zaman": "TSİ 16.03",
+      "yer": "Erbaa , Tokat",
+      "enlem": "40.87",
+      "boylam": "36.47",
+      "kayiplar": "3000",
+      "buyukluk": "7.0 M S"
+    },
+    {
+      "tarih": "20 Haziran 1943",
+      "zaman": "TSİ 17.32",
+      "yer": "Adapazarı",
+      "enlem": "40.6",
+      "boylam": "30.5",
+      "kayiplar": "336",
+      "buyukluk": "6.6 M S"
+    },
+    {
+      "tarih": "27 Kasım 1943",
+      "zaman": "TSİ 00.20",
+      "yer": "Kastamonu - Çankırı sınırı",
+      "enlem": "41.05",
+      "boylam": "33.72",
+      "kayiplar": "4000",
+      "buyukluk": "7.2 M S"
+    },
+    {
+      "tarih": "1 Şubat 1944",
+      "zaman": "TSİ 05.22",
+      "yer": "Gerede , Bolu",
+      "enlem": "40.8",
+      "boylam": "32.2",
+      "kayiplar": "3959",
+      "buyukluk": "7.2 M S"
+    },
+    {
+      "tarih": "25 Haziran 1944",
+      "zaman": "TSİ 06.16",
+      "yer": "Uşak - Kütahya sınırı",
+      "enlem": "38.79",
+      "boylam": "29.30",
+      "kayiplar": "21",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "6 Ekim 1944",
+      "zaman": "TSİ 04.34",
+      "yer": "Ayvacık açıkları, Balıkesir",
+      "enlem": "39.37",
+      "boylam": "26.53",
+      "kayiplar": "30",
+      "buyukluk": "6.8 M S"
+    },
+    {
+      "tarih": "20 Mart 1945",
+      "zaman": "TSİ 10.58",
+      "yer": "Ceyhan , Adana",
+      "enlem": "37.11",
+      "boylam": "35.69",
+      "kayiplar": "29",
+      "buyukluk": "6.1 M w"
+    },
+    {
+      "tarih": "21 Şubat 1946",
+      "zaman": "TSİ 17.43",
+      "yer": "Ilgın , Konya",
+      "enlem": "38.24",
+      "boylam": "31.79",
+      "kayiplar": "12",
+      "buyukluk": "5.5 M w"
+    },
+    {
+      "tarih": "31 Mayıs 1946",
+      "zaman": "TSİ 05.12",
+      "yer": "Varto , Muş",
+      "enlem": "39.29",
+      "boylam": "49.21",
+      "kayiplar": "839",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "9 Aralık 1947",
+      "zaman": "TSİ 02.40",
+      "yer": "Mersin açıkları",
+      "enlem": "36.51",
+      "boylam": "34.75",
+      "kayiplar": "0",
+      "buyukluk": "5.8 M w"
+    },
+    {
+      "tarih": "23 Temmuz 1949",
+      "zaman": "TSİ 17.03",
+      "yer": "Karaburun açıkları, İzmir",
+      "enlem": "38.57",
+      "boylam": "26.28",
+      "kayiplar": "7",
+      "buyukluk": "6.6 M w"
+    },
+    {
+      "tarih": "17 Ağustos 1949",
+      "zaman": "TSİ 20.44",
+      "yer": "Karlıova , Bingöl",
+      "enlem": "39.54",
+      "boylam": "40.57",
+      "kayiplar": "450",
+      "buyukluk": "6.7 M S"
+    },
+    {
+      "tarih": "8 Nisan 1951",
+      "zaman": "TSİ 23.38",
+      "yer": "İskenderun Körfezi",
+      "enlem": "36.54",
+      "boylam": "35.82",
+      "kayiplar": "6",
+      "buyukluk": "5.8 M w"
+    },
+    {
+      "tarih": "13 Ağustos 1951",
+      "zaman": "TSİ 20.33",
+      "yer": "Kurşunlu , Çankırı",
+      "enlem": "40.88",
+      "boylam": "32.87",
+      "kayiplar": "50",
+      "buyukluk": "6.9 M S"
+    },
+    {
+      "tarih": "3 Ocak 1952",
+      "zaman": "TSİ 08.03",
+      "yer": "Pasinler , Erzurum",
+      "enlem": "39.96",
+      "boylam": "41.67",
+      "kayiplar": "41",
+      "buyukluk": "5.8 M w"
+    },
+    {
+      "tarih": "22 Ekim 1952",
+      "zaman": "TSİ 19.00",
+      "yer": "İmamoğlu , Adana",
+      "enlem": "37.25",
+      "boylam": "35.64",
+      "kayiplar": "10",
+      "buyukluk": "5.6 M w"
+    },
+    {
+      "tarih": "18 Mart 1953",
+      "zaman": "TSİ 21.06",
+      "yer": "Yenice , Çanakkale",
+      "enlem": "40.02",
+      "boylam": "27.53",
+      "kayiplar": "265",
+      "buyukluk": "7.2 M S"
+    },
+    {
+      "tarih": "7 Eylül 1953",
+      "zaman": "TSİ 05.58",
+      "yer": "Karabük - Kastamonu - Çankırı sınırı",
+      "enlem": "41.10",
+      "boylam": "33.01",
+      "kayiplar": "2",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "16 Temmuz 1955",
+      "zaman": "TSİ 09.07",
+      "yer": "Söke , Aydın",
+      "enlem": "37.55",
+      "boylam": "27.05",
+      "kayiplar": "23",
+      "buyukluk": "6.8 M w"
+    },
+    {
+      "tarih": "20 Şubat 1956",
+      "zaman": "TSİ 22.31",
+      "yer": "Eskişehir",
+      "enlem": "39.89",
+      "boylam": "30.49",
+      "kayiplar": "1",
+      "buyukluk": "6.4 M w"
+    },
+    {
+      "tarih": "24-25 Nisan 1957",
+      "zaman": "TSİ 21.17 TSİ 04.26",
+      "yer": "Fethiye , Muğla ( Ölüdeniz açıkları)",
+      "enlem": "36.493 36.405",
+      "boylam": "28.829 28.699",
+      "kayiplar": "19",
+      "buyukluk": "7.1 M w 7.3 M w"
+    },
+    {
+      "tarih": "26 Mayıs 1957",
+      "zaman": "TSİ 08.33",
+      "yer": "Mudurnu , Bolu",
+      "enlem": "40.67",
+      "boylam": "31.00",
+      "kayiplar": "52",
+      "buyukluk": "7.1 M S"
+    },
+    {
+      "tarih": "18 Eylül 1963",
+      "zaman": "TSİ 19.58",
+      "yer": "Marmara Denizi ( İstanbul açıkları)",
+      "enlem": "40.78",
+      "boylam": "29.11",
+      "kayiplar": "1",
+      "buyukluk": "6.3 M w"
+    },
+    {
+      "tarih": "14 Haziran 1964",
+      "zaman": "TSİ 15.15",
+      "yer": "Malatya - Adıyaman sınırı",
+      "enlem": "38.13",
+      "boylam": "38.51",
+      "kayiplar": "8",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "6 Ekim 1964",
+      "zaman": "TSİ 16.31",
+      "yer": "Manyas , Balıkesir",
+      "enlem": "40.1",
+      "boylam": "27.93",
+      "kayiplar": "23",
+      "buyukluk": "7.0 M S"
+    },
+    {
+      "tarih": "13 Haziran 1965",
+      "zaman": "TSİ 22.01",
+      "yer": "Honaz , Denizli",
+      "enlem": "37.85",
+      "boylam": "29.32",
+      "kayiplar": "14",
+      "buyukluk": "5.7 M w"
+    },
+    {
+      "tarih": "7 Mart 1966",
+      "zaman": "TSİ 03.16",
+      "yer": "Varto - Hınıs sınırı (Muş-Erzurum sınırı)",
+      "enlem": "39.19",
+      "boylam": "41.60",
+      "kayiplar": "14",
+      "buyukluk": "5.6 M w"
+    },
+    {
+      "tarih": "19 Ağustos 1966",
+      "zaman": "TSİ 14.22",
+      "yer": "Varto , Muş",
+      "enlem": "39.17",
+      "boylam": "41.56",
+      "kayiplar": "2394",
+      "buyukluk": "6.9 M w"
+    },
+    {
+      "tarih": "22 Temmuz 1967",
+      "zaman": "TSİ 16.56",
+      "yer": "Mudurnu , Bolu",
+      "enlem": "40.67",
+      "boylam": "30.69",
+      "kayiplar": "89",
+      "buyukluk": "7.2 M S"
+    },
+    {
+      "tarih": "3 Eylül 1968",
+      "zaman": "TSİ 10.19",
+      "yer": "Amasra açıkları, Bartın , Zonguldak",
+      "enlem": "41.79",
+      "boylam": "32.31",
+      "kayiplar": "29",
+      "buyukluk": "6.5 M S"
+    },
+    {
+      "tarih": "28 Mart 1969",
+      "zaman": "TSİ 03.48",
+      "yer": "Alaşehir , Manisa",
+      "enlem": "38.5",
+      "boylam": "28.4",
+      "kayiplar": "53",
+      "buyukluk": "6.5 M S"
+    },
+    {
+      "tarih": "28 Mart 1970",
+      "zaman": "TSİ 23.02",
+      "yer": "Gediz , Kütahya",
+      "enlem": "39.2",
+      "boylam": "29.5",
+      "kayiplar": "1086",
+      "buyukluk": "7.2 M w"
+    },
+    {
+      "tarih": "12 Mayıs 1971",
+      "zaman": "TSİ 08.25",
+      "yer": "Yeşilova , Burdur",
+      "enlem": "37.65",
+      "boylam": "29.71",
+      "kayiplar": "57",
+      "buyukluk": "5.9 M w"
+    },
+    {
+      "tarih": "22 Mayıs 1971",
+      "zaman": "TSİ 16.44",
+      "yer": "Bingöl",
+      "enlem": "38.83",
+      "boylam": "40.52",
+      "kayiplar": "878",
+      "buyukluk": "6.8 M w"
+    },
+    {
+      "tarih": "6 Eylül 1975",
+      "zaman": "TSİ 12.20",
+      "yer": "Lice , Diyarbakır",
+      "enlem": "38.5",
+      "boylam": "40.7",
+      "kayiplar": "2385",
+      "buyukluk": "6.6 M w"
+    },
+    {
+      "tarih": "24 Kasım 1976",
+      "zaman": "TSİ 14.22",
+      "yer": "Muradiye , Van",
+      "enlem": "39.12",
+      "boylam": "44.03",
+      "kayiplar": "3840",
+      "buyukluk": "7.5 M w"
+    },
+    {
+      "tarih": "5 Temmuz 1983",
+      "zaman": "TSİ 15.01",
+      "yer": "Biga , Çanakkale",
+      "enlem": "40.324",
+      "boylam": "27.222",
+      "kayiplar": "5",
+      "buyukluk": "6.1 M w"
+    },
+    {
+      "tarih": "30 Ekim 1983",
+      "zaman": "TSİ 07.12",
+      "yer": "Narman , Erzurum",
+      "enlem": "40.33",
+      "boylam": "42.19",
+      "kayiplar": "1155",
+      "buyukluk": "6.9 M S"
+    },
+    {
+      "tarih": "18 Eylül 1984",
+      "zaman": "TSİ 15.26",
+      "yer": "Şenkaya , Erzurum",
+      "enlem": "40.79",
+      "boylam": "42.47",
+      "kayiplar": "3",
+      "buyukluk": "6.4 M w"
+    },
+    {
+      "tarih": "5 Mayıs & 6 Haziran 1986",
+      "zaman": "TSİ 06.35 TSİ 13.39",
+      "yer": "Doğanşehir , Malatya",
+      "enlem": "38.02 38.01",
+      "boylam": "37.78 37.90",
+      "kayiplar": "10",
+      "buyukluk": "5.9 M w 5.6 M w"
+    },
+    {
+      "tarih": "7 Aralık 1988",
+      "zaman": "TSİ 09.41",
+      "yer": "Spitak , Ermenistan ( Sovyetler Birliği )",
+      "enlem": "40.98",
+      "boylam": "44.15",
+      "kayiplar": "5",
+      "buyukluk": "6,8 M w"
+    },
+    {
+      "tarih": "13 Mart 1992",
+      "zaman": "TSİ 19.08",
+      "yer": "Erzincan",
+      "enlem": "39.70",
+      "boylam": "39.69",
+      "kayiplar": "653",
+      "buyukluk": "6.8 M S"
+    },
+    {
+      "tarih": "6 Kasım 1992",
+      "zaman": "TSİ 21.08",
+      "yer": "Seferihisar , İzmir",
+      "enlem": "38.11",
+      "boylam": "26.95",
+      "kayiplar": "0",
+      "buyukluk": "6.0 M w"
+    },
+    {
+      "tarih": "1 Ekim 1995",
+      "zaman": "TSİ 17.57",
+      "yer": "Dinar , Afyonkarahisar",
+      "enlem": "38.06",
+      "boylam": "30.13",
+      "kayiplar": "90",
+      "buyukluk": "6.1 M S"
+    },
+    {
+      "tarih": "14 Ağustos 1996",
+      "zaman": "TSİ 01.55",
+      "yer": "Mecitözü , Çorum",
+      "enlem": "40.41",
+      "boylam": "35.15",
+      "kayiplar": "1",
+      "buyukluk": "5.6 M w"
+    },
+    {
+      "tarih": "22 Ocak 1997",
+      "zaman": "TSİ 17.57",
+      "yer": "Samandağ , Hatay",
+      "enlem": "36.19",
+      "boylam": "35.94",
+      "kayiplar": "1",
+      "buyukluk": "5.5 M w"
+    },
+    {
+      "tarih": "27 Haziran 1998",
+      "zaman": "TSİ 16.55",
+      "yer": "Ceyhan , Adana",
+      "enlem": "36.88",
+      "boylam": "35.31",
+      "kayiplar": "146",
+      "buyukluk": "6.2 M S"
+    },
+    {
+      "tarih": "17 Ağustos 1999",
+      "zaman": "TSİ 03.02",
+      "yer": "Gölcük , Kocaeli",
+      "enlem": "40.77",
+      "boylam": "30",
+      "kayiplar": "17118",
+      "buyukluk": "7.6 M w"
+    },
+    {
+      "tarih": "13 Eylül 1999",
+      "zaman": "TSİ 14.55",
+      "yer": "Köseköy , Kocaeli",
+      "enlem": "",
+      "boylam": "",
+      "kayiplar": "",
+      "buyukluk": "5,9 M w"
+    },
+    {
+      "tarih": "12 Kasım 1999",
+      "zaman": "TSİ 18.57",
+      "yer": "Düzce",
+      "enlem": "40.75",
+      "boylam": "31.16",
+      "kayiplar": "894",
+      "buyukluk": "7.5 M w"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki depremler - Free Download",
+    "description": "Türkiye'de meydana gelen önemli depremlerin listesi: tarih, saat, yer, koordinatlar, kayıplar ve büyüklük. Contains 133 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki depremler | ListBase",
+    "seo_description": "Download Türkiye'deki depremler — 133 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 133 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_depremler_listesi"
+    ]
+  }
+}
