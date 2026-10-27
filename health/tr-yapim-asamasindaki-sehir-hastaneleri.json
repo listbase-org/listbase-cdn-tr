@@ -1,0 +1,178 @@
+{
+  "id": "tr-yapim-asamasindaki-sehir-hastaneleri",
+  "name": "Yapım ve proje aşamasındaki şehir hastaneleri",
+  "title": "Yapım ve proje aşamasındaki şehir hastaneleri",
+  "description": "Türkiye'de inşaatı veya projesi devam eden şehir hastaneleri: il, yatak kapasitesi, planlanan açılış ve durum.",
+  "category": "health",
+  "source": "https://tr.wikipedia.org/wiki/Şehir_hastanesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Şehir_hastanesi",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "hastane",
+      "label": "Hastane",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "yatak_kapasitesi",
+      "label": "Yatak Kapasitesi",
+      "type": "number"
+    },
+    {
+      "key": "baslama_tarihi",
+      "label": "Baslama Tarihi",
+      "type": "number"
+    },
+    {
+      "key": "planlanan_acilis",
+      "label": "Planlanan Acilis",
+      "type": "number"
+    },
+    {
+      "key": "ilerleme_orani",
+      "label": "Ilerleme Orani",
+      "type": "string"
+    },
+    {
+      "key": "durum",
+      "label": "Durum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hastane": "Denizli Şehir Hastanesi",
+      "il": "Denizli",
+      "yatak_kapasitesi": 1500,
+      "baslama_tarihi": 2025,
+      "planlanan_acilis": "2027",
+      "ilerleme_orani": "%25",
+      "durum": "İnşaatı devam ediyor."
+    },
+    {
+      "hastane": "Diyarbakır Kayapınar Şehir Hastanesi",
+      "il": "Diyarbakır",
+      "yatak_kapasitesi": 1000,
+      "baslama_tarihi": 2020,
+      "planlanan_acilis": "2027 İlkbahar Ayında",
+      "ilerleme_orani": "%80 (kaba inşaat)",
+      "durum": "Diyarbakır'ın merkez Kayapınar ilçesinde sağlık yatırımları kapsamında altyapının güçlendirilmesi hedefiyle şehir hastanesi inşa ediliyor."
+    },
+    {
+      "hastane": "Sancaktepe Şehir Hastanesi",
+      "il": "İstanbul",
+      "yatak_kapasitesi": 4050,
+      "baslama_tarihi": 2020,
+      "planlanan_acilis": "2027 Sonu",
+      "ilerleme_orani": "%85",
+      "durum": "İnşaatı devam ediyor."
+    },
+    {
+      "hastane": "Mardin Şehir Hastanesi",
+      "il": "Mardin",
+      "yatak_kapasitesi": 750,
+      "baslama_tarihi": 2022,
+      "planlanan_acilis": "2026",
+      "ilerleme_orani": "%53",
+      "durum": ""
+    },
+    {
+      "hastane": "Rize Şehir Hastanesi",
+      "il": "Rize",
+      "yatak_kapasitesi": 1053,
+      "baslama_tarihi": 2020,
+      "planlanan_acilis": "2027",
+      "ilerleme_orani": "%86",
+      "durum": "Şehir Hastanesi’nin beton çalışmalarının %86’sı tamamlandı. Cephe, mekanik ve iç imalatlarda yoğun mesai sürüyor."
+    },
+    {
+      "hastane": "Sakarya Şehir Hastanesi",
+      "il": "Sakarya",
+      "yatak_kapasitesi": 1000,
+      "baslama_tarihi": 2020,
+      "planlanan_acilis": "Ocak 2027",
+      "ilerleme_orani": "%70",
+      "durum": "Şu an tamamlama ihalesi yapıldı."
+    },
+    {
+      "hastane": "Trabzon Şehir Hastanesi",
+      "il": "Trabzon",
+      "yatak_kapasitesi": 900,
+      "baslama_tarihi": 2020,
+      "planlanan_acilis": "Kasım 2026",
+      "ilerleme_orani": "%85",
+      "durum": "Kaba inşaatın çoğu bitti."
+    },
+    {
+      "hastane": "Van Şehir Hastanesi",
+      "il": "Van",
+      "yatak_kapasitesi": 800,
+      "baslama_tarihi": 2024,
+      "planlanan_acilis": "?",
+      "ilerleme_orani": "",
+      "durum": ""
+    },
+    {
+      "hastane": "Diyarbakır Yenişehir Şehir Hastanesi",
+      "il": "Diyarbakır",
+      "yatak_kapasitesi": 1000,
+      "baslama_tarihi": "",
+      "planlanan_acilis": 2028,
+      "ilerleme_orani": "",
+      "durum": "Proje aşamasında"
+    },
+    {
+      "hastane": "Hatay Şehir Hastanesi",
+      "il": "Hatay",
+      "yatak_kapasitesi": 1100,
+      "baslama_tarihi": "",
+      "planlanan_acilis": "?",
+      "ilerleme_orani": "",
+      "durum": "İhale süreci devam ediyor"
+    },
+    {
+      "hastane": "Kahramanmaraş Yörükselim Şehir Hastanesi",
+      "il": "Kahramanmaraş",
+      "yatak_kapasitesi": 1000,
+      "baslama_tarihi": "",
+      "planlanan_acilis": "?",
+      "ilerleme_orani": "",
+      "durum": "Proje aşamasında ve yatırım programına alındı."
+    },
+    {
+      "hastane": "Konya Merkez Şehir Hastanesi",
+      "il": "Konya",
+      "yatak_kapasitesi": 1000,
+      "baslama_tarihi": "",
+      "planlanan_acilis": "?",
+      "ilerleme_orani": "",
+      "durum": ""
+    },
+    {
+      "hastane": "Muğla Şehir Hastanesi",
+      "il": "Muğla",
+      "yatak_kapasitesi": 1000,
+      "baslama_tarihi": "",
+      "planlanan_acilis": "?",
+      "ilerleme_orani": "",
+      "durum": "İhale süreci devam ediyor"
+    }
+  ],
+  "meta": {
+    "title": "Yapım ve proje aşamasındaki şehir hastaneleri - Free Download",
+    "description": "Türkiye'de inşaatı veya projesi devam eden şehir hastaneleri: il, yatak kapasitesi, planlanan açılış ve durum. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Yapım ve proje aşamasındaki şehir hastaneleri | ListBase",
+    "seo_description": "Download Yapım ve proje aşamasındaki şehir hastaneleri — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Şehir_hastanesi"
+    ]
+  }
+}
