@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:07.934Z",
-  "total_datasets": 520,
-  "total_records": 595696,
+  "generated": "2026-10-27T02:31:10.318Z",
+  "total_datasets": 521,
+  "total_records": 595733,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -11024,6 +11024,35 @@
         "xlsx": {
           "name": "music-piano-chords_TR.xlsx",
           "size": 11081
+        }
+      }
+    },
+    {
+      "id": "tr-eurovision-turkiye",
+      "name": "Eurovision Şarkı Yarışması'nda Türkiye",
+      "category": "music",
+      "record_count": 37,
+      "columns": [
+        "yil",
+        "sarkici",
+        "dil",
+        "sarki",
+        "final_sira",
+        "final_puan",
+        "yari_final_sira",
+        "yari_final_puan"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Eurovision_Şarkı_Yarışması'nda_Türkiye",
+      "updated": "2026-10",
+      "size": 12445,
+      "files": {
+        "csv": {
+          "name": "tr-eurovision-turkiye_TR.csv",
+          "size": 4342
+        },
+        "xlsx": {
+          "name": "tr-eurovision-turkiye_TR.xlsx",
+          "size": 9162
         }
       }
     },
