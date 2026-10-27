@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-20T04:06:48.944Z",
-  "total_datasets": 508,
-  "total_records": 593043,
+  "generated": "2026-10-27T02:30:40.128Z",
+  "total_datasets": 509,
+  "total_records": 593062,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "language",
       "dataset_count": 5
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "math",
@@ -10643,6 +10647,31 @@
         "xlsx": {
           "name": "lang-pinyin-table_TR.xlsx",
           "size": 31935
+        }
+      }
+    },
+    {
+      "id": "tr-anayasa-mahkemesi-baskanlari",
+      "name": "Anayasa Mahkemesi başkanları",
+      "category": "law",
+      "record_count": 19,
+      "columns": [
+        "no",
+        "baskan",
+        "gorev_baslangici",
+        "gorev_bitisi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Anayasa_Mahkemesi_(Türkiye)_başkanları_listesi",
+      "updated": "2026-10",
+      "size": 4346,
+      "files": {
+        "csv": {
+          "name": "tr-anayasa-mahkemesi-baskanlari_TR.csv",
+          "size": 1120
+        },
+        "xlsx": {
+          "name": "tr-anayasa-mahkemesi-baskanlari_TR.xlsx",
+          "size": 7633
         }
       }
     },
