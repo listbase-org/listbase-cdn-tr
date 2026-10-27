@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:30:50.128Z",
-  "total_datasets": 513,
-  "total_records": 593503,
+  "generated": "2026-10-27T02:30:52.745Z",
+  "total_datasets": 514,
+  "total_records": 595365,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -5620,6 +5620,33 @@
         "xlsx": {
           "name": "finance-vat-rates_TR.xlsx",
           "size": 10464
+        }
+      }
+    },
+    {
+      "id": "tr-cografi-isaretli-urunler",
+      "name": "Türkiye'de tescilli coğrafi işaretli ürünler",
+      "category": "food",
+      "record_count": 1862,
+      "columns": [
+        "tescil_no",
+        "ad",
+        "tur",
+        "urun_grubu",
+        "sicildeki_yer",
+        "tescil_tarihi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_tescilli_co%C4%9Frafi_i%C5%9Faretler_listesi_(A)",
+      "updated": "2026-10",
+      "size": 470692,
+      "files": {
+        "csv": {
+          "name": "tr-cografi-isaretli-urunler_TR.csv",
+          "size": 230351
+        },
+        "xlsx": {
+          "name": "tr-cografi-isaretli-urunler_TR.xlsx",
+          "size": 87100
         }
       }
     },
