@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:22.702Z",
-  "total_datasets": 526,
-  "total_records": 595958,
+  "generated": "2026-10-27T02:31:25.417Z",
+  "total_datasets": 527,
+  "total_records": 595987,
   "categories": [
     {
       "id": "agriculture",
@@ -39,6 +39,10 @@
     {
       "id": "geography",
       "dataset_count": 191
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -10773,6 +10777,31 @@
         "xlsx": {
           "name": "tr-zonguldak-neighbourhoods_TR.xlsx",
           "size": 50164
+        }
+      }
+    },
+    {
+      "id": "tr-sehir-hastaneleri",
+      "name": "Türkiye'deki şehir hastaneleri",
+      "category": "health",
+      "record_count": 29,
+      "columns": [
+        "hastane",
+        "il",
+        "acilis_tarihi",
+        "yatak_sayisi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Şehir_hastanesi",
+      "updated": "2026-10",
+      "size": 5964,
+      "files": {
+        "csv": {
+          "name": "tr-sehir-hastaneleri_TR.csv",
+          "size": 1979
+        },
+        "xlsx": {
+          "name": "tr-sehir-hastaneleri_TR.xlsx",
+          "size": 8015
         }
       }
     },

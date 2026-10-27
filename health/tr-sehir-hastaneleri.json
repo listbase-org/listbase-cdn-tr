@@ -1,0 +1,220 @@
+{
+  "id": "tr-sehir-hastaneleri",
+  "name": "Türkiye'deki şehir hastaneleri",
+  "title": "Türkiye'deki şehir hastaneleri",
+  "description": "Türkiye'de hizmete açılmış şehir hastaneleri: il, açılış tarihi ve yatak sayısı.",
+  "category": "health",
+  "source": "https://tr.wikipedia.org/wiki/Şehir_hastanesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Şehir_hastanesi",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "hastane",
+      "label": "Hastane",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "acilis_tarihi",
+      "label": "Acilis Tarihi",
+      "type": "string"
+    },
+    {
+      "key": "yatak_sayisi",
+      "label": "Yatak Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "hastane": "Adana Şehir Hastanesi",
+      "il": "Adana",
+      "acilis_tarihi": "18 Eylül 2017",
+      "yatak_sayisi": 1640
+    },
+    {
+      "hastane": "Ankara Bilkent Şehir Hastanesi",
+      "il": "Ankara",
+      "acilis_tarihi": "14 Mart 2019",
+      "yatak_sayisi": 4050
+    },
+    {
+      "hastane": "Ankara Etlik Şehir Hastanesi",
+      "il": "Ankara",
+      "acilis_tarihi": "28 Eylül 2022",
+      "yatak_sayisi": 4050
+    },
+    {
+      "hastane": "Antalya Şehir Hastanesi",
+      "il": "Antalya",
+      "acilis_tarihi": "1 Mart 2024",
+      "yatak_sayisi": 1500
+    },
+    {
+      "hastane": "Aydın Şehir Hastanesi",
+      "il": "Aydın",
+      "acilis_tarihi": "22 Aralık 2025",
+      "yatak_sayisi": 1300
+    },
+    {
+      "hastane": "Balıkesir Atatürk Şehir Hastanesi",
+      "il": "Balıkesir",
+      "acilis_tarihi": "3 Nisan 2017",
+      "yatak_sayisi": 1100
+    },
+    {
+      "hastane": "Bursa Şehir Hastanesi",
+      "il": "Bursa",
+      "acilis_tarihi": "4 Ağustos 2019",
+      "yatak_sayisi": 1435
+    },
+    {
+      "hastane": "Elazığ Fethi Sekin Şehir Hastanesi",
+      "il": "Elazığ",
+      "acilis_tarihi": "1 Ağustos 2017",
+      "yatak_sayisi": 1085
+    },
+    {
+      "hastane": "Erzurum Şehir Hastanesi",
+      "il": "Erzurum",
+      "acilis_tarihi": "19 Mayıs 2020",
+      "yatak_sayisi": 1500
+    },
+    {
+      "hastane": "Eskişehir Şehir Hastanesi",
+      "il": "Eskişehir",
+      "acilis_tarihi": "27 Ekim 2018",
+      "yatak_sayisi": 1150
+    },
+    {
+      "hastane": "Gaziantep Şehir Hastanesi",
+      "il": "Gaziantep",
+      "acilis_tarihi": "4 Şubat 2024",
+      "yatak_sayisi": 1875
+    },
+    {
+      "hastane": "Isparta Şehir Hastanesi",
+      "il": "Isparta",
+      "acilis_tarihi": "24 Mart 2017",
+      "yatak_sayisi": 845
+    },
+    {
+      "hastane": "Başakşehir Çam ve Sakura Şehir Hastanesi",
+      "il": "İstanbul",
+      "acilis_tarihi": "21 Mayıs 2020",
+      "yatak_sayisi": 2720
+    },
+    {
+      "hastane": "Göztepe Prof. Dr. Süleyman Yalçın Şehir Hastanesi",
+      "il": "İstanbul",
+      "acilis_tarihi": "5 Eylül 2020",
+      "yatak_sayisi": 800
+    },
+    {
+      "hastane": "Prof. Dr. Cemil Taşcıoğlu Şehir Hastanesi",
+      "il": "İstanbul",
+      "acilis_tarihi": "3 Nisan 2020",
+      "yatak_sayisi": 1005
+    },
+    {
+      "hastane": "Kartal Dr. Lütfi Kırdar Şehir Hastanesi",
+      "il": "İstanbul",
+      "acilis_tarihi": "4 Temmuz 2020",
+      "yatak_sayisi": 1140
+    },
+    {
+      "hastane": "İzmir Bayraklı Şehir Hastanesi",
+      "il": "İzmir",
+      "acilis_tarihi": "27 Ocak 2024",
+      "yatak_sayisi": 2060
+    },
+    {
+      "hastane": "Kahramanmaraş Necip Fazıl Şehir Hastanesi",
+      "il": "Kahramanmaraş",
+      "acilis_tarihi": "14 Mart 2012",
+      "yatak_sayisi": 1040
+    },
+    {
+      "hastane": "Kayseri Şehir Hastanesi",
+      "il": "Kayseri",
+      "acilis_tarihi": "2 Mayıs 2018",
+      "yatak_sayisi": 1607
+    },
+    {
+      "hastane": "Kocaeli Şehir Hastanesi",
+      "il": "Kocaeli",
+      "acilis_tarihi": "15 Nisan 2023",
+      "yatak_sayisi": 1220
+    },
+    {
+      "hastane": "Konya Şehir Hastanesi",
+      "il": "Konya",
+      "acilis_tarihi": "2 Ekim 2020",
+      "yatak_sayisi": 1295
+    },
+    {
+      "hastane": "Kütahya Şehir Hastanesi",
+      "il": "Kütahya",
+      "acilis_tarihi": "28 Mart 2024",
+      "yatak_sayisi": 610
+    },
+    {
+      "hastane": "Manisa Şehir Hastanesi",
+      "il": "Manisa",
+      "acilis_tarihi": "30 Ekim 2018",
+      "yatak_sayisi": 680
+    },
+    {
+      "hastane": "Mersin Şehir Hastanesi",
+      "il": "Mersin",
+      "acilis_tarihi": "3 Şubat 2017",
+      "yatak_sayisi": 1440
+    },
+    {
+      "hastane": "Ordu Şehir Hastanesi",
+      "il": "Ordu",
+      "acilis_tarihi": "18 Ağustos 2026",
+      "yatak_sayisi": 1200
+    },
+    {
+      "hastane": "Samsun Şehir Hastanesi",
+      "il": "Samsun",
+      "acilis_tarihi": "28 Kasım 2025",
+      "yatak_sayisi": 1458
+    },
+    {
+      "hastane": "Şanlıurfa Şehir Hastanesi",
+      "il": "Şanlıurfa",
+      "acilis_tarihi": "3 Ekim 2026",
+      "yatak_sayisi": 1700
+    },
+    {
+      "hastane": "Tekirdağ Dr. İsmail Fehmi Cumalıoğlu Şehir Hastanesi",
+      "il": "Tekirdağ",
+      "acilis_tarihi": "13 Kasım 2020",
+      "yatak_sayisi": 605
+    },
+    {
+      "hastane": "Yozgat Şehir Hastanesi",
+      "il": "Yozgat",
+      "acilis_tarihi": "16 Ocak 2017",
+      "yatak_sayisi": 475
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki şehir hastaneleri - Free Download",
+    "description": "Türkiye'de hizmete açılmış şehir hastaneleri: il, açılış tarihi ve yatak sayısı. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki şehir hastaneleri | ListBase",
+    "seo_description": "Download Türkiye'deki şehir hastaneleri — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Şehir_hastanesi"
+    ]
+  }
+}
