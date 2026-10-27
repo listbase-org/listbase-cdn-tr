@@ -1,0 +1,268 @@
+{
+  "id": "tr-asgari-ucret",
+  "name": "Türkiye'de asgari ücret (yıllara göre)",
+  "title": "Türkiye'de asgari ücret (yıllara göre)",
+  "description": "Türkiye'de dönemlere göre brüt ve net asgari ücret (TL ve ABD doları karşılığı); değerler kaynaktaki biçimiyle verilmiştir.",
+  "category": "economy",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'de_asgari_ücret",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'de_asgari_ücret",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "donem",
+      "label": "Donem",
+      "type": "number"
+    },
+    {
+      "key": "brut_tl",
+      "label": "Brut Tl",
+      "type": "string"
+    },
+    {
+      "key": "net_tl",
+      "label": "Net Tl",
+      "type": "string"
+    },
+    {
+      "key": "brut_usd",
+      "label": "Brut Usd",
+      "type": "string"
+    },
+    {
+      "key": "net_usd",
+      "label": "Net Usd",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "donem": "2026",
+      "brut_tl": "33.030,00",
+      "net_tl": "28.075,00",
+      "brut_usd": "768,85",
+      "net_usd": "653,51"
+    },
+    {
+      "donem": "2025",
+      "brut_tl": "26.005,50",
+      "net_tl": "22.104",
+      "brut_usd": "735,24",
+      "net_usd": "624,93"
+    },
+    {
+      "donem": "2024",
+      "brut_tl": "20.002",
+      "net_tl": "17.002",
+      "brut_usd": "747,09",
+      "net_usd": "577,31"
+    },
+    {
+      "donem": "2023 Temmuz-Aralık",
+      "brut_tl": "13.414,50",
+      "net_tl": "11.402,32",
+      "brut_usd": "517,93",
+      "net_usd": "440,24"
+    },
+    {
+      "donem": "2023 Ocak-Haziran",
+      "brut_tl": "10.008",
+      "net_tl": "8.506,80",
+      "brut_usd": "575,67",
+      "net_usd": "455,18"
+    },
+    {
+      "donem": "2022 Temmuz-Aralık",
+      "brut_tl": "6.471",
+      "net_tl": "5.500,35",
+      "brut_usd": "386,15",
+      "net_usd": "328,20"
+    },
+    {
+      "donem": "2022 Ocak-Haziran",
+      "brut_tl": "5.004,00",
+      "net_tl": "4.253,40",
+      "brut_usd": "381,69",
+      "net_usd": "324,43"
+    },
+    {
+      "donem": "2021",
+      "brut_tl": "3.577,50",
+      "net_tl": "2.825,90",
+      "brut_usd": "481,80",
+      "net_usd": "228,27"
+    },
+    {
+      "donem": "2020",
+      "brut_tl": "2.943,00",
+      "net_tl": "2.324,70",
+      "brut_usd": "495,00",
+      "net_usd": "419,90"
+    },
+    {
+      "donem": "2019",
+      "brut_tl": "2.558,00",
+      "net_tl": "2.020,90",
+      "brut_usd": "480,00",
+      "net_usd": "379,16"
+    },
+    {
+      "donem": "2018",
+      "brut_tl": "2.029,50",
+      "net_tl": "1.603,00",
+      "brut_usd": "532,10",
+      "net_usd": "420,30"
+    },
+    {
+      "donem": "2017",
+      "brut_tl": "1.777,00",
+      "net_tl": "1.404,00",
+      "brut_usd": "502,80",
+      "net_usd": "487,20"
+    },
+    {
+      "donem": "2016",
+      "brut_tl": "1.647,00",
+      "net_tl": "1.300,99",
+      "brut_usd": "565,90",
+      "net_usd": "545,30"
+    },
+    {
+      "donem": "2015 Temmuz-Aralık",
+      "brut_tl": "1.273,50",
+      "net_tl": "1.000,54",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2015 Ocak-Haziran",
+      "brut_tl": "1.201,50",
+      "net_tl": "949,07",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2014 Temmuz-Aralık",
+      "brut_tl": "1,136",
+      "net_tl": "891",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2014 Ocak-Haziran",
+      "brut_tl": "1,071",
+      "net_tl": "846",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2013 Temmuz-Aralık",
+      "brut_tl": "1,021.50",
+      "net_tl": "804.69",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2013 Ocak-Haziran",
+      "brut_tl": "978.60",
+      "net_tl": "773.98",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2012 Temmuz-Aralık",
+      "brut_tl": "940.50",
+      "net_tl": "739.80",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2012 Ocak-Haziran",
+      "brut_tl": "886.50",
+      "net_tl": "701.14",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2011 Temmuz-Aralık",
+      "brut_tl": "837.00",
+      "net_tl": "599.21",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2011 Ocak-Haziran",
+      "brut_tl": "796.50",
+      "net_tl": "570.21",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2010 Temmuz-Aralık",
+      "brut_tl": "760.50",
+      "net_tl": "544.44",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2010 Ocak-Haziran",
+      "brut_tl": "729.00",
+      "net_tl": "521.89",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2009 Temmuz-Aralık",
+      "brut_tl": "693.00",
+      "net_tl": "546.00",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2009 Ocak-Haziran",
+      "brut_tl": "666.00",
+      "net_tl": "527.13",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2008 Temmuz-Aralık",
+      "brut_tl": "638.70",
+      "net_tl": "546.00",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2008 Ocak-Haziran",
+      "brut_tl": "608.40",
+      "net_tl": "481.55",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2007 Temmuz-Aralık",
+      "brut_tl": "419,155.652",
+      "net_tl": "",
+      "brut_usd": "",
+      "net_usd": ""
+    },
+    {
+      "donem": "2007 Ocak-Haziran",
+      "brut_tl": "403,034.281",
+      "net_tl": "",
+      "brut_usd": "",
+      "net_usd": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de asgari ücret (yıllara göre) - Free Download",
+    "description": "Türkiye'de dönemlere göre brüt ve net asgari ücret (TL ve ABD doları karşılığı); değerler kaynaktaki biçimiyle verilmiştir. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de asgari ücret (yıllara göre) | ListBase",
+    "seo_description": "Download Türkiye'de asgari ücret (yıllara göre) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'de_asgari_ücret"
+    ]
+  }
+}

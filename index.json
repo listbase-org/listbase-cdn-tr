@@ -1,12 +1,16 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:30:40.128Z",
-  "total_datasets": 509,
-  "total_records": 593062,
+  "generated": "2026-10-27T02:30:42.726Z",
+  "total_datasets": 510,
+  "total_records": 593093,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 2
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -133,6 +137,32 @@
         "xlsx": {
           "name": "tr-muzeler_TR.xlsx",
           "size": 12667
+        }
+      }
+    },
+    {
+      "id": "tr-asgari-ucret",
+      "name": "Türkiye'de asgari ücret (yıllara göre)",
+      "category": "economy",
+      "record_count": 31,
+      "columns": [
+        "donem",
+        "brut_tl",
+        "net_tl",
+        "brut_usd",
+        "net_usd"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_asgari_ücret",
+      "updated": "2026-10",
+      "size": 6283,
+      "files": {
+        "csv": {
+          "name": "tr-asgari-ucret_TR.csv",
+          "size": 1519
+        },
+        "xlsx": {
+          "name": "tr-asgari-ucret_TR.xlsx",
+          "size": 7968
         }
       }
     },
