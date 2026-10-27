@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:00.278Z",
-  "total_datasets": 517,
-  "total_records": 595551,
+  "generated": "2026-10-27T02:31:02.752Z",
+  "total_datasets": 518,
+  "total_records": 595576,
   "categories": [
     {
       "id": "agriculture",
@@ -19,6 +19,10 @@
     {
       "id": "education",
       "dataset_count": 170
+    },
+    {
+      "id": "entertainment",
+      "dataset_count": 1
     },
     {
       "id": "environment",
@@ -5445,6 +5449,32 @@
         "xlsx": {
           "name": "tr-zonguldak-okullar_TR.xlsx",
           "size": 49382
+        }
+      }
+    },
+    {
+      "id": "tr-en-cok-abonesi-olan-youtube-kanallari",
+      "name": "En çok abonesi olan Türk YouTube kanalları",
+      "category": "entertainment",
+      "record_count": 25,
+      "columns": [
+        "sira",
+        "kanal",
+        "abone_milyon",
+        "dil",
+        "kategori"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/En_çok_abonesi_olan_Türk_YouTube_kanalları_listesi",
+      "updated": "2026-10",
+      "size": 5384,
+      "files": {
+        "csv": {
+          "name": "tr-en-cok-abonesi-olan-youtube-kanallari_TR.csv",
+          "size": 1250
+        },
+        "xlsx": {
+          "name": "tr-en-cok-abonesi-olan-youtube-kanallari_TR.xlsx",
+          "size": 7772
         }
       }
     },
