@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:20.161Z",
-  "total_datasets": 525,
-  "total_records": 595945,
+  "generated": "2026-10-27T02:31:22.702Z",
+  "total_datasets": 526,
+  "total_records": 595958,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -272,6 +272,30 @@
         "xlsx": {
           "name": "tr-ekonomik-gostergeler_TR.xlsx",
           "size": 8966
+        }
+      }
+    },
+    {
+      "id": "tr-saatlik-asgari-ucret",
+      "name": "Türkiye'de saatlik asgari ücret",
+      "category": "economy",
+      "record_count": 13,
+      "columns": [
+        "yil",
+        "brut_saatlik",
+        "net_saatlik"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_asgari_ücret",
+      "updated": "2026-10",
+      "size": 2610,
+      "files": {
+        "csv": {
+          "name": "tr-saatlik-asgari-ucret_TR.csv",
+          "size": 385
+        },
+        "xlsx": {
+          "name": "tr-saatlik-asgari-ucret_TR.xlsx",
+          "size": 7060
         }
       }
     },
