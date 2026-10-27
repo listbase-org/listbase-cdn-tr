@@ -1,0 +1,856 @@
+{
+  "id": "tr-en-cok-izlenen-turk-filmleri",
+  "name": "En çok izlenen Türk yapımı 100 film",
+  "title": "En çok izlenen Türk yapımı 100 film",
+  "description": "Türkiye'de sinemada en çok izlenen 100 yerli film: vizyon tarihi, yönetmen, vizyonda kalınan hafta ve izleyici sayısı.",
+  "category": "entertainment",
+  "source": "https://tr.wikipedia.org/wiki/En_çok_izlenen_Türk_yapımı_100_film",
+  "source_url": "https://tr.wikipedia.org/wiki/En_çok_izlenen_Türk_yapımı_100_film",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "sira",
+      "label": "Sira",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "vizyon_tarihi",
+      "label": "Vizyon Tarihi",
+      "type": "string"
+    },
+    {
+      "key": "yonetmen",
+      "label": "Yonetmen",
+      "type": "string"
+    },
+    {
+      "key": "hafta",
+      "label": "Hafta",
+      "type": "number"
+    },
+    {
+      "key": "izleyici",
+      "label": "Izleyici",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sira": 1,
+      "film": "Recep İvedik 5",
+      "vizyon_tarihi": "16 Şubat 2017",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 25,
+      "izleyici": 7437050
+    },
+    {
+      "sira": 2,
+      "film": "Recep İvedik 4",
+      "vizyon_tarihi": "21 Şubat 2014",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 28,
+      "izleyici": 7374931
+    },
+    {
+      "sira": 3,
+      "film": "Düğün Dernek",
+      "vizyon_tarihi": "6 Aralık 2013",
+      "yonetmen": "Selçuk Aydemir",
+      "hafta": 30,
+      "izleyici": 6980070
+    },
+    {
+      "sira": 4,
+      "film": "Fetih 1453",
+      "vizyon_tarihi": "17 Şubat 2012",
+      "yonetmen": "Faruk Aksoy",
+      "hafta": 52,
+      "izleyici": 6572618
+    },
+    {
+      "sira": 5,
+      "film": "Müslüm",
+      "vizyon_tarihi": "26 Ekim 2018",
+      "yonetmen": "Ketche & Can Ulkay",
+      "hafta": 39,
+      "izleyici": 6480563
+    },
+    {
+      "sira": 6,
+      "film": "Düğün Dernek 2: Sünnet",
+      "vizyon_tarihi": "4 Aralık 2015",
+      "yonetmen": "Selçuk Aydemir",
+      "hafta": 14,
+      "izleyici": 6068576
+    },
+    {
+      "sira": 7,
+      "film": "Ayla",
+      "vizyon_tarihi": "27 Ekim 2017",
+      "yonetmen": "Can Ulkay",
+      "hafta": 46,
+      "izleyici": 5589872
+    },
+    {
+      "sira": 8,
+      "film": "Bergen",
+      "vizyon_tarihi": "4 Mart 2022",
+      "yonetmen": "Mehmet Binay & Caner Alper",
+      "hafta": 18,
+      "izleyici": 5462094
+    },
+    {
+      "sira": 9,
+      "film": "7. Koğuştaki Mucize",
+      "vizyon_tarihi": "11 Ekim 2019",
+      "yonetmen": "Mehmet Ada Öztekin",
+      "hafta": 34,
+      "izleyici": 5365822
+    },
+    {
+      "sira": 10,
+      "film": "Aile Arasında",
+      "vizyon_tarihi": "1 Aralık 2017",
+      "yonetmen": "Ozan Açıktan",
+      "hafta": 33,
+      "izleyici": 5289051
+    },
+    {
+      "sira": 11,
+      "film": "Arif V 216",
+      "vizyon_tarihi": "5 Ocak 2018",
+      "yonetmen": "Kıvanç Baruönü",
+      "hafta": 20,
+      "izleyici": 4968462
+    },
+    {
+      "sira": 12,
+      "film": "Recep İvedik 2",
+      "vizyon_tarihi": "13 Şubat 2009",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 25,
+      "izleyici": 4333144
+    },
+    {
+      "sira": 13,
+      "film": "Recep İvedik",
+      "vizyon_tarihi": "22 Şubat 2008",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 32,
+      "izleyici": 4301693
+    },
+    {
+      "sira": 14,
+      "film": "Kurtlar Vadisi: Irak",
+      "vizyon_tarihi": "3 Şubat 2006",
+      "yonetmen": "Serdar Akar",
+      "hafta": 26,
+      "izleyici": 4256566
+    },
+    {
+      "sira": 15,
+      "film": "Ailecek Şaşkınız",
+      "vizyon_tarihi": "2 Mart 2018",
+      "yonetmen": "Selçuk Aydemir",
+      "hafta": 23,
+      "izleyici": 4034858
+    },
+    {
+      "sira": 16,
+      "film": "G.O.R.A.",
+      "vizyon_tarihi": "12 Kasım 2004",
+      "yonetmen": "Ömer Faruk Sorak",
+      "hafta": 36,
+      "izleyici": 4001711
+    },
+    {
+      "sira": 17,
+      "film": "Recep İvedik 6",
+      "vizyon_tarihi": "8 Kasım 2019",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 12,
+      "izleyici": 3986797
+    },
+    {
+      "sira": 18,
+      "film": "Eyyvah Eyvah 2",
+      "vizyon_tarihi": "7 Ocak 2011",
+      "yonetmen": "Hakan Algül",
+      "hafta": 41,
+      "izleyici": 3962700
+    },
+    {
+      "sira": 19,
+      "film": "CM101MMXI Fundamentals",
+      "vizyon_tarihi": "3 Ocak 2013",
+      "yonetmen": "Murat Dündar",
+      "hafta": 36,
+      "izleyici": 3842535
+    },
+    {
+      "sira": 20,
+      "film": "Babam ve Oğlum",
+      "vizyon_tarihi": "18 Kasım 2005",
+      "yonetmen": "Çağan Irmak",
+      "hafta": 84,
+      "izleyici": 3839883
+    },
+    {
+      "sira": 21,
+      "film": "Mucize",
+      "vizyon_tarihi": "1 Ocak 2015",
+      "yonetmen": "Mahsun Kırmızıgül",
+      "hafta": 15,
+      "izleyici": 3737605
+    },
+    {
+      "sira": 22,
+      "film": "A.R.O.G",
+      "vizyon_tarihi": "5 Aralık 2008",
+      "yonetmen": "Ali Taner Baltacı & Cem Yılmaz",
+      "hafta": 37,
+      "izleyici": 3707086
+    },
+    {
+      "sira": 23,
+      "film": "Eltilerin Savaşı",
+      "vizyon_tarihi": "31 Ocak 2020",
+      "yonetmen": "Onur Bilgetay",
+      "hafta": 14,
+      "izleyici": 3630822
+    },
+    {
+      "sira": 24,
+      "film": "Dağ II",
+      "vizyon_tarihi": "4 Kasım 2016",
+      "yonetmen": "Alper Çağlar",
+      "hafta": 37,
+      "izleyici": 3600000
+    },
+    {
+      "sira": 25,
+      "film": "Organize İşler: Sazan Sarmalı",
+      "vizyon_tarihi": "1 Şubat 2019",
+      "yonetmen": "Yılmaz Erdoğan",
+      "hafta": 10,
+      "izleyici": 3537429
+    },
+    {
+      "sira": 26,
+      "film": "New York'ta Beş Minare",
+      "vizyon_tarihi": "5 Kasım 2010",
+      "yonetmen": "Mahsun Kırmızıgül",
+      "hafta": 13,
+      "izleyici": 3474495
+    },
+    {
+      "sira": 27,
+      "film": "Rafadan Tayfa: Göbeklitepe",
+      "vizyon_tarihi": "27 Aralık 2019",
+      "yonetmen": "İsmail Fidan",
+      "hafta": 9,
+      "izleyici": 3427322
+    },
+    {
+      "sira": 28,
+      "film": "Eyyvah Eyvah 3",
+      "vizyon_tarihi": "31 Ocak 2014",
+      "yonetmen": "Hakan Algül",
+      "hafta": 18,
+      "izleyici": 3414212
+    },
+    {
+      "sira": 29,
+      "film": "Recep İvedik 3",
+      "vizyon_tarihi": "12 Şubat 2010",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 24,
+      "izleyici": 3326084
+    },
+    {
+      "sira": 30,
+      "film": "Vizontele",
+      "vizyon_tarihi": "2 Şubat 2001",
+      "yonetmen": "Yılmaz Erdoğan & Ömer Faruk Sorak",
+      "hafta": 49,
+      "izleyici": 3308320
+    },
+    {
+      "sira": 31,
+      "film": "Vizontele Tuuba",
+      "vizyon_tarihi": "23 Ocak 2004",
+      "yonetmen": "Yılmaz Erdoğan",
+      "hafta": 34,
+      "izleyici": 2894802
+    },
+    {
+      "sira": 32,
+      "film": "Celal ile Ceren",
+      "vizyon_tarihi": "18 Ocak 2013",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 23,
+      "izleyici": 2853772
+    },
+    {
+      "sira": 33,
+      "film": "Rafadan Tayfa: Galaktik Tayfa",
+      "vizyon_tarihi": "6 Ocak 2023",
+      "yonetmen": "İsmail Fidan",
+      "hafta": 38,
+      "izleyici": 2853070
+    },
+    {
+      "sira": 34,
+      "film": "Rafadan Tayfa: Hayrimatör",
+      "vizyon_tarihi": "29 Aralık 2023",
+      "yonetmen": "İsmail Fidan",
+      "hafta": 37,
+      "izleyici": 2813702
+    },
+    {
+      "sira": 35,
+      "film": "Çalgı Çengi İkimiz",
+      "vizyon_tarihi": "6 Ocak 2017",
+      "yonetmen": "Selçuk Aydemir",
+      "hafta": 15,
+      "izleyici": 2798016
+    },
+    {
+      "sira": 36,
+      "film": "Issız Adam",
+      "vizyon_tarihi": "7 Kasım 2008",
+      "yonetmen": "Çağan Irmak",
+      "hafta": 44,
+      "izleyici": 2788550
+    },
+    {
+      "sira": 37,
+      "film": "Evim Sensin",
+      "vizyon_tarihi": "2 Kasım 2012",
+      "yonetmen": "Özcan Deniz",
+      "hafta": 49,
+      "izleyici": 2703241
+    },
+    {
+      "sira": 38,
+      "film": "Organize İşler",
+      "vizyon_tarihi": "23 Aralık 2005",
+      "yonetmen": "Yılmaz Erdoğan",
+      "hafta": 51,
+      "izleyici": 2617452
+    },
+    {
+      "sira": 39,
+      "film": "Hababam Sınıfı Askerde",
+      "vizyon_tarihi": "14 Ocak 2005",
+      "yonetmen": "Ferdi Eğilmez",
+      "hafta": 33,
+      "izleyici": 2586132
+    },
+    {
+      "sira": 40,
+      "film": "Bizim İçin Şampiyon",
+      "vizyon_tarihi": "7 Aralık 2018",
+      "yonetmen": "Ahmet Katıksız",
+      "hafta": 16,
+      "izleyici": 2578572
+    },
+    {
+      "sira": 41,
+      "film": "Eşkıya",
+      "vizyon_tarihi": "29 Kasım 1996",
+      "yonetmen": "Yavuz Turgul",
+      "hafta": 57,
+      "izleyici": 2572287
+    },
+    {
+      "sira": 42,
+      "film": "Güneşi Gördüm",
+      "vizyon_tarihi": "13 Mart 2009",
+      "yonetmen": "Mahsun Kırmızıgül",
+      "hafta": 30,
+      "izleyici": 2491754
+    },
+    {
+      "sira": 43,
+      "film": "Kahpe Bizans",
+      "vizyon_tarihi": "21 Ocak 2000",
+      "yonetmen": "Gani Müjde",
+      "hafta": 38,
+      "izleyici": 2472162
+    },
+    {
+      "sira": 44,
+      "film": "Eyyvah Eyvah",
+      "vizyon_tarihi": "26 Şubat 2010",
+      "yonetmen": "Hakan Algül",
+      "hafta": 39,
+      "izleyici": 2459815
+    },
+    {
+      "sira": 45,
+      "film": "Nefes: Vatan Sağolsun",
+      "vizyon_tarihi": "16 Ekim 2009",
+      "yonetmen": "Levent Semerci",
+      "hafta": 38,
+      "izleyici": 2436780
+    },
+    {
+      "sira": 46,
+      "film": "Aşk Tesadüfleri Sever",
+      "vizyon_tarihi": "4 Şubat 2011",
+      "yonetmen": "Ömer Faruk Sorak",
+      "hafta": 36,
+      "izleyici": 2418090
+    },
+    {
+      "sira": 47,
+      "film": "Yol Arkadaşım 2",
+      "vizyon_tarihi": "12 Ekim 2018",
+      "yonetmen": "Bedran Güzel",
+      "hafta": 15,
+      "izleyici": 2343218
+    },
+    {
+      "sira": 48,
+      "film": "Kesişme: İyi ki Varsın Eren",
+      "vizyon_tarihi": "1 Ocak 2022",
+      "yonetmen": "Özer Feyzioğlu",
+      "hafta": 11,
+      "izleyici": 2272171
+    },
+    {
+      "sira": 49,
+      "film": "Yahşi Batı",
+      "vizyon_tarihi": "1 Ocak 2010",
+      "yonetmen": "Ömer Faruk Sorak",
+      "hafta": 34,
+      "izleyici": 2323061
+    },
+    {
+      "sira": 50,
+      "film": "Muro: Nalet Olsun İçimdeki İnsan Sevgisine",
+      "vizyon_tarihi": "5 Aralık 2008",
+      "yonetmen": "Zübeyr Şaşmaz",
+      "hafta": 19,
+      "izleyici": 2315902
+    },
+    {
+      "sira": 51,
+      "film": "Rafadan Tayfa: Kapadokya",
+      "vizyon_tarihi": "27 Aralık 2024",
+      "yonetmen": "İsmail Fidan",
+      "hafta": 16,
+      "izleyici": 2270993
+    },
+    {
+      "sira": 52,
+      "film": "Allah'ın Sadık Kulu: Barla",
+      "vizyon_tarihi": "4 Kasım 2011",
+      "yonetmen": "Esin Orhan",
+      "hafta": 25,
+      "izleyici": 2227113
+    },
+    {
+      "sira": 53,
+      "film": "Pek Yakında",
+      "vizyon_tarihi": "3 Ekim 2014",
+      "yonetmen": "Cem Yılmaz",
+      "hafta": 42,
+      "izleyici": 2167456
+    },
+    {
+      "sira": 54,
+      "film": "Kelebeğin Rüyası",
+      "vizyon_tarihi": "22 Şubat 2013",
+      "yonetmen": "Yılmaz Erdoğan",
+      "hafta": 42,
+      "izleyici": 2167456
+    },
+    {
+      "sira": 55,
+      "film": "Selam",
+      "vizyon_tarihi": "29 Mart 2013",
+      "yonetmen": "Levent Demirkale",
+      "hafta": 26,
+      "izleyici": 2145545
+    },
+    {
+      "sira": 56,
+      "film": "Lohusa",
+      "vizyon_tarihi": "19 Ocak 2024",
+      "yonetmen": "Kıvanç Baruönü",
+      "hafta": 18,
+      "izleyici": 2128345
+    },
+    {
+      "sira": 57,
+      "film": "Av Mevsimi",
+      "vizyon_tarihi": "3 Aralık 2010",
+      "yonetmen": "Yavuz Turgul",
+      "hafta": 32,
+      "izleyici": 2116192
+    },
+    {
+      "sira": 58,
+      "film": "Kolpaçino 4 4'lük",
+      "vizyon_tarihi": "12 Ocak 2024",
+      "yonetmen": "Kamil Çetin",
+      "hafta": 24,
+      "izleyici": 2115894
+    },
+    {
+      "sira": 59,
+      "film": "Kral Şakir: Korsanlar Diyarı",
+      "vizyon_tarihi": "4 Ekim 2019",
+      "yonetmen": "Kuntay Kumbur",
+      "hafta": 13,
+      "izleyici": 2107663
+    },
+    {
+      "sira": 60,
+      "film": "Deliha 2",
+      "vizyon_tarihi": "12 Ocak 2018",
+      "yonetmen": "Gupse Özay",
+      "hafta": 19,
+      "izleyici": 2106154
+    },
+    {
+      "sira": 61,
+      "film": "Kardeşim Benim",
+      "vizyon_tarihi": "15 Ocak 2016",
+      "yonetmen": "Mert Baykal",
+      "hafta": 28,
+      "izleyici": 2070949
+    },
+    {
+      "sira": 62,
+      "film": "Hababam Sınıfı 3,5",
+      "vizyon_tarihi": "6 Ocak 2006",
+      "yonetmen": "Ferdi Eğilmez",
+      "hafta": 24,
+      "izleyici": 2068165
+    },
+    {
+      "sira": 63,
+      "film": "Yol Arkadaşım",
+      "vizyon_tarihi": "27 Ekim 2017",
+      "yonetmen": "Bedran Güzel",
+      "hafta": 25,
+      "izleyici": 2060866
+    },
+    {
+      "sira": 64,
+      "film": "Beyaz Melek",
+      "vizyon_tarihi": "16 Kasım 2007",
+      "yonetmen": "Mahsun Kırmızıgül",
+      "hafta": 52,
+      "izleyici": 2032885
+    },
+    {
+      "sira": 65,
+      "film": "Kurtlar Vadisi: Filistin",
+      "vizyon_tarihi": "28 Ocak 2011",
+      "yonetmen": "Zübeyr Şaşmaz",
+      "hafta": 20,
+      "izleyici": 2028057
+    },
+    {
+      "sira": 66,
+      "film": "Dedemin Fişi",
+      "vizyon_tarihi": "22 Ocak 2016",
+      "yonetmen": "Meltem Bozoflu",
+      "hafta": 8,
+      "izleyici": 2014581
+    },
+    {
+      "sira": 67,
+      "film": "Kabadayı",
+      "vizyon_tarihi": "14 Aralık 2007",
+      "yonetmen": "Ömer Vargı",
+      "hafta": 88,
+      "izleyici": 2002631
+    },
+    {
+      "sira": 68,
+      "film": "Osman Pazarlama",
+      "vizyon_tarihi": "19 Şubat 2016",
+      "yonetmen": "Togan Gökbakar",
+      "hafta": 10,
+      "izleyici": 1983777
+    },
+    {
+      "sira": 69,
+      "film": "Berlin Kaplanı",
+      "vizyon_tarihi": "27 Ocak 2012",
+      "yonetmen": "Hakan Algül",
+      "hafta": 52,
+      "izleyici": 1983077
+    },
+    {
+      "sira": 70,
+      "film": "Kocan Kadar Konuş",
+      "vizyon_tarihi": "20 Mart 2015",
+      "yonetmen": "Kıvanç Baruönü",
+      "hafta": 15,
+      "izleyici": 1930677
+    },
+    {
+      "sira": 71,
+      "film": "Görümce",
+      "vizyon_tarihi": "2 Aralık 2016",
+      "yonetmen": "Kıvanç Baruönü",
+      "hafta": 19,
+      "izleyici": 1914199
+    },
+    {
+      "sira": 72,
+      "film": "Mucize 2: Aşk",
+      "vizyon_tarihi": "6 Aralık 2019",
+      "yonetmen": "Mahsun Kırmızıgül",
+      "hafta": 11,
+      "izleyici": 1897900
+    },
+    {
+      "sira": 73,
+      "film": "Hedefim Sensin",
+      "vizyon_tarihi": "30 Kasım 2018",
+      "yonetmen": "Kıvanç Baruönü",
+      "hafta": 14,
+      "izleyici": 1896782
+    },
+    {
+      "sira": 74,
+      "film": "Cep Herkülü: Naim Süleymanoğlu",
+      "vizyon_tarihi": "22 Kasım 2019",
+      "yonetmen": "Özer Feyzioğlu",
+      "hafta": 13,
+      "izleyici": 1872541
+    },
+    {
+      "sira": 75,
+      "film": "Baba Parası",
+      "vizyon_tarihi": "1 Ocak 2020",
+      "yonetmen": "Selçuk Aydemir",
+      "hafta": 8,
+      "izleyici": 1870159
+    },
+    {
+      "sira": 76,
+      "film": "Ali Baba ve 7 Cüceler",
+      "vizyon_tarihi": "13 Kasım 2015",
+      "yonetmen": "Cem Yılmaz",
+      "hafta": 7,
+      "izleyici": 1827011
+    },
+    {
+      "sira": 77,
+      "film": "Olanlar Oldu",
+      "vizyon_tarihi": "20 Ocak 2017",
+      "yonetmen": "Hakan Algül",
+      "hafta": 24,
+      "izleyici": 1811081
+    },
+    {
+      "sira": 78,
+      "film": "Rafadan Tayfa: Dehliz Macerası",
+      "vizyon_tarihi": "26 Ekim 2018",
+      "yonetmen": "İsmail Fidan",
+      "hafta": 31,
+      "izleyici": 1802339
+    },
+    {
+      "sira": 79,
+      "film": "Asmalı Konak: Hayat",
+      "vizyon_tarihi": "17 Ekim 2003",
+      "yonetmen": "Abdullah Oğuz",
+      "hafta": 25,
+      "izleyici": 1790197
+    },
+    {
+      "sira": 80,
+      "film": "Sümela'nın Şifresi: Temel",
+      "vizyon_tarihi": "16 Aralık 2011",
+      "yonetmen": "Adem Kılıç",
+      "hafta": 25,
+      "izleyici": 1731519
+    },
+    {
+      "sira": 81,
+      "film": "Unutursam Fısılda",
+      "vizyon_tarihi": "29 Ekim 2014",
+      "yonetmen": "Çağan Irmak",
+      "hafta": 26,
+      "izleyici": 1719661
+    },
+    {
+      "sira": 82,
+      "film": "Hokkabaz",
+      "vizyon_tarihi": "20 Ekim 2006",
+      "yonetmen": "Ali Taner Baltacı & Cem Yılmaz",
+      "hafta": 23,
+      "izleyici": 1710212
+    },
+    {
+      "sira": 83,
+      "film": "Selam: Bahara Yolculuk",
+      "vizyon_tarihi": "13 Mart 2015",
+      "yonetmen": "Hamdi Alkan",
+      "hafta": 16,
+      "izleyici": 1683497
+    },
+    {
+      "sira": 84,
+      "film": "Çakallarla Dans 3: Sıfır Sıkıntı",
+      "vizyon_tarihi": "5 Aralık 2014",
+      "yonetmen": "Murat Şeker",
+      "hafta": 15,
+      "izleyici": 1666330
+    },
+    {
+      "sira": 85,
+      "film": "O Şimdi Asker",
+      "vizyon_tarihi": "21 Mart 2003",
+      "yonetmen": "Mustafa Altıoklar",
+      "hafta": 28,
+      "izleyici": 1657051
+    },
+    {
+      "sira": 86,
+      "film": "Ölümlü Dünya 2",
+      "vizyon_tarihi": "1 Aralık 2023",
+      "yonetmen": "Ali Atay",
+      "hafta": 23,
+      "izleyici": 1656485
+    },
+    {
+      "sira": 87,
+      "film": "Atatürk (1881–1919)",
+      "vizyon_tarihi": "3 Kasım 2023",
+      "yonetmen": "Mehmet Ada Öztekin",
+      "hafta": 34,
+      "izleyici": 1624091
+    },
+    {
+      "sira": 88,
+      "film": "Deliha",
+      "vizyon_tarihi": "14 Kasım 2014",
+      "yonetmen": "Hakan Algül",
+      "hafta": 8,
+      "izleyici": 1596119
+    },
+    {
+      "sira": 89,
+      "film": "Sen Kimsin?",
+      "vizyon_tarihi": "2 Mart 2012",
+      "yonetmen": "Ozan Açıktan",
+      "hafta": 42,
+      "izleyici": 1592471
+    },
+    {
+      "sira": 90,
+      "film": "Birleşen Gönüller",
+      "vizyon_tarihi": "24 Ekim 2014",
+      "yonetmen": "Hasan Kıraç",
+      "hafta": 20,
+      "izleyici": 1589135
+    },
+    {
+      "sira": 91,
+      "film": "Hababam Sınıfı Merhaba",
+      "vizyon_tarihi": "16 Ocak 2004",
+      "yonetmen": "Kartal Tibet",
+      "hafta": 36,
+      "izleyici": 1580535
+    },
+    {
+      "sira": 92,
+      "film": "Bana Masal Anlatma",
+      "vizyon_tarihi": "9 Ocak 2015",
+      "yonetmen": "Burak Aksak",
+      "hafta": 10,
+      "izleyici": 1576979
+    },
+    {
+      "sira": 93,
+      "film": "Hükümet Kadın 2",
+      "vizyon_tarihi": "8 Kasım 2013",
+      "yonetmen": "Sermiyan Midyat",
+      "hafta": 20,
+      "izleyici": 1530071
+    },
+    {
+      "sira": 94,
+      "film": "Romantik Komedi 2: Bekarlığa Veda",
+      "vizyon_tarihi": "14 Şubat 2013",
+      "yonetmen": "Erol Özlevi",
+      "hafta": 17,
+      "izleyici": 1507582
+    },
+    {
+      "sira": 95,
+      "film": "Enes Batur Hayal mi Gerçek mi?",
+      "vizyon_tarihi": "19 Ocak 2018",
+      "yonetmen": "Kamil Çetin",
+      "hafta": 12,
+      "izleyici": 1483848
+    },
+    {
+      "sira": 96,
+      "film": "Delibal",
+      "vizyon_tarihi": "25 Aralık 2015",
+      "yonetmen": "Ali Bilgin",
+      "hafta": 10,
+      "izleyici": 1464696
+    },
+    {
+      "sira": 97,
+      "film": "Osmanlı Cumhuriyeti",
+      "vizyon_tarihi": "21 Kasım 2008",
+      "yonetmen": "Gani Müjde",
+      "hafta": 44,
+      "izleyici": 1423303
+    },
+    {
+      "sira": 98,
+      "film": "Patron Mutlu Son İstiyor",
+      "vizyon_tarihi": "3 Ocak 2014",
+      "yonetmen": "Kıvanç Baruönü",
+      "hafta": 17,
+      "izleyici": 1415960
+    },
+    {
+      "sira": 99,
+      "film": "Çakallarla Dans 5",
+      "vizyon_tarihi": "8 Kasım 2018",
+      "yonetmen": "Murat Şeker",
+      "hafta": 11,
+      "izleyici": 1415733
+    },
+    {
+      "sira": 100,
+      "film": "Kolpaçino 3. Devre",
+      "vizyon_tarihi": "11 Mart 2016",
+      "yonetmen": "Şafak Sezer",
+      "hafta": 14,
+      "izleyici": 1412639
+    }
+  ],
+  "meta": {
+    "title": "En çok izlenen Türk yapımı 100 film - Free Download",
+    "description": "Türkiye'de sinemada en çok izlenen 100 yerli film: vizyon tarihi, yönetmen, vizyonda kalınan hafta ve izleyici sayısı. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "En çok izlenen Türk yapımı 100 film | ListBase",
+    "seo_description": "Download En çok izlenen Türk yapımı 100 film — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/En_çok_izlenen_Türk_yapımı_100_film"
+    ]
+  }
+}

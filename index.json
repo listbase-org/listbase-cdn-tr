@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:02.752Z",
-  "total_datasets": 518,
-  "total_records": 595576,
+  "generated": "2026-10-27T02:31:05.464Z",
+  "total_datasets": 519,
+  "total_records": 595676,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -5475,6 +5475,33 @@
         "xlsx": {
           "name": "tr-en-cok-abonesi-olan-youtube-kanallari_TR.xlsx",
           "size": 7772
+        }
+      }
+    },
+    {
+      "id": "tr-en-cok-izlenen-turk-filmleri",
+      "name": "En çok izlenen Türk yapımı 100 film",
+      "category": "entertainment",
+      "record_count": 100,
+      "columns": [
+        "sira",
+        "film",
+        "vizyon_tarihi",
+        "yonetmen",
+        "hafta",
+        "izleyici"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/En_çok_izlenen_Türk_yapımı_100_film",
+      "updated": "2026-10",
+      "size": 20628,
+      "files": {
+        "csv": {
+          "name": "tr-en-cok-izlenen-turk-filmleri_TR.csv",
+          "size": 7459
+        },
+        "xlsx": {
+          "name": "tr-en-cok-izlenen-turk-filmleri_TR.xlsx",
+          "size": 12427
         }
       }
     },
