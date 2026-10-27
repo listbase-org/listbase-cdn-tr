@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:25.417Z",
-  "total_datasets": 527,
-  "total_records": 595987,
+  "generated": "2026-10-27T02:31:28.119Z",
+  "total_datasets": 528,
+  "total_records": 596115,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -11277,6 +11277,31 @@
         "xlsx": {
           "name": "tr-meclisteki-siyasi-partiler_TR.xlsx",
           "size": 8174
+        }
+      }
+    },
+    {
+      "id": "tr-siyasi-partiler-diger",
+      "name": "Türkiye'deki diğer siyasi partiler",
+      "category": "politics",
+      "record_count": 128,
+      "columns": [
+        "parti",
+        "kurulus",
+        "lider",
+        "uye_sayisi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi",
+      "updated": "2026-10",
+      "size": 18905,
+      "files": {
+        "csv": {
+          "name": "tr-siyasi-partiler-diger_TR.csv",
+          "size": 7222
+        },
+        "xlsx": {
+          "name": "tr-siyasi-partiler-diger_TR.xlsx",
+          "size": 11805
         }
       }
     },

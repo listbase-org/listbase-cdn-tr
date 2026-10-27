@@ -1,0 +1,814 @@
+{
+  "id": "tr-siyasi-partiler-diger",
+  "name": "Türkiye'deki diğer siyasi partiler",
+  "title": "Türkiye'deki diğer siyasi partiler",
+  "description": "Türkiye'de faaliyette olan ve mecliste temsil edilmeyen siyasi partiler: kuruluş yılı, lider ve üye sayısı.",
+  "category": "politics",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi",
+  "updated": "2026-10",
+  "record_count": 128,
+  "columns": [
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "kurulus",
+      "label": "Kurulus",
+      "type": "number"
+    },
+    {
+      "key": "lider",
+      "label": "Lider",
+      "type": "string"
+    },
+    {
+      "key": "uye_sayisi",
+      "label": "Uye Sayisi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "parti": "Adalet ve Çağrı Partisi",
+      "kurulus": 2024,
+      "lider": "Abdulkadir Papağan",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Adalet ve Gençlik Partisi",
+      "kurulus": 2024,
+      "lider": "Cemal Olgun",
+      "uye_sayisi": "–"
+    },
+    {
+      "parti": "Adalet ve Hürriyet Partisi",
+      "kurulus": 2023,
+      "lider": "Davut Karacan",
+      "uye_sayisi": 85
+    },
+    {
+      "parti": "Adil Türkiye Partisi",
+      "kurulus": 2023,
+      "lider": "Ata Barlas Aşkar",
+      "uye_sayisi": 1333
+    },
+    {
+      "parti": "Al Sancak Partisi",
+      "kurulus": 2021,
+      "lider": "Nuri Çelebi",
+      "uye_sayisi": 1451
+    },
+    {
+      "parti": "Alternatif Parti",
+      "kurulus": 2026,
+      "lider": "Şevket Göçmen",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Anadolu Cumhuriyet Partisi",
+      "kurulus": 2024,
+      "lider": "Murat Altuntaş",
+      "uye_sayisi": 38
+    },
+    {
+      "parti": "Anadolu Medeniyet Partisi",
+      "kurulus": 2023,
+      "lider": "İsrafil Odabaş",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Ana Yol Partisi",
+      "kurulus": 2023,
+      "lider": "Ali Karakurt",
+      "uye_sayisi": 2343
+    },
+    {
+      "parti": "Anka Partisi",
+      "kurulus": 2024,
+      "lider": "Derya Akdemir",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Ata Parti",
+      "kurulus": 2023,
+      "lider": "Namık Kemal Zeybek",
+      "uye_sayisi": 259
+    },
+    {
+      "parti": "Aydınlık Geleceğin Partisi",
+      "kurulus": 2020,
+      "lider": "Murat Danacı",
+      "uye_sayisi": 2206
+    },
+    {
+      "parti": "Bağımsızlık Partisi",
+      "kurulus": 2021,
+      "lider": "Erkan Esenar",
+      "uye_sayisi": 44
+    },
+    {
+      "parti": "Barış ve Eşitlik Partisi",
+      "kurulus": 2020,
+      "lider": "Çağlayan Garipoğlu",
+      "uye_sayisi": 65
+    },
+    {
+      "parti": "Birleşik Devrimci Parti",
+      "kurulus": 2015,
+      "lider": "Elif Torun Öneren",
+      "uye_sayisi": 85
+    },
+    {
+      "parti": "Birleşik Komünist Parti",
+      "kurulus": 2024,
+      "lider": "Ali Öztutan",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Birlik ve Yükseliş Partisi",
+      "kurulus": 2025,
+      "lider": "Aydın Ünsal",
+      "uye_sayisi": "–"
+    },
+    {
+      "parti": "Bizim Parti",
+      "kurulus": 2025,
+      "lider": "Ahmet Kedik",
+      "uye_sayisi": "–"
+    },
+    {
+      "parti": "Büyük Parti",
+      "kurulus": 2023,
+      "lider": "Mikdat Ertem",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Büyük İktidar Partisi",
+      "kurulus": 2023,
+      "lider": "Selamettin Tellioğlu",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Büyük Medeniyet Partisi",
+      "kurulus": 2025,
+      "lider": "Kemal Güçlü",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Büyük Türkiye Partisi",
+      "kurulus": 2024,
+      "lider": "Ali Gökhan",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Cihan Partisi",
+      "kurulus": 2014,
+      "lider": "Kürşad Emre Öğretmek",
+      "uye_sayisi": 133
+    },
+    {
+      "parti": "Cumhuriyet Partisi",
+      "kurulus": 2023,
+      "lider": "Osman Karakuş",
+      "uye_sayisi": 91
+    },
+    {
+      "parti": "Cumhuriyet ve Adalet Partisi",
+      "kurulus": 2021,
+      "lider": "Ahmet Sevim",
+      "uye_sayisi": 11610
+    },
+    {
+      "parti": "Cumhuriyet ve İstiklal Partisi",
+      "kurulus": 2020,
+      "lider": "Atakan Bozyayla",
+      "uye_sayisi": 841
+    },
+    {
+      "parti": "Cumhuriyetçi Aydınlık Partisi",
+      "kurulus": 2024,
+      "lider": "Serpil Kazoluk",
+      "uye_sayisi": 2082
+    },
+    {
+      "parti": "Cumhuriyetçi Milletin Partisi",
+      "kurulus": 2025,
+      "lider": "Reşat Şahin Öztürk",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Cumhuriyetçi Sol Parti",
+      "kurulus": 2024,
+      "lider": "Devrim İpekdal",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Çağdaş Türkiye Partisi",
+      "kurulus": 2024,
+      "lider": "Harun Kara",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Çoğulcu Demokrasi Partisi",
+      "kurulus": 2014,
+      "lider": "Faruk Arslandok",
+      "uye_sayisi": 300
+    },
+    {
+      "parti": "Demokrasi Zamanı Partisi",
+      "kurulus": 2016,
+      "lider": "Ali Demirel Hüseyin Özdağ",
+      "uye_sayisi": 122
+    },
+    {
+      "parti": "Denge Partisi",
+      "kurulus": 2024,
+      "lider": "Gökhan Evren",
+      "uye_sayisi": 101
+    },
+    {
+      "parti": "Devlet Partisi",
+      "kurulus": 2020,
+      "lider": "Yaşar Epçaçan",
+      "uye_sayisi": 480
+    },
+    {
+      "parti": "Devrim Partisi",
+      "kurulus": 2020,
+      "lider": "Erçin Fırat",
+      "uye_sayisi": 53
+    },
+    {
+      "parti": "Devrimci İşçi Partisi",
+      "kurulus": 2007,
+      "lider": "Sungur Savran",
+      "uye_sayisi": 47
+    },
+    {
+      "parti": "Devrimci Sosyalist İşçi Partisi",
+      "kurulus": 1997,
+      "lider": "Meltem Oral Şenol Karakaş",
+      "uye_sayisi": 91
+    },
+    {
+      "parti": "Doğru Parti",
+      "kurulus": 2020,
+      "lider": "Arda Ateş",
+      "uye_sayisi": 1661
+    },
+    {
+      "parti": "Doğuş Partisi",
+      "kurulus": 2021,
+      "lider": "Mahmut Karalar",
+      "uye_sayisi": 2196
+    },
+    {
+      "parti": "Dost Parti",
+      "kurulus": 2025,
+      "lider": "Rıdvan Eşin",
+      "uye_sayisi": 1456
+    },
+    {
+      "parti": "Ebedi Nizam Partisi",
+      "kurulus": 2007,
+      "lider": "Seyfettin Koçan",
+      "uye_sayisi": 79
+    },
+    {
+      "parti": "Egemen Türkiye Partisi",
+      "kurulus": 2024,
+      "lider": "Alpaslan Tektaş",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Emekçi Hareket Partisi",
+      "kurulus": 2004,
+      "lider": "Hakan Öztürk",
+      "uye_sayisi": 242
+    },
+    {
+      "parti": "Emekliler ve Yurttaşlar Partisi",
+      "kurulus": 2024,
+      "lider": "Ali Yücel İnegöllü",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Evrensel Medeniyet Partisi",
+      "kurulus": 2024,
+      "lider": "Burhan Erol",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Ezilenlerin Sosyalist Partisi",
+      "kurulus": 2010,
+      "lider": "Hatice Deniz Aktaş Murat Çepni",
+      "uye_sayisi": 418
+    },
+    {
+      "parti": "Genç Türkiye Partisi",
+      "kurulus": 2023,
+      "lider": "Ali Alemdaroğlu",
+      "uye_sayisi": 53
+    },
+    {
+      "parti": "Güçlü Anadolu Partisi",
+      "kurulus": 2024,
+      "lider": "Nihal Duysak",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Güçlü Türkiye Partisi",
+      "kurulus": 2024,
+      "lider": "Muharrem Gözkaya",
+      "uye_sayisi": 567
+    },
+    {
+      "parti": "Güven Adalet ve Aydınlık Partisi",
+      "kurulus": 2017,
+      "lider": "Zeynep Göksu",
+      "uye_sayisi": 37
+    },
+    {
+      "parti": "Güzel Parti",
+      "kurulus": 2020,
+      "lider": "Hüseyin Akbulut",
+      "uye_sayisi": 1147
+    },
+    {
+      "parti": "Hak ve Adalet Partisi",
+      "kurulus": 2012,
+      "lider": "Yiğit Zeki Öztürk",
+      "uye_sayisi": 1152
+    },
+    {
+      "parti": "Hak ve Hakikat Partisi",
+      "kurulus": 2008,
+      "lider": "Kenan Güneş Serkan Arslan",
+      "uye_sayisi": 111
+    },
+    {
+      "parti": "Hak ve Huzur Partisi",
+      "kurulus": 2014,
+      "lider": "Gürsel Yıldız",
+      "uye_sayisi": 105
+    },
+    {
+      "parti": "Halkın Sesi Partisi",
+      "kurulus": 2023,
+      "lider": "Banu Sevim",
+      "uye_sayisi": 670
+    },
+    {
+      "parti": "Halkların Demokratik Partisi",
+      "kurulus": 2012,
+      "lider": "Cahit Kırkazak Sultan Özcan",
+      "uye_sayisi": 14539
+    },
+    {
+      "parti": "Hürriyet Partisi",
+      "kurulus": 2025,
+      "lider": "Ali Gül",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "İnsan ve Özgürlük Partisi",
+      "kurulus": 2023,
+      "lider": "Davut Güler Ahmet Kaya",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "İnsanca Yaşam Partisi",
+      "kurulus": 2025,
+      "lider": "Şenol Karaşahin",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "İşçi Demokrasisi Partisi",
+      "kurulus": 2015,
+      "lider": "Oktay Çelik",
+      "uye_sayisi": 44
+    },
+    {
+      "parti": "İşçinin Kendi Partisi",
+      "kurulus": 2006,
+      "lider": "Sevim Kaçmaz",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Kadın Partisi",
+      "kurulus": 2014,
+      "lider": "Fatma Benal Yazgan",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Karar Partisi",
+      "kurulus": 2025,
+      "lider": "Yaşar Aydın",
+      "uye_sayisi": 41
+    },
+    {
+      "parti": "Kızılelma Partisi",
+      "kurulus": 2023,
+      "lider": "Yalçın Dursun",
+      "uye_sayisi": 394
+    },
+    {
+      "parti": "Komünist Parti",
+      "kurulus": 2014,
+      "lider": "Erkan Yıldız",
+      "uye_sayisi": 45
+    },
+    {
+      "parti": "Kutlu Parti",
+      "kurulus": 2024,
+      "lider": "Yusuf Halaçoğlu",
+      "uye_sayisi": 1335
+    },
+    {
+      "parti": "Küresel Adalet ve Liyakat Partisi",
+      "kurulus": 2023,
+      "lider": "Volkan Sırma",
+      "uye_sayisi": 1
+    },
+    {
+      "parti": "Liberal Demokrat Parti",
+      "kurulus": 1994,
+      "lider": "Gültekin Tırpancı",
+      "uye_sayisi": 3492
+    },
+    {
+      "parti": "Liberal Parti",
+      "kurulus": 2021,
+      "lider": "Zübeyir Gülabi",
+      "uye_sayisi": 238
+    },
+    {
+      "parti": "Merkez Ana Partisi",
+      "kurulus": 2020,
+      "lider": "Yunis Karagöz",
+      "uye_sayisi": 577
+    },
+    {
+      "parti": "Merkez Parti",
+      "kurulus": 2014,
+      "lider": "Pelin Gündeş Bakır",
+      "uye_sayisi": 2432
+    },
+    {
+      "parti": "Merkez Sağ Parti",
+      "kurulus": 2023,
+      "lider": "Ömer Bilgin",
+      "uye_sayisi": 3882
+    },
+    {
+      "parti": "Milli Beraberlik Partisi",
+      "kurulus": 2023,
+      "lider": "Peyami Sefa Atıcı",
+      "uye_sayisi": 314
+    },
+    {
+      "parti": "Milli Birlik ve Gelişim Partisi",
+      "kurulus": 2021,
+      "lider": "Turgut Cumhur Şanlı",
+      "uye_sayisi": 176
+    },
+    {
+      "parti": "Milli Diriliş Partisi",
+      "kurulus": 2024,
+      "lider": "Ahmet Gümüş",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Milli Kalkınma Partisi",
+      "kurulus": 2024,
+      "lider": "Durmuş Alagöz",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Milli Mücadele Partisi",
+      "kurulus": 2014,
+      "lider": "Ahmet Kaya",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Milli Parti",
+      "kurulus": 2020,
+      "lider": "Muhammet Uzun",
+      "uye_sayisi": 135
+    },
+    {
+      "parti": "Milli Oluşum Partisi",
+      "kurulus": 2024,
+      "lider": "Metin Çağrı",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Milli Ulusal Parti",
+      "kurulus": 2024,
+      "lider": "Turgay Akbaş",
+      "uye_sayisi": 53
+    },
+    {
+      "parti": "Milliyetçi Cumhuriyet Partisi",
+      "kurulus": 2020,
+      "lider": "Fehmi Hataş",
+      "uye_sayisi": 453
+    },
+    {
+      "parti": "Milliyetçi Türkiye Partisi",
+      "kurulus": 2023,
+      "lider": "Ahmet Yılmaz",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Müdafaa-i Hukuk Hareketi Partisi",
+      "kurulus": 2006,
+      "lider": "Ufuk Erdüvenci",
+      "uye_sayisi": 112
+    },
+    {
+      "parti": "Osmanlı Partisi",
+      "kurulus": 2016,
+      "lider": "Habip Geleş",
+      "uye_sayisi": 4771
+    },
+    {
+      "parti": "Önce Vatan Partisi",
+      "kurulus": 2024,
+      "lider": "İrfan Durmaz",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Ötüken Birliği Partisi",
+      "kurulus": 2017,
+      "lider": "Çağatay Korkut Körüklü",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Özgürlük ve Sosyalizm Partisi",
+      "kurulus": 2011,
+      "lider": "Sinan Çiftyürek",
+      "uye_sayisi": 106
+    },
+    {
+      "parti": "Sağ Parti",
+      "kurulus": 2024,
+      "lider": "Uğur Güzel",
+      "uye_sayisi": 231
+    },
+    {
+      "parti": "Sağduyu Partisi",
+      "kurulus": 2002,
+      "lider": "Mehmet Yücel Ağargün",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Sevgi ve Saygı Partisi",
+      "kurulus": 2021,
+      "lider": "Ramazan Uzunoğlu",
+      "uye_sayisi": 59
+    },
+    {
+      "parti": "Son Parti",
+      "kurulus": 2024,
+      "lider": "Murat Çobanoğlu",
+      "uye_sayisi": 40
+    },
+    {
+      "parti": "Sosyal Demokrat Halkçı Parti",
+      "kurulus": 2024,
+      "lider": "Burak Çelik",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Sosyalist Cumhuriyet Partisi",
+      "kurulus": 2021,
+      "lider": "Gürkan Koç",
+      "uye_sayisi": 779
+    },
+    {
+      "parti": "Sosyalist Emekçiler Partisi",
+      "kurulus": 2016,
+      "lider": "Güneş Gümüş",
+      "uye_sayisi": 39
+    },
+    {
+      "parti": "Sosyalist İktidar Partisi",
+      "kurulus": 2024,
+      "lider": "–",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Sosyalist Yeniden Kuruluş Partisi",
+      "kurulus": 2013,
+      "lider": "Feray Mertoğlu Mertcan Titiz",
+      "uye_sayisi": 359
+    },
+    {
+      "parti": "Sosyalistler Partisi",
+      "kurulus": 2024,
+      "lider": "Deniz Can Aydın",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Şahlanış Partisi",
+      "kurulus": 2022,
+      "lider": "Murat Altun",
+      "uye_sayisi": 104
+    },
+    {
+      "parti": "Toplumcu Kurtuluş Partisi",
+      "kurulus": 2012,
+      "lider": "İsmail Kaplan",
+      "uye_sayisi": 116
+    },
+    {
+      "parti": "Toplumsal Özgürlük Partisi",
+      "kurulus": 2020,
+      "lider": "Şilan Sürmeli",
+      "uye_sayisi": 339
+    },
+    {
+      "parti": "Toprak Partisi",
+      "kurulus": 2025,
+      "lider": "Ömer Ulutaş",
+      "uye_sayisi": "–"
+    },
+    {
+      "parti": "Turan Partisi",
+      "kurulus": 2023,
+      "lider": "Cengiz Çiftçi",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Turan Hareketi Partisi",
+      "kurulus": 2014,
+      "lider": "Varol Esen",
+      "uye_sayisi": 317
+    },
+    {
+      "parti": "Tuğra Partisi",
+      "kurulus": 2021,
+      "lider": "Hatice Çelik İlközen",
+      "uye_sayisi": 563
+    },
+    {
+      "parti": "Türkiye Ekonomi ve Kalkınma Partisi",
+      "kurulus": 2014,
+      "lider": "Rahim Oluç",
+      "uye_sayisi": 40
+    },
+    {
+      "parti": "Türkiye Emeklilier ve Çalışanlar Partisi",
+      "kurulus": 2024,
+      "lider": "Cengiz Erten",
+      "uye_sayisi": 761
+    },
+    {
+      "parti": "Türkiye Emeklilier ve Emekçiler Partisi",
+      "kurulus": 2024,
+      "lider": "Ergin Dursun",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Türkiye Emekliler Partisi",
+      "kurulus": 2023,
+      "lider": "Metin İmer",
+      "uye_sayisi": 767
+    },
+    {
+      "parti": "Türkiye Güven Partisi",
+      "kurulus": 2023,
+      "lider": "Mehmet Ali Kumru",
+      "uye_sayisi": 80
+    },
+    {
+      "parti": "Türkiye'nin Sesi Altınçağ Partisi",
+      "kurulus": 2022,
+      "lider": "Atıf Özbey",
+      "uye_sayisi": 1527
+    },
+    {
+      "parti": "Türkiye Sosyalist İşçi Partisi",
+      "kurulus": 1993,
+      "lider": "Turgut Koçak",
+      "uye_sayisi": 146
+    },
+    {
+      "parti": "Türkiye Uyanış Partisi",
+      "kurulus": 2023,
+      "lider": "Ahmet İmrek",
+      "uye_sayisi": 27
+    },
+    {
+      "parti": "Türkiye Yüzyılı Partisi",
+      "kurulus": 2024,
+      "lider": "Murat Şahin",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Türkiye'm Partisi",
+      "kurulus": 2023,
+      "lider": "Önder Genç",
+      "uye_sayisi": 63
+    },
+    {
+      "parti": "Ulusal Parti",
+      "kurulus": 2010,
+      "lider": "Gökçe Fırat",
+      "uye_sayisi": 32
+    },
+    {
+      "parti": "Ulusun Partisi",
+      "kurulus": 2023,
+      "lider": "Tuba Koylan",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Umuda Yürüyüş Partisi",
+      "kurulus": 2023,
+      "lider": "Adnan İldemir",
+      "uye_sayisi": 2866
+    },
+    {
+      "parti": "Ülkem Partisi",
+      "kurulus": 2019,
+      "lider": "Neşet Doğan",
+      "uye_sayisi": 2128
+    },
+    {
+      "parti": "Vatan ve Hürriyet Partisi",
+      "kurulus": 2020,
+      "lider": "Yalçın Doğan",
+      "uye_sayisi": 1199
+    },
+    {
+      "parti": "Yeni Yüzyıl Partisi",
+      "kurulus": 2024,
+      "lider": "Hasan Fatih Yumak",
+      "uye_sayisi": 51898
+    },
+    {
+      "parti": "Yeniden Diriliş Partisi",
+      "kurulus": 2021,
+      "lider": "İsa İlyasoğlu",
+      "uye_sayisi": 427
+    },
+    {
+      "parti": "Yeniden Doğuş Partisi",
+      "kurulus": 2025,
+      "lider": "Muhammed Dursun Bulut",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Yerli ve Milli Parti",
+      "kurulus": 2023,
+      "lider": "Teoman Mutlu",
+      "uye_sayisi": 38118
+    },
+    {
+      "parti": "Yeşil Sol Parti",
+      "kurulus": 2023,
+      "lider": "Ahmet Asena Didem Betül Göçer",
+      "uye_sayisi": 613
+    },
+    {
+      "parti": "Yurt Partisi",
+      "kurulus": 2002,
+      "lider": "Sadettin Tantan",
+      "uye_sayisi": 192
+    },
+    {
+      "parti": "Yüce Diriliş Partisi",
+      "kurulus": 2007,
+      "lider": "Lütfü Yılmaz",
+      "uye_sayisi": 131
+    },
+    {
+      "parti": "Yükselen Türkiye Partisi",
+      "kurulus": 2024,
+      "lider": "Duygu Sucuka",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Yükseliş Partisi",
+      "kurulus": 2021,
+      "lider": "Nail Çakır",
+      "uye_sayisi": 527
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki diğer siyasi partiler - Free Download",
+    "description": "Türkiye'de faaliyette olan ve mecliste temsil edilmeyen siyasi partiler: kuruluş yılı, lider ve üye sayısı. Contains 128 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki diğer siyasi partiler | ListBase",
+    "seo_description": "Download Türkiye'deki diğer siyasi partiler — 128 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 128 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi"
+    ]
+  }
+}
