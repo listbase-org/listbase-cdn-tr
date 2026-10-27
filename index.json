@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:38.152Z",
-  "total_datasets": 532,
-  "total_records": 596514,
+  "generated": "2026-10-27T02:31:40.658Z",
+  "total_datasets": 533,
+  "total_records": 596551,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -349,6 +349,30 @@
         "xlsx": {
           "name": "tr-saatlik-asgari-ucret_TR.xlsx",
           "size": 7060
+        }
+      }
+    },
+    {
+      "id": "tr-yillik-enflasyon-tufe",
+      "name": "Türkiye yıllık enflasyon oranları (TÜFE)",
+      "category": "economy",
+      "record_count": 37,
+      "columns": [
+        "yil",
+        "enflasyon_orani_pct",
+        "degisim"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Tüketici_fiyat_endeksi_(Türkiye)",
+      "updated": "2026-10",
+      "size": 4902,
+      "files": {
+        "csv": {
+          "name": "tr-yillik-enflasyon-tufe_TR.csv",
+          "size": 849
+        },
+        "xlsx": {
+          "name": "tr-yillik-enflasyon-tufe_TR.xlsx",
+          "size": 7491
         }
       }
     },
