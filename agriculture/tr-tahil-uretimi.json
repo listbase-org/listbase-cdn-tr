@@ -1,0 +1,64 @@
+{
+  "id": "tr-tahil-uretimi",
+  "name": "Türkiye'de tahıl üretimi",
+  "title": "Türkiye'de tahıl üretimi",
+  "description": "Türkiye'de yetiştirilen başlıca tahılların yıllık üretim miktarları.",
+  "category": "agriculture",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'de_yetiştirilen_tarım_ürünleri",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'de_yetiştirilen_tarım_ürünleri",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "tahil",
+      "label": "Tahil",
+      "type": "string"
+    },
+    {
+      "key": "miktar",
+      "label": "Miktar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tahil": "Buğday",
+      "miktar": "22.000.000 ton"
+    },
+    {
+      "tahil": "Arpa",
+      "miktar": "9.200.000 ton"
+    },
+    {
+      "tahil": "Mısır",
+      "miktar": "9.000.000 ton"
+    },
+    {
+      "tahil": "Pirinç",
+      "miktar": "900.000 ton"
+    },
+    {
+      "tahil": "Yulaf",
+      "miktar": "410.000 ton"
+    },
+    {
+      "tahil": "Çavdar",
+      "miktar": "305.000 ton"
+    },
+    {
+      "tahil": "Darı",
+      "miktar": "4.101 ton"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de tahıl üretimi - Free Download",
+    "description": "Türkiye'de yetiştirilen başlıca tahılların yıllık üretim miktarları. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de tahıl üretimi | ListBase",
+    "seo_description": "Download Türkiye'de tahıl üretimi — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'de_yetiştirilen_tarım_ürünleri"
+    ]
+  }
+}
