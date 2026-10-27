@@ -1,0 +1,216 @@
+{
+  "id": "tr-meclisteki-siyasi-partiler",
+  "name": "TBMM'de temsil edilen siyasi partiler",
+  "title": "TBMM'de temsil edilen siyasi partiler",
+  "description": "Türkiye Büyük Millet Meclisi'nde temsil edilen siyasi partiler: kuruluş yılı, siyasi pozisyon, ideoloji, lider, ittifak, sandalye ve üye sayısı.",
+  "category": "politics",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "kurulus",
+      "label": "Kurulus",
+      "type": "number"
+    },
+    {
+      "key": "siyasi_pozisyon",
+      "label": "Siyasi Pozisyon",
+      "type": "string"
+    },
+    {
+      "key": "ideoloji",
+      "label": "Ideoloji",
+      "type": "string"
+    },
+    {
+      "key": "lider",
+      "label": "Lider",
+      "type": "string"
+    },
+    {
+      "key": "ittifak",
+      "label": "Ittifak",
+      "type": "string"
+    },
+    {
+      "key": "tbmm_sandalye",
+      "label": "Tbmm Sandalye",
+      "type": "string"
+    },
+    {
+      "key": "uye_sayisi",
+      "label": "Uye Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "parti": "Adalet ve Kalkınma Partisi",
+      "kurulus": 2001,
+      "siyasi_pozisyon": "Sağ",
+      "ideoloji": "Muhafazakârlık Sağ popülizm",
+      "lider": "Recep Tayyip Erdoğan",
+      "ittifak": "Cumhur İttifakı",
+      "tbmm_sandalye": "280 / 600",
+      "uye_sayisi": 11709913
+    },
+    {
+      "parti": "Yeni Parti",
+      "kurulus": 2026,
+      "siyasi_pozisyon": "Merkez sol",
+      "ideoloji": "Atatürkçülük Sosyal demokrasi",
+      "lider": "Özgür Özel",
+      "ittifak": "—",
+      "tbmm_sandalye": "91 / 600",
+      "uye_sayisi": "TBD"
+    },
+    {
+      "parti": "Halkların Eşitlik ve Demokrasi Partisi",
+      "kurulus": 2012,
+      "siyasi_pozisyon": "Sol",
+      "ideoloji": "Azınlık hakları Demokratik konfederalizm",
+      "lider": "Tülay Hatimoğulları Tuncer Bakırhan",
+      "ittifak": "Emek ve Özgürlük",
+      "tbmm_sandalye": "56 / 600",
+      "uye_sayisi": 17060
+    },
+    {
+      "parti": "Milliyetçi Hareket Partisi",
+      "kurulus": 1969,
+      "siyasi_pozisyon": "Aşırı sağ",
+      "ideoloji": "Türk milliyetçiliği Ülkücülük",
+      "lider": "Devlet Bahçeli",
+      "ittifak": "Cumhur İttifakı",
+      "tbmm_sandalye": "46 / 600",
+      "uye_sayisi": 501122
+    },
+    {
+      "parti": "Cumhuriyet Halk Partisi",
+      "kurulus": 1923,
+      "siyasi_pozisyon": "Merkez sol",
+      "ideoloji": "Sosyal demokrasi Atatürkçülük",
+      "lider": "Kemal Kılıçdaroğlu",
+      "ittifak": "—",
+      "tbmm_sandalye": "44 / 600",
+      "uye_sayisi": 1879973
+    },
+    {
+      "parti": "İYİ Parti",
+      "kurulus": 2017,
+      "siyasi_pozisyon": "Merkez sağ",
+      "ideoloji": "Türk milliyetçiliği Sağ popülizm",
+      "lider": "Müsavat Dervişoğlu",
+      "ittifak": "—",
+      "tbmm_sandalye": "27 / 600",
+      "uye_sayisi": 385025
+    },
+    {
+      "parti": "Yeni Yol Oluşum: Demokrasi ve Atılım Partisi Saadet Partisi",
+      "kurulus": 2025,
+      "siyasi_pozisyon": "Merkez sağ",
+      "ideoloji": "Liberal muhafazakârlık Büyük çadır",
+      "lider": "İzzettin Küçük",
+      "ittifak": "Yeni Yol",
+      "tbmm_sandalye": "20 / 600",
+      "uye_sayisi": 0
+    },
+    {
+      "parti": "Hür Dava Partisi",
+      "kurulus": 2012,
+      "siyasi_pozisyon": "Aşırı sağ",
+      "ideoloji": "İslamcılık Sosyal muhafazakârlık",
+      "lider": "Zekeriya Yapıcıoğlu",
+      "ittifak": "—",
+      "tbmm_sandalye": "4 / 600",
+      "uye_sayisi": 16939
+    },
+    {
+      "parti": "Türkiye İşçi Partisi",
+      "kurulus": 2017,
+      "siyasi_pozisyon": "Aşırı sol",
+      "ideoloji": "Sosyalizm Sol popülizm",
+      "lider": "Erkan Baş",
+      "ittifak": "Emek ve Özgürlük",
+      "tbmm_sandalye": "3 / 600",
+      "uye_sayisi": 35130
+    },
+    {
+      "parti": "Yeniden Refah Partisi",
+      "kurulus": 2018,
+      "siyasi_pozisyon": "Aşırı sağ",
+      "ideoloji": "Millî Görüş İslamcılık",
+      "lider": "Fatih Erbakan",
+      "ittifak": "—",
+      "tbmm_sandalye": "3 / 600",
+      "uye_sayisi": 703085
+    },
+    {
+      "parti": "Demokratik Bölgeler Partisi",
+      "kurulus": 2008,
+      "siyasi_pozisyon": "Sol",
+      "ideoloji": "Azınlık hakları Bölgeselcilik",
+      "lider": "Çiğdem Kılıçgün Uçar Keskin Bayındır",
+      "ittifak": "Emek ve Özgürlük",
+      "tbmm_sandalye": "2 / 600",
+      "uye_sayisi": 6832
+    },
+    {
+      "parti": "Emek Partisi",
+      "kurulus": 1996,
+      "siyasi_pozisyon": "Aşırı sol",
+      "ideoloji": "Marksizm-Leninizm Hocaizm",
+      "lider": "Seyit Aslan",
+      "ittifak": "Emek ve Özgürlük",
+      "tbmm_sandalye": "2 / 600",
+      "uye_sayisi": 4900
+    },
+    {
+      "parti": "Demokrat Parti",
+      "kurulus": 1983,
+      "siyasi_pozisyon": "Merkez sağ",
+      "ideoloji": "Sosyal liberalizm Sağ popülizm",
+      "lider": "Gültekin Uysal",
+      "ittifak": "—",
+      "tbmm_sandalye": "1 / 600",
+      "uye_sayisi": 302852
+    },
+    {
+      "parti": "Demokratik Sol Parti",
+      "kurulus": 1985,
+      "siyasi_pozisyon": "Merkez sol",
+      "ideoloji": "Atatürkçülük Ulusalcılık",
+      "lider": "Önder Aksakal",
+      "ittifak": "—",
+      "tbmm_sandalye": "1 / 600",
+      "uye_sayisi": 23058
+    },
+    {
+      "parti": "Saadet Partisi",
+      "kurulus": 2001,
+      "siyasi_pozisyon": "Sağ",
+      "ideoloji": "Millî Görüş Ümmetçilik",
+      "lider": "Mahmut Arıkan",
+      "ittifak": "Yeni Yol",
+      "tbmm_sandalye": "1 / 600",
+      "uye_sayisi": 374724
+    }
+  ],
+  "meta": {
+    "title": "TBMM'de temsil edilen siyasi partiler - Free Download",
+    "description": "Türkiye Büyük Millet Meclisi'nde temsil edilen siyasi partiler: kuruluş yılı, siyasi pozisyon, ideoloji, lider, ittifak, sandalye ve üye sayısı. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "TBMM'de temsil edilen siyasi partiler | ListBase",
+    "seo_description": "Download TBMM'de temsil edilen siyasi partiler — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_siyasi_partiler_listesi"
+    ]
+  }
+}
