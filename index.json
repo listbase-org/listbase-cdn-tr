@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-28T02:20:40.408Z",
-  "total_datasets": 537,
-  "total_records": 598264,
+  "generated": "2026-10-28T02:20:42.738Z",
+  "total_datasets": 538,
+  "total_records": 598290,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -5584,6 +5584,35 @@
         "xlsx": {
           "name": "tr-en-cok-abonesi-olan-youtube-kanallari_TR.xlsx",
           "size": 7772
+        }
+      }
+    },
+    {
+      "id": "tr-en-cok-izlenen-animasyon-filmler",
+      "name": "Türkiye'de en çok izlenen animasyon filmler",
+      "category": "entertainment",
+      "record_count": 26,
+      "columns": [
+        "rank",
+        "film",
+        "director",
+        "country",
+        "distributor",
+        "release_date",
+        "genre",
+        "admissions"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_en_çok_izlenen_animasyon_filmler_listesi",
+      "updated": "2026-10",
+      "size": 9790,
+      "files": {
+        "csv": {
+          "name": "tr-en-cok-izlenen-animasyon-filmler_TR.csv",
+          "size": 3754
+        },
+        "xlsx": {
+          "name": "tr-en-cok-izlenen-animasyon-filmler_TR.xlsx",
+          "size": 8865
         }
       }
     },

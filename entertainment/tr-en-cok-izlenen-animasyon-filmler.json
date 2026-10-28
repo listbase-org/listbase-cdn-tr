@@ -1,0 +1,326 @@
+{
+  "id": "tr-en-cok-izlenen-animasyon-filmler",
+  "name": "Türkiye'de en çok izlenen animasyon filmler",
+  "title": "Türkiye'de en çok izlenen animasyon filmler",
+  "description": "Türkiye sinemalarında en çok seyirci çeken animasyon filmlerin listesi.",
+  "category": "entertainment",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'de_en_çok_izlenen_animasyon_filmler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'de_en_çok_izlenen_animasyon_filmler_listesi",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "distributor",
+      "label": "Distributor",
+      "type": "string"
+    },
+    {
+      "key": "release_date",
+      "label": "Release Date",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "admissions",
+      "label": "Admissions",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "film": "Rafadan Tayfa: Göbeklitepe",
+      "director": "İsmail Fidan",
+      "country": "Türkiye",
+      "distributor": "CGV Mars Dağıtım",
+      "release_date": "27 Aralık 2019",
+      "genre": "Komedi, Macera",
+      "admissions": "3,44 milyon"
+    },
+    {
+      "rank": 2,
+      "film": "Rafadan Tayfa: Galaktik Tayfa",
+      "director": "İsmail Fidan",
+      "country": "Türkiye",
+      "distributor": "CGV Mars Dağıtım",
+      "release_date": "6 Ocak 2023",
+      "genre": "Komedi, Macera",
+      "admissions": "2,85 milyon"
+    },
+    {
+      "rank": 3,
+      "film": "Rafadan Tayfa: Hayrimatör",
+      "director": "İsmail Fidan",
+      "country": "Türkiye",
+      "distributor": "TME Films",
+      "release_date": "29 Aralık 2023",
+      "genre": "Komedi, Macera",
+      "admissions": "2,81 milyon"
+    },
+    {
+      "rank": 4,
+      "film": "Ters Yüz 2",
+      "director": "Kelsey Mann",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "14 Haziran 2024",
+      "genre": "Komedi, Reşit olma",
+      "admissions": "2,46 milyon"
+    },
+    {
+      "rank": 5,
+      "film": "Rafadan Tayfa: Kapadokya",
+      "director": "İsmail Fidan",
+      "country": "Türkiye",
+      "distributor": "TME Films",
+      "release_date": "27 Aralık 2024",
+      "genre": "Komedi, Macera",
+      "admissions": "2,31 milyon"
+    },
+    {
+      "rank": 6,
+      "film": "Allah'ın Sadık Kulu: Barla",
+      "director": "Esin Orhan",
+      "country": "Türkiye",
+      "distributor": "Özen Film",
+      "release_date": "4 Kasım 2011",
+      "genre": "Dinî",
+      "admissions": "2,22 milyon"
+    },
+    {
+      "rank": 7,
+      "film": "Kral Şakir: Korsanlar Diyarı",
+      "director": "Kuntay Kumbur",
+      "country": "Türkiye",
+      "distributor": "CJ ENM Turkey",
+      "release_date": "4 Ekim 2019",
+      "genre": "Komedi",
+      "admissions": "2,10 milyon"
+    },
+    {
+      "rank": 8,
+      "film": "Buz Devri 4: Kıtalar Ayrılıyor",
+      "director": "Steve Martino & Mike Thurmeier",
+      "country": "ABD",
+      "distributor": "Tiglon",
+      "release_date": "29 Haziran 2012",
+      "genre": "Komedi, Macera",
+      "admissions": "1,88 milyon"
+    },
+    {
+      "rank": 9,
+      "film": "Rafadan Tayfa: Dehliz Macerası",
+      "director": "İsmail Fidan",
+      "country": "Türkiye",
+      "distributor": "CGV Mars Dağıtım",
+      "release_date": "26 Ekim 2018",
+      "genre": "Komedi, Macera",
+      "admissions": "1,80 milyon"
+    },
+    {
+      "rank": 10,
+      "film": "Zootropolis 2",
+      "director": "Jared Bush & Byron Howard",
+      "country": "ABD",
+      "distributor": "UIP Türkiye",
+      "release_date": "28 Kasım 2025",
+      "genre": "Komedi, Fantastik",
+      "admissions": "1,69 milyon"
+    },
+    {
+      "rank": 11,
+      "film": "Buz Devri 3: Dinozorların Şafağı",
+      "director": "Carlos Saldanha",
+      "country": "ABD",
+      "distributor": "Tiglon",
+      "release_date": "1 Temmuz 2009",
+      "genre": "Komedi, Macera",
+      "admissions": "1,43 milyon"
+    },
+    {
+      "rank": 12,
+      "film": "Moana",
+      "director": "Ron Clements & John Musker",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "20 Ocak 2017",
+      "genre": "Macera, Müzikal",
+      "admissions": "1,33 milyon"
+    },
+    {
+      "rank": 13,
+      "film": "Buz Devri 5: Büyük Çarpışma",
+      "director": "Mike Thurmeier",
+      "country": "ABD",
+      "distributor": "Tiglon",
+      "release_date": "15 Temmuz 2016",
+      "genre": "Komedi, Macera",
+      "admissions": "1,30 milyon"
+    },
+    {
+      "rank": 14,
+      "film": "Karlar Ülkesi 2",
+      "director": "Chris Buck & Jennifer Lee",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "20 Kasım 2019",
+      "genre": "Fantastik",
+      "admissions": "1,28 milyon"
+    },
+    {
+      "rank": 15,
+      "film": "İnanılmaz Aile 2",
+      "director": "Brad Bird",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "22 Ağustos 2018",
+      "genre": "Süper kahraman",
+      "admissions": "1,26 milyon"
+    },
+    {
+      "rank": 16,
+      "film": "Karlar Ülkesi",
+      "director": "Chris Buck & Jennifer Lee",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "17 Ocak 2014",
+      "genre": "Fantastik",
+      "admissions": "1,22 milyon"
+    },
+    {
+      "rank": 17,
+      "film": "Minyonlar 2: Gru'nun Yükselişi",
+      "director": "Kyle Balda & Brad Ableson",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "1 Temmuz 2022",
+      "genre": "Komedi",
+      "admissions": "1,19 milyon"
+    },
+    {
+      "rank": 18,
+      "film": "Aslan Hürkuş: Kayıp Elmas",
+      "director": "Hakan Bol & Sinan Güngör",
+      "country": "Türkiye",
+      "distributor": "CGV Mars Dağıtım",
+      "release_date": "7 Ocak 2022",
+      "genre": "Macera",
+      "admissions": "1,16 milyon"
+    },
+    {
+      "rank": 19,
+      "film": "Çılgın Hırsız 4",
+      "director": "Chris Renaud",
+      "country": "ABD",
+      "distributor": "Universal Pictures",
+      "release_date": "5 Temmuz 2024",
+      "genre": "Komedi",
+      "admissions": "1,08 milyon"
+    },
+    {
+      "rank": 20,
+      "film": "Buz Devri 2: Erime Başlıyor",
+      "director": "Carlos Saldanha",
+      "country": "ABD",
+      "distributor": "CGV Mars Dağıtım",
+      "release_date": "17 Ekim 2025",
+      "genre": "Komedi",
+      "admissions": "1,05 milyon"
+    },
+    {
+      "rank": 21,
+      "film": "Moana 2",
+      "director": "David Derrick Jr.",
+      "country": "ABD",
+      "distributor": "UIP Türkiye",
+      "release_date": "29 Kasım 2024",
+      "genre": "Komedi, Müzikal",
+      "admissions": "1,04 milyon"
+    },
+    {
+      "rank": 22,
+      "film": "Çılgın Hırsız 3",
+      "director": "Kyle Balda & Pierre Coffin",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "25 Ağustos 2017",
+      "genre": "Komedi",
+      "admissions": "999 bin"
+    },
+    {
+      "rank": 23,
+      "film": "Coco",
+      "director": "Lee Unkrich",
+      "country": "ABD",
+      "distributor": "Walt Disney Pictures",
+      "release_date": "19 Ocak 2018",
+      "genre": "Müzikal, Fantastik",
+      "admissions": "982 bin"
+    },
+    {
+      "rank": 24,
+      "film": "Minyonlar",
+      "director": "Kyle Balda & Pierre Coffin",
+      "country": "ABD",
+      "distributor": "Universal Pictures",
+      "release_date": "4 Eylül 2015",
+      "genre": "Komedi",
+      "admissions": "964 bin"
+    },
+    {
+      "rank": 25,
+      "film": "Aslan Hürkuş: Görevimiz Gökbey",
+      "director": "Sinan Güngör",
+      "country": "Türkiye",
+      "distributor": "CGV Mars Dağıtım",
+      "release_date": "21 Ekim 2022",
+      "genre": "Macera",
+      "admissions": "908 bin"
+    },
+    {
+      "rank": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "film": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "director": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "country": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "distributor": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "release_date": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "genre": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır.",
+      "admissions": "Listenin devamı, Box Office Türkiye 'nin internet sitesinde bulunmaktadır."
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de en çok izlenen animasyon filmler - Free Download",
+    "description": "Türkiye sinemalarında en çok seyirci çeken animasyon filmlerin listesi. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de en çok izlenen animasyon filmler | ListBase",
+    "seo_description": "Download Türkiye'de en çok izlenen animasyon filmler — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'de_en_çok_izlenen_animasyon_filmler_listesi"
+    ]
+  }
+}
