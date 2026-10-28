@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-27T02:31:40.658Z",
-  "total_datasets": 533,
-  "total_records": 596551,
+  "generated": "2026-10-28T02:20:32.857Z",
+  "total_datasets": 534,
+  "total_records": 597773,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -10875,6 +10875,29 @@
         "xlsx": {
           "name": "tr-zonguldak-neighbourhoods_TR.xlsx",
           "size": 50164
+        }
+      }
+    },
+    {
+      "id": "tr-hastaneler",
+      "name": "Türkiye'deki hastaneler",
+      "category": "health",
+      "record_count": 1222,
+      "columns": [
+        "name",
+        "province"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_hastaneler_listesi",
+      "updated": "2026-10",
+      "size": 113391,
+      "files": {
+        "csv": {
+          "name": "tr-hastaneler_TR.csv",
+          "size": 55887
+        },
+        "xlsx": {
+          "name": "tr-hastaneler_TR.xlsx",
+          "size": 29935
         }
       }
     },
