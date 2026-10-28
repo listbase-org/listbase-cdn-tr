@@ -1,0 +1,154 @@
+{
+  "id": "tr-bolge-adliye-mahkemeleri",
+  "name": "Türkiye bölge adliye mahkemeleri",
+  "title": "Türkiye bölge adliye mahkemeleri",
+  "description": "Türkiye'deki bölge adliye mahkemelerinin (istinaf) yeri, kuruluş tarihi ve yargı çevresindeki iller.",
+  "category": "law",
+  "source": "https://tr.wikipedia.org/wiki/Bölge_adliye_mahkemesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Bölge_adliye_mahkemesi",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "seat",
+      "label": "Seat",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "jurisdiction",
+      "label": "Jurisdiction",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adana Bölge Adliye Mahkemesi",
+      "seat": "Adana",
+      "established": "5 Eylül 2017",
+      "jurisdiction": "Adana, Hatay, Mersin, Osmaniye"
+    },
+    {
+      "name": "Ankara Bölge Adliye Mahkemesi",
+      "seat": "Ankara",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "Ankara, Çankırı, Eskişehir, Karabük, Kastamonu, Kırıkkale, Kırşehir"
+    },
+    {
+      "name": "Antalya Bölge Adliye Mahkemesi",
+      "seat": "Antalya",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "Antalya, Burdur, Isparta"
+    },
+    {
+      "name": "Bursa Bölge Adliye Mahkemesi",
+      "seat": "Bursa",
+      "established": "5 Eylül 2017",
+      "jurisdiction": "Bursa, Balıkesir, Bilecik, Kütahya, Yalova"
+    },
+    {
+      "name": "Denizli Bölge Adliye Mahkemesi",
+      "seat": "Denizli",
+      "established": "10 Haziran 2022",
+      "jurisdiction": "Denizli, Muğla, Uşak"
+    },
+    {
+      "name": "Diyarbakır Bölge Adliye Mahkemesi",
+      "seat": "Diyarbakır",
+      "established": "2 Eylül 2019",
+      "jurisdiction": "Diyarbakır, Batman, Bingöl, Elazığ, Mardin, Siirt, Şırnak"
+    },
+    {
+      "name": "Erzurum Bölge Adliye Mahkemesi",
+      "seat": "Erzurum",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "Erzurum, Ağrı, Ardahan, Bayburt, Erzincan, Iğdır, Kars, Tunceli"
+    },
+    {
+      "name": "Gaziantep Bölge Adliye Mahkemesi",
+      "seat": "Gaziantep",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "Gaziantep, Adıyaman, Kahramanmaraş, Kilis, Malatya, Şanlıurfa"
+    },
+    {
+      "name": "İstanbul Bölge Adliye Mahkemesi",
+      "seat": "İstanbul",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "İstanbul"
+    },
+    {
+      "name": "İzmir Bölge Adliye Mahkemesi",
+      "seat": "İzmir",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "İzmir, Aydın, Manisa"
+    },
+    {
+      "name": "Kayseri Bölge Adliye Mahkemesi",
+      "seat": "Kayseri",
+      "established": "2 Eylül 2019",
+      "jurisdiction": "Kayseri, Nevşehir, Niğde, Sivas, Yozgat"
+    },
+    {
+      "name": "Konya Bölge Adliye Mahkemesi",
+      "seat": "Konya",
+      "established": "3 Eylül 2018",
+      "jurisdiction": "Konya, Afyonkarahisar, Aksaray, Karaman"
+    },
+    {
+      "name": "Malatya Bölge Adliye Mahkemesi",
+      "seat": "Malatya",
+      "established": "10 Haziran 2022",
+      "jurisdiction": "Henüz faaliyete geçmedi"
+    },
+    {
+      "name": "Sakarya Bölge Adliye Mahkemesi",
+      "seat": "Sakarya",
+      "established": "3 Eylül 2018",
+      "jurisdiction": "Sakarya, Bartın, Bolu, Düzce, Kocaeli, Zonguldak"
+    },
+    {
+      "name": "Samsun Bölge Adliye Mahkemesi",
+      "seat": "Samsun",
+      "established": "20 Temmuz 2016",
+      "jurisdiction": "Samsun, Amasya, Çorum, Ordu, Sinop, Tokat"
+    },
+    {
+      "name": "Tekirdağ Bölge Adliye Mahkemesi",
+      "seat": "Tekirdağ",
+      "established": "10 Haziran 2022",
+      "jurisdiction": "Tekirdağ, Çanakkale, Edirne, Kırklareli"
+    },
+    {
+      "name": "Trabzon Bölge Adliye Mahkemesi",
+      "seat": "Trabzon",
+      "established": "2 Eylül 2019",
+      "jurisdiction": "Trabzon, Artvin, Giresun, Gümüşhane, Rize"
+    },
+    {
+      "name": "Van Bölge Adliye Mahkemesi",
+      "seat": "Van",
+      "established": "2 Eylül 2019",
+      "jurisdiction": "Van, Bitlis, Hakkâri, Muş"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye bölge adliye mahkemeleri - Free Download",
+    "description": "Türkiye'deki bölge adliye mahkemelerinin (istinaf) yeri, kuruluş tarihi ve yargı çevresindeki iller. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye bölge adliye mahkemeleri | ListBase",
+    "seo_description": "Download Türkiye bölge adliye mahkemeleri — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Bölge_adliye_mahkemesi"
+    ]
+  }
+}

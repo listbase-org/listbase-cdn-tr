@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-28T02:20:32.857Z",
-  "total_datasets": 534,
-  "total_records": 597773,
+  "generated": "2026-10-28T02:20:35.312Z",
+  "total_datasets": 535,
+  "total_records": 597791,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "math",
@@ -11173,6 +11173,31 @@
         "xlsx": {
           "name": "tr-anayasa-mahkemesi-baskanlari_TR.xlsx",
           "size": 7633
+        }
+      }
+    },
+    {
+      "id": "tr-bolge-adliye-mahkemeleri",
+      "name": "Türkiye bölge adliye mahkemeleri",
+      "category": "law",
+      "record_count": 18,
+      "columns": [
+        "name",
+        "seat",
+        "established",
+        "jurisdiction"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Bölge_adliye_mahkemesi",
+      "updated": "2026-10",
+      "size": 4975,
+      "files": {
+        "csv": {
+          "name": "tr-bolge-adliye-mahkemeleri_TR.csv",
+          "size": 1918
+        },
+        "xlsx": {
+          "name": "tr-bolge-adliye-mahkemeleri_TR.xlsx",
+          "size": 7788
         }
       }
     },
