@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-28T02:20:42.738Z",
-  "total_datasets": 538,
-  "total_records": 598290,
+  "generated": "2026-10-28T02:20:45.032Z",
+  "total_datasets": 539,
+  "total_records": 598318,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "math",
@@ -11255,6 +11255,31 @@
         "xlsx": {
           "name": "tr-bolge-adliye-mahkemeleri_TR.xlsx",
           "size": 7788
+        }
+      }
+    },
+    {
+      "id": "tr-yargitay-baskanlari",
+      "name": "Yargıtay birinci başkanları",
+      "category": "law",
+      "record_count": 28,
+      "columns": [
+        "no",
+        "president",
+        "term_start",
+        "term_end"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Yargıtay_(Türkiye)",
+      "updated": "2026-10",
+      "size": 5366,
+      "files": {
+        "csv": {
+          "name": "tr-yargitay-baskanlari_TR.csv",
+          "size": 1603
+        },
+        "xlsx": {
+          "name": "tr-yargitay-baskanlari_TR.xlsx",
+          "size": 7995
         }
       }
     },
