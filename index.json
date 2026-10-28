@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-28T02:20:35.312Z",
-  "total_datasets": 535,
-  "total_records": 597791,
+  "generated": "2026-10-28T02:20:38.039Z",
+  "total_datasets": 536,
+  "total_records": 598110,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -11005,6 +11005,34 @@
         "xlsx": {
           "name": "tr-osmanli-padisahlarinin-muharebeleri_TR.xlsx",
           "size": 11641
+        }
+      }
+    },
+    {
+      "id": "tr-osmanli-sadrazamlari",
+      "name": "Osmanlı sadrazamları listesi",
+      "category": "history",
+      "record_count": 319,
+      "columns": [
+        "no",
+        "grand_vizier",
+        "start",
+        "end",
+        "duration",
+        "sultan",
+        "period"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Osmanlı_sadrazamları_listesi",
+      "updated": "2026-10",
+      "size": 85095,
+      "files": {
+        "csv": {
+          "name": "tr-osmanli-sadrazamlari_TR.csv",
+          "size": 41570
+        },
+        "xlsx": {
+          "name": "tr-osmanli-sadrazamlari_TR.xlsx",
+          "size": 21965
         }
       }
     },
