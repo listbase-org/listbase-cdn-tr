@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-28T02:20:38.039Z",
-  "total_datasets": 536,
-  "total_records": 598110,
+  "generated": "2026-10-28T02:20:40.408Z",
+  "total_datasets": 537,
+  "total_records": 598264,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -11392,6 +11392,28 @@
         "xlsx": {
           "name": "tr-eurovision-turkiye_TR.xlsx",
           "size": 9162
+        }
+      }
+    },
+    {
+      "id": "tr-halk-muzigi-sanatcilari",
+      "name": "Türk halk müziği ses sanatçıları",
+      "category": "music",
+      "record_count": 154,
+      "columns": [
+        "name"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türk_halk_müziği_ses_sanatçıları_listesi",
+      "updated": "2026-10",
+      "size": 7963,
+      "files": {
+        "csv": {
+          "name": "tr-halk-muzigi-sanatcilari_TR.csv",
+          "size": 2542
+        },
+        "xlsx": {
+          "name": "tr-halk-muzigi-sanatcilari_TR.xlsx",
+          "size": 9359
         }
       }
     },
