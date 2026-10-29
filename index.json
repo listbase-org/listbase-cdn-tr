@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-29T02:12:37.683Z",
-  "total_datasets": 542,
-  "total_records": 600717,
+  "generated": "2026-10-29T02:12:40.256Z",
+  "total_datasets": 543,
+  "total_records": 600867,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -13940,6 +13940,31 @@
         "xlsx": {
           "name": "tr-en-cok-ziyaret-edilen-muzeler_TR.xlsx",
           "size": 7580
+        }
+      }
+    },
+    {
+      "id": "tr-magaralar",
+      "name": "Türkiye'deki mağaralar",
+      "category": "tourism",
+      "record_count": 150,
+      "columns": [
+        "magara",
+        "yeri",
+        "uzunluk",
+        "derinlik"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_mağaralar_listesi",
+      "updated": "2026-10",
+      "size": 20686,
+      "files": {
+        "csv": {
+          "name": "tr-magaralar_TR.csv",
+          "size": 7147
+        },
+        "xlsx": {
+          "name": "tr-magaralar_TR.xlsx",
+          "size": 11713
         }
       }
     },
