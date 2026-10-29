@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-29T02:12:40.256Z",
-  "total_datasets": 543,
-  "total_records": 600867,
+  "generated": "2026-10-29T02:12:42.820Z",
+  "total_datasets": 544,
+  "total_records": 600928,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -10950,6 +10950,33 @@
         "xlsx": {
           "name": "tr-hastaneler_TR.xlsx",
           "size": 29935
+        }
+      }
+    },
+    {
+      "id": "tr-saglik-bakanlari",
+      "name": "Türkiye sağlık bakanları",
+      "category": "health",
+      "record_count": 61,
+      "columns": [
+        "sira",
+        "bakan",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "parti",
+        "donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_sağlık_bakanları_listesi",
+      "updated": "2026-10",
+      "size": 17280,
+      "files": {
+        "csv": {
+          "name": "tr-saglik-bakanlari_TR.csv",
+          "size": 7980
+        },
+        "xlsx": {
+          "name": "tr-saglik-bakanlari_TR.xlsx",
+          "size": 9915
         }
       }
     },
