@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-29T02:12:45.267Z",
-  "total_datasets": 545,
-  "total_records": 601010,
+  "generated": "2026-10-29T02:12:47.814Z",
+  "total_datasets": 546,
+  "total_records": 601075,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -6007,6 +6007,30 @@
         "xlsx": {
           "name": "tr-michelin-restoranlari_TR.xlsx",
           "size": 75393
+        }
+      }
+    },
+    {
+      "id": "tr-turk-tatlilari",
+      "name": "Türk tatlıları",
+      "category": "food",
+      "record_count": 65,
+      "columns": [
+        "tatli",
+        "turu",
+        "aciklama"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türk_tatlıları_listesi",
+      "updated": "2026-10",
+      "size": 11256,
+      "files": {
+        "csv": {
+          "name": "tr-turk-tatlilari_TR.csv",
+          "size": 5956
+        },
+        "xlsx": {
+          "name": "tr-turk-tatlilari_TR.xlsx",
+          "size": 9828
         }
       }
     },
