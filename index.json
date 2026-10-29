@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-29T02:12:34.937Z",
-  "total_datasets": 541,
-  "total_records": 598428,
+  "generated": "2026-10-29T02:12:37.683Z",
+  "total_datasets": 542,
+  "total_records": 600717,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "economy",
@@ -189,6 +189,29 @@
         "xlsx": {
           "name": "tr-dunya-mirasi-alanlari-unesco_TR.xlsx",
           "size": 13199
+        }
+      }
+    },
+    {
+      "id": "tr-kutuphaneler",
+      "name": "Türkiye'deki kütüphaneler",
+      "category": "culture",
+      "record_count": 2289,
+      "columns": [
+        "kutuphane",
+        "il"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_kütüphaneler_listesi",
+      "updated": "2026-10",
+      "size": 236182,
+      "files": {
+        "csv": {
+          "name": "tr-kutuphaneler_TR.csv",
+          "size": 131871
+        },
+        "xlsx": {
+          "name": "tr-kutuphaneler_TR.xlsx",
+          "size": 54594
         }
       }
     },
