@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-28T02:20:45.032Z",
-  "total_datasets": 539,
-  "total_records": 598318,
+  "generated": "2026-10-29T02:12:32.412Z",
+  "total_datasets": 540,
+  "total_records": 598404,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "math",
@@ -11205,6 +11205,33 @@
         "xlsx": {
           "name": "lang-pinyin-table_TR.xlsx",
           "size": 31935
+        }
+      }
+    },
+    {
+      "id": "tr-adalet-bakanlari",
+      "name": "Türkiye adalet bakanları",
+      "category": "law",
+      "record_count": 86,
+      "columns": [
+        "sira",
+        "bakan",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "parti",
+        "donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_adalet_bakanları_listesi",
+      "updated": "2026-10",
+      "size": 22593,
+      "files": {
+        "csv": {
+          "name": "tr-adalet-bakanlari_TR.csv",
+          "size": 10195
+        },
+        "xlsx": {
+          "name": "tr-adalet-bakanlari_TR.xlsx",
+          "size": 10874
         }
       }
     },
