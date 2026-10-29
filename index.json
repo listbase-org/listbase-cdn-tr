@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-29T02:12:32.412Z",
-  "total_datasets": 540,
-  "total_records": 598404,
+  "generated": "2026-10-29T02:12:34.937Z",
+  "total_datasets": 541,
+  "total_records": 598428,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -10980,6 +10980,33 @@
         "xlsx": {
           "name": "tr-yapim-asamasindaki-sehir-hastaneleri_TR.xlsx",
           "size": 7771
+        }
+      }
+    },
+    {
+      "id": "tr-anadolu-selcuklu-sultanlari",
+      "name": "Anadolu Selçuklu sultanları",
+      "category": "history",
+      "record_count": 24,
+      "columns": [
+        "sira",
+        "sultan",
+        "tahta_gecis",
+        "tahttan_inis",
+        "saltanat_suresi",
+        "notlar"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Anadolu_Selçuklu_sultanları_listesi",
+      "updated": "2026-10",
+      "size": 9150,
+      "files": {
+        "csv": {
+          "name": "tr-anadolu-selcuklu-sultanlari_TR.csv",
+          "size": 4316
+        },
+        "xlsx": {
+          "name": "tr-anadolu-selcuklu-sultanlari_TR.xlsx",
+          "size": 9066
         }
       }
     },
