@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-29T02:12:47.814Z",
-  "total_datasets": 546,
-  "total_records": 601075,
+  "generated": "2026-10-30T02:44:41.513Z",
+  "total_datasets": 547,
+  "total_records": 601107,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -267,6 +267,31 @@
         "xlsx": {
           "name": "tr-muzeler_TR.xlsx",
           "size": 12667
+        }
+      }
+    },
+    {
+      "id": "tr-somut-olmayan-kulturel-miras",
+      "name": "Türkiye'nin UNESCO Somut Olmayan Kültürel Mirasları",
+      "category": "culture",
+      "record_count": 32,
+      "columns": [
+        "isim",
+        "kayit_tarihi",
+        "unesco_no",
+        "liste"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'nin_Somut_Olmayan_Kültürel_Mirasları_listesi",
+      "updated": "2026-10",
+      "size": 6906,
+      "files": {
+        "csv": {
+          "name": "tr-somut-olmayan-kulturel-miras_TR.csv",
+          "size": 2462
+        },
+        "xlsx": {
+          "name": "tr-somut-olmayan-kulturel-miras_TR.xlsx",
+          "size": 8305
         }
       }
     },
