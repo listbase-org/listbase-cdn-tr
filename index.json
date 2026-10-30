@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-30T02:45:20.186Z",
-  "total_datasets": 552,
-  "total_records": 602724,
+  "generated": "2026-10-30T02:45:26.927Z",
+  "total_datasets": 553,
+  "total_records": 602733,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -14090,6 +14090,33 @@
         "xlsx": {
           "name": "time-zodiac-signs_TR.xlsx",
           "size": 8797
+        }
+      }
+    },
+    {
+      "id": "tr-osmanli-gunes-saatleri",
+      "name": "Osmanlı döneminde inşa edilen güneş saatleri",
+      "category": "time",
+      "record_count": 9,
+      "columns": [
+        "no",
+        "sehir",
+        "bulundugu_yer",
+        "tarih",
+        "sekli",
+        "ustasi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Osmanlı_döneminde_inşa_edilen_güneş_saatleri_listesi",
+      "updated": "2026-10",
+      "size": 3495,
+      "files": {
+        "csv": {
+          "name": "tr-osmanli-gunes-saatleri_TR.csv",
+          "size": 637
+        },
+        "xlsx": {
+          "name": "tr-osmanli-gunes-saatleri_TR.xlsx",
+          "size": 7150
         }
       }
     },
