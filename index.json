@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-30T02:45:12.035Z",
-  "total_datasets": 551,
-  "total_records": 602134,
+  "generated": "2026-10-30T02:45:20.186Z",
+  "total_datasets": 552,
+  "total_records": 602724,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -11382,6 +11382,31 @@
         "xlsx": {
           "name": "lang-pinyin-table_TR.xlsx",
           "size": 31935
+        }
+      }
+    },
+    {
+      "id": "tr-farsca-kokenli-sozcukler",
+      "name": "Türkçedeki Farsça kökenli sözcükler",
+      "category": "language",
+      "record_count": 590,
+      "columns": [
+        "turkce",
+        "farsca",
+        "tur",
+        "not_ornek"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkçedeki_Farsça_kökenli_sözcükler_listesi",
+      "updated": "2026-10",
+      "size": 74916,
+      "files": {
+        "csv": {
+          "name": "tr-farsca-kokenli-sozcukler_TR.csv",
+          "size": 26102
+        },
+        "xlsx": {
+          "name": "tr-farsca-kokenli-sozcukler_TR.xlsx",
+          "size": 25180
         }
       }
     },
