@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-30T02:44:41.513Z",
-  "total_datasets": 547,
-  "total_records": 601107,
+  "generated": "2026-10-30T02:44:49.152Z",
+  "total_datasets": 548,
+  "total_records": 601592,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -14018,6 +14018,31 @@
         "xlsx": {
           "name": "time-zodiac-signs_TR.xlsx",
           "size": 8797
+        }
+      }
+    },
+    {
+      "id": "tr-deniz-fenerleri",
+      "name": "Türkiye'deki deniz fenerleri",
+      "category": "tourism",
+      "record_count": 485,
+      "columns": [
+        "fener",
+        "il",
+        "konum",
+        "bolge"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_deniz_fenerleri_listesi",
+      "updated": "2026-10",
+      "size": 86276,
+      "files": {
+        "csv": {
+          "name": "tr-deniz-fenerleri_TR.csv",
+          "size": 49382
+        },
+        "xlsx": {
+          "name": "tr-deniz-fenerleri_TR.xlsx",
+          "size": 24804
         }
       }
     },
