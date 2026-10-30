@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-30T02:44:49.152Z",
-  "total_datasets": 548,
-  "total_records": 601592,
+  "generated": "2026-10-30T02:44:57.189Z",
+  "total_datasets": 549,
+  "total_records": 601604,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -11133,6 +11133,30 @@
         "xlsx": {
           "name": "tr-anadolu-selcuklu-sultanlari_TR.xlsx",
           "size": 9066
+        }
+      }
+    },
+    {
+      "id": "tr-istanbul-osmanli-saraylari",
+      "name": "İstanbul'daki Osmanlı sarayları",
+      "category": "history",
+      "record_count": 12,
+      "columns": [
+        "adi",
+        "insa_tarihi",
+        "insa_ettiren"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/İstanbul'daki_Osmanlı_sarayları_listesi",
+      "updated": "2026-10",
+      "size": 2974,
+      "files": {
+        "csv": {
+          "name": "tr-istanbul-osmanli-saraylari_TR.csv",
+          "size": 648
+        },
+        "xlsx": {
+          "name": "tr-istanbul-osmanli-saraylari_TR.xlsx",
+          "size": 7198
         }
       }
     },
