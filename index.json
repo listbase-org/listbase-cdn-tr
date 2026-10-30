@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-30T02:45:04.197Z",
-  "total_datasets": 550,
-  "total_records": 601719,
+  "generated": "2026-10-30T02:45:12.035Z",
+  "total_datasets": 551,
+  "total_records": 602134,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -11672,6 +11672,29 @@
         "xlsx": {
           "name": "tr-halk-muzigi-sanatcilari_TR.xlsx",
           "size": 9359
+        }
+      }
+    },
+    {
+      "id": "tr-klasik-turk-muzigi-bestecileri",
+      "name": "Klasik Türk müziği bestecileri",
+      "category": "music",
+      "record_count": 415,
+      "columns": [
+        "besteci",
+        "yil"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Klasik_Türk_müziği_bestecileri_listesi",
+      "updated": "2026-10",
+      "size": 30893,
+      "files": {
+        "csv": {
+          "name": "tr-klasik-turk-muzigi-bestecileri_TR.csv",
+          "size": 12008
+        },
+        "xlsx": {
+          "name": "tr-klasik-turk-muzigi-bestecileri_TR.xlsx",
+          "size": 16447
         }
       }
     },
