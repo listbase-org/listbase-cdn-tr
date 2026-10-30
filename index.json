@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-10-30T02:44:57.189Z",
-  "total_datasets": 549,
-  "total_records": 601604,
+  "generated": "2026-10-30T02:45:04.197Z",
+  "total_datasets": 550,
+  "total_records": 601719,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -14117,6 +14117,32 @@
         "xlsx": {
           "name": "tr-magaralar_TR.xlsx",
           "size": 11713
+        }
+      }
+    },
+    {
+      "id": "tr-saat-kuleleri",
+      "name": "Türkiye'deki saat kuleleri",
+      "category": "tourism",
+      "record_count": 115,
+      "columns": [
+        "no",
+        "ad",
+        "konum",
+        "yapilis",
+        "not"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_saat_kuleleri_listesi",
+      "updated": "2026-10",
+      "size": 18537,
+      "files": {
+        "csv": {
+          "name": "tr-saat-kuleleri_TR.csv",
+          "size": 7339
+        },
+        "xlsx": {
+          "name": "tr-saat-kuleleri_TR.xlsx",
+          "size": 11655
         }
       }
     },

@@ -1,0 +1,856 @@
+{
+  "id": "tr-saat-kuleleri",
+  "name": "Türkiye'deki saat kuleleri",
+  "title": "Türkiye'deki saat kuleleri",
+  "description": "Türkiye'deki tarihî ve modern saat kulelerinin listesi; konum (ilçe, il) ve yapılış yılı ile.",
+  "category": "tourism",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_saat_kuleleri_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_saat_kuleleri_listesi",
+  "updated": "2026-10",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "ad",
+      "label": "Ad",
+      "type": "string"
+    },
+    {
+      "key": "konum",
+      "label": "Konum",
+      "type": "string"
+    },
+    {
+      "key": "yapilis",
+      "label": "Yapilis",
+      "type": "number"
+    },
+    {
+      "key": "not",
+      "label": "Not",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "ad": "Adapazarı Saat Kulesi",
+      "konum": "Adapazarı, Sakarya",
+      "yapilis": "1882",
+      "not": ""
+    },
+    {
+      "no": 2,
+      "ad": "Akçakoca Saat Kulesi",
+      "konum": "Akçakoca, Düzce",
+      "yapilis": "1954",
+      "not": ""
+    },
+    {
+      "no": 3,
+      "ad": "Akdeniz Üniversitesi Olbia Kültür Merkezi Saat Kulesi",
+      "konum": "Konyaaltı, Antalya",
+      "yapilis": "1999",
+      "not": ""
+    },
+    {
+      "no": 4,
+      "ad": "Alaca Saat Kulesi",
+      "konum": "Alaca, Çorum",
+      "yapilis": "2001",
+      "not": ""
+    },
+    {
+      "no": 5,
+      "ad": "Ali Çetinkaya Garı Saat Kulesi",
+      "konum": "Merkez, Afyonkarahisar",
+      "yapilis": "1939",
+      "not": ""
+    },
+    {
+      "no": 6,
+      "ad": "Alsancak Garı Saat Kulesi",
+      "konum": "Konak, İzmir",
+      "yapilis": "1890",
+      "not": ""
+    },
+    {
+      "no": 7,
+      "ad": "Altınoluk Merkez Camii Saat Kulesi",
+      "konum": "Edremit, Balıkesir",
+      "yapilis": "1885",
+      "not": ""
+    },
+    {
+      "no": 8,
+      "ad": "Amasya Saat Kulesi",
+      "konum": "Merkez, Amasya",
+      "yapilis": "2002",
+      "not": ""
+    },
+    {
+      "no": 9,
+      "ad": "Ankara Saat Kulesi",
+      "konum": "Altındağ, Ankara",
+      "yapilis": "1884",
+      "not": ""
+    },
+    {
+      "no": 10,
+      "ad": "Antalya Saat Kulesi",
+      "konum": "Muratpaşa, Antalya",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 11,
+      "ad": "Atatürk Orman Çiftliği Müdüriyet Binası Saat Kulesi",
+      "konum": "Yenimahalle, Ankara",
+      "yapilis": "1926",
+      "not": ""
+    },
+    {
+      "no": 12,
+      "ad": "Aya Fotini Kilisesi Saat Kulesi",
+      "konum": "Konak, İzmir",
+      "yapilis": "1892",
+      "not": ""
+    },
+    {
+      "no": 13,
+      "ad": "Ayios Konstantinos ve Ayia Eleni Kilisesi Saat Kulesi",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "1861",
+      "not": ""
+    },
+    {
+      "no": 14,
+      "ad": "Ayvalık Saat Kulesi",
+      "konum": "Ayvalık, Balıkesir",
+      "yapilis": "1870",
+      "not": ""
+    },
+    {
+      "no": 15,
+      "ad": "Bahadın Saat Kulesi",
+      "konum": "Sorgun, Yozgat",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 16,
+      "ad": "Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Saat Kulesi",
+      "konum": "Bakırköy, İstanbul",
+      "yapilis": "1914",
+      "not": ""
+    },
+    {
+      "no": 17,
+      "ad": "Balıkesir Saat Kulesi",
+      "konum": "Karesi, Balıkesir",
+      "yapilis": "1901",
+      "not": ""
+    },
+    {
+      "no": 18,
+      "ad": "Balıklı Rum Hastanesi Saat Kulesi",
+      "konum": "Zeytinburnu, İstanbul",
+      "yapilis": "1893",
+      "not": ""
+    },
+    {
+      "no": 19,
+      "ad": "Batman Saat Kulesi",
+      "konum": "Merkez, Batman",
+      "yapilis": "2003",
+      "not": ""
+    },
+    {
+      "no": 20,
+      "ad": "Bayburt Saat Kulesi",
+      "konum": "Merkez, Bayburt",
+      "yapilis": "1924",
+      "not": ""
+    },
+    {
+      "no": 21,
+      "ad": "Bayramyeri Saat Kulesi",
+      "konum": "Konak, İzmir",
+      "yapilis": "1955",
+      "not": ""
+    },
+    {
+      "no": 22,
+      "ad": "Bergama Saat Kulesi",
+      "konum": "Bergama, İzmir",
+      "yapilis": "1865",
+      "not": ""
+    },
+    {
+      "no": 23,
+      "ad": "Beypazarı Saat Kulesi",
+      "konum": "Beypazarı, Ankara",
+      "yapilis": "1920",
+      "not": ""
+    },
+    {
+      "no": 24,
+      "ad": "Bilecik Saat Kulesi",
+      "konum": "Merkez, Bilecik",
+      "yapilis": "1907",
+      "not": ""
+    },
+    {
+      "no": 25,
+      "ad": "Boğaziçi Üniversitesi Albert Long Hall Kültür Merkezi Cephe Saati",
+      "konum": "Beşiktaş, İstanbul",
+      "yapilis": "1892",
+      "not": ""
+    },
+    {
+      "no": 26,
+      "ad": "Bolu Saat Kulesi",
+      "konum": "Merkez, Bolu",
+      "yapilis": "1989",
+      "not": ""
+    },
+    {
+      "no": 28,
+      "ad": "Boyabat Saat Kulesi",
+      "konum": "Boyabat, Sinop",
+      "yapilis": "1983",
+      "not": ""
+    },
+    {
+      "no": 19,
+      "ad": "Bozcaada Saat Kulesi",
+      "konum": "Bozcaada, Çanakkale",
+      "yapilis": "1867",
+      "not": ""
+    },
+    {
+      "no": 30,
+      "ad": "Burdur Saat Kulesi",
+      "konum": "Merkez, Burdur",
+      "yapilis": "1937",
+      "not": ""
+    },
+    {
+      "no": 31,
+      "ad": "Büyük Saat",
+      "konum": "Seyhan, Adana",
+      "yapilis": "1882",
+      "not": ""
+    },
+    {
+      "no": 32,
+      "ad": "Büyükada Saat Kulesi",
+      "konum": "Adalar, İstanbul",
+      "yapilis": "1923",
+      "not": ""
+    },
+    {
+      "no": 33,
+      "ad": "Çanakkale Saat Kulesi",
+      "konum": "Merkez, Çanakkale",
+      "yapilis": "1896",
+      "not": ""
+    },
+    {
+      "no": 34,
+      "ad": "Çankırı Saat Kulesi",
+      "konum": "Merkez, Çankırı",
+      "yapilis": "1901",
+      "not": ""
+    },
+    {
+      "no": 35,
+      "ad": "Çatalca Hükûmet Konağı Saat Kulesi",
+      "konum": "Çatalca, İstanbul",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 36,
+      "ad": "Çelebi Mehmet Medresesi Saat Kulesi",
+      "konum": "Merzifon, Amasya",
+      "yapilis": "1866",
+      "not": ""
+    },
+    {
+      "no": 37,
+      "ad": "Çerikli Saat Kulesi",
+      "konum": "Delice, Kırıkkale",
+      "yapilis": "1991",
+      "not": ""
+    },
+    {
+      "no": 38,
+      "ad": "Çınarcık Saat Kulesi",
+      "konum": "Çınarcık, Yalova",
+      "yapilis": "2005",
+      "not": ""
+    },
+    {
+      "no": 39,
+      "ad": "Çiçek Pasajı Cephe Saati",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "1876",
+      "not": ""
+    },
+    {
+      "no": 40,
+      "ad": "Çorum Saat Kulesi",
+      "konum": "Merkez, Çorum",
+      "yapilis": "1894",
+      "not": ""
+    },
+    {
+      "no": 41,
+      "ad": "Dolmabahçe Saat Kulesi",
+      "konum": "Beşiktaş, İstanbul",
+      "yapilis": "1894",
+      "not": ""
+    },
+    {
+      "no": 42,
+      "ad": "Düzce Saat Kulesi",
+      "konum": "Merkez, Düzce",
+      "yapilis": "2009",
+      "not": ""
+    },
+    {
+      "no": 43,
+      "ad": "Edirne Saat Kulesi",
+      "konum": "Merkez, Edirne",
+      "yapilis": "1886",
+      "not": ""
+    },
+    {
+      "no": 44,
+      "ad": "Erzincan Askerî Ortaokulu Saat Kulesi",
+      "konum": "Merkez, Erzincan",
+      "yapilis": "1892",
+      "not": ""
+    },
+    {
+      "no": 45,
+      "ad": "Erzincan Dördüncü Ordu Evrak Mahzeni Saat Kulesi",
+      "konum": "Merkez, Erzincan",
+      "yapilis": "1892",
+      "not": ""
+    },
+    {
+      "no": 46,
+      "ad": "Fuar Saat Kulesi",
+      "konum": "Konak, İzmir",
+      "yapilis": "1938",
+      "not": ""
+    },
+    {
+      "no": 47,
+      "ad": "Galatasaray Lisesi Çatı Saati",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "1908",
+      "not": ""
+    },
+    {
+      "no": 48,
+      "ad": "Gelibolu Saat Kulesi",
+      "konum": "Gelibolu, Çanakkale",
+      "yapilis": "1901",
+      "not": ""
+    },
+    {
+      "no": 49,
+      "ad": "Gerede Saat Kulesi",
+      "konum": "Gerede, Bolu",
+      "yapilis": "1882",
+      "not": ""
+    },
+    {
+      "no": 50,
+      "ad": "Gerze Saat Kulesi",
+      "konum": "Gerze, Sinop",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 51,
+      "ad": "Göynük Saat Kulesi",
+      "konum": "Göynük, Bolu",
+      "yapilis": "1923",
+      "not": ""
+    },
+    {
+      "no": 52,
+      "ad": "Gümüşhacıköy Saat Kulesi",
+      "konum": "Gümüşhacıköy, Amasya",
+      "yapilis": "2009",
+      "not": ""
+    },
+    {
+      "no": 53,
+      "ad": "Hacı Paşa Saat Kulesi",
+      "konum": "Silifke, Mersin",
+      "yapilis": "2007",
+      "not": ""
+    },
+    {
+      "no": 54,
+      "ad": "Hamidiye Saatli Çeşmesi",
+      "konum": "Yenişehir, Diyarbakır",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 55,
+      "ad": "Hamidiye Saatli Çeşmesi",
+      "konum": "Merkez, Yozgat",
+      "yapilis": "1901",
+      "not": ""
+    },
+    {
+      "no": 56,
+      "ad": "Havza Saat Kulesi",
+      "konum": "Havza, Samsun",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 57,
+      "ad": "Haydarpaşa Garı Çatı Saati",
+      "konum": "Kadıköy, İstanbul",
+      "yapilis": "1908",
+      "not": ""
+    },
+    {
+      "no": 58,
+      "ad": "İskenderun Adalet Sarayı Saat Kulesi",
+      "konum": "İskenderun, Hatay",
+      "yapilis": "1925",
+      "not": ""
+    },
+    {
+      "no": 59,
+      "ad": "İstanbul Üniversitesi Saat Kuleleri",
+      "konum": "Fatih, İstanbul",
+      "yapilis": "1865",
+      "not": ""
+    },
+    {
+      "no": 60,
+      "ad": "İzmir Saat Kulesi",
+      "konum": "Konak, İzmir",
+      "yapilis": "1901",
+      "not": ""
+    },
+    {
+      "no": 61,
+      "ad": "İzmit Saat Kulesi",
+      "konum": "İzmit, Kocaeli",
+      "yapilis": "1902",
+      "not": ""
+    },
+    {
+      "no": 62,
+      "ad": "Karabük Saat Kulesi",
+      "konum": "Merkez, Karabük",
+      "yapilis": "1987",
+      "not": ""
+    },
+    {
+      "no": 63,
+      "ad": "Karaman Saat Kulesi",
+      "konum": "Merkez, Karaman",
+      "yapilis": "2009",
+      "not": ""
+    },
+    {
+      "no": 64,
+      "ad": "Okmeydanı Eğitim ve Araştırma Hastanesi Kasımpaşa Binası Saat Kulesi",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 65,
+      "ad": "Kastamonu Kumandanlık Binası Saat Kulesi",
+      "konum": "Merkez, Kastamonu",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 66,
+      "ad": "Kastamonu Saat Kulesi",
+      "konum": "Merkez, Kastamonu",
+      "yapilis": "1885",
+      "not": ""
+    },
+    {
+      "no": 67,
+      "ad": "Kayseri Saat Kulesi",
+      "konum": "Melikgazi, Kayseri",
+      "yapilis": "1907",
+      "not": ""
+    },
+    {
+      "no": 69,
+      "ad": "Konya Saat Kulesi",
+      "konum": "Karatay, Konya",
+      "yapilis": "1872",
+      "not": ""
+    },
+    {
+      "no": 70,
+      "ad": "Kurtalan Saat Kulesi",
+      "konum": "Kurtalan, Siirt",
+      "yapilis": "1999",
+      "not": ""
+    },
+    {
+      "no": 71,
+      "ad": "Kuşadası Saat Kulesi",
+      "konum": "Kuşadası, Aydın",
+      "yapilis": "1996",
+      "not": ""
+    },
+    {
+      "no": 72,
+      "ad": "Kütahya Saat Kulesi",
+      "konum": "Merkez, Kütahya",
+      "yapilis": "2006",
+      "not": ""
+    },
+    {
+      "no": 73,
+      "ad": "Ladik Saat Kulesi",
+      "konum": "Ladik, Samsun",
+      "yapilis": "1889",
+      "not": ""
+    },
+    {
+      "no": 74,
+      "ad": "Maden Saat Kulesi",
+      "konum": "Maden, Elazığ",
+      "yapilis": "1898",
+      "not": ""
+    },
+    {
+      "no": 75,
+      "ad": "Manisa Saat Kulesi",
+      "konum": "Şehzadeler, Manisa",
+      "yapilis": "1975",
+      "not": ""
+    },
+    {
+      "no": 76,
+      "ad": "Mardin Saat Kulesi",
+      "konum": "Artuklu, Mardin",
+      "yapilis": "2003",
+      "not": ""
+    },
+    {
+      "no": 77,
+      "ad": "Marmara Üniversitesi Tıp Fakültesi Saat Kuleleri",
+      "konum": "Kadıköy, İstanbul",
+      "yapilis": "1900",
+      "not": ""
+    },
+    {
+      "no": 78,
+      "ad": "Mecitözü Saat Kulesi",
+      "konum": "Mecitözü, Çorum",
+      "yapilis": "1899",
+      "not": ""
+    },
+    {
+      "no": 79,
+      "ad": "Mehmet Akif Ersoy Müze Evi Saat Kulesi",
+      "konum": "Altındağ, Ankara",
+      "yapilis": "2008",
+      "not": ""
+    },
+    {
+      "no": 80,
+      "ad": "Mersin Saat Kulesi",
+      "konum": "Akdeniz, Mersin",
+      "yapilis": "1898",
+      "not": ""
+    },
+    {
+      "no": 81,
+      "ad": "Merzifon Amerikan Koleji Saat Kulesi",
+      "konum": "Merzifon, Amasya",
+      "yapilis": "1919",
+      "not": ""
+    },
+    {
+      "no": 82,
+      "ad": "Merzifon Saat Kulesi",
+      "konum": "Merzifon, Amasya",
+      "yapilis": "1866",
+      "not": ""
+    },
+    {
+      "no": 83,
+      "ad": "Mudurnu Saat Kulesi",
+      "konum": "Mudurnu, Bolu",
+      "yapilis": "1964",
+      "not": ""
+    },
+    {
+      "no": 84,
+      "ad": "Muğla Saat Kulesi",
+      "konum": "Menteşe, Muğla",
+      "yapilis": "1885",
+      "not": ""
+    },
+    {
+      "no": 85,
+      "ad": "Niğde Saat Kulesi",
+      "konum": "Merkez, Niğde",
+      "yapilis": "1866",
+      "not": ""
+    },
+    {
+      "no": 86,
+      "ad": "Osmaniye Saat Kulesi",
+      "konum": "Merkez, Osmaniye",
+      "yapilis": "1999",
+      "not": ""
+    },
+    {
+      "no": 87,
+      "ad": "Panayia Evangelistria Kilisesi Saat Kulesi",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "1893",
+      "not": ""
+    },
+    {
+      "no": 88,
+      "ad": "Safranbolu Saat Kulesi",
+      "konum": "Safranbolu, Karabük",
+      "yapilis": "1797",
+      "not": ""
+    },
+    {
+      "no": 89,
+      "ad": "Sainte-Pulchérie Fransız Lisesi Çatı Saati",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "1890",
+      "not": ""
+    },
+    {
+      "no": 90,
+      "ad": "Samsun Saat Kulesi",
+      "konum": "İlkadım, Samsun",
+      "yapilis": "2001",
+      "not": ""
+    },
+    {
+      "no": 91,
+      "ad": "Siirt Saat Kulesi",
+      "konum": "Merkez, Siirt",
+      "yapilis": "1975",
+      "not": ""
+    },
+    {
+      "no": 92,
+      "ad": "Sinop Saat Kulesi",
+      "konum": "Merkez, Sinop",
+      "yapilis": "1901",
+      "not": ""
+    },
+    {
+      "no": 93,
+      "ad": "Sirkeci Garı Saat Kuleleri",
+      "konum": "Fatih, İstanbul",
+      "yapilis": "1890",
+      "not": ""
+    },
+    {
+      "no": 94,
+      "ad": "Sivas Saat Kulesi",
+      "konum": "Merkez, Sivas",
+      "yapilis": "1803",
+      "not": ""
+    },
+    {
+      "no": 95,
+      "ad": "Sivas Jandarma Kışlası Saat kulesi",
+      "konum": "Merkez, Sivas",
+      "yapilis": "1908",
+      "not": ""
+    },
+    {
+      "no": 96,
+      "ad": "Sivrihisar Saat Kulesi",
+      "konum": "Sivrihisar, Eskişehir",
+      "yapilis": "1900",
+      "not": ""
+    },
+    {
+      "no": 97,
+      "ad": "Sungurlu Saat Kulesi",
+      "konum": "Sungurlu, Çorum",
+      "yapilis": "1891",
+      "not": ""
+    },
+    {
+      "no": 98,
+      "ad": "Şanlıurfa Saat Kulesi",
+      "konum": "Eyyübiye, Şanlıurfa",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 99,
+      "ad": "Şefaatli Saat Kulesi",
+      "konum": "Şefaatli, Yozgat",
+      "yapilis": "1986",
+      "not": ""
+    },
+    {
+      "no": 100,
+      "ad": "Şehitler Saat Kulesi",
+      "konum": "Niksar, Tokat",
+      "yapilis": "2008",
+      "not": ""
+    },
+    {
+      "no": 101,
+      "ad": "Şirinyer Amerikan Koleji Saat Kulesi",
+      "konum": "Buca, İzmir",
+      "yapilis": "1912",
+      "not": ""
+    },
+    {
+      "no": 102,
+      "ad": "Şişli Etfal Hastanesi Saat Kulesi",
+      "konum": "Şişli, İstanbul",
+      "yapilis": "1907",
+      "not": ""
+    },
+    {
+      "no": 103,
+      "ad": "Tarsus Saat Kulesi",
+      "konum": "Tarsus, Mersin",
+      "yapilis": "1893",
+      "not": ""
+    },
+    {
+      "no": 104,
+      "ad": "Tepsi Minare",
+      "konum": "Yakutiye, Erzurum",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 105,
+      "ad": "Tokat Saat Kulesi",
+      "konum": "Merkez, Tokat",
+      "yapilis": "1902",
+      "not": ""
+    },
+    {
+      "no": 106,
+      "ad": "Tophane Saat Kulesi",
+      "konum": "Beyoğlu, İstanbul",
+      "yapilis": "1849",
+      "not": ""
+    },
+    {
+      "no": 107,
+      "ad": "Tophane Saat Kulesi",
+      "konum": "Osmangazi, Bursa",
+      "yapilis": "1905",
+      "not": ""
+    },
+    {
+      "no": 108,
+      "ad": "Trabzon Saat Kulesi",
+      "konum": "Ortahisar, Trabzon",
+      "yapilis": "1863",
+      "not": ""
+    },
+    {
+      "no": 109,
+      "ad": "Turgutlu Saat Kulesi",
+      "konum": "Turgutlu, Manisa",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 110,
+      "ad": "Ürgüp Saat Kulesi",
+      "konum": "Ürgüp, Nevşehir",
+      "yapilis": "2006",
+      "not": ""
+    },
+    {
+      "no": 111,
+      "ad": "Vezirköprü Saat Kulesi",
+      "konum": "Vezirköprü, Samsun",
+      "yapilis": "1959",
+      "not": ""
+    },
+    {
+      "no": 112,
+      "ad": "Yenişehir Saat Kulesi",
+      "konum": "Yenişehir, Bursa",
+      "yapilis": "1936",
+      "not": ""
+    },
+    {
+      "no": 113,
+      "ad": "Yerköy Saat Kulesi",
+      "konum": "Yerköy, Yozgat",
+      "yapilis": "1986",
+      "not": ""
+    },
+    {
+      "no": 114,
+      "ad": "Yeşilli Saat Kulesi",
+      "konum": "Yeşilli, Mardin",
+      "yapilis": "Bilinmiyor",
+      "not": ""
+    },
+    {
+      "no": 115,
+      "ad": "Yıldız Saat Kulesi",
+      "konum": "Beşiktaş, İstanbul",
+      "yapilis": "1890",
+      "not": ""
+    },
+    {
+      "no": 116,
+      "ad": "Yozgat Saat Kulesi",
+      "konum": "Merkez, Yozgat",
+      "yapilis": "1908",
+      "not": ""
+    },
+    {
+      "no": 117,
+      "ad": "Zile Saat Kulesi",
+      "konum": "Zile, Tokat",
+      "yapilis": "1875",
+      "not": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki saat kuleleri - Free Download",
+    "description": "Türkiye'deki tarihî ve modern saat kulelerinin listesi; konum (ilçe, il) ve yapılış yılı ile. Contains 115 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki saat kuleleri | ListBase",
+    "seo_description": "Download Türkiye'deki saat kuleleri — 115 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 115 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_saat_kuleleri_listesi"
+    ]
+  }
+}
