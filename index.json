@@ -1,12 +1,12 @@
 {
   "lang": "tr",
-  "generated": "2026-11-02T02:28:51.281Z",
-  "total_datasets": 554,
-  "total_records": 602799,
+  "generated": "2026-11-02T02:28:58.251Z",
+  "total_datasets": 555,
+  "total_records": 602811,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -132,6 +132,31 @@
         "xlsx": {
           "name": "tr-barajlar_TR.xlsx",
           "size": 29513
+        }
+      }
+    },
+    {
+      "id": "tr-koyun-irklari",
+      "name": "Türkiye kökenli koyun ırkları",
+      "category": "agriculture",
+      "record_count": 12,
+      "columns": [
+        "irk",
+        "alternatif_isim",
+        "koken",
+        "amac"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Koyun_ırkları_listesi",
+      "updated": "2026-11",
+      "size": 3008,
+      "files": {
+        "csv": {
+          "name": "tr-koyun-irklari_TR.csv",
+          "size": 487
+        },
+        "xlsx": {
+          "name": "tr-koyun-irklari_TR.xlsx",
+          "size": 7123
         }
       }
     },
