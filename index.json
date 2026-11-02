@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-02T02:29:10.948Z",
-  "total_datasets": 557,
-  "total_records": 602950,
+  "generated": "2026-11-02T02:29:19.187Z",
+  "total_datasets": 558,
+  "total_records": 602980,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -11910,6 +11910,32 @@
         "xlsx": {
           "name": "tr-siyasi-partiler-diger_TR.xlsx",
           "size": 11805
+        }
+      }
+    },
+    {
+      "id": "tr-tbmm-baskanlari",
+      "name": "TBMM başkanları",
+      "category": "politics",
+      "record_count": 30,
+      "columns": [
+        "sira",
+        "tbmm_baskani",
+        "goreve_baslama",
+        "gorevden_ayrilma",
+        "parti"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_Büyük_Millet_Meclisi_başkanları_listesi",
+      "updated": "2026-11",
+      "size": 7999,
+      "files": {
+        "csv": {
+          "name": "tr-tbmm-baskanlari_TR.csv",
+          "size": 2823
+        },
+        "xlsx": {
+          "name": "tr-tbmm-baskanlari_TR.xlsx",
+          "size": 8484
         }
       }
     },
