@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-02T02:29:05.067Z",
-  "total_datasets": 556,
-  "total_records": 602830,
+  "generated": "2026-11-02T02:29:10.948Z",
+  "total_datasets": 557,
+  "total_records": 602950,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -5857,6 +5857,33 @@
         "xlsx": {
           "name": "tr-nukleer-santraller_TR.xlsx",
           "size": 7386
+        }
+      }
+    },
+    {
+      "id": "tr-sulak-alanlar",
+      "name": "Türkiye'deki sulak alanlar",
+      "category": "environment",
+      "record_count": 120,
+      "columns": [
+        "sulak_alan",
+        "alan_ha",
+        "il",
+        "tescil_statusu",
+        "tescil_tarihi",
+        "kategori"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_sulak_alanlar_listesi",
+      "updated": "2026-11",
+      "size": 28778,
+      "files": {
+        "csv": {
+          "name": "tr-sulak-alanlar_TR.csv",
+          "size": 11188
+        },
+        "xlsx": {
+          "name": "tr-sulak-alanlar_TR.xlsx",
+          "size": 11949
         }
       }
     },
