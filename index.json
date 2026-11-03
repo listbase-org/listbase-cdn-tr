@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-03T02:24:03.143Z",
-  "total_datasets": 562,
-  "total_records": 604910,
+  "generated": "2026-11-03T02:24:10.661Z",
+  "total_datasets": 563,
+  "total_records": 605283,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -6075,6 +6075,30 @@
         "xlsx": {
           "name": "finance-vat-rates_TR.xlsx",
           "size": 10464
+        }
+      }
+    },
+    {
+      "id": "tr-vergi-kodlari",
+      "name": "Türkiye'deki vergiler ve vergi kodları",
+      "category": "finance",
+      "record_count": 373,
+      "columns": [
+        "vergi_kodu",
+        "vergi_adi",
+        "notlar"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_vergiler_listesi",
+      "updated": "2026-11",
+      "size": 48173,
+      "files": {
+        "csv": {
+          "name": "tr-vergi-kodlari_TR.csv",
+          "size": 20623
+        },
+        "xlsx": {
+          "name": "tr-vergi-kodlari_TR.xlsx",
+          "size": 18808
         }
       }
     },
