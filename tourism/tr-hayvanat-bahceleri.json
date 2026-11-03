@@ -1,0 +1,324 @@
+{
+  "id": "tr-hayvanat-bahceleri",
+  "name": "Türkiye'deki hayvanat bahçeleri ve akvaryumlar",
+  "title": "Türkiye'deki hayvanat bahçeleri ve akvaryumlar",
+  "description": "Türkiye'deki faal ve kapanmış hayvanat bahçeleri ile akvaryumların il, açılış ve kapanış tarihleriyle listesi.",
+  "category": "tourism",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_hayvanat_bahçeleri_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_hayvanat_bahçeleri_listesi",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "ad",
+      "label": "Ad",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "acilis_tarihi",
+      "label": "Acilis Tarihi",
+      "type": "string"
+    },
+    {
+      "key": "kapanis_tarihi",
+      "label": "Kapanis Tarihi",
+      "type": "string"
+    },
+    {
+      "key": "durum",
+      "label": "Durum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ad": "Antalya Aquarium",
+      "il": "Antalya",
+      "acilis_tarihi": "15 Ağustos 2012",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Antalya Doğal Yaşam Parkı",
+      "il": "Antalya",
+      "acilis_tarihi": "1989",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Aqua Vega",
+      "il": "Ankara",
+      "acilis_tarihi": "23 Nisan 2012",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Aslan Park Tuzla",
+      "il": "İstanbul",
+      "acilis_tarihi": "",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Berkem Aslan Diyarı",
+      "il": "Antalya",
+      "acilis_tarihi": "2006",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Beştepeler Hayvanat Bahçesi",
+      "il": "Kayseri",
+      "acilis_tarihi": "2002",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Bursa Hayvanat Bahçesi",
+      "il": "Bursa",
+      "acilis_tarihi": "10 Kasım 1998",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Çanakçılar Hayvanat Bahçesi",
+      "il": "Zonguldak",
+      "acilis_tarihi": "",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Emaar Akvaryum",
+      "il": "İstanbul",
+      "acilis_tarihi": "28 Nisan 2017",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Eskişehir Hayvanat Bahçesi",
+      "il": "Eskişehir",
+      "acilis_tarihi": "29 Nisan 2017",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Funtastic Aquariums İzmir",
+      "il": "İzmir",
+      "acilis_tarihi": "15 Eylül 2018",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Gazelle Resort Park",
+      "il": "Bolu",
+      "acilis_tarihi": "2013",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Gaziantep Hayvanat Bahçesi",
+      "il": "Gaziantep",
+      "acilis_tarihi": "19 Mayıs 2001",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Gentaş Park",
+      "il": "Bolu",
+      "acilis_tarihi": "2006",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Giresun Hayvanat Bahçesi",
+      "il": "Giresun",
+      "acilis_tarihi": "29 Ekim 2013",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "İstanbul Akvaryum",
+      "il": "İstanbul",
+      "acilis_tarihi": "25 Haziran 2011",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "İzmir Doğal Yaşam Parkı",
+      "il": "İzmir",
+      "acilis_tarihi": "30 Kasım 2008",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Karatay Hayvanat Bahçesi",
+      "il": "Konya",
+      "acilis_tarihi": "2005",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Kayseri Hayvanat Bahçesi",
+      "il": "Kayseri",
+      "acilis_tarihi": "7 Ağustos 2013",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Keçiören Evcil Hayvanlar Parkı",
+      "il": "Ankara",
+      "acilis_tarihi": "7 Ağustos 1998",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Konya Tropikal Kelebek Bahçesi",
+      "il": "Konya",
+      "acilis_tarihi": "4 Temmuz 2015",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Malatya Hayvanat Bahçesi",
+      "il": "Malatya",
+      "acilis_tarihi": "",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Ormanya",
+      "il": "Kocaeli",
+      "acilis_tarihi": "2018",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Polonezköy Hayvanat Bahçesi",
+      "il": "İstanbul",
+      "acilis_tarihi": "",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Sincan Hayvanat Bahçesi",
+      "il": "Ankara",
+      "acilis_tarihi": "2003",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Sümer Park Hayvanat Bahçesi",
+      "il": "Aydın",
+      "acilis_tarihi": "2006",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Tarsus Doğa Parkı",
+      "il": "Mersin",
+      "acilis_tarihi": "27 Aralık 2013",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Tekirova Ekolojik Doğal Parkı",
+      "il": "Antalya",
+      "acilis_tarihi": "1 Mayıs 2005",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Trabzon Akvaryum",
+      "il": "Trabzon",
+      "acilis_tarihi": "19 Mayıs 2022",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "ViaSea Akvaryum",
+      "il": "İstanbul",
+      "acilis_tarihi": "2016",
+      "kapanis_tarihi": "",
+      "durum": "açık"
+    },
+    {
+      "ad": "Atatürk Orman Çiftliği Hayvanat Bahçesi",
+      "il": "Ankara",
+      "acilis_tarihi": "29 Ekim 1940",
+      "kapanis_tarihi": "23 Ağustos 2013",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "Boğaziçi Hayvanat Bahçesi",
+      "il": "Kocaeli",
+      "acilis_tarihi": "1991",
+      "kapanis_tarihi": "15 Ocak 2026",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "Gülhane Hayvanat Bahçesi",
+      "il": "İstanbul",
+      "acilis_tarihi": "1955",
+      "kapanis_tarihi": "14 Ağustos 2001",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "İstanbul Sea Life Akvaryum",
+      "il": "İstanbul",
+      "acilis_tarihi": "22 Ekim 2009",
+      "kapanis_tarihi": "1 Ocak 2025",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "İzmir Hayvanat Bahçesi",
+      "il": "İzmir",
+      "acilis_tarihi": "1938",
+      "kapanis_tarihi": "2008",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "Kültür Park Hayvanat Bahçesi",
+      "il": "Bursa",
+      "acilis_tarihi": "1955",
+      "kapanis_tarihi": "1998",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "Samsun Hayvanat Bahçesi",
+      "il": "Samsun",
+      "acilis_tarihi": "2005",
+      "kapanis_tarihi": "2019",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "Sezal Hayvanat Bahçesi",
+      "il": "Kahramanmaraş",
+      "acilis_tarihi": "1997",
+      "kapanis_tarihi": "2017",
+      "durum": "kapalı"
+    },
+    {
+      "ad": "Tarsus Hayvanat Bahçesi",
+      "il": "Mersin",
+      "acilis_tarihi": "1999",
+      "kapanis_tarihi": "2013",
+      "durum": "kapalı"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki hayvanat bahçeleri ve akvaryumlar - Free Download",
+    "description": "Türkiye'deki faal ve kapanmış hayvanat bahçeleri ile akvaryumların il, açılış ve kapanış tarihleriyle listesi. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki hayvanat bahçeleri ve akvaryumlar | ListBase",
+    "seo_description": "Download Türkiye'deki hayvanat bahçeleri ve akvaryumlar — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_hayvanat_bahçeleri_listesi"
+    ]
+  }
+}
