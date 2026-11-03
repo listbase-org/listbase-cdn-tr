@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-03T02:23:40.789Z",
-  "total_datasets": 559,
-  "total_records": 603019,
+  "generated": "2026-11-03T02:23:48.365Z",
+  "total_datasets": 560,
+  "total_records": 603061,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -6110,6 +6110,37 @@
         "xlsx": {
           "name": "tr-michelin-restoranlari_TR.xlsx",
           "size": 75393
+        }
+      }
+    },
+    {
+      "id": "tr-restoran-zincirleri",
+      "name": "Türkiye'deki restoran zincirleri",
+      "category": "food",
+      "record_count": 42,
+      "columns": [
+        "restoran",
+        "yemek_turu",
+        "koken",
+        "kurulus_tarihi",
+        "kuruldugu_yer",
+        "turkiyeye_gelis",
+        "kurucusu",
+        "sahibi",
+        "restoran_sayisi",
+        "genel_merkez"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_restoran_zincirleri_listesi",
+      "updated": "2026-11",
+      "size": 16961,
+      "files": {
+        "csv": {
+          "name": "tr-restoran-zincirleri_TR.csv",
+          "size": 5283
+        },
+        "xlsx": {
+          "name": "tr-restoran-zincirleri_TR.xlsx",
+          "size": 10199
         }
       }
     },

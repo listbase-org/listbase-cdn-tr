@@ -1,0 +1,580 @@
+{
+  "id": "tr-restoran-zincirleri",
+  "name": "Türkiye'deki restoran zincirleri",
+  "title": "Türkiye'deki restoran zincirleri",
+  "description": "Türkiye kökenli ve yabancı restoran zincirlerinin listesi; yemek türü, kuruluş tarihi ve yeri, kurucusu, sahibi ve restoran sayısı ile.",
+  "category": "food",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_restoran_zincirleri_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_restoran_zincirleri_listesi",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "restoran",
+      "label": "Restoran",
+      "type": "string"
+    },
+    {
+      "key": "yemek_turu",
+      "label": "Yemek Turu",
+      "type": "string"
+    },
+    {
+      "key": "koken",
+      "label": "Koken",
+      "type": "string"
+    },
+    {
+      "key": "kurulus_tarihi",
+      "label": "Kurulus Tarihi",
+      "type": "number"
+    },
+    {
+      "key": "kuruldugu_yer",
+      "label": "Kuruldugu Yer",
+      "type": "string"
+    },
+    {
+      "key": "turkiyeye_gelis",
+      "label": "Turkiyeye Gelis",
+      "type": "string"
+    },
+    {
+      "key": "kurucusu",
+      "label": "Kurucusu",
+      "type": "string"
+    },
+    {
+      "key": "sahibi",
+      "label": "Sahibi",
+      "type": "string"
+    },
+    {
+      "key": "restoran_sayisi",
+      "label": "Restoran Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "genel_merkez",
+      "label": "Genel Merkez",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "restoran": "Köfteci Ramiz",
+      "yemek_turu": "Köfte",
+      "koken": "yerli",
+      "kurulus_tarihi": "1928",
+      "kuruldugu_yer": "Akhisar, Manisa",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Ramiz Taşkınlar",
+      "sahibi": "Taşkınlar Ailesi",
+      "restoran_sayisi": "157",
+      "genel_merkez": "Akhisar, Manisa"
+    },
+    {
+      "restoran": "Saray Muhallebicisi",
+      "yemek_turu": "Türk mutfağı",
+      "koken": "yerli",
+      "kurulus_tarihi": "1935",
+      "kuruldugu_yer": "Beyoğlu, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Hüseyin Topbaş",
+      "sahibi": "Topbaş Ailesi",
+      "restoran_sayisi": "21",
+      "genel_merkez": "Bağcılar, İstanbul"
+    },
+    {
+      "restoran": "Özsüt",
+      "yemek_turu": "Türk mutfağı",
+      "koken": "yerli",
+      "kurulus_tarihi": "1938",
+      "kuruldugu_yer": "Konak, İzmir",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Sefer Urlulu",
+      "sahibi": "STP Gıda",
+      "restoran_sayisi": "150+",
+      "genel_merkez": "Kemalpaşa, İzmir"
+    },
+    {
+      "restoran": "Emirgan Sütiş",
+      "yemek_turu": "Türk mutfağı",
+      "koken": "yerli",
+      "kurulus_tarihi": "1953",
+      "kuruldugu_yer": "Şişli, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Mevlüt Kocadağ",
+      "sahibi": "Kocadağ Ailesi",
+      "restoran_sayisi": "",
+      "genel_merkez": "Beylikdüzü, İstanbul"
+    },
+    {
+      "restoran": "Günaydın",
+      "yemek_turu": "Türk mutfağı",
+      "koken": "yerli",
+      "kurulus_tarihi": "1992",
+      "kuruldugu_yer": "Maltepe, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Cüneyt Asan",
+      "sahibi": "d.ream (Doğuş Grubu)",
+      "restoran_sayisi": "51",
+      "genel_merkez": "Beşiktaş, İstanbul"
+    },
+    {
+      "restoran": "Nusr-et",
+      "yemek_turu": "Steakhouse",
+      "koken": "yerli",
+      "kurulus_tarihi": "2010",
+      "kuruldugu_yer": "Beşiktaş, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Nusret Gökçe, Mithat Erdem",
+      "sahibi": "d.ream (Doğuş Grubu)",
+      "restoran_sayisi": "32",
+      "genel_merkez": "Beşiktaş, İstanbul"
+    },
+    {
+      "restoran": "Espressolab",
+      "yemek_turu": "Kahve",
+      "koken": "yerli",
+      "kurulus_tarihi": "2014",
+      "kuruldugu_yer": "Eyüpsultan, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Esat Kocadağ",
+      "sahibi": "Kocadağ Ailesi",
+      "restoran_sayisi": "230",
+      "genel_merkez": "Güngören, İstanbul"
+    },
+    {
+      "restoran": "Kahve Dünyası",
+      "yemek_turu": "Kahve",
+      "koken": "yerli",
+      "kurulus_tarihi": "2004",
+      "kuruldugu_yer": "Fatih, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Birol Altınkılıç",
+      "sahibi": "Altınmarka Grubu",
+      "restoran_sayisi": "200+",
+      "genel_merkez": "Beyoğlu, İstanbul"
+    },
+    {
+      "restoran": "Kahve Diyarı",
+      "yemek_turu": "Kahve",
+      "koken": "yerli",
+      "kurulus_tarihi": "2005",
+      "kuruldugu_yer": "İzmir",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Emrullah İşlek",
+      "sahibi": "",
+      "restoran_sayisi": "126",
+      "genel_merkez": "Konak, İzmir"
+    },
+    {
+      "restoran": "Dardenia",
+      "yemek_turu": "Deniz ürünleri",
+      "koken": "yerli",
+      "kurulus_tarihi": "2011",
+      "kuruldugu_yer": "Kadıköy, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Dardanel",
+      "sahibi": "Dardanel",
+      "restoran_sayisi": "4",
+      "genel_merkez": "Sarıyer, İstanbul"
+    },
+    {
+      "restoran": "HD İskender",
+      "yemek_turu": "Fast food",
+      "koken": "yerli",
+      "kurulus_tarihi": "1995",
+      "kuruldugu_yer": "Çankaya, Ankara",
+      "turkiyeye_gelis": "",
+      "kurucusu": "HD Holding",
+      "sahibi": "HD Holding",
+      "restoran_sayisi": "80≈",
+      "genel_merkez": "Sarıyer, İstanbul"
+    },
+    {
+      "restoran": "Pidem",
+      "yemek_turu": "Pide",
+      "koken": "yerli",
+      "kurulus_tarihi": "2010",
+      "kuruldugu_yer": "Tepebaşı, Eskişehir",
+      "turkiyeye_gelis": "",
+      "kurucusu": "HD Holding",
+      "sahibi": "HD Holding",
+      "restoran_sayisi": "200≈",
+      "genel_merkez": "Sarıyer, İstanbul"
+    },
+    {
+      "restoran": "Makarnam",
+      "yemek_turu": "Makarna",
+      "koken": "yerli",
+      "kurulus_tarihi": "2021",
+      "kuruldugu_yer": "Çankaya, Ankara",
+      "turkiyeye_gelis": "",
+      "kurucusu": "HD Holding",
+      "sahibi": "HD Holding",
+      "restoran_sayisi": "28",
+      "genel_merkez": "Sarıyer, İstanbul"
+    },
+    {
+      "restoran": "Usta Dönerci",
+      "yemek_turu": "Fast food",
+      "koken": "yerli",
+      "kurulus_tarihi": "2013",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "",
+      "kurucusu": "TAB Gıda",
+      "sahibi": "TAB Gıda",
+      "restoran_sayisi": "155",
+      "genel_merkez": "Beşiktaş, İstanbul"
+    },
+    {
+      "restoran": "Usta Pideci",
+      "yemek_turu": "Pide",
+      "koken": "yerli",
+      "kurulus_tarihi": "2019",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "",
+      "kurucusu": "TAB Gıda",
+      "sahibi": "TAB Gıda",
+      "restoran_sayisi": "44",
+      "genel_merkez": "Beşiktaş, İstanbul"
+    },
+    {
+      "restoran": "SushiCo",
+      "yemek_turu": "Uzakdoğu mutfağı",
+      "koken": "yerli",
+      "kurulus_tarihi": "1997",
+      "kuruldugu_yer": "Ataşehir, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Selim Yalın, Baran Dumanoğlu",
+      "sahibi": "BNS Gıda",
+      "restoran_sayisi": "66",
+      "genel_merkez": "Ataşehir, İstanbul"
+    },
+    {
+      "restoran": "The House Café",
+      "yemek_turu": "Kafe",
+      "koken": "yerli",
+      "kurulus_tarihi": "2002",
+      "kuruldugu_yer": "Şişli, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Canan Özdemir, Ferit Baltacıoğlu, Ramazan Üren",
+      "sahibi": "Canan Özdemir, Ferit Baltacıoğlu, Ramazan Üren",
+      "restoran_sayisi": "7",
+      "genel_merkez": "Kağıthane, İstanbul"
+    },
+    {
+      "restoran": "Midpoint",
+      "yemek_turu": "Kafe",
+      "koken": "yerli",
+      "kurulus_tarihi": "2000",
+      "kuruldugu_yer": "Kadıköy, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Ayhan Çarıkçılar, Numan Çarıkçılar, Recep Eryüzgeç, Cengiz Sönmez",
+      "sahibi": "Allpoints Restaurant Group",
+      "restoran_sayisi": "38",
+      "genel_merkez": "Üsküdar, İstanbul"
+    },
+    {
+      "restoran": "BigChefs",
+      "yemek_turu": "Kafe",
+      "koken": "yerli",
+      "kurulus_tarihi": "2007",
+      "kuruldugu_yer": "Ankara",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Gamze Cizreli",
+      "sahibi": "Büyük Şefler Gıda",
+      "restoran_sayisi": "125",
+      "genel_merkez": "Sarıyer, İstanbul"
+    },
+    {
+      "restoran": "Kitchenette",
+      "yemek_turu": "Kafe",
+      "koken": "yerli",
+      "kurulus_tarihi": "2005",
+      "kuruldugu_yer": "İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "İstanbul Doors Grup",
+      "sahibi": "d.ream (Doğuş Grubu)",
+      "restoran_sayisi": "11",
+      "genel_merkez": "Sarıyer, İstanbul"
+    },
+    {
+      "restoran": "Happy Moon’s",
+      "yemek_turu": "Kafe",
+      "koken": "yerli",
+      "kurulus_tarihi": "1999",
+      "kuruldugu_yer": "Kadıköy, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Hüseyin Aymutlu",
+      "sahibi": "Hüseyin Aymutlu",
+      "restoran_sayisi": "53",
+      "genel_merkez": "Kadıköy, İstanbul"
+    },
+    {
+      "restoran": "Mado",
+      "yemek_turu": "Türk mutfağı, dondurma",
+      "koken": "yerli",
+      "kurulus_tarihi": "1991",
+      "kuruldugu_yer": "Kadıköy, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Yaşar Dondurma ve Gıda",
+      "sahibi": "Yaşar Dondurma ve Gıda",
+      "restoran_sayisi": "300+",
+      "genel_merkez": "Kahramanmaraş"
+    },
+    {
+      "restoran": "Simit Sarayı",
+      "yemek_turu": "Simit",
+      "koken": "yerli",
+      "kurulus_tarihi": "2002",
+      "kuruldugu_yer": "Sarıyer, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Abdullah Kavukçu, Haluk Okutur, Mehmet Tarakçı",
+      "sahibi": "Abdullah Kavukçu, Haluk Okutur, Mehmet Tarakçı",
+      "restoran_sayisi": "",
+      "genel_merkez": "Beşiktaş, İstanbul"
+    },
+    {
+      "restoran": "Tavuk Dünyası",
+      "yemek_turu": "Tavuk",
+      "koken": "yerli",
+      "kurulus_tarihi": "2012",
+      "kuruldugu_yer": "Maltepe, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Pardo Food",
+      "sahibi": "Global Restaurant Investment",
+      "restoran_sayisi": "300+",
+      "genel_merkez": "Maltepe, İstanbul"
+    },
+    {
+      "restoran": "Doyuyo!",
+      "yemek_turu": "Fast food",
+      "koken": "yerli",
+      "kurulus_tarihi": "2019",
+      "kuruldugu_yer": "Şişli, İstanbul",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Pardo Food",
+      "sahibi": "Pardo Food",
+      "restoran_sayisi": "45",
+      "genel_merkez": "Maltepe, İstanbul"
+    },
+    {
+      "restoran": "Pasaport Pizza",
+      "yemek_turu": "Pizza",
+      "koken": "yerli",
+      "kurulus_tarihi": "1998",
+      "kuruldugu_yer": "Konak, İzmir",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Vahit Paşa",
+      "sahibi": "",
+      "restoran_sayisi": "",
+      "genel_merkez": "Maltepe, İstanbul"
+    },
+    {
+      "restoran": "Terra Pizza",
+      "yemek_turu": "Pizza",
+      "koken": "yerli",
+      "kurulus_tarihi": "1995",
+      "kuruldugu_yer": "Konak, İzmir",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Abbas Türker",
+      "sahibi": "Mediterra Capital",
+      "restoran_sayisi": "140≈",
+      "genel_merkez": "Maltepe, İstanbul"
+    },
+    {
+      "restoran": "Dürümle",
+      "yemek_turu": "Fast food",
+      "koken": "yerli",
+      "kurulus_tarihi": "2018",
+      "kuruldugu_yer": "Çankaya, Ankara",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Onur Sulkalar",
+      "sahibi": "Mediterra Capital",
+      "restoran_sayisi": "100≈",
+      "genel_merkez": "Yenimahalle, Ankara"
+    },
+    {
+      "restoran": "Baydöner",
+      "yemek_turu": "Fast food",
+      "koken": "yerli",
+      "kurulus_tarihi": "2007",
+      "kuruldugu_yer": "Balçova, İzmir",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Ferudun Tunçer, Levent Yılmaz",
+      "sahibi": "Ferudun Tunçer, Levent Yılmaz",
+      "restoran_sayisi": "110+",
+      "genel_merkez": "Bayraklı, İzmir"
+    },
+    {
+      "restoran": "Köfteci Yusuf",
+      "yemek_turu": "Köfte",
+      "koken": "yerli",
+      "kurulus_tarihi": "1996",
+      "kuruldugu_yer": "İznik, Bursa",
+      "turkiyeye_gelis": "",
+      "kurucusu": "Yusuf Akkaş",
+      "sahibi": "Yusuf Akkaş",
+      "restoran_sayisi": "275",
+      "genel_merkez": "Yenişehir, Bursa"
+    },
+    {
+      "restoran": "McDonald's",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "24 Ekim 1986 İstanbul, Taksim, Gezi Parkı önü",
+      "kurucusu": "",
+      "sahibi": "Boheme Investment GmbH",
+      "restoran_sayisi": "306 (2025)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "KFC",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "1989 İstanbul, Fatih",
+      "kurucusu": "",
+      "sahibi": "HD Holding",
+      "restoran_sayisi": "33 (2026)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Burger King",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "7 Mart 1995 İstanbul, Etiler",
+      "kurucusu": "",
+      "sahibi": "TAB Gıda",
+      "restoran_sayisi": "700+ (2026)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Starbucks",
+      "yemek_turu": "Kafe",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "19 Nisan 2003 İstanbul, Erenköy",
+      "kurucusu": "",
+      "sahibi": "Alshaya Group",
+      "restoran_sayisi": "760 (2026)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Popeyes",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "2007 İstanbul",
+      "kurucusu": "",
+      "sahibi": "TAB Gıda",
+      "restoran_sayisi": "500+ (2025)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Domino's",
+      "yemek_turu": "Pizza",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "1996 İstanbul",
+      "kurucusu": "",
+      "sahibi": "DP Eurasia",
+      "restoran_sayisi": "765 (2025)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Pizza Hut",
+      "yemek_turu": "Pizza",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "1989 İstanbul, Ataköy",
+      "kurucusu": "",
+      "sahibi": "Yum Brands",
+      "restoran_sayisi": "(2025'te Türkiye'den çekildi)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Subway",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "1996 İstanbul, Elmadağ",
+      "kurucusu": "",
+      "sahibi": "TAB Gıda",
+      "restoran_sayisi": "80",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Arby's",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "1997 İstanbul",
+      "kurucusu": "",
+      "sahibi": "TAB Gıda",
+      "restoran_sayisi": "130 (2025)",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Costa Coffee",
+      "yemek_turu": "Kafe",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "2022 İstanbul",
+      "kurucusu": "",
+      "sahibi": "Boyner",
+      "restoran_sayisi": "- Bilinmiyor",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Wendy's",
+      "yemek_turu": "Fast food",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "1990'lar İstanbul",
+      "kurucusu": "",
+      "sahibi": "- Bilinmiyor",
+      "restoran_sayisi": "- Bilinmiyor",
+      "genel_merkez": ""
+    },
+    {
+      "restoran": "Dunkin",
+      "yemek_turu": "Kafe",
+      "koken": "yabancı",
+      "kurulus_tarihi": "",
+      "kuruldugu_yer": "",
+      "turkiyeye_gelis": "2011 İstanbul",
+      "kurucusu": "",
+      "sahibi": "- Bilinmiyor",
+      "restoran_sayisi": "- Bilinmiyor",
+      "genel_merkez": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki restoran zincirleri - Free Download",
+    "description": "Türkiye kökenli ve yabancı restoran zincirlerinin listesi; yemek türü, kuruluş tarihi ve yeri, kurucusu, sahibi ve restoran sayısı ile. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki restoran zincirleri | ListBase",
+    "seo_description": "Download Türkiye'deki restoran zincirleri — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_restoran_zincirleri_listesi"
+    ]
+  }
+}
