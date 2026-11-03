@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-03T02:23:48.365Z",
-  "total_datasets": 560,
-  "total_records": 603061,
+  "generated": "2026-11-03T02:23:56.280Z",
+  "total_datasets": 561,
+  "total_records": 603187,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -14379,6 +14379,36 @@
         "xlsx": {
           "name": "tr-saat-kuleleri_TR.xlsx",
           "size": 11655
+        }
+      }
+    },
+    {
+      "id": "tr-selaleler",
+      "name": "Türkiye'deki şelaleler",
+      "category": "tourism",
+      "record_count": 126,
+      "columns": [
+        "isim",
+        "diger_isimler",
+        "ilce",
+        "il",
+        "cografi_bolge",
+        "akarsu",
+        "yukseklik_m",
+        "irtifa_m",
+        "notlar"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_şelaleler_listesi",
+      "updated": "2026-11",
+      "size": 33801,
+      "files": {
+        "csv": {
+          "name": "tr-selaleler_TR.csv",
+          "size": 9685
+        },
+        "xlsx": {
+          "name": "tr-selaleler_TR.xlsx",
+          "size": 13582
         }
       }
     },
