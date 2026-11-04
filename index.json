@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-04T02:13:58.279Z",
-  "total_datasets": 565,
-  "total_records": 605429,
+  "generated": "2026-11-04T02:14:06.017Z",
+  "total_datasets": 566,
+  "total_records": 605636,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -13673,6 +13673,35 @@
         "xlsx": {
           "name": "tr-dusunce-kuruluslari_TR.xlsx",
           "size": 9798
+        }
+      }
+    },
+    {
+      "id": "tr-sendikalar",
+      "name": "Türkiye'deki sendikalar",
+      "category": "society",
+      "record_count": 207,
+      "columns": [
+        "ad",
+        "kisaltma",
+        "konfederasyon",
+        "tur",
+        "kurulus",
+        "genel_baskan",
+        "is_kolu",
+        "uye_sayisi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi",
+      "updated": "2026-11",
+      "size": 77690,
+      "files": {
+        "csv": {
+          "name": "tr-sendikalar_TR.csv",
+          "size": 42269
+        },
+        "xlsx": {
+          "name": "tr-sendikalar_TR.xlsx",
+          "size": 21044
         }
       }
     },

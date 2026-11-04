@@ -1,0 +1,2136 @@
+{
+  "id": "tr-sendikalar",
+  "name": "Türkiye'deki sendikalar",
+  "title": "Türkiye'deki sendikalar",
+  "description": "Türkiye'deki işçi ve kamu görevlileri sendikalarının listesi; bağlı oldukları konfederasyon, kuruluş yılı, genel başkan, iş kolu ve üye sayısı ile.",
+  "category": "society",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi",
+  "updated": "2026-11",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "ad",
+      "label": "Ad",
+      "type": "string"
+    },
+    {
+      "key": "kisaltma",
+      "label": "Kisaltma",
+      "type": "string"
+    },
+    {
+      "key": "konfederasyon",
+      "label": "Konfederasyon",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "kurulus",
+      "label": "Kurulus",
+      "type": "number"
+    },
+    {
+      "key": "genel_baskan",
+      "label": "Genel Baskan",
+      "type": "string"
+    },
+    {
+      "key": "is_kolu",
+      "label": "Is Kolu",
+      "type": "string"
+    },
+    {
+      "key": "uye_sayisi",
+      "label": "Uye Sayisi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ad": "Türkiye Orman, Topraksu, Tarım ve Tarım Sanayii İşçileri Sendikası",
+      "kisaltma": "TARIM-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1961",
+      "genel_baskan": "Bedrettin KAYKAÇ",
+      "is_kolu": "Avcılık, Balıkçılık, Tarım ve Ormancılık (1)",
+      "uye_sayisi": "10.285"
+    },
+    {
+      "ad": "Türkiye Orman İşçileri Sendikası",
+      "kisaltma": "ORMAN-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1975",
+      "genel_baskan": "Baki YÜKSEL",
+      "is_kolu": "Avcılık, Balıkçılık, Tarım ve Ormancılık (1)",
+      "uye_sayisi": "91"
+    },
+    {
+      "ad": "Türkiye Tütün Müskirat Gıda ve Yardımcı İşçileri Sendikası",
+      "kisaltma": "TEK GIDA-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1952",
+      "genel_baskan": "Mustafa TÜRKEL",
+      "is_kolu": "Gıda Sanayii (2)",
+      "uye_sayisi": "26.559"
+    },
+    {
+      "ad": "Türkiye Gıda ve Şeker Sanayi İşçileri Sendikası",
+      "kisaltma": "ŞEKER-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "İsa GÖK",
+      "is_kolu": "Gıda Sanayii (2)",
+      "uye_sayisi": "14.230"
+    },
+    {
+      "ad": "Türkiye Maden İşçileri Sendikası",
+      "kisaltma": "TÜRK MADEN-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1947",
+      "genel_baskan": "Nurettin AKÇUL",
+      "is_kolu": "Madencilik ve Taş Ocakları (3)",
+      "uye_sayisi": "26.983"
+    },
+    {
+      "ad": "Genel Maden İşçileri Sendikası",
+      "kisaltma": "GENEL MADEN-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1946",
+      "genel_baskan": "Eyüp ALABAŞ",
+      "is_kolu": "Madencilik ve Taş Ocakları (3)",
+      "uye_sayisi": "10.738"
+    },
+    {
+      "ad": "Türkiye Petro Kimya Lastik İşçileri Sendikası",
+      "kisaltma": "PETROL-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1950",
+      "genel_baskan": "Mustafa ÖZTAŞKIN",
+      "is_kolu": "Petrol, Kimya, Lastik, Plastik ve İlaç (4)",
+      "uye_sayisi": "33.024"
+    },
+    {
+      "ad": "Türkiye Tekstil, Örme ve Giyim Sanayi İşçileri Sendikası",
+      "kisaltma": "TEKSİF",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1951",
+      "genel_baskan": "Nazmi IRGAT",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "60.019"
+    },
+    {
+      "ad": "Deri, Dokuma ve Tekstilden Yapılan Her Türlü Giyim Eşyası İşleme Yerleri İşçileri Sendikası",
+      "kisaltma": "DERİTEKS",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1948",
+      "genel_baskan": "Musa SERVİ",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "2.267"
+    },
+    {
+      "ad": "Türkiye Ağaç ve Kağıt Sanayii İşçileri Sendikası",
+      "kisaltma": "AĞAÇ-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1949",
+      "genel_baskan": "Mürsel TAŞÇI",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "3.099"
+    },
+    {
+      "ad": "Türkiye Selüloz, Kağıt ve Mamulleri Sendikası",
+      "kisaltma": "SELÜLOZ-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1952",
+      "genel_baskan": "Ergin ALŞAN",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "3.680"
+    },
+    {
+      "ad": "Türkiye Telekomünikasyon, Posta, Telgraf, Telefon, İletişim, Bilişim, Çağrı Merkezi, Radyo, Televizyon İşçileri ve Hizmetlileri Sendikası",
+      "kisaltma": "HABER-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1962",
+      "genel_baskan": "Veli SOLAK",
+      "is_kolu": "İletişim (7)",
+      "uye_sayisi": "16.491"
+    },
+    {
+      "ad": "Türkiye Basın ve Yayın İşçileri Sendikası",
+      "kisaltma": "BASIN-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Yakup AKKAYA",
+      "is_kolu": "Basın, Yayın ve Gazetecilik (8)",
+      "uye_sayisi": "1.864"
+    },
+    {
+      "ad": "Türkiye Gazeteciler Sendikası",
+      "kisaltma": "TGS",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1952",
+      "genel_baskan": "Uğur GÜÇ",
+      "is_kolu": "Basın, Yayın ve Gazetecilik (8)",
+      "uye_sayisi": "1.033"
+    },
+    {
+      "ad": "Banka-Sigorta İşçileri Sendikası",
+      "kisaltma": "BASİSEN",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Metin TİRYAKİOĞLU",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "41.964"
+    },
+    {
+      "ad": "Banka ve Sigorta İşçileri Sendikası",
+      "kisaltma": "BASS",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1972",
+      "genel_baskan": "Turgut YILMAZ",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "14.225"
+    },
+    {
+      "ad": "Türkiye Ticaret, Koop, Eğitim, Büro ve Güzel Sanatlar İşçileri Sendikası",
+      "kisaltma": "TEZKOOP-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1962",
+      "genel_baskan": "Osman GÜRSU",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "50.369"
+    },
+    {
+      "ad": "Türkiye Kooperatif, Ticaret ve Büro İşçileri Sendikası",
+      "kisaltma": "TÜRK KOOP-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1964",
+      "genel_baskan": "Eyüp ALEMDAR",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "36.095"
+    },
+    {
+      "ad": "Türkiye Çimento, Seramik, Toprak ve Cam Sanayi İşçileri Sendikası",
+      "kisaltma": "ÇİMSE-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Zekeriye NAZLIM",
+      "is_kolu": "Çimento, Toprak ve Cam (11)",
+      "uye_sayisi": "22.329"
+    },
+    {
+      "ad": "Çimento, Cam, Toprak Sanayi İşçileri Sendikası",
+      "kisaltma": "KRİSTAL-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1965",
+      "genel_baskan": "Bilal ÇETİNTAŞ",
+      "is_kolu": "Çimento, Toprak ve Cam (11)",
+      "uye_sayisi": "7.184"
+    },
+    {
+      "ad": "Türkiye Metal, Çelik, Mühim, Makina, Metalden Mamul Eşya ve Oto, Montaj ve Yardımcı İşçileri Sendikası",
+      "kisaltma": "TÜRK METAL-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Pevrul KAVLAK",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "169.549"
+    },
+    {
+      "ad": "Türkiye Yol, Yapı, İnşaat İşçileri Sendikası",
+      "kisaltma": "YOL-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Ramazan AĞAR",
+      "is_kolu": "İnşaat (13)",
+      "uye_sayisi": "40.240"
+    },
+    {
+      "ad": "Türkiye Enerji, Su, Gaz İşçileri Sendikası",
+      "kisaltma": "TES-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Mustafa KUMLU",
+      "is_kolu": "Enerji (14)",
+      "uye_sayisi": "52.399"
+    },
+    {
+      "ad": "Türkiye Sivil Havacılık Sendikası",
+      "kisaltma": "HAVA-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1962",
+      "genel_baskan": "A.Kemal TATLIBAL",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "16.787"
+    },
+    {
+      "ad": "Tüm Taşıma İşçileri Sendikası",
+      "kisaltma": "TÜMTİS",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1949",
+      "genel_baskan": "Kenan ÖZTÜRK",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "7.480"
+    },
+    {
+      "ad": "Türkiye Demiryolu İşçileri Sendikası",
+      "kisaltma": "DEMİRYOL-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1952",
+      "genel_baskan": "Ergün ATALAY",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "16.108"
+    },
+    {
+      "ad": "Türkiye Liman, Dok ve Gemi Sanayi İşçileri Sendikası",
+      "kisaltma": "DOKGEMİ-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1946",
+      "genel_baskan": "H. Necip NALBANTOĞLU",
+      "is_kolu": "Gemi Yapımı ve Deniz Taşımacılığı ve Antropoculuk (16)",
+      "uye_sayisi": "3.046"
+    },
+    {
+      "ad": "Türkiye Denizciler Sendikası",
+      "kisaltma": "DENİZ-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Dr. Hasan PEKDEMİR",
+      "is_kolu": "Gemi Yapımı ve Deniz Taşımacılığı ve Antropoculuk (16)",
+      "uye_sayisi": "5.276"
+    },
+    {
+      "ad": "Türkiye Sağlık İşçileri Sendikası",
+      "kisaltma": "SAĞLIK-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1961",
+      "genel_baskan": "Hasan ÖZTÜRK",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler (17)",
+      "uye_sayisi": "6.546"
+    },
+    {
+      "ad": "Türkiye Otel, Lokanta ve Dinlenme Yerleri İşçileri Sendikası",
+      "kisaltma": "TOLEYİS",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1977",
+      "genel_baskan": "Cemail BAKINDI",
+      "is_kolu": "Konaklama ve Eğlence İşleri (18)",
+      "uye_sayisi": "14.560"
+    },
+    {
+      "ad": "Türkiye Harb Sanayi ve Yardımcı İş Kolları işçileri Sendikası",
+      "kisaltma": "HARB-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Alaattin SOYDAN",
+      "is_kolu": "Savunma ve Güvenlik (19)",
+      "uye_sayisi": "22.227"
+    },
+    {
+      "ad": "Güvenlik ve Savunma İşçileri Sendikası",
+      "kisaltma": "GÜVENLİK-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "Bolat ANKARALI",
+      "is_kolu": "Savunma ve Güvenlik (19)",
+      "uye_sayisi": "5.866"
+    },
+    {
+      "ad": "Türkiye Belediyeler ve Genel Hizmetler İşçileri Sendikası",
+      "kisaltma": "BELEDİYE-İŞ",
+      "konfederasyon": "Türkiye İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1983",
+      "genel_baskan": "Nihat YURDAKUL",
+      "is_kolu": "Genel İşler (20)",
+      "uye_sayisi": "45,775"
+    },
+    {
+      "ad": "Türkiye Gıda Sanayii İşçileri Sendikası",
+      "kisaltma": "GIDA-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1947",
+      "genel_baskan": "Celal OVAT",
+      "is_kolu": "Gıda Sanayii (2)",
+      "uye_sayisi": "1.932"
+    },
+    {
+      "ad": "Türkiye Devrimci Maden Arama ve İşletme İşçileri Sendikası",
+      "kisaltma": "DEV MADEN-SEN",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1959",
+      "genel_baskan": "Tayfun GÖRGÜN",
+      "is_kolu": "Madencilik ve Taş Ocakları (3)",
+      "uye_sayisi": "784"
+    },
+    {
+      "ad": "Türkiye Petrol, Kimya ve Lastik Sanayii İşçileri Sendikası",
+      "kisaltma": "LASTİK-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1949",
+      "genel_baskan": "Abdullah KARACAN",
+      "is_kolu": "Petrol, Kimya, Lastik, Plastik ve İlaç (4)",
+      "uye_sayisi": "8.639"
+    },
+    {
+      "ad": "Tekstil İşçileri Sendikası",
+      "kisaltma": "TEKSTİL",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1965",
+      "genel_baskan": "Rıdvan BUDAK",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "11.173"
+    },
+    {
+      "ad": "Türkiye Tüm Kağıt Selüloz Sanayii İşçileri Sendikası",
+      "kisaltma": "TÜMKA-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1971",
+      "genel_baskan": "Ergün TAVŞANOĞLU",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "700"
+    },
+    {
+      "ad": "Devrimci İletişim ve Çağrı Merkezi Çalışanları Sendikası",
+      "kisaltma": "DEV İLETİŞİM-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Fatma TULUM ERYOLDAŞ",
+      "is_kolu": "İletişim (7)",
+      "uye_sayisi": "11"
+    },
+    {
+      "ad": "Türkiye Basın, Yayın, Gazetecilik, Grafik-Tasarım, Baskı ve Ambalaj Sanayi İşçileri Sendikası",
+      "kisaltma": "BASIN-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1967",
+      "genel_baskan": "Mustafa YAMAK",
+      "is_kolu": "Basın, Yayın ve Gazetecilik (8)",
+      "uye_sayisi": "483"
+    },
+    {
+      "ad": "Türkiye Devrimci Banka ve Sigorta İşçileri Sendikası",
+      "kisaltma": "BANK-SEN",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1972",
+      "genel_baskan": "Önder ATAY",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "641"
+    },
+    {
+      "ad": "Sinema Emekçileri Sendikası",
+      "kisaltma": "SİNE-SEN",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1978",
+      "genel_baskan": "Zafer AYDEN",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "236"
+    },
+    {
+      "ad": "Türkiye Sosyal Sigortalar, Eğitim, Büro, Ticaret, Kooperatif ve Güzel Sanatlar İşçileri Sendikası",
+      "kisaltma": "SOSYAL-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1966",
+      "genel_baskan": "Metin EBETÜRK",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "8.115"
+    },
+    {
+      "ad": "Türkiye Porselen, Çimento, Cam, Tuğla ve Toprak Sanayi İşçileri Sendikası",
+      "kisaltma": "CAM KERAMİK-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1968",
+      "genel_baskan": "Mehmet TURP",
+      "is_kolu": "Çimento, Toprak ve Cam (11)",
+      "uye_sayisi": "3"
+    },
+    {
+      "ad": "Birleşik Metal İşçileri Sendikası",
+      "kisaltma": "BİRLEŞİK METAL-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1947",
+      "genel_baskan": "Adnan SERDAROĞLU",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "26.214"
+    },
+    {
+      "ad": "Devrimci Yapı İşçileri Sendikası",
+      "kisaltma": "DEV YAPI-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1970",
+      "genel_baskan": "Dursun AÇIKBAŞ",
+      "is_kolu": "İnşaat (13)",
+      "uye_sayisi": "177"
+    },
+    {
+      "ad": "Elektrik, Gaz ve Su Çalışanları Sendikası",
+      "kisaltma": "ENERJİ-SEN",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2006",
+      "genel_baskan": "Süleyman KESKİN",
+      "is_kolu": "Enerji (14)",
+      "uye_sayisi": "2624"
+    },
+    {
+      "ad": "Nakliye İşçileri Sendikası",
+      "kisaltma": "NAKLİYAT-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1975",
+      "genel_baskan": "Ali Rıza KÜÇÜKOSMANOĞLU",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "4.260"
+    },
+    {
+      "ad": "Liman, Tersane Gemi Yapım-Onarım İşçileri Sendikası",
+      "kisaltma": "LİMTER-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1976",
+      "genel_baskan": "Kamber SAYGILI",
+      "is_kolu": "Gemi Yapımı ve Deniz Taşımacılığı ve Antropoculuk (16)",
+      "uye_sayisi": "167"
+    },
+    {
+      "ad": "Devrimci Sağlık İşçileri Sendikası",
+      "kisaltma": "DEV SAĞLIK-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1973",
+      "genel_baskan": "Arzu Çerkezoğlu",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler (17)",
+      "uye_sayisi": "619"
+    },
+    {
+      "ad": "Devrimci Turizm İşçileri Sendikası",
+      "kisaltma": "DEV TURİZM-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "Mustafa Safvet YAHYAOĞLU",
+      "is_kolu": "Konaklama ve Eğlence İşleri (18)",
+      "uye_sayisi": "329"
+    },
+    {
+      "ad": "Özel Güvenlik İşçileri Sendikası",
+      "kisaltma": "GÜVENLİK-SEN",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "-",
+      "genel_baskan": "-",
+      "is_kolu": "Savunma ve Güvenlik (19)",
+      "uye_sayisi": "451"
+    },
+    {
+      "ad": "Türkiye Genel Hizmetler İşçileri Sendikası",
+      "kisaltma": "GENEL-İŞ",
+      "konfederasyon": "Türkiye Devrimci İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1962",
+      "genel_baskan": "Kani BEKO",
+      "is_kolu": "Genel İşler (20)",
+      "uye_sayisi": "45.810"
+    },
+    {
+      "ad": "Öz Ormancılık ve Tarım, Avcılık ve Balıkçılık İşçileri Sendikası",
+      "kisaltma": "ÖZ ORMAN-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2003",
+      "genel_baskan": "Settar ASLAN",
+      "is_kolu": "Avcılık, Balıkçılık, Tarım ve Ormancılık (1)",
+      "uye_sayisi": "25.947"
+    },
+    {
+      "ad": "Öz Tütün, Müskirat, Gıda Sanayii ve Yardımcı İşçileri Sendikası",
+      "kisaltma": "ÖZ GIDA-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1976",
+      "genel_baskan": "Mehmet ŞAHİN",
+      "is_kolu": "Gıda Sanayii (2)",
+      "uye_sayisi": "35,549"
+    },
+    {
+      "ad": "Maden İşçileri Sendikası",
+      "kisaltma": "ÖZ MADEN-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "Fahrettin KÜTÜKÇÜ",
+      "is_kolu": "Madencilik ve Taş Ocakları (3)",
+      "uye_sayisi": "3,089"
+    },
+    {
+      "ad": "Petrol, Kimya, Lastik, Plastik İşçileri Sendikası",
+      "kisaltma": "ÖZ PETROL-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2003",
+      "genel_baskan": "Kudret ÖRGEL",
+      "is_kolu": "Petrol, Kimya, Lastik, Plastik ve İlaç (4)",
+      "uye_sayisi": "3,595"
+    },
+    {
+      "ad": "Tüm Dokuma, İplik, Trikotaj ve Giyim Sanayii İşçileri Sendikası",
+      "kisaltma": "ÖZ İPLİK-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1978",
+      "genel_baskan": "Rafi AY",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "43,254"
+    },
+    {
+      "ad": "Ağaç, Mantar, Sunta ve Mobilya Sanayii İşçileri Sendikası",
+      "kisaltma": "ÖZ AĞAÇ-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1980",
+      "genel_baskan": "Tuncay DOLU",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "12,389"
+    },
+    {
+      "ad": "Medya İşçileri Sendikası",
+      "kisaltma": "MEDYA-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2012",
+      "genel_baskan": "Sezai BALLI",
+      "is_kolu": "Basın, Yayın ve Gazetecilik (8)",
+      "uye_sayisi": "5,565"
+    },
+    {
+      "ad": "Öz Banka ve Sigorta Çalışanları Sendikası",
+      "kisaltma": "ÖZ FİNANS-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Ahmet EROĞLU",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "43,273"
+    },
+    {
+      "ad": "Banka ve Sigorta İşçileri Sendikası",
+      "kisaltma": "BASS",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1972",
+      "genel_baskan": "Turgut YILMAZ",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "16.233"
+    },
+    {
+      "ad": "Büro, Eğitim, Güzel Sanatlar, Ticaret ve Kooperatif İşçileri Sendikası",
+      "kisaltma": "ÖZ BÜRO-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "Abdülbaki GÜLBABA",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "47.056"
+    },
+    {
+      "ad": "Toprak, Çimento, Seramik ve Cam İşçileri Sendikası",
+      "kisaltma": "ÖZ TOPRAK-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Metin ÖZBEN",
+      "is_kolu": "Çimento, Toprak ve Cam (11)",
+      "uye_sayisi": "3.464"
+    },
+    {
+      "ad": "Demir, Çelik, Metal ve Metal Mamulleri İşçileri Sendikası",
+      "kisaltma": "ÇELİK-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1965",
+      "genel_baskan": "A. Cengiz GÜL",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "30.424"
+    },
+    {
+      "ad": "Enerji İşçileri Sendikası",
+      "kisaltma": "ENERJİ-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Mahmud ALTUNSOY",
+      "is_kolu": "Enerji (14)",
+      "uye_sayisi": "72"
+    },
+    {
+      "ad": "Öz Hava, Kara ve Demiryolu Taşıma İş Sendikası",
+      "kisaltma": "ÖZ TAŞIMA-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Mustafa TORUNTAY",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "8.476"
+    },
+    {
+      "ad": "Türkiye Liman ve Kara Tahmil-Tahliye İşçileri Sendikası",
+      "kisaltma": "LİMAN-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1963",
+      "genel_baskan": "Önder AVCI",
+      "is_kolu": "Gemi Yapımı ve Deniz Taşımacılığı ve Antropoculuk (16)",
+      "uye_sayisi": "3.647"
+    },
+    {
+      "ad": "Öz Sağlık ve Sosyal Hizmet İşçileri Sendikası",
+      "kisaltma": "ÖZ SAĞLIK-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Devlet SERT",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler (17)",
+      "uye_sayisi": "199.587"
+    },
+    {
+      "ad": "Türkiye Otel, Lokanta ve Eğlence Yerleri İşçileri Sendikası",
+      "kisaltma": "OLEYİS",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1969",
+      "genel_baskan": "Vedat BOKE",
+      "is_kolu": "Konaklama ve Eğlence İşleri (18)",
+      "uye_sayisi": "8.238"
+    },
+    {
+      "ad": "Futbol Çalışanları Sendikası",
+      "kisaltma": "FUTBOL-SEN",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2012",
+      "genel_baskan": "Rahim ZAFER",
+      "is_kolu": "Konaklama ve Eğlence İşleri (18)",
+      "uye_sayisi": "247"
+    },
+    {
+      "ad": "Öz Savunma ve Güvenlik İşçileri Sendikası",
+      "kisaltma": "ÖZ-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "Sedat SEVİNÇ",
+      "is_kolu": "Savunma ve Güvenlik (19)",
+      "uye_sayisi": "6.621"
+    },
+    {
+      "ad": "Tüm Belediye ve Genel Hizmet İşçileri Sendikası",
+      "kisaltma": "HİZMET-İŞ",
+      "konfederasyon": "Hak İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "1979",
+      "genel_baskan": "Mahmut ARSLAN",
+      "is_kolu": "Genel İşler (20)",
+      "uye_sayisi": "83.076"
+    },
+    {
+      "ad": "Pak Tarım ve Orman İşçileri Sendikası",
+      "kisaltma": "PAK T. ORMAN İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "İlhan POLAT",
+      "is_kolu": "Avcılık, Balıkçılık, Tarım ve Ormancılık (1)",
+      "uye_sayisi": "24"
+    },
+    {
+      "ad": "Pak Gıda İşçileri Sendikası",
+      "kisaltma": "PAK GIDA-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Nazif YALILI",
+      "is_kolu": "Gıda Sanayii (2)",
+      "uye_sayisi": "87"
+    },
+    {
+      "ad": "Pak Maden İşçileri Sendikası",
+      "kisaltma": "PAK MADEN-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Nevzat Korkut",
+      "is_kolu": "Madencilik ve Taş Ocakları (3)",
+      "uye_sayisi": "374"
+    },
+    {
+      "ad": "Pak Petrol İşçileri Sendikası",
+      "kisaltma": "PAK PETROL-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Mehmet BAKIRCI",
+      "is_kolu": "Petrol, Kimya, Lastik, Plastik ve İlaç (4)",
+      "uye_sayisi": "39"
+    },
+    {
+      "ad": "Pak Tekstil İşçileri Sendikası",
+      "kisaltma": "PAK TEKSTİL-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Selim DEMİRALP",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "86"
+    },
+    {
+      "ad": "Pak Ağaç İşçileri Sendikası",
+      "kisaltma": "PAK AĞAÇ-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Mehmet TOKTEMUR",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "28"
+    },
+    {
+      "ad": "Pak İletişim İşçileri Sendikası",
+      "kisaltma": "PAK İLETİŞİM-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Bilal ÖZTÜRK",
+      "is_kolu": "İletişim (7)",
+      "uye_sayisi": "22"
+    },
+    {
+      "ad": "Pak Medya İşçileri Sendikası",
+      "kisaltma": "PAK MEDYA-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "İsmail TOPÇUOĞLU",
+      "is_kolu": "Basın, Yayın ve Gazetecilik (8)",
+      "uye_sayisi": "47"
+    },
+    {
+      "ad": "Pak Finans İşçileri Sendikası",
+      "kisaltma": "PAK FİNANS-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Mustafa Güler",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "63"
+    },
+    {
+      "ad": "Pak Eğitim İşçileri Sendikası",
+      "kisaltma": "PAK EĞİTİM-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Mehmet Batur",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "8.391"
+    },
+    {
+      "ad": "Pak Toprak İşçileri Sendikası",
+      "kisaltma": "PAK TOPRAK-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Ali Dolgunyürek",
+      "is_kolu": "Çimento, Toprak ve Cam (11)",
+      "uye_sayisi": "9"
+    },
+    {
+      "ad": "Pak Metal İşçileri Sendikası",
+      "kisaltma": "PAK METAL-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Yavuz KOCAMAN",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "152"
+    },
+    {
+      "ad": "Pak İnşaat İşçileri Sendikası",
+      "kisaltma": "PAK İNŞAAT-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Resul KILINÇ",
+      "is_kolu": "İnşaat (13)",
+      "uye_sayisi": "243"
+    },
+    {
+      "ad": "Pak Enerji İşçileri Sendikası",
+      "kisaltma": "PAK ENERJİ-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Murat BİNGÖL",
+      "is_kolu": "Enerji (14)",
+      "uye_sayisi": "39"
+    },
+    {
+      "ad": "Pak Taşıma İşçileri Sendikası",
+      "kisaltma": "PAK TAŞIMA-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Davut SUŞEHİRLİ",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "139"
+    },
+    {
+      "ad": "Pak Deniz İşçileri Sendikası",
+      "kisaltma": "PAK DENİZ-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Ahmet Gürkan YALÇIN",
+      "is_kolu": "Gemi Yapımı ve Deniz Taşımacılığı ve Antropoculuk (16)",
+      "uye_sayisi": "34"
+    },
+    {
+      "ad": "Pak Sağlık İşçileri Sendikası",
+      "kisaltma": "PAK SAĞLIK-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Cuma Kılıç",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler (17)",
+      "uye_sayisi": "239"
+    },
+    {
+      "ad": "Pak Turizm İşçileri Sendikası",
+      "kisaltma": "PAK TURİZM-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Musa UYAR",
+      "is_kolu": "Konaklama ve Eğlence İşleri (18)",
+      "uye_sayisi": "392"
+    },
+    {
+      "ad": "Pak Savunma İşçileri Sendikası",
+      "kisaltma": "PAK SAVUNMA-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Yasin TUNAR",
+      "is_kolu": "Savunma ve Güvenlik (19)",
+      "uye_sayisi": "51"
+    },
+    {
+      "ad": "Pak Hizmet İşçileri Sendikası",
+      "kisaltma": "PAK HİZMET-İŞ",
+      "konfederasyon": "Aksiyon İşçi Sendikaları Konfederasyonu",
+      "tur": "İşçi sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Tahir ÇETİNKAYA",
+      "is_kolu": "Genel İşler (20)",
+      "uye_sayisi": "627"
+    },
+    {
+      "ad": "Birleşmiş Sağlık ve Sosyal Hizmetler İşçileri Sendikası",
+      "kisaltma": "BİR SAĞLIK-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "2021",
+      "genel_baskan": "Cihan OKÇU",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler (17)",
+      "uye_sayisi": "2340"
+    },
+    {
+      "ad": "Türkiye Banka ve Sigorta İşçileri Sendikası",
+      "kisaltma": "BANKSİS",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "1983",
+      "genel_baskan": "İ. Semih ÖZEN",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "12.105"
+    },
+    {
+      "ad": "Metal Sanayii İşçileri Sendikası",
+      "kisaltma": "METSAN-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Ersin AKBİN",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "33"
+    },
+    {
+      "ad": "İlaç, Kimya, Petrol ve Lastik Sanayii İşçileri Sendikası",
+      "kisaltma": "İLKİM-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Osman YILDIRIM",
+      "is_kolu": "Petrol, Kimya, Lastik, Plastik ve İlaç (4)",
+      "uye_sayisi": "16"
+    },
+    {
+      "ad": "Banka ve Sigorta İşçileri Sendikası",
+      "kisaltma": "BANK-Sİ-SEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Hacı Bayram SOLMAZ",
+      "is_kolu": "Banka, Finans ve Sigorta (9)",
+      "uye_sayisi": "250"
+    },
+    {
+      "ad": "Makina ve Kalıp Yapımı İşçileri Sendikası",
+      "kisaltma": "KALIP-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Fatih TEKİN",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "100"
+    },
+    {
+      "ad": "Bilgi İşlem İşçileri Sendikası",
+      "kisaltma": "BİL-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Muharrem NALBANT",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "143"
+    },
+    {
+      "ad": "Çelik Yapı İşçileri Sendikası",
+      "kisaltma": "ÇEŞEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Ferhat KOÇ",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "76"
+    },
+    {
+      "ad": "Yapım, Ağaç, Prefabrik Sanayii İşçileri Sendikası",
+      "kisaltma": "YAPSAN-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Meryem BAŞÇI",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "18"
+    },
+    {
+      "ad": "Türkiye İnşaat Sanayii İşçileri Sendikası",
+      "kisaltma": "İNSAN-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Süleyman AKKAYA",
+      "is_kolu": "İnşaat (13)",
+      "uye_sayisi": "1.458"
+    },
+    {
+      "ad": "Baraj Enerji Su ve Gaz İşçileri Sendikası",
+      "kisaltma": "YENİ BES-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Mustafa UYAN",
+      "is_kolu": "Enerji (14)",
+      "uye_sayisi": "48"
+    },
+    {
+      "ad": "Dokuma ve Örme İşçileri Sendikası",
+      "kisaltma": "DOKU ÖR-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Hacı Arap ŞENEL",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "92"
+    },
+    {
+      "ad": "Trikotaj, Örme, Boyama, Giyecek ve İplik Sanayii İşçileri Sendikası",
+      "kisaltma": "TÖBGİS",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Durmuş Ali CÖMERT",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "-"
+    },
+    {
+      "ad": "Türkiye Yazarlar Sendikası",
+      "kisaltma": "TYS",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Ertan MISIRLI",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "0"
+    },
+    {
+      "ad": "Müzik ve Sahne Sanatçıları Sendikası",
+      "kisaltma": "MÜZİK-SEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Mehmet ÇIRIKA",
+      "is_kolu": "Ticaret, Büro, Eğitim ve Güzel Sanatlar (10)",
+      "uye_sayisi": "12"
+    },
+    {
+      "ad": "Enerji Sanayii İşçileri Sendikası",
+      "kisaltma": "ENSAN-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "A. Kemal AYDINBAŞ",
+      "is_kolu": "Enerji (14)",
+      "uye_sayisi": "90"
+    },
+    {
+      "ad": "Turizm, Konaklama ve Eğlence Sanayii İşçileri Sendikası",
+      "kisaltma": "TURKON-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "İbrahim AKKAYA",
+      "is_kolu": "Konaklama ve Eğlence İşleri (18)",
+      "uye_sayisi": "6.510"
+    },
+    {
+      "ad": "Tüm Sağlık Hizmetleri İşçileri Sendikası",
+      "kisaltma": "SIHHAT-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Erdal ÖZER",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler (17)",
+      "uye_sayisi": "590"
+    },
+    {
+      "ad": "Tüm Belediye ve Konut İşçileri Sendikası",
+      "kisaltma": "KONUT-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Alican KAYHAN",
+      "is_kolu": "Genel İşler (20)",
+      "uye_sayisi": "187"
+    },
+    {
+      "ad": "Demir, Çelik, Metal ve Oto Sanayii İşçileri Sendikası",
+      "kisaltma": "TEK METAL-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Dursun AKSEL",
+      "is_kolu": "Metal (12)",
+      "uye_sayisi": "702"
+    },
+    {
+      "ad": "Bağımsız Tekstil İşçileri Sendikası",
+      "kisaltma": "BATİS",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Metin BURAK",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "1.895"
+    },
+    {
+      "ad": "Dokuma, Örme, Boyama, Trikotaj ve Giyim İşçileri Sendikası",
+      "kisaltma": "DOKUMA-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Ramazan KAP",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "-"
+    },
+    {
+      "ad": "Temizlik İşçileri Sendikası",
+      "kisaltma": "TEM-İŞ SEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Sami GÜNDOĞDU",
+      "is_kolu": "",
+      "uye_sayisi": "-"
+    },
+    {
+      "ad": "Tekstil, Dokuma, Örme, Trikotaj, Boyama İşçileri Sendikası",
+      "kisaltma": "TEKSTİL-SEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Engin GÜL",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "-"
+    },
+    {
+      "ad": "Taşımacılık ve Kargo Sanayii İşçileri Sendikası",
+      "kisaltma": "KARSAN-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Hülya SOYBAŞ",
+      "is_kolu": "Taşımacılık (15)",
+      "uye_sayisi": "536"
+    },
+    {
+      "ad": "Kağıt, Ambalaj ve Selüloz İşçileri Sendikası",
+      "kisaltma": "ÖZ KAĞIT-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "",
+      "genel_baskan": "Kemal YILMAZ",
+      "is_kolu": "Ağaç ve Kağıt (6)",
+      "uye_sayisi": "682"
+    },
+    {
+      "ad": "Birleşik Tekstil Dokuma ve Deri İşçileri Sendikası",
+      "kisaltma": "BİRTEK-SEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "2022",
+      "genel_baskan": "Mehmet Türkmen",
+      "is_kolu": "Dokuma, Hazır Giyim ve Deri (5)",
+      "uye_sayisi": "-"
+    },
+    {
+      "ad": "Çağrı Merkezi, Posta, Telefon, Telgraf, Telekomünikasyon, İnternet ve İletişim İşçileri Sendikası",
+      "kisaltma": "ÇAĞRI-İŞ",
+      "konfederasyon": "Bağımsız",
+      "tur": "İşçi sendikası",
+      "kurulus": "2022",
+      "genel_baskan": "Cihan Sezer",
+      "is_kolu": "İLETİŞİM (7)",
+      "uye_sayisi": "2051"
+    },
+    {
+      "ad": "Büro Emekçileri Sendikası",
+      "kisaltma": "BES",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1998",
+      "genel_baskan": "Fikret ASLAN",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "19.473"
+    },
+    {
+      "ad": "Eğitim ve Bilim Emekçileri Sendikası",
+      "kisaltma": "EĞİTİM-SEN",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1995",
+      "genel_baskan": "Kamuran KARACA",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "129.259"
+    },
+    {
+      "ad": "Sağlık ve Sosyal Hizmet Emekçileri Sendikası",
+      "kisaltma": "SES",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1996",
+      "genel_baskan": "Gönül ERDEN",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "41.225"
+    },
+    {
+      "ad": "Tüm Belediye ve Yerel Yönetim Hizmetleri Emekçileri Sendikası",
+      "kisaltma": "TÜM-BEL-SEN",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1990",
+      "genel_baskan": "Ömer Salih EROL",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "28.824"
+    },
+    {
+      "ad": "Basın Yayın İletişim ve Posta Emekçileri Sendikası",
+      "kisaltma": "HABER-SEN",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1996",
+      "genel_baskan": "Cemalettin Yüksel",
+      "is_kolu": "(5) Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": "3.200"
+    },
+    {
+      "ad": "Kültür ve Sanat Emekçileri Sendikası",
+      "kisaltma": "KÜLTÜR-SANAT SEN",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Yavuz DEMİRKAYA",
+      "is_kolu": "(6) Kültür ve Sanat Hizmetleri",
+      "uye_sayisi": "4.440"
+    },
+    {
+      "ad": "Yol, Yapı, Altyapı, Tapu ve Kadastro Emekçileri Sendikası",
+      "kisaltma": "YAPIYOL-SEN",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1995",
+      "genel_baskan": "Haydar Arslan",
+      "is_kolu": "(7) Bayındırlık, İnşaat ve Köy Hizmetleri",
+      "uye_sayisi": "3.959"
+    },
+    {
+      "ad": "Birleşik Taşımacılık Çalışanları Sendikası",
+      "kisaltma": "BTS",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1994",
+      "genel_baskan": "Nazım KARAKURT",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": "2.336"
+    },
+    {
+      "ad": "Tarım Ormancılık Hizmet Kolu Kamu Emekçileri Sendikası",
+      "kisaltma": "TARIM ORKAM-SEN",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Hamit KURT",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "3.292"
+    },
+    {
+      "ad": "Enerji Sanayi ve Maden Kamu Emekçileri Sendikası",
+      "kisaltma": "ESM",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Mustafa ŞENOĞLU",
+      "is_kolu": "(10) Enerji, Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": "2.981"
+    },
+    {
+      "ad": "Diyanet ve Vakıf Emekçileri Sendikası",
+      "kisaltma": "DİVES",
+      "konfederasyon": "Kamu Emekçileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Lokman ÖZDEMİR",
+      "is_kolu": "(11) Diyanet ve Vakıf Hizmetleri",
+      "uye_sayisi": "711"
+    },
+    {
+      "ad": "Türkiye Büro Çalışanları Sendikası",
+      "kisaltma": "TÜRK BÜRO-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Fahrettin YOKUŞ",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "45.010"
+    },
+    {
+      "ad": "Türkiye Eğitim ve Öğretim Bilim Hizmetleri Kolu Kamu Çalışanları Sendikası",
+      "kisaltma": "TÜRK EĞİTİM-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "İsmail KONCUK",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "220.041"
+    },
+    {
+      "ad": "Türkiye Sağlık ve Sosyal Hizmetler Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "TÜRK SAĞLIK-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Önder KAHVECİ",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "95.244"
+    },
+    {
+      "ad": "Türkiye Yerel Yönetim Hizmetleri Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "T. YEREL HİZMET-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "İlhan KOYUNCU",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "14.103"
+    },
+    {
+      "ad": "Türkiye Haberleşme, Kağıt ve Basın-Yayın Hizmet Kolu Kamu Çalışanları Sendikası",
+      "kisaltma": "TÜRK HABER-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Sedat YILMAZ",
+      "is_kolu": "(5) Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": "8.602"
+    },
+    {
+      "ad": "Türkiye Kültür ve Sanat Hizmetleri Kamu Görevlileri Sendikası",
+      "kisaltma": "T. KÜLTÜR-SANAT SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2001",
+      "genel_baskan": "Hüseyin YILMAZ",
+      "is_kolu": "(6) Kültür ve Sanat Hizmetleri",
+      "uye_sayisi": "2.615"
+    },
+    {
+      "ad": "Türkiye İmar ve İnşa Hizmetleri Kamu Görevlileri Sendikası",
+      "kisaltma": "TÜRK İMAR-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Necati ALSANCAK",
+      "is_kolu": "(7) Bayındırlık, İnşaat ve Köy Hizmetleri",
+      "uye_sayisi": "7.076"
+    },
+    {
+      "ad": "Türkiye Ulaştırma Hizmet Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "TÜRK ULAŞIM-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Şerafeddin DENİZ",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": "6.918"
+    },
+    {
+      "ad": "Türkiye Tarım-Orman ve Gıda Hizmet Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "TÜRK T. ORMAN-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Ahmet DEMİRCİ",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "11.984"
+    },
+    {
+      "ad": "Türkiye Enerji, Sanayi ve Madencilik Hizmet Kolu Kamu Çalışanları Sendikası",
+      "kisaltma": "TÜRK ENERJİ-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Mehmet ÖZER",
+      "is_kolu": "(10) Enerji, Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": "6.466"
+    },
+    {
+      "ad": "Türkiye Diyanet ve Vakıf Hizmetleri Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "T. DİYANET VAKIF-SEN",
+      "konfederasyon": "Türkiye Kamu Çalışanları Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2001",
+      "genel_baskan": "H. Zeki SERGİ",
+      "is_kolu": "(11) Diyanet ve Vakıf Hizmetleri",
+      "uye_sayisi": "18.629"
+    },
+    {
+      "ad": "Büro Memurları Sendikası",
+      "kisaltma": "BÜRO MEMUR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1995",
+      "genel_baskan": "Uğur ÜNALAN",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "50.616"
+    },
+    {
+      "ad": "Eğitimciler Birliği Sendikası",
+      "kisaltma": "EĞİTİM BİR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Ahmet GÜNDOĞDU",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "340.365"
+    },
+    {
+      "ad": "Sağlık ve Sosyal Hizmet Çalışanları Sendikası",
+      "kisaltma": "SAĞLIK-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1995",
+      "genel_baskan": "Mahmut Faruk DOĞAN",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "205.773"
+    },
+    {
+      "ad": "Belediye ve Özel İdare Çalışanları Birliği Sendikası",
+      "kisaltma": "BEM BİR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1994",
+      "genel_baskan": "Mürsel TURBAY",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "61.097"
+    },
+    {
+      "ad": "Birlik Haberleşme ve İletişim Çalışanları Sendikası",
+      "kisaltma": "BİRLİK HABER-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1992",
+      "genel_baskan": "Gürbüz İNALTEKİN",
+      "is_kolu": "(5) Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": "14.446"
+    },
+    {
+      "ad": "Kültür, Turizm ve Sanat Çalışanları Sendikası",
+      "kisaltma": "KÜLTÜR MEMUR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2003",
+      "genel_baskan": "Mecit ERDOĞAN",
+      "is_kolu": "(6) Kültür ve Sanat Hizmetleri",
+      "uye_sayisi": "4.515"
+    },
+    {
+      "ad": "Bayındır, İnşaat, Yol, Yapı, Tapu ve Kadastro Çalışanları Birliği Sendikası",
+      "kisaltma": "BAYINDIR MEMUR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Abdulhadi KARASAPAN",
+      "is_kolu": "(7) Bayındırlık, İnşaat ve Köy Hizmetleri",
+      "uye_sayisi": "12.923"
+    },
+    {
+      "ad": "Ulaştırma Çalışanları Memur Sendikası",
+      "kisaltma": "ULAŞTIRMA MEMUR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2003",
+      "genel_baskan": "Can CANKESEN",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": "9.747"
+    },
+    {
+      "ad": "Tarım-Orman Çalışanları Birliği Sendikası",
+      "kisaltma": "TOÇ BİR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2001",
+      "genel_baskan": "Günay KAYA",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "36.769"
+    },
+    {
+      "ad": "Enerji, Sanayi ve Madencilik Hizmetleri Çalışanları Birliği Sendikası",
+      "kisaltma": "ENERJİ BİR-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1995",
+      "genel_baskan": "Hacı Bayram TONBUL",
+      "is_kolu": "(10) Enerji, Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": "15.363"
+    },
+    {
+      "ad": "Türkiye Diyanet ve Vakıf Görevlileri Sendikası",
+      "kisaltma": "DİYANET-SEN",
+      "konfederasyon": "Memur Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "1998",
+      "genel_baskan": "Mehmet BAYRAKTUTAR",
+      "is_kolu": "(11) Diyanet ve Vakıf Hizmetleri",
+      "uye_sayisi": "71.679"
+    },
+    {
+      "ad": "Anadolu Eğitim Sendikası",
+      "kisaltma": "AES",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2005",
+      "genel_baskan": "Mehmet Alper ÖĞRETİCİ",
+      "is_kolu": "Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "1006"
+    },
+    {
+      "ad": "Bağımsız Enerji Sanayi Madencilik Hizmet Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "Bağımsız Enerji Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Musa CANLI",
+      "is_kolu": "Enerji Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": "229"
+    },
+    {
+      "ad": "Bağımsız Tarım Orman Ve Çevre Sendikası",
+      "kisaltma": "BATOÇ-SEN",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "Erdal BAYRAM",
+      "is_kolu": "Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "86"
+    },
+    {
+      "ad": "Bağımsız Büro Hizmet Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "Bağımsız Büro Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Erkut DEMİRCİ",
+      "is_kolu": "Büro Bankacılık ve Sigortacılık",
+      "uye_sayisi": "173"
+    },
+    {
+      "ad": "Bağımsız Ulaştırma Çalışanları Sendikası",
+      "kisaltma": "BUSEN",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Tuncay ALTIN",
+      "is_kolu": "Ulaştırma Hizmetleri",
+      "uye_sayisi": "18"
+    },
+    {
+      "ad": "Bağımsız Yapı Ve İmar Çalışanları Sendikası",
+      "kisaltma": "Bağımsız Yapı İmar Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Bayram Zengin",
+      "is_kolu": "Bayındırlık, İnşaat ve Köy Hizmetleri",
+      "uye_sayisi": "81"
+    },
+    {
+      "ad": "Bağımsız Haberleşme Ve Basın-Yayın Hizmet Kolu Kamu Görevlileri Sendikası",
+      "kisaltma": "Bağımsız Haber Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Halil Altay KAN",
+      "is_kolu": "Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": "77"
+    },
+    {
+      "ad": "Bağımsız Sağlık Ve Sosyal Hizmetler Kamu Görevlileri Sendikası",
+      "kisaltma": "Bağımsız Sağlık Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Sami AYYILDIZ",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "234"
+    },
+    {
+      "ad": "Birlik Sağlık Ve Sosyal Hizmet Çalışanları Sendikası",
+      "kisaltma": "Birlik Sağlık Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2020",
+      "genel_baskan": "Ahmet DOĞRUYOL",
+      "is_kolu": "Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "1022"
+    },
+    {
+      "ad": "Birlik Yerel Yönetim Çalışanları Sendikası",
+      "kisaltma": "Birlik Yerel Sen",
+      "konfederasyon": "Bağımsız Kamu Görevlileri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2022",
+      "genel_baskan": "Reşat BOZAT",
+      "is_kolu": "Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "140"
+    },
+    {
+      "ad": "Büro Hizmet Kolu Kamu Çalışanları Sendikası",
+      "kisaltma": "BÜRO-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2006",
+      "genel_baskan": "Haydar ŞAHİNDOKUYUCU",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "1.815"
+    },
+    {
+      "ad": "Eğitim ve Bilim İşgörenleri Sendikası",
+      "kisaltma": "EĞİTİM-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2005",
+      "genel_baskan": "Veli Demir",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "41.050"
+    },
+    {
+      "ad": "Genel Sağlık ve Sosyal Hizmet Kolu Kamu Çalışanları Sendikası",
+      "kisaltma": "GENEL SAĞLIK-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "Ali GÜL",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "1.380"
+    },
+    {
+      "ad": "Tüm Yerel Yönetim Çalışanları Sendikası",
+      "kisaltma": "TÜM YEREL-SEN",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Mücahit DEDE",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "20.300"
+    },
+    {
+      "ad": "Kültür ve Sanat Hizmet Kolu Kamu İşgörenleri Sendikası",
+      "kisaltma": "KÜLTÜR SANAT-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "Şahin ÇULCUOĞLU",
+      "is_kolu": "(6) Kültür ve Sanat Hizmetleri",
+      "uye_sayisi": "292"
+    },
+    {
+      "ad": "Ulaştırma Hizmet Kolu Kamu Emekçileri Sendikası",
+      "kisaltma": "ULAŞIM-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "Adem ÇALIŞKAN",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": "94"
+    },
+    {
+      "ad": "Tarım Ormancılık Hizmet Kolu Kamu Emekçileri Sendikası",
+      "kisaltma": "TARIM ORMAN-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2010",
+      "genel_baskan": "Şükrü DURMUŞ",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "960"
+    },
+    {
+      "ad": "Enerji, Sanayi ve Madencilik Hizmet Kolu İşyerleri Kamu Çalışanları Sendikası",
+      "kisaltma": "ENERJİ-İŞ",
+      "konfederasyon": "Birleşik Kamu İşgörenleri Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2013",
+      "genel_baskan": "Volkan TÜRKYILMAZ",
+      "is_kolu": "(10) Enerji, Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": "168"
+    },
+    {
+      "ad": "Büro Çalışanları Hak Sendikası",
+      "kisaltma": "BÜRO HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2002",
+      "genel_baskan": "Ayhan ÇİVİ",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "1.309"
+    },
+    {
+      "ad": "Eğitim, Öğretim ve Bilim Çalışanları Hak Sendikası",
+      "kisaltma": "EĞİTİM HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Hanifi GÖKÇEK",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "1.109"
+    },
+    {
+      "ad": "Sağlık Ve Sosyal Hizmet Çalışanları Hak Sendikası",
+      "kisaltma": "SAĞLIK HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Selahattin KARACA",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "778"
+    },
+    {
+      "ad": "Yerel Yönetim Çalışanları Hak Sendikası",
+      "kisaltma": "YEREL HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2008",
+      "genel_baskan": "Erol UÇAR",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "214"
+    },
+    {
+      "ad": "Basın, Yayın, İletişim ve Posta Çalışanları Hak Sendikası",
+      "kisaltma": "HABER HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Yılmaz KAYA",
+      "is_kolu": "(5) Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": "19"
+    },
+    {
+      "ad": "Kültür, Sanat ve Turizm Çalışanları Hak Sendikası",
+      "kisaltma": "KÜLTÜR HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2011",
+      "genel_baskan": "",
+      "is_kolu": "(6) Kültür ve Sanat Hizmetleri",
+      "uye_sayisi": "18"
+    },
+    {
+      "ad": "İmar Çalışanları Hak Sendikası",
+      "kisaltma": "İMAR HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2008",
+      "genel_baskan": "Önder ÖZDEMİR",
+      "is_kolu": "(7) Bayındırlık, İnşaat ve Köy Hizmetleri",
+      "uye_sayisi": "735"
+    },
+    {
+      "ad": "Ulaştırma ve Demiryolu Çalışanları Hak Sendikası",
+      "kisaltma": "UDEM HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2009",
+      "genel_baskan": "Abdullah PEKER",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": "30"
+    },
+    {
+      "ad": "Tarım Orman ve Çevre Hak Sendikası",
+      "kisaltma": "TOÇ HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Necmettin AKARSLAN",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "244"
+    },
+    {
+      "ad": "Enerji, Sanayi ve Madencilik Çalışanları Hak Sendikası",
+      "kisaltma": "ENERJİ HAK-SEN",
+      "konfederasyon": "Kamu Çalışanları Hak Sendikaları Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2007",
+      "genel_baskan": "Şevki ŞARLIOĞLU",
+      "is_kolu": "(10) Enerji, Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": "26"
+    },
+    {
+      "ad": "Türkiye Demokratik Ofis Çalışanları Sendikası",
+      "kisaltma": "DEMOKRATİK OFİS-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "301"
+    },
+    {
+      "ad": "Demokratik Eğitim Çalışanları Sendikası",
+      "kisaltma": "DEMOKRATİK EĞİTİM SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": "58"
+    },
+    {
+      "ad": "Anadolu Sağlık ve Sosyal Hizmet Çalışanları Sendikası",
+      "kisaltma": "ANADOLU SAĞLIK-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "303"
+    },
+    {
+      "ad": "Demokratik Belediye ve Özel İdare Çalışanları Birliği Sendikası",
+      "kisaltma": "BELBİR-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": "91"
+    },
+    {
+      "ad": "Türkiye Demokrat Haberleşme Çalışanları Sendikası",
+      "kisaltma": "DEMOKRAT HABER-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(5) Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": "11"
+    },
+    {
+      "ad": "Ulaştırma Faal Memur Sendikası",
+      "kisaltma": "ULAŞTIRMA FAAL-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": "13"
+    },
+    {
+      "ad": "Demokratik Tarım, Orman ve Çevre Çalışanları Sendikası",
+      "kisaltma": "DEM-TOÇ-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": "105"
+    },
+    {
+      "ad": "Özerk Diyanet Vakfı Çalışanları Birliği Sendikası",
+      "kisaltma": "DİN BİR-SEN",
+      "konfederasyon": "Demokratik Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "",
+      "genel_baskan": "",
+      "is_kolu": "(11) Diyanet ve Vakıf Hizmetleri",
+      "uye_sayisi": "4.887"
+    },
+    {
+      "ad": "Ufuk Büro Bankacılık Sendikası",
+      "kisaltma": "UFUK BÜRO-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Fatih TEKİN",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Aktif Eğitimciler Sendikası",
+      "kisaltma": "AKTİF EĞİTİM-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Osman BAHÇE",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Sağlık ve Sosyal Bilimler Sendikası",
+      "kisaltma": "UFUK SAĞLIK-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Adnan BAYRAKTAR",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Yerel Yönetimler Sendikası",
+      "kisaltma": "UFUK YEREL-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "",
+      "is_kolu": "(4) Yerel Yönetim Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Basın Yayın Haber Sendikası",
+      "kisaltma": "UFUK HABER-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Özden KINIK",
+      "is_kolu": "(5) Basın, Yayın ve İletişim Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Kültür Sanat Sendikası",
+      "kisaltma": "UFUK KÜLTÜR-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "İsa ERDEM",
+      "is_kolu": "(6) Kültür ve Sanat Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Bayındırlık Sendikası",
+      "kisaltma": "UFUK BAYINDIR-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "",
+      "is_kolu": "(7) Bayındırlık, İnşaat ve Köy Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Ulaştırma Sendikası",
+      "kisaltma": "UFUK ULAŞTIRMA-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Fatih ERBA",
+      "is_kolu": "(8) Ulaştırma Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Tarım Orman Sendikası",
+      "kisaltma": "UFUK TARIM-ORMAN-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Cemalettin ÇELİK",
+      "is_kolu": "(9) Tarım ve Ormancılık Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Ufuk Enerji Sendikası",
+      "kisaltma": "UFUK ENERJİ-SEN",
+      "konfederasyon": "Cihan Sendikalar Konfederasyonu",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2014",
+      "genel_baskan": "Bayram Ali BAHADIR",
+      "is_kolu": "(10) Enerji, Sanayi ve Madencilik Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Adalet Büro Sendikası",
+      "kisaltma": "Adalet Büro-Sen",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2009",
+      "genel_baskan": "Ömer Ali Kalemoğulları",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": "6.200 (2015 gayriresmi sayısı)"
+    },
+    {
+      "ad": "Demokrat Eğitimciler Sendikası",
+      "kisaltma": "DES",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2010",
+      "genel_baskan": "İshak Çelebi",
+      "is_kolu": "(2) Eğitim, Öğretim ve Bilim Hizmetleri",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Tabip ve Diğer Sağlık Çalışanları Sağlık ve Sosyal Hizmetler Kamu Görevlileri Sendikası",
+      "kisaltma": "TABİP-SEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2021",
+      "genel_baskan": "Dr. Av. Ahmet Erçek",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "2.425"
+    },
+    {
+      "ad": "Hekim ve Diğer Sağlık Çalışanları, Kamu Sağlık ve Sosyal Hizmetler Sendikası",
+      "kisaltma": "HEKİMSEN",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2019",
+      "genel_baskan": "Uzm.Dr. Adil Kurban",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "18.243"
+    },
+    {
+      "ad": "Hekim Birliği, Sağlık ve Sosyal Hizmetler Çalışanları Sendikası",
+      "kisaltma": "HEKİM BİRLİĞİ",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2021",
+      "genel_baskan": "Dr. Yakup Gökhan Doğramacı",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": "19.548"
+    },
+    {
+      "ad": "Mühendis, Teknik Hizmetler ve Diğer Sağlık Hizmetleri Çalışanları Sendikası",
+      "kisaltma": "MÜHENDİS TEK-SEN SAĞLIK",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2024",
+      "genel_baskan": "Mehmet Emin Güler",
+      "is_kolu": "(3) Sağlık ve Sosyal Hizmetler",
+      "uye_sayisi": ""
+    },
+    {
+      "ad": "Özde Büro Hizmetleri Görevlileri Sendikası",
+      "kisaltma": "Büro Özde - Sen",
+      "konfederasyon": "Bağımsız",
+      "tur": "Kamu görevlileri sendikası",
+      "kurulus": "2024",
+      "genel_baskan": "Fatih AYDOĞAN",
+      "is_kolu": "(1) Büro, Bankacılık ve Sigortacılık Hizmetleri",
+      "uye_sayisi": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki sendikalar - Free Download",
+    "description": "Türkiye'deki işçi ve kamu görevlileri sendikalarının listesi; bağlı oldukları konfederasyon, kuruluş yılı, genel başkan, iş kolu ve üye sayısı ile. Contains 207 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki sendikalar | ListBase",
+    "seo_description": "Download Türkiye'deki sendikalar — 207 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 207 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi"
+    ]
+  }
+}
