@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-04T02:13:51.438Z",
-  "total_datasets": 564,
-  "total_records": 605364,
+  "generated": "2026-11-04T02:13:58.279Z",
+  "total_datasets": 565,
+  "total_records": 605429,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -13647,6 +13647,32 @@
         "xlsx": {
           "name": "tr-cemevleri-il-bazinda_TR.xlsx",
           "size": 8277
+        }
+      }
+    },
+    {
+      "id": "tr-dusunce-kuruluslari",
+      "name": "Türkiye'deki düşünce kuruluşları",
+      "category": "society",
+      "record_count": 65,
+      "columns": [
+        "ad",
+        "kisaltma",
+        "merkez",
+        "kurulus_yili",
+        "baglilik"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_düşünce_kuruluşları_listesi",
+      "updated": "2026-11",
+      "size": 14035,
+      "files": {
+        "csv": {
+          "name": "tr-dusunce-kuruluslari_TR.csv",
+          "size": 5711
+        },
+        "xlsx": {
+          "name": "tr-dusunce-kuruluslari_TR.xlsx",
+          "size": 9798
         }
       }
     },
