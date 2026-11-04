@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-04T02:14:13.872Z",
-  "total_datasets": 567,
-  "total_records": 605670,
+  "generated": "2026-11-04T02:14:20.970Z",
+  "total_datasets": 568,
+  "total_records": 605743,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -11270,6 +11270,29 @@
         "xlsx": {
           "name": "tr-yapim-asamasindaki-sehir-hastaneleri_TR.xlsx",
           "size": 7771
+        }
+      }
+    },
+    {
+      "id": "tr-zehirli-mantarlar",
+      "name": "Türkiye'nin zehirli mantarları",
+      "category": "health",
+      "record_count": 73,
+      "columns": [
+        "latince_isim",
+        "ozellikler"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'nin_zehirli_mantarları_listesi",
+      "updated": "2026-11",
+      "size": 11455,
+      "files": {
+        "csv": {
+          "name": "tr-zehirli-mantarlar_TR.csv",
+          "size": 5956
+        },
+        "xlsx": {
+          "name": "tr-zehirli-mantarlar_TR.xlsx",
+          "size": 10259
         }
       }
     },
