@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-03T02:24:10.661Z",
-  "total_datasets": 563,
-  "total_records": 605283,
+  "generated": "2026-11-04T02:13:51.438Z",
+  "total_datasets": 564,
+  "total_records": 605364,
   "categories": [
     {
       "id": "agriculture",
@@ -75,6 +75,10 @@
     {
       "id": "science",
       "dataset_count": 10
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -13620,6 +13624,29 @@
         "xlsx": {
           "name": "tr-depremler_TR.xlsx",
           "size": 16052
+        }
+      }
+    },
+    {
+      "id": "tr-cemevleri-il-bazinda",
+      "name": "Türkiye'deki cemevlerinin illere göre sayısı",
+      "category": "society",
+      "record_count": 81,
+      "columns": [
+        "il",
+        "cemevi_sayisi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_cemevleri_listesi",
+      "updated": "2026-11",
+      "size": 6508,
+      "files": {
+        "csv": {
+          "name": "tr-cemevleri-il-bazinda_TR.csv",
+          "size": 1240
+        },
+        "xlsx": {
+          "name": "tr-cemevleri-il-bazinda_TR.xlsx",
+          "size": 8277
         }
       }
     },
