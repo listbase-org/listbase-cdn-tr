@@ -1,0 +1,250 @@
+{
+  "id": "tr-sendikalasma-oranlari",
+  "name": "Türkiye'de yıllara göre sendikalaşma oranları",
+  "title": "Türkiye'de yıllara göre sendikalaşma oranları",
+  "description": "Türkiye'de 1948'den itibaren yıllara göre toplam işçi sayısı, sendikalı işçi sayısı ve sendikalaşma oranı.",
+  "category": "society",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "yil",
+      "label": "Yil",
+      "type": "number"
+    },
+    {
+      "key": "isci_sayisi",
+      "label": "Isci Sayisi",
+      "type": "string"
+    },
+    {
+      "key": "sendikali_isci_sayisi",
+      "label": "Sendikali Isci Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "sendikalasma_orani",
+      "label": "Sendikalasma Orani",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yil": 1948,
+      "isci_sayisi": "-",
+      "sendikali_isci_sayisi": 52000,
+      "sendikalasma_orani": "-"
+    },
+    {
+      "yil": 1949,
+      "isci_sayisi": "-",
+      "sendikali_isci_sayisi": 72000,
+      "sendikalasma_orani": "-"
+    },
+    {
+      "yil": 1950,
+      "isci_sayisi": 292608,
+      "sendikali_isci_sayisi": 78000,
+      "sendikalasma_orani": "%26.65"
+    },
+    {
+      "yil": 1951,
+      "isci_sayisi": 382024,
+      "sendikali_isci_sayisi": 110000,
+      "sendikalasma_orani": "%28.79"
+    },
+    {
+      "yil": 1952,
+      "isci_sayisi": 447963,
+      "sendikali_isci_sayisi": 130000,
+      "sendikalasma_orani": "%29.02"
+    },
+    {
+      "yil": 1953,
+      "isci_sayisi": 494024,
+      "sendikali_isci_sayisi": 140000,
+      "sendikalasma_orani": "%28.33"
+    },
+    {
+      "yil": 1954,
+      "isci_sayisi": 510344,
+      "sendikali_isci_sayisi": 180387,
+      "sendikalasma_orani": "%35.34"
+    },
+    {
+      "yil": 1955,
+      "isci_sayisi": 533216,
+      "sendikali_isci_sayisi": 189595,
+      "sendikalasma_orani": "%35.55"
+    },
+    {
+      "yil": 1956,
+      "isci_sayisi": 543554,
+      "sendikali_isci_sayisi": 205155,
+      "sendikalasma_orani": "%37.74"
+    },
+    {
+      "yil": 1957,
+      "isci_sayisi": 577630,
+      "sendikali_isci_sayisi": 244853,
+      "sendikalasma_orani": "%42.38"
+    },
+    {
+      "yil": 1958,
+      "isci_sayisi": 611703,
+      "sendikali_isci_sayisi": 262591,
+      "sendikalasma_orani": "%42.92"
+    },
+    {
+      "yil": 1959,
+      "isci_sayisi": 618775,
+      "sendikali_isci_sayisi": 280786,
+      "sendikalasma_orani": "%45.37"
+    },
+    {
+      "yil": 1960,
+      "isci_sayisi": 620900,
+      "sendikali_isci_sayisi": 282967,
+      "sendikalasma_orani": "%45.57"
+    },
+    {
+      "yil": 1961,
+      "isci_sayisi": 688819,
+      "sendikali_isci_sayisi": 298000,
+      "sendikalasma_orani": "%43.26"
+    },
+    {
+      "yil": 1962,
+      "isci_sayisi": 680125,
+      "sendikali_isci_sayisi": 307000,
+      "sendikalasma_orani": "%45.13"
+    },
+    {
+      "yil": 1963,
+      "isci_sayisi": 710820,
+      "sendikali_isci_sayisi": 259710,
+      "sendikalasma_orani": "%36.53"
+    },
+    {
+      "yil": 1984,
+      "isci_sayisi": 2553384,
+      "sendikali_isci_sayisi": 1427271,
+      "sendikalasma_orani": "%55.89"
+    },
+    {
+      "yil": 1985,
+      "isci_sayisi": 2819517,
+      "sendikali_isci_sayisi": 1828471,
+      "sendikalasma_orani": "%64.85"
+    },
+    {
+      "yil": 1986,
+      "isci_sayisi": 3075343,
+      "sendikali_isci_sayisi": 1953892,
+      "sendikalasma_orani": "%63.53"
+    },
+    {
+      "yil": 1987,
+      "isci_sayisi": 3268038,
+      "sendikali_isci_sayisi": 2044797,
+      "sendikalasma_orani": "%62.56"
+    },
+    {
+      "yil": 1988,
+      "isci_sayisi": 3483212,
+      "sendikali_isci_sayisi": 2227029,
+      "sendikalasma_orani": "%63.93"
+    },
+    {
+      "yil": 1989,
+      "isci_sayisi": 3564214,
+      "sendikali_isci_sayisi": 1834968,
+      "sendikalasma_orani": "%51.48"
+    },
+    {
+      "yil": 1990,
+      "isci_sayisi": 3563527,
+      "sendikali_isci_sayisi": 1997564,
+      "sendikalasma_orani": "%56.05"
+    },
+    {
+      "yil": 1991,
+      "isci_sayisi": 3513064,
+      "sendikali_isci_sayisi": 2130811,
+      "sendikalasma_orani": "%60.65"
+    },
+    {
+      "yil": 1992,
+      "isci_sayisi": 3596469,
+      "sendikali_isci_sayisi": 2254271,
+      "sendikalasma_orani": "%62.68"
+    },
+    {
+      "yil": 1993,
+      "isci_sayisi": 3742380,
+      "sendikali_isci_sayisi": 2485681,
+      "sendikalasma_orani": "%66.41"
+    },
+    {
+      "yil": 1994,
+      "isci_sayisi": 3815261,
+      "sendikali_isci_sayisi": 2644417,
+      "sendikalasma_orani": "%69.31"
+    },
+    {
+      "yil": 1995,
+      "isci_sayisi": 3905118,
+      "sendikali_isci_sayisi": 2667014,
+      "sendikalasma_orani": "%68.29"
+    },
+    {
+      "yil": 1996,
+      "isci_sayisi": 4051295,
+      "sendikali_isci_sayisi": 2708784,
+      "sendikalasma_orani": "%66.86"
+    },
+    {
+      "yil": 1997,
+      "isci_sayisi": 4215375,
+      "sendikali_isci_sayisi": 2774622,
+      "sendikalasma_orani": "%65.82"
+    },
+    {
+      "yil": 1998,
+      "isci_sayisi": 4327156,
+      "sendikali_isci_sayisi": 2923546,
+      "sendikalasma_orani": "%67.56"
+    },
+    {
+      "yil": 1999,
+      "isci_sayisi": 4350016,
+      "sendikali_isci_sayisi": 2987975,
+      "sendikalasma_orani": "%68.69"
+    },
+    {
+      "yil": 2000,
+      "isci_sayisi": 4508529,
+      "sendikali_isci_sayisi": 3086305,
+      "sendikalasma_orani": "%68.45"
+    },
+    {
+      "yil": 2001,
+      "isci_sayisi": 4537544,
+      "sendikali_isci_sayisi": 2580927,
+      "sendikalasma_orani": "%56.88"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de yıllara göre sendikalaşma oranları - Free Download",
+    "description": "Türkiye'de 1948'den itibaren yıllara göre toplam işçi sayısı, sendikalı işçi sayısı ve sendikalaşma oranı. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de yıllara göre sendikalaşma oranları | ListBase",
+    "seo_description": "Download Türkiye'de yıllara göre sendikalaşma oranları — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_sendikalar_listesi"
+    ]
+  }
+}
