@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-06T02:36:07.998Z",
-  "total_datasets": 574,
-  "total_records": 606291,
+  "generated": "2026-11-06T02:36:14.903Z",
+  "total_datasets": 575,
+  "total_records": 606409,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -11450,6 +11450,30 @@
         "xlsx": {
           "name": "tr-istanbul-osmanli-saraylari_TR.xlsx",
           "size": 7198
+        }
+      }
+    },
+    {
+      "id": "tr-kaleler",
+      "name": "Türkiye'deki kaleler",
+      "category": "history",
+      "record_count": 118,
+      "columns": [
+        "il",
+        "isim",
+        "insaat_baslangici"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_kaleler_listesi",
+      "updated": "2026-11",
+      "size": 14816,
+      "files": {
+        "csv": {
+          "name": "tr-kaleler_TR.csv",
+          "size": 5492
+        },
+        "xlsx": {
+          "name": "tr-kaleler_TR.xlsx",
+          "size": 9725
         }
       }
     },

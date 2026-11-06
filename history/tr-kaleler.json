@@ -1,0 +1,631 @@
+{
+  "id": "tr-kaleler",
+  "name": "Türkiye'deki kaleler",
+  "title": "Türkiye'deki kaleler",
+  "description": "Türkiye'deki kalelerin bulunduğu il, adı ve inşaat başlangıç bilgisi.",
+  "category": "history",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_kaleler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_kaleler_listesi",
+  "updated": "2026-11",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "isim",
+      "label": "Isim",
+      "type": "string"
+    },
+    {
+      "key": "insaat_baslangici",
+      "label": "Insaat Baslangici",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "il": "Adana",
+      "isim": "Yılankale",
+      "insaat_baslangici": "Haçlı Seferleri Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Adana",
+      "isim": "Ayas Kalesi",
+      "insaat_baslangici": "Haçlı Seferleri Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Adana",
+      "isim": "Anavarza Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Adana",
+      "isim": "Kız Kalesi",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Adana",
+      "isim": "Tumlu Kalesi",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Adana",
+      "isim": "Kozan Kalesi",
+      "insaat_baslangici": "Asurlular"
+    },
+    {
+      "il": "Adana",
+      "isim": "Köroğlu",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Kalesi",
+      "insaat_baslangici": "Hititler"
+    },
+    {
+      "il": "Amasya",
+      "isim": "Amasya Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Alara Kalesi",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Alanya Kalesi",
+      "insaat_baslangici": "Anadolu Selçuklu Devleti"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Gazipaşa",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Simena Kalesi",
+      "insaat_baslangici": "Anadolu Selçuklu Devleti"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Dereağzı Kalesi",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Ardahan",
+      "isim": "Ardahan Kalesi",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Ardahan",
+      "isim": "Kazan Kalesi",
+      "insaat_baslangici": "Türkmen"
+    },
+    {
+      "il": "Ardahan",
+      "isim": "Savaşır Kalesi",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Ardahan",
+      "isim": "Şeytan Kalesi",
+      "insaat_baslangici": "Urartular"
+    },
+    {
+      "il": "Bayburt",
+      "isim": "Bayburt Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Bozcaada Kalesi",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Kilitbahir Kalesi",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çimenlik Kalesi",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Harput Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Harput Kalesi",
+      "insaat_baslangici": "Urartular"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Birecik Kalesi",
+      "insaat_baslangici": "Asurlular"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Kalesi",
+      "insaat_baslangici": "Helenistik Dönem"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Bakras Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Koz Kalesi",
+      "insaat_baslangici": "Haçlı Seferleri"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Eğirdir Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Anadoluhisarı",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Riva Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Rumeli Hisarı",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Rumeli Feneri Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu Ceneviz Cumhuriyeti"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Yoros Kalesi",
+      "insaat_baslangici": "Fenikeliler Ceneviz Cumhuriyeti"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Ayasuluk Kalesi",
+      "insaat_baslangici": "Helenistik dönem"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Çandarlı Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "İzmir",
+      "isim": "Çeşme Kalesi",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Foça Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "İzmir",
+      "isim": "Kadifekale",
+      "insaat_baslangici": "Helenistik dönem"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Sığacık Kalesi",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars Kalesi",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Karaman Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Konya",
+      "isim": "Gevale Kalesi",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Konya",
+      "isim": "Ilgın Kalesi",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Konya",
+      "isim": "Beyşehir Kalesi",
+      "insaat_baslangici": "Eşrefoğulları Beyliği"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Kütahya Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Mersin",
+      "isim": "Çandır Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Dağlı Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Gözne Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Hebilli Kalesi",
+      "insaat_baslangici": "Emeviler"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Hisarin Kale",
+      "insaat_baslangici": "Helenistik dönem (?)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "İbrahim Paşa Tabyaları",
+      "insaat_baslangici": "Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Kara Kalesi",
+      "insaat_baslangici": "Bizans İmparatorlığu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Kızkalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Kuzucubelen Kalesi",
+      "insaat_baslangici": "Bilinmiyor"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mamure Kalesi",
+      "insaat_baslangici": "Anadolu Selçuklu Devleti"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mancınık Kalesi",
+      "insaat_baslangici": "Helenistik dönem"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Meydankale",
+      "insaat_baslangici": "Helenistik dönem"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Meydancık Kalesi",
+      "insaat_baslangici": "Luviler"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mut Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu Karamanoğulları Beyliği"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Namrun Kalesi",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Silifke Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Sinap Kalesi",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Softa Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tece Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu Kilikya Eremeni Krallığı"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tokmar Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Yaka Kalesi",
+      "insaat_baslangici": "Haçlı Seferleri"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Yelbiz Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Yeniyurt Kalesi",
+      "insaat_baslangici": "Helenistik dönem Bizans İmparatorluğu"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Bodrum Kalesi",
+      "insaat_baslangici": "Hospitalier Şövalyeleri"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Kalesi",
+      "insaat_baslangici": "Hospitalier Şövalyeleri Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Nevşehir Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Uçhisar Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Lulua Kalesi (Ulukışla Kalesi)",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Ordu",
+      "isim": "Bolaman Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Ordu",
+      "isim": "Kevgürk Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ünye Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Bodrumkale",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Harun Reşit Kalesi",
+      "insaat_baslangici": "Abbasiler"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Hemite Kalesi",
+      "insaat_baslangici": "Haçlı Seferleri"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Toprakkale Kalesi",
+      "insaat_baslangici": "Abbasiler"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Servantikar",
+      "insaat_baslangici": "Kilikya Ermeni Krallığı"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Rize",
+      "isim": "Zilkale",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Sinop",
+      "isim": "Boyabat Kalesi",
+      "insaat_baslangici": "Cenova Cumhuriyeti Osmanlı İmparatorluğu"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Divriği Kalesi",
+      "insaat_baslangici": "Mengüçekliler"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Kalesi",
+      "insaat_baslangici": "Osroene"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Harran Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Birecik Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Rumkale",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Cizre Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tokat",
+      "isim": "Tokat Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Eskipazar Kalesi",
+      "insaat_baslangici": "Roma İmparatorluğu"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Çaykara Kalesi",
+      "insaat_baslangici": "Cenevizliler (?)"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Of Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Trabzon Kalesi",
+      "insaat_baslangici": "Bizans İmparatorluğu"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Pertek Kalesi",
+      "insaat_baslangici": "Büyük Selçuklu İmparatorluğu"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Kaleköy",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Anbar Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Sinan Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Rabat Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Şahverdi Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Aşağı Doluca Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Bağın Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Mazgirt Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Ayazpınar Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Sağman Kalesi",
+      "insaat_baslangici": "Mengüçoğulları"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Çemişgezek Kalesi",
+      "insaat_baslangici": ""
+    },
+    {
+      "il": "Van",
+      "isim": "Toprakkale",
+      "insaat_baslangici": "Urartular"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Kalesi",
+      "insaat_baslangici": "Urartular"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki kaleler - Free Download",
+    "description": "Türkiye'deki kalelerin bulunduğu il, adı ve inşaat başlangıç bilgisi. Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki kaleler | ListBase",
+    "seo_description": "Download Türkiye'deki kaleler — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_kaleler_listesi"
+    ]
+  }
+}
