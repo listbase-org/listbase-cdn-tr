@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-06T02:35:53.444Z",
-  "total_datasets": 572,
-  "total_records": 606085,
+  "generated": "2026-11-06T02:36:00.999Z",
+  "total_datasets": 573,
+  "total_records": 606239,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 46
+      "dataset_count": 47
     },
     {
       "id": "units",
@@ -15511,6 +15511,37 @@
         "xlsx": {
           "name": "tr-konya-tcdd-istasyonlari_TR.xlsx",
           "size": 7303
+        }
+      }
+    },
+    {
+      "id": "tr-kopruler",
+      "name": "Türkiye'deki köprüler",
+      "category": "transport",
+      "record_count": 154,
+      "columns": [
+        "ad",
+        "uzunluk_m",
+        "genislik_m",
+        "yukseklik_m",
+        "gecis",
+        "kullanim",
+        "acilis",
+        "malzeme",
+        "konum",
+        "ozellikler"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_köprüler_listesi",
+      "updated": "2026-11",
+      "size": 45946,
+      "files": {
+        "csv": {
+          "name": "tr-kopruler_TR.csv",
+          "size": 14435
+        },
+        "xlsx": {
+          "name": "tr-kopruler_TR.xlsx",
+          "size": 15850
         }
       }
     },
