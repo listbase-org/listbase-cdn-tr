@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-06T02:35:46.618Z",
-  "total_datasets": 571,
-  "total_records": 605990,
+  "generated": "2026-11-06T02:35:53.444Z",
+  "total_datasets": 572,
+  "total_records": 606085,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 193
+      "dataset_count": 194
     },
     {
       "id": "health",
@@ -7978,6 +7978,33 @@
         "xlsx": {
           "name": "tr-corum-neighbourhoods_TR.xlsx",
           "size": 47543
+        }
+      }
+    },
+    {
+      "id": "tr-daglar",
+      "name": "Türkiye'deki dağlar",
+      "category": "geography",
+      "record_count": 95,
+      "columns": [
+        "ad",
+        "siradaglar",
+        "tur",
+        "rakim_m",
+        "cografya",
+        "aciklama"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_dağlar_listesi",
+      "updated": "2026-11",
+      "size": 17550,
+      "files": {
+        "csv": {
+          "name": "tr-daglar_TR.csv",
+          "size": 5179
+        },
+        "xlsx": {
+          "name": "tr-daglar_TR.xlsx",
+          "size": 10435
         }
       }
     },

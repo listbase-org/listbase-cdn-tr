@@ -1,0 +1,816 @@
+{
+  "id": "tr-daglar",
+  "name": "Türkiye'deki dağlar",
+  "title": "Türkiye'deki dağlar",
+  "description": "Türkiye'deki başlıca dağların sıradağları, türü, rakımı ve coğrafi konumu.",
+  "category": "geography",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_dağlar_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_dağlar_listesi",
+  "updated": "2026-11",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "ad",
+      "label": "Ad",
+      "type": "string"
+    },
+    {
+      "key": "siradaglar",
+      "label": "Siradaglar",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "rakim_m",
+      "label": "Rakim M",
+      "type": "number"
+    },
+    {
+      "key": "cografya",
+      "label": "Cografya",
+      "type": "string"
+    },
+    {
+      "key": "aciklama",
+      "label": "Aciklama",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ad": "Ağrı Dağı",
+      "siradaglar": "Ermeni Yaylaları",
+      "tur": "Stratovolkan",
+      "rakim_m": 5137,
+      "cografya": "DAB",
+      "aciklama": "Türkiye'nin en yüksek dağı"
+    },
+    {
+      "ad": "Cilo Dağları (Reşko-Uludoruk-Gelyaşin)",
+      "siradaglar": "Toros Dağları",
+      "tur": "Tektonik",
+      "rakim_m": 4135,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Cilo Dağları (Buzul-Erinçtepe-Suppa durek)",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 4116,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Süphan Dağı",
+      "siradaglar": "Ermeni Yaylaları",
+      "tur": "Stratovolkan",
+      "rakim_m": 4058,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kaçkar Dağı",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "Tektonik",
+      "rakim_m": 3932,
+      "cografya": "KB",
+      "aciklama": "Karadeniz Bölgesi'nin en yüksek dağı"
+    },
+    {
+      "ad": "Erciyes",
+      "siradaglar": "Aladağlar",
+      "tur": "Stratovolkan",
+      "rakim_m": 3917,
+      "cografya": "İAB",
+      "aciklama": "İç Anadolu Bölgesi'nin en yüksek dağı"
+    },
+    {
+      "ad": "Küçükağrı Dağı",
+      "siradaglar": "Ermeni Yaylaları",
+      "tur": "Stratovolkan",
+      "rakim_m": 3896,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Ketintepe",
+      "siradaglar": "Aladağlar",
+      "tur": "",
+      "rakim_m": 3871,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Krenek",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "",
+      "rakim_m": 3871,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Sönmez",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "",
+      "rakim_m": 3860,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Mor Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 3807,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kardovit",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "",
+      "rakim_m": 3800,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kızılkaya Dağı",
+      "siradaglar": "Aladağlar",
+      "tur": "Tektonik",
+      "rakim_m": 3771,
+      "cografya": "İAB",
+      "aciklama": "Toros Dağları'nın zirvesi"
+    },
+    {
+      "ad": "Küçük Erciyes",
+      "siradaglar": "Aladağlar",
+      "tur": "",
+      "rakim_m": 3770,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Geztepe",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "",
+      "rakim_m": 3760,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Demirkazık Dağı",
+      "siradaglar": "Aladağlar",
+      "tur": "Tektonik",
+      "rakim_m": 3757,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Emler",
+      "siradaglar": "Aladağlar",
+      "tur": "",
+      "rakim_m": 3723,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Verçenik Dağı",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "",
+      "rakim_m": 3711,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Artos Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "Stratovolkan",
+      "rakim_m": 3550,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Tendürek Dağı",
+      "siradaglar": "Ermeni Yaylaları",
+      "tur": "Kalkan volkan",
+      "rakim_m": 3533,
+      "cografya": "DAB",
+      "aciklama": "Türkiye'nin en aktif volkanı"
+    },
+    {
+      "ad": "Medetsiz Dağı",
+      "siradaglar": "Bolkar Dağları",
+      "tur": "",
+      "rakim_m": 3524,
+      "cografya": "AB",
+      "aciklama": "Orta Toroslar ‘ın en yüksek dağı"
+    },
+    {
+      "ad": "Kösedağ",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 3433,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Aydos Dağı",
+      "siradaglar": "",
+      "tur": "Stratovolkan",
+      "rakim_m": 3430,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Marsis Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 3391,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Hasandağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "Yanardağ",
+      "rakim_m": 3268,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Mescit Dağı",
+      "siradaglar": "Mescit Dağları",
+      "tur": "Tektonik",
+      "rakim_m": 3255,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Erek Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 3204,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Palandöken Dağı",
+      "siradaglar": "Ermeni Yaylaları",
+      "tur": "Tektonik",
+      "rakim_m": 3125,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Nurhak Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 3090,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kızlar Sivrisi",
+      "siradaglar": "Bey Dağları",
+      "tur": "",
+      "rakim_m": 3080,
+      "cografya": "AB",
+      "aciklama": "Antalya'nın en yüksek dağı"
+    },
+    {
+      "ad": "Bey Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 3075,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Çakmak Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 3063,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Dedegöl Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 2992,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Soğanlı Dağ",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2967,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Nemrut Dağı",
+      "siradaglar": "",
+      "tur": "Stratovolkan",
+      "rakim_m": 2948,
+      "cografya": "DAB",
+      "aciklama": "Ana kraterinde Nemrut Gölü bulunur"
+    },
+    {
+      "ad": "Kop Dağı",
+      "siradaglar": "Doğu Karadeniz Dağları",
+      "tur": "",
+      "rakim_m": 2918,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Ulgar Dağı",
+      "siradaglar": "",
+      "tur": "Yanardağ",
+      "rakim_m": 2918,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kato Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2900,
+      "cografya": "GAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Melendiz Dağı",
+      "siradaglar": "",
+      "tur": "Yanardağ",
+      "rakim_m": 2898,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Engizek Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 2814,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Soğanlı Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2806,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Beydağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2800,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Barla Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 2798,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Tutak Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2650,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Davraz Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "Tektonik",
+      "rakim_m": 2637,
+      "cografya": "AB",
+      "aciklama": "Kayak merkezi var"
+    },
+    {
+      "ad": "Tekeli Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2624,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Göztepe Dağı",
+      "siradaglar": "Akdoğan Dağları",
+      "tur": "",
+      "rakim_m": 2594,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Honaz Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 2571,
+      "cografya": "EB",
+      "aciklama": "Ege Bölgesi'nin en yüksek dağı, Millî park"
+    },
+    {
+      "ad": "Yıldız Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2552,
+      "cografya": "İAB",
+      "aciklama": "Kış sporları merkezi"
+    },
+    {
+      "ad": "Uludağ",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 2543,
+      "cografya": "MB",
+      "aciklama": "Marmara Bölgesi'nin en yüksek dağı, Türkiye'nin en büyük kış ve doğa sporları merkezi"
+    },
+    {
+      "ad": "Lifos Dağı",
+      "siradaglar": "Aladağlar",
+      "tur": "",
+      "rakim_m": 2509,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Akdağ",
+      "siradaglar": "Yalnızçam Dağları",
+      "tur": "",
+      "rakim_m": 2466,
+      "cografya": "DAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Düldül Dağı",
+      "siradaglar": "Nur Dağları",
+      "tur": "Tektonik",
+      "rakim_m": 2448,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Akdağ",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 2446,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Susuz Dağlar",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2400,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Tahtalı Dağı",
+      "siradaglar": "Bey Dağları",
+      "tur": "",
+      "rakim_m": 2366,
+      "cografya": "AB",
+      "aciklama": "Beydağları Sahil Millî Parkı içinde"
+    },
+    {
+      "ad": "Alacadağ",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 2328,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Murat Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2312,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Ahır Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 2301,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Karadağ",
+      "siradaglar": "",
+      "tur": "Kalkan volkan",
+      "rakim_m": 2288,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kumalar Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2247,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Sis Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2182,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Göllü Dağ",
+      "siradaglar": "",
+      "tur": "Lav domları",
+      "rakim_m": 2172,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Bozdağ",
+      "siradaglar": "Bozdağlar",
+      "tur": "",
+      "rakim_m": 2159,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Nemrut Dağı",
+      "siradaglar": "Toros Dağları",
+      "tur": "",
+      "rakim_m": 2150,
+      "cografya": "GAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Ekecik Dağı",
+      "siradaglar": "",
+      "tur": "Stratovolkan",
+      "rakim_m": 2133,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Cudi Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2114,
+      "cografya": "GAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Keş Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2100,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Akdağ",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 2062,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Karacadağ",
+      "siradaglar": "",
+      "tur": "Kalkan volkan",
+      "rakim_m": 2025,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Bulkaz Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1990,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "İdris Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1990,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Babadağ",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 1969,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Karaca Dağ",
+      "siradaglar": "",
+      "tur": "Yanardağ",
+      "rakim_m": 1952,
+      "cografya": "GAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Koramaz Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1920,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Ahır Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1915,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Aydos Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1880,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Keltepe",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1880,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "İnegöl Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1873,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Tırıl Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1873,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Küpeli Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1848,
+      "cografya": "GAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Türkmen Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 1826,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Madran Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1792,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Kaz Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1774,
+      "cografya": "MB",
+      "aciklama": "Kazdağı Millî Parkı"
+    },
+    {
+      "ad": "Kel Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1730,
+      "cografya": "AB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Spil Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1517,
+      "cografya": "EB",
+      "aciklama": "Spil Dağı Millî Parkı"
+    },
+    {
+      "ad": "Nif Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 1510,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Avup Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1488,
+      "cografya": "KB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Dilek Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 1237,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Hüseyingazi Dağı",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 1236,
+      "cografya": "İAB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Yamanlar Dağı",
+      "siradaglar": "",
+      "tur": "Tektonik",
+      "rakim_m": 1076,
+      "cografya": "EB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Mahya Dağı",
+      "siradaglar": "Yıldız Dağları",
+      "tur": "Tektonik",
+      "rakim_m": 1031,
+      "cografya": "MB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Aydos Tepesi",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 537,
+      "cografya": "MB",
+      "aciklama": "İstanbul'un en yüksek noktası"
+    },
+    {
+      "ad": "Alemdağ",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 442,
+      "cografya": "MB",
+      "aciklama": ""
+    },
+    {
+      "ad": "Büyük Çamlıca Tepesi",
+      "siradaglar": "",
+      "tur": "",
+      "rakim_m": 268,
+      "cografya": "MB",
+      "aciklama": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki dağlar - Free Download",
+    "description": "Türkiye'deki başlıca dağların sıradağları, türü, rakımı ve coğrafi konumu. Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki dağlar | ListBase",
+    "seo_description": "Download Türkiye'deki dağlar — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_dağlar_listesi"
+    ]
+  }
+}
