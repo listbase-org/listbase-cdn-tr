@@ -1,0 +1,784 @@
+{
+  "id": "tr-nehirler",
+  "name": "Türkiye'deki nehirler",
+  "title": "Türkiye'deki nehirler",
+  "description": "Türkiye'deki nehirlerin drenaj sistemi, ülke(ler) ve coğrafi konumu.",
+  "category": "geography",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_nehirler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_nehirler_listesi",
+  "updated": "2026-11",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "isim",
+      "label": "Isim",
+      "type": "string"
+    },
+    {
+      "key": "drenaj_sistemi",
+      "label": "Drenaj Sistemi",
+      "type": "string"
+    },
+    {
+      "key": "ulkeler",
+      "label": "Ulkeler",
+      "type": "string"
+    },
+    {
+      "key": "cografya",
+      "label": "Cografya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "isim": "Afrin Çayı",
+      "drenaj_sistemi": "Asi Nehri",
+      "ulkeler": "Türkiye Suriye Türkiye",
+      "cografya": ""
+    },
+    {
+      "isim": "Ağasar Deresi",
+      "drenaj_sistemi": "Ağasar Deresi",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Akarçay Nehri",
+      "drenaj_sistemi": "Akarçay Nehri",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Akçay Nehri",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Aksu Çayı",
+      "drenaj_sistemi": "Aksu Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Aksu Nehri",
+      "drenaj_sistemi": "Ceyhan Nehri",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Alakır Çayı",
+      "drenaj_sistemi": "Alakır Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Alara Çayı",
+      "drenaj_sistemi": "Alara Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Alibey Deresi",
+      "drenaj_sistemi": "Alibey Deresi",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Anamur Çayı",
+      "drenaj_sistemi": "Anamur Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Ankara Çayı",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Araç Çayı",
+      "drenaj_sistemi": "Filyos Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Aras",
+      "drenaj_sistemi": "Kura Nehri",
+      "ulkeler": "Türkiye Ermenistan İran Azerbaycan",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Arpaçay",
+      "drenaj_sistemi": "Kura Nehri",
+      "ulkeler": "Ermenistan Türkiye",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Asi Nehri",
+      "drenaj_sistemi": "Asi Nehri",
+      "ulkeler": "Lübnan Suriye Türkiye",
+      "cografya": ""
+    },
+    {
+      "isim": "Bakırçay",
+      "drenaj_sistemi": "Bakırçay",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Banaz Çayı",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Barhal Çayı",
+      "drenaj_sistemi": "Çoruh",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Bartın Çayı",
+      "drenaj_sistemi": "Bartın Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Batman Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "GAB"
+    },
+    {
+      "isim": "Berdan Çayı",
+      "drenaj_sistemi": "Berdan Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Berta Çayı",
+      "drenaj_sistemi": "Çoruh",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Biga Çayı",
+      "drenaj_sistemi": "Biga Çayı",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Boğaçayı",
+      "drenaj_sistemi": "Boğaçayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Bolaman Irmağı",
+      "drenaj_sistemi": "Bolaman Irmağı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Botan Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Bozçay",
+      "drenaj_sistemi": "Bozçay",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Büyük Menderes",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Ceyhan Nehri",
+      "drenaj_sistemi": "Ceyhan Nehri",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Çark Suyu",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Çarşamba Çayı",
+      "drenaj_sistemi": "Çarşamba Çayı",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Çekerek Çayı",
+      "drenaj_sistemi": "Yeşilırmak",
+      "ulkeler": "",
+      "cografya": "İAB, KB"
+    },
+    {
+      "isim": "Çine Çayı",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Çoruh",
+      "drenaj_sistemi": "Çoruh",
+      "ulkeler": "Türkiye Gürcistan",
+      "cografya": "DAB, KB"
+    },
+    {
+      "isim": "Çubuk Çayı",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Çürüksu",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Dalaman Çayı",
+      "drenaj_sistemi": "Dalaman Çayı",
+      "ulkeler": "",
+      "cografya": "AB, EB"
+    },
+    {
+      "isim": "Dandalaz Çayı",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Delice Irmağı",
+      "drenaj_sistemi": "Kızılırmak",
+      "ulkeler": "",
+      "cografya": "İAB, KB"
+    },
+    {
+      "isim": "Demre Çayı",
+      "drenaj_sistemi": "Demre Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Devrek Çayı",
+      "drenaj_sistemi": "Filyos Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Devrekani Çayı",
+      "drenaj_sistemi": "Devrekani Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Devrez",
+      "drenaj_sistemi": "Kızılırmak",
+      "ulkeler": "",
+      "cografya": "KB, İAB"
+    },
+    {
+      "isim": "Dicle",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "Türkiye Suriye Irak",
+      "cografya": ""
+    },
+    {
+      "isim": "Dim Çayı",
+      "drenaj_sistemi": "Dim Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Engil Çayı",
+      "drenaj_sistemi": "Engil Çayı",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Ergene",
+      "drenaj_sistemi": "Meriç",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Ermenek Çayı",
+      "drenaj_sistemi": "Göksu",
+      "ulkeler": "",
+      "cografya": "İAB, AB"
+    },
+    {
+      "isim": "Eşen Çayı",
+      "drenaj_sistemi": "Eşen Çayı",
+      "ulkeler": "",
+      "cografya": "AB, EB"
+    },
+    {
+      "isim": "Fırat",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "Türkiye Suriye Irak",
+      "cografya": ""
+    },
+    {
+      "isim": "Fırtına Deresi",
+      "drenaj_sistemi": "Fırtına Deresi",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Filyos Çayı",
+      "drenaj_sistemi": "Filyos Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Gediz Nehri",
+      "drenaj_sistemi": "Gediz Nehri",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Gökırmak",
+      "drenaj_sistemi": "Kızılırmak",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Göksu",
+      "drenaj_sistemi": "Seyhan Nehri",
+      "ulkeler": "",
+      "cografya": "İAB, AB"
+    },
+    {
+      "isim": "Göksu Çayı",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Göksu",
+      "drenaj_sistemi": "Göksu",
+      "ulkeler": "",
+      "cografya": "İAB, AB"
+    },
+    {
+      "isim": "Gönen Çayı",
+      "drenaj_sistemi": "Gönen Çayı",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Habur Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "Türkiye Irak",
+      "cografya": ""
+    },
+    {
+      "isim": "Habur Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "GAB"
+    },
+    {
+      "isim": "Harşit Çayı",
+      "drenaj_sistemi": "Harşit Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Havran Çayı",
+      "drenaj_sistemi": "Havran Çayı",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Hezil Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "Türkiye Irak",
+      "cografya": ""
+    },
+    {
+      "isim": "İyidere Deresi",
+      "drenaj_sistemi": "İyidere Deresi",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Kâğıthane Deresi",
+      "drenaj_sistemi": "Kâğıthane Deresi",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Kali Çayı",
+      "drenaj_sistemi": "Akarçay Nehri",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Karamenderes Nehri",
+      "drenaj_sistemi": "Karamenderes Nehri",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Karasu Çayı",
+      "drenaj_sistemi": "Asi Nehri",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Karasu Çayı",
+      "drenaj_sistemi": "Karasu Çayı",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Karpuz Çayı",
+      "drenaj_sistemi": "Karpuz Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Kars Çayı",
+      "drenaj_sistemi": "Kura Nehri",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Kelkit Çayı",
+      "drenaj_sistemi": "Yeşilırmak",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Kızılırmak",
+      "drenaj_sistemi": "Kızılırmak",
+      "ulkeler": "",
+      "cografya": "İAB, KB"
+    },
+    {
+      "isim": "Kirmir Çayı",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Kocaçay",
+      "drenaj_sistemi": "Kocaçay",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Kocadere",
+      "drenaj_sistemi": "Kocadere",
+      "ulkeler": "Türkiye Bulgaristan",
+      "cografya": ""
+    },
+    {
+      "isim": "Kocadere",
+      "drenaj_sistemi": "Kocadere",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Kocasu Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Köprüçay",
+      "drenaj_sistemi": "Köprüçay",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Kufi Çayı",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Kura Nehri",
+      "drenaj_sistemi": "Kura Nehri",
+      "ulkeler": "Türkiye Gürcistan Azerbaycan",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Küçük Menderes",
+      "drenaj_sistemi": "Küçük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Madra Çayı",
+      "drenaj_sistemi": "Madra Çayı",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Manavgat Nehri",
+      "drenaj_sistemi": "Manavgat Nehri",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Melendiz Çayı",
+      "drenaj_sistemi": "Melendiz Çayı",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Melen Çayı",
+      "drenaj_sistemi": "Melen Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Meles Çayı",
+      "drenaj_sistemi": "Meles Çayı",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Melet Irmağı",
+      "drenaj_sistemi": "Melet Irmağı",
+      "ulkeler": "",
+      "cografya": "İAB, KB"
+    },
+    {
+      "isim": "Meriç",
+      "drenaj_sistemi": "Meriç",
+      "ulkeler": "Bulgaristan Yunanistan Türkiye",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Meram Deresi",
+      "drenaj_sistemi": "Meram Deresi",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Mert Irmağı",
+      "drenaj_sistemi": "Mert Irmağı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Meydan Çayı",
+      "drenaj_sistemi": "Kızılırmak",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Mudurnu Çayı",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Munzur Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Murat Nehri",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Murgul Çayı",
+      "drenaj_sistemi": "Çoruh",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Mustafakemalpaşa Çayı",
+      "drenaj_sistemi": "Simav Çayı",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Nilüfer Çayı",
+      "drenaj_sistemi": "Simav Çayı",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Oltu Çayı",
+      "drenaj_sistemi": "Çoruh",
+      "ulkeler": "",
+      "cografya": "DAB, KB"
+    },
+    {
+      "isim": "Peri Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "DAB"
+    },
+    {
+      "isim": "Porsuk Çayı",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "EB, KB"
+    },
+    {
+      "isim": "Posof Çayı",
+      "drenaj_sistemi": "Kura Nehri",
+      "ulkeler": "Türkiye Gürcistan",
+      "cografya": ""
+    },
+    {
+      "isim": "Riva Deresi",
+      "drenaj_sistemi": "Riva Deresi",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Sabun Çayı",
+      "drenaj_sistemi": "Ceyhan Nehri",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Sakarya Nehri",
+      "drenaj_sistemi": "Sakarya Nehri",
+      "ulkeler": "",
+      "cografya": "İAB, MB"
+    },
+    {
+      "isim": "Sarıçay",
+      "drenaj_sistemi": "Büyük Menderes",
+      "ulkeler": "",
+      "cografya": "EB"
+    },
+    {
+      "isim": "Sarısu",
+      "drenaj_sistemi": "Kura Nehri",
+      "ulkeler": "Türkiye Iran",
+      "cografya": ""
+    },
+    {
+      "isim": "Sacır Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "Türkiye Suriye",
+      "cografya": ""
+    },
+    {
+      "isim": "Seyhan Nehri",
+      "drenaj_sistemi": "Seyhan Nehri",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Simav Çayı",
+      "drenaj_sistemi": "Simav Çayı",
+      "ulkeler": "",
+      "cografya": "EB, MB"
+    },
+    {
+      "isim": "Soğanlı Çayı",
+      "drenaj_sistemi": "Soğanlı Çayı",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Terme Çayı",
+      "drenaj_sistemi": "Kızılırmak",
+      "ulkeler": "",
+      "cografya": "İAB"
+    },
+    {
+      "isim": "Tersakan Çayı",
+      "drenaj_sistemi": "Yeşilırmak",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Tohma Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "İAB, DAB"
+    },
+    {
+      "isim": "Tortum Çayı",
+      "drenaj_sistemi": "Çoruh",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Tömük Çayı",
+      "drenaj_sistemi": "Tömük Çayı",
+      "ulkeler": "",
+      "cografya": "AB"
+    },
+    {
+      "isim": "Tunca",
+      "drenaj_sistemi": "Meriç",
+      "ulkeler": "Bulgaristan Türkiye",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Tuzla Çayı",
+      "drenaj_sistemi": "Tuzla Çayı",
+      "ulkeler": "",
+      "cografya": "MB"
+    },
+    {
+      "isim": "Yağlıdere",
+      "drenaj_sistemi": "Yağlıdere",
+      "ulkeler": "",
+      "cografya": "KB"
+    },
+    {
+      "isim": "Yanarsu Çayı",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "",
+      "cografya": "DAB, GAB"
+    },
+    {
+      "isim": "Yeşilırmak",
+      "drenaj_sistemi": "Yeşilırmak",
+      "ulkeler": "",
+      "cografya": "İAB, KB"
+    },
+    {
+      "isim": "Zamantı",
+      "drenaj_sistemi": "Seyhan Nehri",
+      "ulkeler": "",
+      "cografya": "İAB, AB"
+    },
+    {
+      "isim": "Zap Suyu",
+      "drenaj_sistemi": "Şattülarap",
+      "ulkeler": "Türkiye Irak",
+      "cografya": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki nehirler - Free Download",
+    "description": "Türkiye'deki nehirlerin drenaj sistemi, ülke(ler) ve coğrafi konumu. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki nehirler | ListBase",
+    "seo_description": "Download Türkiye'deki nehirler — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_nehirler_listesi"
+    ]
+  }
+}

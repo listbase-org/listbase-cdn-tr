@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-06T02:35:31.685Z",
-  "total_datasets": 569,
-  "total_records": 605761,
+  "generated": "2026-11-06T02:35:38.758Z",
+  "total_datasets": 570,
+  "total_records": 605884,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 191
+      "dataset_count": 192
     },
     {
       "id": "health",
@@ -10039,6 +10039,31 @@
         "xlsx": {
           "name": "tr-mus-neighbourhoods_TR.xlsx",
           "size": 26395
+        }
+      }
+    },
+    {
+      "id": "tr-nehirler",
+      "name": "Türkiye'deki nehirler",
+      "category": "geography",
+      "record_count": 123,
+      "columns": [
+        "isim",
+        "drenaj_sistemi",
+        "ulkeler",
+        "cografya"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_nehirler_listesi",
+      "updated": "2026-11",
+      "size": 17509,
+      "files": {
+        "csv": {
+          "name": "tr-nehirler_TR.csv",
+          "size": 5182
+        },
+        "xlsx": {
+          "name": "tr-nehirler_TR.xlsx",
+          "size": 9940
         }
       }
     },
