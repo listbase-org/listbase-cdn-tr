@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-06T02:35:38.758Z",
-  "total_datasets": 570,
-  "total_records": 605884,
+  "generated": "2026-11-06T02:35:46.618Z",
+  "total_datasets": 571,
+  "total_records": 605990,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 192
+      "dataset_count": 193
     },
     {
       "id": "health",
@@ -8600,6 +8600,35 @@
         "xlsx": {
           "name": "tr-giresun-neighbourhoods_TR.xlsx",
           "size": 81798
+        }
+      }
+    },
+    {
+      "id": "tr-goller",
+      "name": "Türkiye'deki göller",
+      "category": "geography",
+      "record_count": 106,
+      "columns": [
+        "ad",
+        "tur",
+        "cografya",
+        "akarsu",
+        "yuzolcumu_km2",
+        "derinlik_m",
+        "irtifa_m",
+        "ozellik"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_göller_listesi",
+      "updated": "2026-11",
+      "size": 25954,
+      "files": {
+        "csv": {
+          "name": "tr-goller_TR.csv",
+          "size": 8054
+        },
+        "xlsx": {
+          "name": "tr-goller_TR.xlsx",
+          "size": 12100
         }
       }
     },

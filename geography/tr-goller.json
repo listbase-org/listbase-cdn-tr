@@ -1,0 +1,1126 @@
+{
+  "id": "tr-goller",
+  "name": "Türkiye'deki göller",
+  "title": "Türkiye'deki göller",
+  "description": "Türkiye'deki göllerin türü, yüzölçümü, derinliği, irtifası ve coğrafi konumu.",
+  "category": "geography",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_göller_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_göller_listesi",
+  "updated": "2026-11",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "ad",
+      "label": "Ad",
+      "type": "string"
+    },
+    {
+      "key": "tur",
+      "label": "Tur",
+      "type": "string"
+    },
+    {
+      "key": "cografya",
+      "label": "Cografya",
+      "type": "string"
+    },
+    {
+      "key": "akarsu",
+      "label": "Akarsu",
+      "type": "string"
+    },
+    {
+      "key": "yuzolcumu_km2",
+      "label": "Yuzolcumu Km2",
+      "type": "number"
+    },
+    {
+      "key": "derinlik_m",
+      "label": "Derinlik M",
+      "type": "number"
+    },
+    {
+      "key": "irtifa_m",
+      "label": "Irtifa M",
+      "type": "number"
+    },
+    {
+      "key": "ozellik",
+      "label": "Ozellik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ad": "Abant Gölü",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "Devrek Çayı",
+      "yuzolcumu_km2": 1.25,
+      "derinlik_m": 18,
+      "irtifa_m": 1328,
+      "ozellik": "Abant Gölü Millî Parkı"
+    },
+    {
+      "ad": "Acarlar Longozu",
+      "tur": "Kıyı set gölü",
+      "cografya": "MB",
+      "akarsu": "Sakarya Nehri",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Türkiye'nin tek parça halindeki en büyük longoz (subasar) ormanı"
+    },
+    {
+      "ad": "Acıgöl Maarı",
+      "tur": "Maar",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Göl kurutuldu"
+    },
+    {
+      "ad": "Acıgöl",
+      "tur": "Tektonik göl",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 41.5,
+      "derinlik_m": 2.1,
+      "irtifa_m": 842,
+      "ozellik": "Sulak alan"
+    },
+    {
+      "ad": "Akdoğan Gölü",
+      "tur": "Krater gölü",
+      "cografya": "DAB",
+      "akarsu": "İskender Deresi",
+      "yuzolcumu_km2": 10.88,
+      "derinlik_m": 21,
+      "irtifa_m": 2149,
+      "ozellik": ""
+    },
+    {
+      "ad": "Akgöl",
+      "tur": "Alüvyal set gölü",
+      "cografya": "MB",
+      "akarsu": "",
+      "yuzolcumu_km2": 5.5,
+      "derinlik_m": 6,
+      "irtifa_m": "",
+      "ozellik": "Tatlı su"
+    },
+    {
+      "ad": "Akgöl",
+      "tur": "Karstik göl",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Aşırı tuzlu"
+    },
+    {
+      "ad": "Akgöl",
+      "tur": "Tektonik göl",
+      "cografya": "DAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 4.07,
+      "derinlik_m": 5,
+      "irtifa_m": 2343,
+      "ozellik": "Tuzlu su"
+    },
+    {
+      "ad": "Akşehir Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "EB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 353,
+      "derinlik_m": 171,
+      "irtifa_m": 954,
+      "ozellik": "Az tuzlu"
+    },
+    {
+      "ad": "Aktaş Gölü",
+      "tur": "Sodalı göl",
+      "cografya": "DAB",
+      "akarsu": "Arkbeli (Zigarostav) Deresi",
+      "yuzolcumu_km2": 27,
+      "derinlik_m": 10,
+      "irtifa_m": 1798,
+      "ozellik": ""
+    },
+    {
+      "ad": "Akyatan Gölü",
+      "tur": "Lagün",
+      "cografya": "AB",
+      "akarsu": "Akdeniz",
+      "yuzolcumu_km2": 147,
+      "derinlik_m": 4,
+      "irtifa_m": "",
+      "ozellik": "Ramsar alanı, tuzlu su"
+    },
+    {
+      "ad": "Akyayan Gölü",
+      "tur": "Lagün",
+      "cografya": "AB",
+      "akarsu": "Akdeniz",
+      "yuzolcumu_km2": 31,
+      "derinlik_m": 3,
+      "irtifa_m": 2,
+      "ozellik": "Az tuzlu"
+    },
+    {
+      "ad": "Arin Gölü",
+      "tur": "Sodalı göl",
+      "cografya": "DAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 16.57,
+      "derinlik_m": "",
+      "irtifa_m": 1650,
+      "ozellik": ""
+    },
+    {
+      "ad": "Arpaçay Baraj Gölü",
+      "tur": "Baraj gölü",
+      "cografya": "DAB",
+      "akarsu": "Arpaçay",
+      "yuzolcumu_km2": 54,
+      "derinlik_m": 59,
+      "irtifa_m": 1600,
+      "ozellik": ""
+    },
+    {
+      "ad": "Atatürk Baraj Gölü",
+      "tur": "Baraj gölü",
+      "cografya": "GAB",
+      "akarsu": "Fırat",
+      "yuzolcumu_km2": 817,
+      "derinlik_m": "",
+      "irtifa_m": 542,
+      "ozellik": "Türkiye'nin en büyük 3. gölü"
+    },
+    {
+      "ad": "Avlan Gölü",
+      "tur": "Karstik göl",
+      "cografya": "AB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 8.5,
+      "derinlik_m": "",
+      "irtifa_m": 1030,
+      "ozellik": ""
+    },
+    {
+      "ad": "Aygır Gölü",
+      "tur": "Volkanik set gölü",
+      "cografya": "DAB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": 1970,
+      "ozellik": ""
+    },
+    {
+      "ad": "Aygır Gölü",
+      "tur": "Volkanik set gölü",
+      "cografya": "DAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 29.48,
+      "derinlik_m": "",
+      "irtifa_m": 2300,
+      "ozellik": "Tatlı su"
+    },
+    {
+      "ad": "Aygır Gölü",
+      "tur": "Buzul gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 3.75,
+      "derinlik_m": "",
+      "irtifa_m": 2740,
+      "ozellik": ""
+    },
+    {
+      "ad": "Bafa Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "EB",
+      "akarsu": "Büyük Menderes",
+      "yuzolcumu_km2": 60,
+      "derinlik_m": 21,
+      "irtifa_m": 2,
+      "ozellik": ""
+    },
+    {
+      "ad": "Balık Gölü",
+      "tur": "Volkanik set gölü",
+      "cografya": "DAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 30,
+      "derinlik_m": 37,
+      "irtifa_m": 2241,
+      "ozellik": ""
+    },
+    {
+      "ad": "Balıklıgöl",
+      "tur": "",
+      "cografya": "GAB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Kutsal yer, tarihî mekan"
+    },
+    {
+      "ad": "Batmış Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "DAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 3.4,
+      "derinlik_m": 3.5,
+      "irtifa_m": 2210,
+      "ozellik": ""
+    },
+    {
+      "ad": "Beymelek Lagünü",
+      "tur": "Lagün",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": 2.55,
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Beyşehir Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "EB, İAB",
+      "akarsu": "Çarşamba Çayı",
+      "yuzolcumu_km2": 663,
+      "derinlik_m": 10,
+      "irtifa_m": 1123,
+      "ozellik": "Türkiye'nin en büyük tatlı su gölü"
+    },
+    {
+      "ad": "Bolluk Gölü",
+      "tur": "Tuz gölü",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 11.5,
+      "derinlik_m": "",
+      "irtifa_m": 950,
+      "ozellik": ""
+    },
+    {
+      "ad": "Buca Gölet",
+      "tur": "Park gölü",
+      "cografya": "EB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Burdur Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "EB, İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 153,
+      "derinlik_m": 80,
+      "irtifa_m": 842,
+      "ozellik": "Ramsar alanı, tuzlu su"
+    },
+    {
+      "ad": "Büyükçekmece Gölü",
+      "tur": "Lagün",
+      "cografya": "MB",
+      "akarsu": "Marmara Denizi",
+      "yuzolcumu_km2": 12,
+      "derinlik_m": 8.6,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Çavuşçu Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 27,
+      "derinlik_m": 10,
+      "irtifa_m": 1026,
+      "ozellik": ""
+    },
+    {
+      "ad": "Çıldır Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "DAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 123,
+      "derinlik_m": 42,
+      "irtifa_m": 1959,
+      "ozellik": ""
+    },
+    {
+      "ad": "Çöl Gölü",
+      "tur": "",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 15,
+      "derinlik_m": "",
+      "irtifa_m": 1045,
+      "ozellik": "Acı su"
+    },
+    {
+      "ad": "Dalyan Gölü",
+      "tur": "Lagün",
+      "cografya": "MB",
+      "akarsu": "Marmara Denizi",
+      "yuzolcumu_km2": "",
+      "derinlik_m": 0.75,
+      "irtifa_m": 2,
+      "ozellik": ""
+    },
+    {
+      "ad": "Dalyan Gölü",
+      "tur": "Lagün",
+      "cografya": "MB",
+      "akarsu": "Ege Denizi",
+      "yuzolcumu_km2": 3.4,
+      "derinlik_m": 1.5,
+      "irtifa_m": "",
+      "ozellik": "Tuzlu ve sodalı"
+    },
+    {
+      "ad": "Deniz Gölü",
+      "tur": "Buzul gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.0955,
+      "derinlik_m": 60,
+      "irtifa_m": 3384,
+      "ozellik": ""
+    },
+    {
+      "ad": "Dil Gölü",
+      "tur": "Lagün",
+      "cografya": "EB",
+      "akarsu": "Ege Denizi",
+      "yuzolcumu_km2": 21,
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Dipsiz Göl",
+      "tur": "Volkanik set gölü",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": 14,
+      "ozellik": ""
+    },
+    {
+      "ad": "Durugöl",
+      "tur": "Lagün",
+      "cografya": "MB",
+      "akarsu": "",
+      "yuzolcumu_km2": 39,
+      "derinlik_m": 11,
+      "irtifa_m": 4.5,
+      "ozellik": "Az tuzlu"
+    },
+    {
+      "ad": "Düden Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 8,
+      "derinlik_m": "",
+      "irtifa_m": 950,
+      "ozellik": "Hafif tuzlu"
+    },
+    {
+      "ad": "Eber Gölü",
+      "tur": "Tatlı su bataklığı",
+      "cografya": "EB",
+      "akarsu": "",
+      "yuzolcumu_km2": 125,
+      "derinlik_m": "",
+      "irtifa_m": 967,
+      "ozellik": "Tatlı su bataklığı"
+    },
+    {
+      "ad": "Eğirdir Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": 468,
+      "derinlik_m": 16.5,
+      "irtifa_m": 917,
+      "ozellik": ""
+    },
+    {
+      "ad": "Erçek Gölü",
+      "tur": "Volkanik set gölü",
+      "cografya": "DAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 114,
+      "derinlik_m": 40,
+      "irtifa_m": 1808,
+      "ozellik": ""
+    },
+    {
+      "ad": "Eymir Gölü",
+      "tur": "Set gölü",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 1.09,
+      "derinlik_m": 5.5,
+      "irtifa_m": 969,
+      "ozellik": ""
+    },
+    {
+      "ad": "Gaga Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "KB",
+      "akarsu": "Bolaman Irmağı",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Gala Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "MB",
+      "akarsu": "Dalyan Gölü",
+      "yuzolcumu_km2": 23.59,
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Gala Gölü Millî Parkı içinde"
+    },
+    {
+      "ad": "Gölcük Gölü",
+      "tur": "Yapay göl",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.045,
+      "derinlik_m": "",
+      "irtifa_m": 1217,
+      "ozellik": "Tabiat parkı"
+    },
+    {
+      "ad": "Gölcük Gölü",
+      "tur": "Krater gölü",
+      "cografya": "AB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 1.05,
+      "derinlik_m": 30,
+      "irtifa_m": 1300,
+      "ozellik": "Tabiat parkı"
+    },
+    {
+      "ad": "Gölcük Gölü",
+      "tur": "Alüvyal set gölü",
+      "cografya": "EB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.941,
+      "derinlik_m": 7,
+      "irtifa_m": 1049,
+      "ozellik": ""
+    },
+    {
+      "ad": "Haçlı Gölü",
+      "tur": "Volkanik set gölü",
+      "cografya": "DAB",
+      "akarsu": "Körsu Çayı",
+      "yuzolcumu_km2": 27,
+      "derinlik_m": "",
+      "irtifa_m": 1583,
+      "ozellik": ""
+    },
+    {
+      "ad": "Hafik Gölü",
+      "tur": "Karstik göl",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.8,
+      "derinlik_m": 6,
+      "irtifa_m": 1295,
+      "ozellik": "Tatlı su"
+    },
+    {
+      "ad": "Hazar Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "DAB",
+      "akarsu": "Dicle",
+      "yuzolcumu_km2": 81,
+      "derinlik_m": 213,
+      "irtifa_m": 1248,
+      "ozellik": ""
+    },
+    {
+      "ad": "Işıklı Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "EB",
+      "akarsu": "Büyük Menderes",
+      "yuzolcumu_km2": 64,
+      "derinlik_m": 8.7,
+      "irtifa_m": 816,
+      "ozellik": ""
+    },
+    {
+      "ad": "İznik Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "MB",
+      "akarsu": "Karsak Deresi",
+      "yuzolcumu_km2": 310,
+      "derinlik_m": 65,
+      "irtifa_m": 85,
+      "ozellik": "Marmara Bölgesi ‘nin en büyük gölü"
+    },
+    {
+      "ad": "Kâmil Abduş Gölü",
+      "tur": "Lagün",
+      "cografya": "MB",
+      "akarsu": "Marmara Denizi",
+      "yuzolcumu_km2": 3,
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Karagöl",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.05,
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Borçka Gölü Tabiat Parkı sınırları içinde"
+    },
+    {
+      "ad": "Karagöl",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Karagöl",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.05,
+      "derinlik_m": 33,
+      "irtifa_m": "",
+      "ozellik": "Karagöl-Sahara Millî Parkı içinde, hafif alkali"
+    },
+    {
+      "ad": "Karagöl",
+      "tur": "Buzul gölü",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.025,
+      "derinlik_m": 12,
+      "irtifa_m": 2650,
+      "ozellik": ""
+    },
+    {
+      "ad": "Karakız Göleti",
+      "tur": "Yapay göl",
+      "cografya": "AB",
+      "akarsu": "Tömük Çayı",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": 1530,
+      "ozellik": ""
+    },
+    {
+      "ad": "Karamık Gölü",
+      "tur": "",
+      "cografya": "EB",
+      "akarsu": "Eğirdir Gölü",
+      "yuzolcumu_km2": 40,
+      "derinlik_m": 3,
+      "irtifa_m": 1001,
+      "ozellik": ""
+    },
+    {
+      "ad": "Karataş Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": 11.9,
+      "derinlik_m": 2,
+      "irtifa_m": 1050,
+      "ozellik": ""
+    },
+    {
+      "ad": "Keban Baraj Gölü",
+      "tur": "Baraj gölü",
+      "cografya": "DAB",
+      "akarsu": "Fırat",
+      "yuzolcumu_km2": 675,
+      "derinlik_m": "",
+      "irtifa_m": 861,
+      "ozellik": "Türkiye'nin en büyük 4. gölü"
+    },
+    {
+      "ad": "Keşiş Gölü",
+      "tur": "Baraj gölü",
+      "cografya": "DAB",
+      "akarsu": "Karamağara Deresi",
+      "yuzolcumu_km2": 100,
+      "derinlik_m": "",
+      "irtifa_m": 2550,
+      "ozellik": "Antik baraj"
+    },
+    {
+      "ad": "Kestel Gölü",
+      "tur": "Karstik göl",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": 25,
+      "derinlik_m": 4,
+      "irtifa_m": 779,
+      "ozellik": "Kurutuldu"
+    },
+    {
+      "ad": "Kızılçan Gölü",
+      "tur": "Karstik göl",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 0.152,
+      "derinlik_m": "",
+      "irtifa_m": 1309,
+      "ozellik": ""
+    },
+    {
+      "ad": "Kızören Gölü",
+      "tur": "Karstik göl",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": "",
+      "derinlik_m": 145,
+      "irtifa_m": "",
+      "ozellik": "Ramsar alanı"
+    },
+    {
+      "ad": "Kovada Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "AB",
+      "akarsu": "Kurudere",
+      "yuzolcumu_km2": 7.9,
+      "derinlik_m": 6,
+      "irtifa_m": 908,
+      "ozellik": "Kovada Gölü Millî Parkı içinde"
+    },
+    {
+      "ad": "Köyceğiz Gölü",
+      "tur": "Alüvyal set gölü",
+      "cografya": "EB",
+      "akarsu": "Dalyan Boğazı",
+      "yuzolcumu_km2": 52,
+      "derinlik_m": 1.5,
+      "irtifa_m": 8,
+      "ozellik": ""
+    },
+    {
+      "ad": "Küçükçekmece Gölü",
+      "tur": "Lagün",
+      "cografya": "MB",
+      "akarsu": "Marmara Denizi",
+      "yuzolcumu_km2": 16,
+      "derinlik_m": 20,
+      "irtifa_m": "",
+      "ozellik": "Az tuzlu"
+    },
+    {
+      "ad": "Ladik Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 8.7,
+      "derinlik_m": "",
+      "irtifa_m": 950,
+      "ozellik": ""
+    },
+    {
+      "ad": "Manyas Kuş Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "MB",
+      "akarsu": "Simav Çayı",
+      "yuzolcumu_km2": 166,
+      "derinlik_m": 4,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Marmara Gölü",
+      "tur": "Alüvyal set gölü",
+      "cografya": "EB",
+      "akarsu": "Gördes Çayı",
+      "yuzolcumu_km2": 44.5,
+      "derinlik_m": 7,
+      "irtifa_m": 79,
+      "ozellik": "Tuzlu"
+    },
+    {
+      "ad": "Meke Krater Gölü",
+      "tur": "",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": 12,
+      "irtifa_m": 981,
+      "ozellik": "Ramsar alanı, tuzlu su"
+    },
+    {
+      "ad": "Menzelet Gölü",
+      "tur": "Baraj gölü",
+      "cografya": "AB",
+      "akarsu": "Ceyhan Nehri",
+      "yuzolcumu_km2": 0.13,
+      "derinlik_m": 50,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Mogan Gölü",
+      "tur": "Set gölü",
+      "cografya": "İAB",
+      "akarsu": "İncesu Deresi",
+      "yuzolcumu_km2": 63,
+      "derinlik_m": 5,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Narlıgöl",
+      "tur": "Krater gölü",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.7,
+      "derinlik_m": 21,
+      "irtifa_m": 1363,
+      "ozellik": "Acı su"
+    },
+    {
+      "ad": "Nazik Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "DAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 44.5,
+      "derinlik_m": 50,
+      "irtifa_m": 1816,
+      "ozellik": ""
+    },
+    {
+      "ad": "Nemrut Gölü",
+      "tur": "Krater gölü",
+      "cografya": "DAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 12.36,
+      "derinlik_m": 155,
+      "irtifa_m": 2247,
+      "ozellik": "Ramsar alanı, hafif alkali"
+    },
+    {
+      "ad": "Palas Tuzla Gölü",
+      "tur": "Tuz gölü",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 23.5,
+      "derinlik_m": "",
+      "irtifa_m": 1131,
+      "ozellik": ""
+    },
+    {
+      "ad": "Paradeniz",
+      "tur": "Lagün",
+      "cografya": "AB",
+      "akarsu": "Akdeniz",
+      "yuzolcumu_km2": 4,
+      "derinlik_m": 1.5,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Poyrazlar Gölü",
+      "tur": "Alüvyal set gölü",
+      "cografya": "MB",
+      "akarsu": "Sakarya Nehri",
+      "yuzolcumu_km2": 0.67,
+      "derinlik_m": 8,
+      "irtifa_m": 25,
+      "ozellik": ""
+    },
+    {
+      "ad": "Salda Gölü",
+      "tur": "Karstik göl",
+      "cografya": "AB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 44,
+      "derinlik_m": 184,
+      "irtifa_m": 1140,
+      "ozellik": "Koruma Bölgesi"
+    },
+    {
+      "ad": "Sapanca Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "MB",
+      "akarsu": "",
+      "yuzolcumu_km2": 46.9,
+      "derinlik_m": 61,
+      "irtifa_m": 33,
+      "ozellik": ""
+    },
+    {
+      "ad": "Sarıkum Gölü",
+      "tur": "Lagün",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 1.84,
+      "derinlik_m": 2,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Sera Gölü",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Tabiat parkı, tatlı su"
+    },
+    {
+      "ad": "Seyfe Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 15.5,
+      "derinlik_m": 12,
+      "irtifa_m": 1080,
+      "ozellik": "Millî park, tuzlu su, kurudu"
+    },
+    {
+      "ad": "Simenit Gölü",
+      "tur": "Lagün",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 19,
+      "derinlik_m": 5,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Suğla Gölü",
+      "tur": "Karstik göl",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Tatlı su"
+    },
+    {
+      "ad": "Süphan Gölü",
+      "tur": "",
+      "cografya": "DAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 1.27,
+      "derinlik_m": "",
+      "irtifa_m": 2434,
+      "ozellik": ""
+    },
+    {
+      "ad": "Tahtalı Göleti",
+      "tur": "",
+      "cografya": "MB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Taşkısığı Gölü",
+      "tur": "",
+      "cografya": "MB",
+      "akarsu": "",
+      "yuzolcumu_km2": 0.9,
+      "derinlik_m": "",
+      "irtifa_m": 15,
+      "ozellik": "Sulak alan, tatlı su"
+    },
+    {
+      "ad": "Tersakan Gölü",
+      "tur": "Tektonik göl",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": 64,
+      "derinlik_m": "",
+      "irtifa_m": 910,
+      "ozellik": "Sodalı su"
+    },
+    {
+      "ad": "Timraş Gölü",
+      "tur": "Karstik göl",
+      "cografya": "İAB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": 14,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Tortum Gölü",
+      "tur": "Heyelan set gölü",
+      "cografya": "DAB",
+      "akarsu": "Tortum Çayı",
+      "yuzolcumu_km2": 8,
+      "derinlik_m": 100,
+      "irtifa_m": 1000,
+      "ozellik": ""
+    },
+    {
+      "ad": "Tödürge Gölü",
+      "tur": "",
+      "cografya": "İAB",
+      "akarsu": "Kızılırmak",
+      "yuzolcumu_km2": 3.5,
+      "derinlik_m": 44.5,
+      "irtifa_m": 1295,
+      "ozellik": "Kireçli ve tuzlu"
+    },
+    {
+      "ad": "Tuz Gölü",
+      "tur": "Tuz gölü",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 1500,
+      "derinlik_m": 2,
+      "irtifa_m": 905,
+      "ozellik": "Türkiye'nin en büyük 2. gölü"
+    },
+    {
+      "ad": "Tuzla Gölü",
+      "tur": "Lagün",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": 0.77,
+      "irtifa_m": "",
+      "ozellik": "Sulak alan"
+    },
+    {
+      "ad": "Uluabat Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "MB",
+      "akarsu": "",
+      "yuzolcumu_km2": 136,
+      "derinlik_m": 10,
+      "irtifa_m": "",
+      "ozellik": "Ramsar alanı"
+    },
+    {
+      "ad": "Ulugöl",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": 1200,
+      "ozellik": ""
+    },
+    {
+      "ad": "Uzungöl",
+      "tur": "Heyelan set gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": 15,
+      "irtifa_m": 1090,
+      "ozellik": "Uzungöl Tabiat Parkı"
+    },
+    {
+      "ad": "Van Gölü",
+      "tur": "Volkanik set gölü",
+      "cografya": "DAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 3713,
+      "derinlik_m": 451,
+      "irtifa_m": 1646,
+      "ozellik": "Türkiye'nin en büyük sodalı gölü"
+    },
+    {
+      "ad": "Yarışlı Gölü",
+      "tur": "Karstik göl",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": 16,
+      "derinlik_m": 4,
+      "irtifa_m": 854,
+      "ozellik": "Acı su"
+    },
+    {
+      "ad": "Yay Gölü",
+      "tur": "Tuz gölü",
+      "cografya": "İAB",
+      "akarsu": "Kapalı havza",
+      "yuzolcumu_km2": 20,
+      "derinlik_m": 2,
+      "irtifa_m": 1017,
+      "ozellik": ""
+    },
+    {
+      "ad": "Yedigöller",
+      "tur": "",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": "",
+      "derinlik_m": "",
+      "irtifa_m": "",
+      "ozellik": "Millî park"
+    },
+    {
+      "ad": "Yenişehir Gölü",
+      "tur": "Doğal göl",
+      "cografya": "AB",
+      "akarsu": "",
+      "yuzolcumu_km2": 20,
+      "derinlik_m": 8,
+      "irtifa_m": "",
+      "ozellik": ""
+    },
+    {
+      "ad": "Zinav Gölü",
+      "tur": "Tatlı su gölü",
+      "cografya": "KB",
+      "akarsu": "",
+      "yuzolcumu_km2": 26,
+      "derinlik_m": "",
+      "irtifa_m": 15,
+      "ozellik": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki göller - Free Download",
+    "description": "Türkiye'deki göllerin türü, yüzölçümü, derinliği, irtifası ve coğrafi konumu. Contains 106 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki göller | ListBase",
+    "seo_description": "Download Türkiye'deki göller — 106 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 106 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_göller_listesi"
+    ]
+  }
+}
