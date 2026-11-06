@@ -1,0 +1,200 @@
+{
+  "id": "tr-otoyollar",
+  "name": "Türkiye'deki otoyollar",
+  "title": "Türkiye'deki otoyollar",
+  "description": "Türkiye'deki otoyolların numarası, güzergâhı, uzunluğu, hız sınırı, açılış tarihi ve sahibi.",
+  "category": "transport",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_otoyollar",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_otoyollar",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "numara",
+      "label": "Numara",
+      "type": "string"
+    },
+    {
+      "key": "guzergah",
+      "label": "Guzergah",
+      "type": "string"
+    },
+    {
+      "key": "uzunluk_km",
+      "label": "Uzunluk Km",
+      "type": "number"
+    },
+    {
+      "key": "hiz_siniri",
+      "label": "Hiz Siniri",
+      "type": "string"
+    },
+    {
+      "key": "acilis_tarihi",
+      "label": "Acilis Tarihi",
+      "type": "string"
+    },
+    {
+      "key": "sahip",
+      "label": "Sahip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numara": "O-1",
+      "guzergah": "İstanbul 1. Çevre Yolu",
+      "uzunluk_km": 4.9,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "29 Ekim 1973",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-2",
+      "guzergah": "İstanbul 2. Çevre Yolu",
+      "uzunluk_km": 38,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "3 Temmuz 1988",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-3",
+      "guzergah": "Avrupa Otoyolu",
+      "uzunluk_km": 232,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "Edirne Batı-Doğu Kavşağı: 1987 Edirne-Kınalı: 1994 Kınalı-Mahmutbey: 1997",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-4",
+      "guzergah": "Anadolu Otoyolu",
+      "uzunluk_km": 379,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "Çamlıca-Sakarya: 1992 Kazancı-Gerede-Ankara: 1994 Bolu Dağı Geçişi: 2007",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-5",
+      "guzergah": "İstanbul-İzmir Otoyolu",
+      "uzunluk_km": 426,
+      "hiz_siniri": "140 km/h",
+      "acilis_tarihi": "1 Temmuz 2016",
+      "sahip": "Bursa Çevre Yolu: Karayolları Genel Müdürlüğü Bursa Çevre Yolu hariç: Otoyol A. Ş."
+    },
+    {
+      "numara": "O-6",
+      "guzergah": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu",
+      "uzunluk_km": 101,
+      "hiz_siniri": "140 km/h",
+      "acilis_tarihi": "18 Mart 2022",
+      "sahip": "1915 Çanakkale Otoyol ve Köprü İşletme A.Ş."
+    },
+    {
+      "numara": "O-7",
+      "guzergah": "Kuzey Marmara Otoyolu",
+      "uzunluk_km": 443,
+      "hiz_siniri": "140 km/h",
+      "acilis_tarihi": "2016",
+      "sahip": "Avrupa Otoyol Yatırım ve İşletme A. Ş. Anadolu Otoyol Yatırım ve İşletme A. Ş. Yavuz Sultan Selim Köprüsü ve Kuzey Çevre Yolu İşletmesi (ICA)"
+    },
+    {
+      "numara": "O-20",
+      "guzergah": "Ankara Çevre Yolu",
+      "uzunluk_km": 120,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "5 Şubat 1999",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-21",
+      "guzergah": "Ankara-Niğde-Tarsus Otoyolu",
+      "uzunluk_km": 432,
+      "hiz_siniri": "Ankara-Niğde: 140 km/h Niğde-Tarsus: 130 km/h",
+      "acilis_tarihi": "Ankara-Niğde: 16 Aralık 2020 Niğde-Tarsus: 15 Aralık 1984",
+      "sahip": "Ankara-Niğde: ERG Otoyol Yatırım ve İşletme A. Ş. Niğde-Tarsus: Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-22",
+      "guzergah": "Bursa Çevre Yolu",
+      "uzunluk_km": 34,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "2005",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-30",
+      "guzergah": "İzmir Çevre Yolu",
+      "uzunluk_km": 51,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "12 Aralık 1993",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-31",
+      "guzergah": "İzmir-Aydın-Denizli Otoyolu",
+      "uzunluk_km": 258,
+      "hiz_siniri": "İzmir-Aydın: 130 km/h Aydın-Denizli: 140 km/h",
+      "acilis_tarihi": "İzmir-Aydın: 24 Aralık 1993 Aydın-Denizli: 17 Ekim 2024",
+      "sahip": "İzmir-Aydın: Karayolları Genel Müdürlüğü Aydın-Denizli: Fernas Otoyol İşletmesi A.Ş."
+    },
+    {
+      "numara": "O-32",
+      "guzergah": "İzmir-Çeşme Otoyolu",
+      "uzunluk_km": 77,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "4 Temmuz 1992",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-33",
+      "guzergah": "Menemen-Aliağa-Çandarlı Otoyolu",
+      "uzunluk_km": 96,
+      "hiz_siniri": "140 km/h",
+      "acilis_tarihi": "22 Şubat 2020",
+      "sahip": "İKA İzmir Otoyol Yatırım ve İşletme A. Ş."
+    },
+    {
+      "numara": "O-51",
+      "guzergah": "Adana-Mersin Otoyolu",
+      "uzunluk_km": 140,
+      "hiz_siniri": "Adana-Mersin: 130 km/h Çeşmeli-Kızkalesi: TBA",
+      "acilis_tarihi": "Adana-Mersin: 1992 Çeşmeli-Kızkalesi: 19 Ekim 2026",
+      "sahip": "Adana-Mersin: Karayolları Genel Müdürlüğü Çeşmeli-Kızkalesi: TBA"
+    },
+    {
+      "numara": "O-52",
+      "guzergah": "Adana-Şanlıurfa Otoyolu",
+      "uzunluk_km": 365,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "1992",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-53",
+      "guzergah": "Toprakkale-İskenderun Otoyolu",
+      "uzunluk_km": 150,
+      "hiz_siniri": "Toprakkale-Gözeneler Kvş.: 110 km/h Ceyhan-İskenderun: 130 km/h",
+      "acilis_tarihi": "1993",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    },
+    {
+      "numara": "O-54",
+      "guzergah": "Gaziantep Çevre Yolu",
+      "uzunluk_km": 32,
+      "hiz_siniri": "130 km/h",
+      "acilis_tarihi": "2013",
+      "sahip": "Karayolları Genel Müdürlüğü"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki otoyollar - Free Download",
+    "description": "Türkiye'deki otoyolların numarası, güzergâhı, uzunluğu, hız sınırı, açılış tarihi ve sahibi. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki otoyollar | ListBase",
+    "seo_description": "Download Türkiye'deki otoyollar — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_otoyollar"
+    ]
+  }
+}

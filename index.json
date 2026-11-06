@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-04T02:14:20.970Z",
-  "total_datasets": 568,
-  "total_records": 605743,
+  "generated": "2026-11-06T02:35:31.685Z",
+  "total_datasets": 569,
+  "total_records": 605761,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 45
+      "dataset_count": 46
     },
     {
       "id": "units",
@@ -15542,6 +15542,33 @@
         "xlsx": {
           "name": "tr-nigde-tcdd-istasyonlari_TR.xlsx",
           "size": 7147
+        }
+      }
+    },
+    {
+      "id": "tr-otoyollar",
+      "name": "Türkiye'deki otoyollar",
+      "category": "transport",
+      "record_count": 18,
+      "columns": [
+        "numara",
+        "guzergah",
+        "uzunluk_km",
+        "hiz_siniri",
+        "acilis_tarihi",
+        "sahip"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_otoyollar",
+      "updated": "2026-11",
+      "size": 6597,
+      "files": {
+        "csv": {
+          "name": "tr-otoyollar_TR.csv",
+          "size": 2703
+        },
+        "xlsx": {
+          "name": "tr-otoyollar_TR.xlsx",
+          "size": 8118
         }
       }
     },
