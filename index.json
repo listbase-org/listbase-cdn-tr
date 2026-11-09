@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-09T02:30:36.364Z",
-  "total_datasets": 578,
-  "total_records": 606511,
+  "generated": "2026-11-09T02:30:43.281Z",
+  "total_datasets": 579,
+  "total_records": 606564,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -6221,6 +6221,29 @@
         "xlsx": {
           "name": "tr-restoran-zincirleri_TR.xlsx",
           "size": 10199
+        }
+      }
+    },
+    {
+      "id": "tr-turk-mutfagi-corbalari",
+      "name": "Türk mutfağındaki çorbalar",
+      "category": "food",
+      "record_count": 53,
+      "columns": [
+        "ad",
+        "aciklama"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Kategori:Türk_mutfağındaki_çorbalar",
+      "updated": "2026-11",
+      "size": 9478,
+      "files": {
+        "csv": {
+          "name": "tr-turk-mutfagi-corbalari_TR.csv",
+          "size": 5809
+        },
+        "xlsx": {
+          "name": "tr-turk-mutfagi-corbalari_TR.xlsx",
+          "size": 9228
         }
       }
     },
