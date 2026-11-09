@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-09T02:30:22.015Z",
-  "total_datasets": 576,
-  "total_records": 606475,
+  "generated": "2026-11-09T02:30:29.400Z",
+  "total_datasets": 577,
+  "total_records": 606499,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "math",
@@ -11829,6 +11829,31 @@
         "xlsx": {
           "name": "tr-ceza-infaz-kurumlari_TR.xlsx",
           "size": 9481
+        }
+      }
+    },
+    {
+      "id": "tr-danistay-baskanlari",
+      "name": "Danıştay başkanları",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "sira",
+        "baskan",
+        "gorev_baslangici",
+        "gorev_bitisi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_Danıştay_başkanları_listesi",
+      "updated": "2026-11",
+      "size": 5174,
+      "files": {
+        "csv": {
+          "name": "tr-danistay-baskanlari_TR.csv",
+          "size": 1445
+        },
+        "xlsx": {
+          "name": "tr-danistay-baskanlari_TR.xlsx",
+          "size": 7895
         }
       }
     },
