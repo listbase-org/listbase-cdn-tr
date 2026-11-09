@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-09T02:30:29.400Z",
-  "total_datasets": 577,
-  "total_records": 606499,
+  "generated": "2026-11-09T02:30:36.364Z",
+  "total_datasets": 578,
+  "total_records": 606511,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -14616,6 +14616,32 @@
         "xlsx": {
           "name": "tr-osmanli-gunes-saatleri_TR.xlsx",
           "size": 7150
+        }
+      }
+    },
+    {
+      "id": "tr-rumi-takvim-aylari",
+      "name": "Rumi takvim ayları",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "ay",
+        "mali_ad",
+        "osmanlica",
+        "gun_sayisi",
+        "guncel_karsiligi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Rumi_takvim",
+      "updated": "2026-11",
+      "size": 3584,
+      "files": {
+        "csv": {
+          "name": "tr-rumi-takvim-aylari_TR.csv",
+          "size": 735
+        },
+        "xlsx": {
+          "name": "tr-rumi-takvim-aylari_TR.xlsx",
+          "size": 7355
         }
       }
     },

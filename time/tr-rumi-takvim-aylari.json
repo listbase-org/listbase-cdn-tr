@@ -1,0 +1,135 @@
+{
+  "id": "tr-rumi-takvim-aylari",
+  "name": "Rumi takvim ayları",
+  "title": "Rumi takvim ayları",
+  "description": "Osmanlı Devleti'nde mali takvim olarak kullanılan Rumi takvimin ayları, Osmanlıca yazılışları, gün sayıları ve güncel karşılıkları.",
+  "category": "time",
+  "source": "https://tr.wikipedia.org/wiki/Rumi_takvim",
+  "source_url": "https://tr.wikipedia.org/wiki/Rumi_takvim",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "ay",
+      "label": "Ay",
+      "type": "string"
+    },
+    {
+      "key": "mali_ad",
+      "label": "Mali Ad",
+      "type": "string"
+    },
+    {
+      "key": "osmanlica",
+      "label": "Osmanlica",
+      "type": "string"
+    },
+    {
+      "key": "gun_sayisi",
+      "label": "Gun Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "guncel_karsiligi",
+      "label": "Guncel Karsiligi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ay": "Birinci Ay",
+      "mali_ad": "Mart",
+      "osmanlica": "مارت",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Mart"
+    },
+    {
+      "ay": "İkinci Ay",
+      "mali_ad": "Nîsan",
+      "osmanlica": "نيسان",
+      "gun_sayisi": 30,
+      "guncel_karsiligi": "Nisan"
+    },
+    {
+      "ay": "Üçüncü Ay",
+      "mali_ad": "Mayıs",
+      "osmanlica": "مايس",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Mayıs"
+    },
+    {
+      "ay": "Dördüncü Ay",
+      "mali_ad": "Hazîran",
+      "osmanlica": "حزيران",
+      "gun_sayisi": 30,
+      "guncel_karsiligi": "Haziran"
+    },
+    {
+      "ay": "Beşinci Ay",
+      "mali_ad": "Temmuz",
+      "osmanlica": "تموز",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Temmuz"
+    },
+    {
+      "ay": "Altıncı Ay",
+      "mali_ad": "Ağustos",
+      "osmanlica": "اغستوس",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Ağustos"
+    },
+    {
+      "ay": "Yedinci Ay",
+      "mali_ad": "Eylül",
+      "osmanlica": "ایلول",
+      "gun_sayisi": 30,
+      "guncel_karsiligi": "Eylül"
+    },
+    {
+      "ay": "Sekizinci Ay",
+      "mali_ad": "Teşrin-i Evvel",
+      "osmanlica": "تشرین اول",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Ekim"
+    },
+    {
+      "ay": "Dokuzuncu Ay",
+      "mali_ad": "Teşrin-i Sânî",
+      "osmanlica": "تشرین ثانی",
+      "gun_sayisi": 30,
+      "guncel_karsiligi": "Kasım"
+    },
+    {
+      "ay": "Onuncu Ay",
+      "mali_ad": "Kânûn-ı Evvel",
+      "osmanlica": "كانون اول",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Aralık"
+    },
+    {
+      "ay": "On Birinci Ay",
+      "mali_ad": "Kânûn-ı Sânî",
+      "osmanlica": "كانون ثانی",
+      "gun_sayisi": 31,
+      "guncel_karsiligi": "Ocak"
+    },
+    {
+      "ay": "On İkinci Ay",
+      "mali_ad": "Şubat",
+      "osmanlica": "شباط",
+      "gun_sayisi": 28,
+      "guncel_karsiligi": "Şubat"
+    }
+  ],
+  "meta": {
+    "title": "Rumi takvim ayları - Free Download",
+    "description": "Osmanlı Devleti'nde mali takvim olarak kullanılan Rumi takvimin ayları, Osmanlıca yazılışları, gün sayıları ve güncel karşılıkları. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rumi takvim ayları | ListBase",
+    "seo_description": "Download Rumi takvim ayları — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Rumi_takvim"
+    ]
+  }
+}
