@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-09T02:30:43.281Z",
-  "total_datasets": 579,
-  "total_records": 606564,
+  "generated": "2026-11-09T02:30:50.438Z",
+  "total_datasets": 580,
+  "total_records": 606618,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -6244,6 +6244,29 @@
         "xlsx": {
           "name": "tr-turk-mutfagi-corbalari_TR.xlsx",
           "size": 9228
+        }
+      }
+    },
+    {
+      "id": "tr-turk-peynirleri",
+      "name": "Türk peynirleri",
+      "category": "food",
+      "record_count": 54,
+      "columns": [
+        "ad",
+        "aciklama"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Kategori:Türk_peynirleri",
+      "updated": "2026-11",
+      "size": 9905,
+      "files": {
+        "csv": {
+          "name": "tr-turk-peynirleri_TR.csv",
+          "size": 6295
+        },
+        "xlsx": {
+          "name": "tr-turk-peynirleri_TR.xlsx",
+          "size": 9668
         }
       }
     },
