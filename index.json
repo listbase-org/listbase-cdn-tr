@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-06T02:36:14.903Z",
-  "total_datasets": 575,
-  "total_records": 606409,
+  "generated": "2026-11-09T02:30:22.015Z",
+  "total_datasets": 576,
+  "total_records": 606475,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "math",
@@ -11801,6 +11801,34 @@
         "xlsx": {
           "name": "tr-bolge-adliye-mahkemeleri_TR.xlsx",
           "size": 7788
+        }
+      }
+    },
+    {
+      "id": "tr-ceza-infaz-kurumlari",
+      "name": "Türkiye'deki ceza infaz kurumları (cezaevleri)",
+      "category": "law",
+      "record_count": 66,
+      "columns": [
+        "isim",
+        "il",
+        "tip",
+        "oda_sayisi",
+        "kapasite",
+        "personel_sayisi",
+        "acilis_tarihi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_hapishaneler_listesi",
+      "updated": "2026-11",
+      "size": 16253,
+      "files": {
+        "csv": {
+          "name": "tr-ceza-infaz-kurumlari_TR.csv",
+          "size": 5044
+        },
+        "xlsx": {
+          "name": "tr-ceza-infaz-kurumlari_TR.xlsx",
+          "size": 9481
         }
       }
     },

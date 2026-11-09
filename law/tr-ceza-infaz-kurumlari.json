@@ -1,0 +1,655 @@
+{
+  "id": "tr-ceza-infaz-kurumlari",
+  "name": "Türkiye'deki ceza infaz kurumları (cezaevleri)",
+  "title": "Türkiye'deki ceza infaz kurumları (cezaevleri)",
+  "description": "Türkiye'deki ceza infaz kurumlarının (cezaevleri) ili, tipi, oda sayısı, kapasitesi ve açılış yılı.",
+  "category": "law",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_hapishaneler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_hapishaneler_listesi",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "isim",
+      "label": "Isim",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "oda_sayisi",
+      "label": "Oda Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "kapasite",
+      "label": "Kapasite",
+      "type": "number"
+    },
+    {
+      "key": "personel_sayisi",
+      "label": "Personel Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "acilis_tarihi",
+      "label": "Acilis Tarihi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "isim": "Adana E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "E",
+      "oda_sayisi": 138,
+      "kapasite": 1260,
+      "personel_sayisi": "",
+      "acilis_tarihi": "1987"
+    },
+    {
+      "isim": "Adana F Tipi Yüksek Güvenlikli Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "F",
+      "oda_sayisi": 162,
+      "kapasite": 368,
+      "personel_sayisi": 215,
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Adana Açık Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "Açık",
+      "oda_sayisi": 48,
+      "kapasite": 430,
+      "personel_sayisi": "",
+      "acilis_tarihi": "2012"
+    },
+    {
+      "isim": "Ceyhan Açık Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ceyhan M Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "M",
+      "oda_sayisi": "",
+      "kapasite": 688,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Karaisalı K1 Tipi Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Karataş Kadın Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "",
+      "oda_sayisi": 113,
+      "kapasite": 200,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Kozan Açık Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Kozan M Tipi KapalıCeza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "M",
+      "oda_sayisi": "",
+      "kapasite": 300,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Pozantı M Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "M",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": 99,
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Saimbeyli K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Tarsus Açık Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Tarsus C Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "C",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Tufanbeyli K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "K1",
+      "oda_sayisi": 6,
+      "kapasite": 60,
+      "personel_sayisi": "",
+      "acilis_tarihi": "1985"
+    },
+    {
+      "isim": "Yumurtalık Kadın Açık Ceza İnfaz Kurumu",
+      "il": "Adana",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Adıyaman Açık Ceza İnfaz Kurumu",
+      "il": "Adıyaman",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": "1987"
+    },
+    {
+      "isim": "Adıyaman E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adıyaman",
+      "tip": "E",
+      "oda_sayisi": 51,
+      "kapasite": 525,
+      "personel_sayisi": 206,
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Gölbaşı K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adıyaman",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Kahta A2 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Adıyaman",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Afyonkarahısar Açık Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "Açık",
+      "oda_sayisi": 58,
+      "kapasite": 700,
+      "personel_sayisi": 126,
+      "acilis_tarihi": "1968"
+    },
+    {
+      "isim": "Afyonkarahisar E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "E",
+      "oda_sayisi": 62,
+      "kapasite": "",
+      "personel_sayisi": 235,
+      "acilis_tarihi": "1977"
+    },
+    {
+      "isim": "Bolvadin Açık Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Bolvadin C Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "C",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Dinar Açık Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Dinar T Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "T",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Emırdağ Açık Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Sandıklı A3 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Afyonkarahisar",
+      "tip": "A3",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ağrı M Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Ağrı (il)",
+      "tip": "M",
+      "oda_sayisi": 30,
+      "kapasite": 312,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Aksaray Kapalı Ceza İnfaz Kurumu",
+      "il": "Aksaray (il)",
+      "tip": "",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": "(1920) 1954"
+    },
+    {
+      "isim": "Amasya E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Amasya",
+      "tip": "E",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": "1969"
+    },
+    {
+      "isim": "Merzıfon A3 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Amasya",
+      "tip": "A3",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ankara 1 Nolu F Tipi Yüksek Güvenlikli Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "F",
+      "oda_sayisi": 164,
+      "kapasite": 368,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ankara 1 Nolu L Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "L",
+      "oda_sayisi": 103,
+      "kapasite": 1764,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ankara 2 Nolu F Tipi Yüksek Güvenlikli Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "F",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ankara 2 Nolu L Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "L",
+      "oda_sayisi": 64,
+      "kapasite": 1742,
+      "personel_sayisi": 302,
+      "acilis_tarihi": "2006"
+    },
+    {
+      "isim": "Ankara Açık Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "Açık",
+      "oda_sayisi": 47,
+      "kapasite": 416,
+      "personel_sayisi": "",
+      "acilis_tarihi": "(1936) 2005"
+    },
+    {
+      "isim": "Ankara Çocuk Eğitimevi",
+      "il": "Ankara",
+      "tip": "",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": "(1939) 2012"
+    },
+    {
+      "isim": "Ankara Çocuk Ve Gençlik Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ankara Kadın Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "",
+      "oda_sayisi": 40,
+      "kapasite": 352,
+      "personel_sayisi": 75,
+      "acilis_tarihi": "2006"
+    },
+    {
+      "isim": "Kalecık Açık Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": 120,
+      "personel_sayisi": "",
+      "acilis_tarihi": "1994"
+    },
+    {
+      "isim": "Kızılcahamam Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "",
+      "oda_sayisi": "",
+      "kapasite": 120,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Sincan Açık Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": 525,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Sincan T Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "T",
+      "oda_sayisi": 90,
+      "kapasite": 1068,
+      "personel_sayisi": "",
+      "acilis_tarihi": "2014"
+    },
+    {
+      "isim": "Şereflikoçhisar B Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Ankara",
+      "tip": "B",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Alanya Açık Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Alanya L Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "L",
+      "oda_sayisi": "",
+      "kapasite": 1820,
+      "personel_sayisi": "",
+      "acilis_tarihi": "2007"
+    },
+    {
+      "isim": "Antalya Açık Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Antalya E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "E",
+      "oda_sayisi": 92,
+      "kapasite": 995,
+      "personel_sayisi": 381,
+      "acilis_tarihi": "1983"
+    },
+    {
+      "isim": "Antalya L Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "L",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Elmalı A3 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "A3",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Elmalı Açık Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Kaş K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Kumluca K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Antalya",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Ardahan B Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Ardahan",
+      "tip": "B",
+      "oda_sayisi": 8,
+      "kapasite": 68,
+      "personel_sayisi": 40,
+      "acilis_tarihi": "1954"
+    },
+    {
+      "isim": "Arhavi K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Artvin",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": "1987"
+    },
+    {
+      "isim": "Artvın Kapalı Ceza İnfaz Kurumu",
+      "il": "Artvin",
+      "tip": "",
+      "oda_sayisi": 18,
+      "kapasite": "",
+      "personel_sayisi": 61,
+      "acilis_tarihi": "(1936) 2012"
+    },
+    {
+      "isim": "Aydın Açık Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": 300,
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Aydın E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "E",
+      "oda_sayisi": 81,
+      "kapasite": 850,
+      "personel_sayisi": 298,
+      "acilis_tarihi": "2011"
+    },
+    {
+      "isim": "Çine A3 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "A3",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Karacasu K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Nazilli Açık Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "Açık",
+      "oda_sayisi": 14,
+      "kapasite": 140,
+      "personel_sayisi": "",
+      "acilis_tarihi": "2010"
+    },
+    {
+      "isim": "Nazilli E Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "E",
+      "oda_sayisi": "",
+      "kapasite": 550,
+      "personel_sayisi": 255,
+      "acilis_tarihi": "1988"
+    },
+    {
+      "isim": "Söke A3 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "A3",
+      "oda_sayisi": 4,
+      "kapasite": 88,
+      "personel_sayisi": 82,
+      "acilis_tarihi": "1968"
+    },
+    {
+      "isim": "Sultanhısar Açık Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "Açık",
+      "oda_sayisi": "",
+      "kapasite": 140,
+      "personel_sayisi": "",
+      "acilis_tarihi": "1988"
+    },
+    {
+      "isim": "Yenipazar K1 Tipi Kapalı Ceza İnfaz Kurumu",
+      "il": "Aydın",
+      "tip": "K1",
+      "oda_sayisi": "",
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": ""
+    },
+    {
+      "isim": "Gebze Kadın Kapalı Ceza İnfaz Kurumu",
+      "il": "Kocaeli",
+      "tip": "",
+      "oda_sayisi": 35,
+      "kapasite": "",
+      "personel_sayisi": "",
+      "acilis_tarihi": "1990"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki ceza infaz kurumları (cezaevleri) - Free Download",
+    "description": "Türkiye'deki ceza infaz kurumlarının (cezaevleri) ili, tipi, oda sayısı, kapasitesi ve açılış yılı. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki ceza infaz kurumları (cezaevleri) | ListBase",
+    "seo_description": "Download Türkiye'deki ceza infaz kurumları (cezaevleri) — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_hapishaneler_listesi"
+    ]
+  }
+}
