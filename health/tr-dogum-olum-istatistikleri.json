@@ -1,0 +1,346 @@
+{
+  "id": "tr-dogum-olum-istatistikleri",
+  "name": "Türkiye'de doğum ve ölüm istatistikleri (2001–2025)",
+  "title": "Türkiye'de doğum ve ölüm istatistikleri (2001–2025)",
+  "description": "Türkiye'de yıllara göre canlı doğum, ölüm, doğal nüfus artışı, kaba doğum ve ölüm hızları ile toplam doğurganlık hızı.",
+  "category": "health",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "yil",
+      "label": "Yil",
+      "type": "number"
+    },
+    {
+      "key": "nufus",
+      "label": "Nufus",
+      "type": "number"
+    },
+    {
+      "key": "canli_dogum",
+      "label": "Canli Dogum",
+      "type": "number"
+    },
+    {
+      "key": "olum",
+      "label": "Olum",
+      "type": "number"
+    },
+    {
+      "key": "dogal_nufus_artisi",
+      "label": "Dogal Nufus Artisi",
+      "type": "number"
+    },
+    {
+      "key": "kaba_dogum_hizi_binde",
+      "label": "Kaba Dogum Hizi Binde",
+      "type": "number"
+    },
+    {
+      "key": "kaba_olum_hizi_binde",
+      "label": "Kaba Olum Hizi Binde",
+      "type": "number"
+    },
+    {
+      "key": "nufus_artis_hizi_binde",
+      "label": "Nufus Artis Hizi Binde",
+      "type": "number"
+    },
+    {
+      "key": "toplam_dogurganlik_hizi",
+      "label": "Toplam Dogurganlik Hizi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "yil": 2001,
+      "nufus": "",
+      "canli_dogum": 1323341,
+      "olum": 175137,
+      "dogal_nufus_artisi": 1148204,
+      "kaba_dogum_hizi_binde": 20.3,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.38
+    },
+    {
+      "yil": 2002,
+      "nufus": "",
+      "canli_dogum": 1229555,
+      "olum": 175434,
+      "dogal_nufus_artisi": 1054121,
+      "kaba_dogum_hizi_binde": 18.6,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.17
+    },
+    {
+      "yil": 2003,
+      "nufus": "",
+      "canli_dogum": 1198927,
+      "olum": 184330,
+      "dogal_nufus_artisi": 1014597,
+      "kaba_dogum_hizi_binde": 17.9,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.09
+    },
+    {
+      "yil": 2004,
+      "nufus": "",
+      "canli_dogum": 1222484,
+      "olum": 187086,
+      "dogal_nufus_artisi": 1035398,
+      "kaba_dogum_hizi_binde": 18,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.11
+    },
+    {
+      "yil": 2005,
+      "nufus": "",
+      "canli_dogum": 1244041,
+      "olum": 197520,
+      "dogal_nufus_artisi": 1046521,
+      "kaba_dogum_hizi_binde": 18.2,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.12
+    },
+    {
+      "yil": 2006,
+      "nufus": "",
+      "canli_dogum": 1255432,
+      "olum": 210146,
+      "dogal_nufus_artisi": 1045286,
+      "kaba_dogum_hizi_binde": 18.1,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.12
+    },
+    {
+      "yil": 2007,
+      "nufus": 70586256,
+      "canli_dogum": 1289992,
+      "olum": 212731,
+      "dogal_nufus_artisi": 1077261,
+      "kaba_dogum_hizi_binde": 18.3,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.16
+    },
+    {
+      "yil": 2008,
+      "nufus": 71517100,
+      "canli_dogum": 1295511,
+      "olum": 215562,
+      "dogal_nufus_artisi": 1079949,
+      "kaba_dogum_hizi_binde": 18.1,
+      "kaba_olum_hizi_binde": "",
+      "nufus_artis_hizi_binde": "",
+      "toplam_dogurganlik_hizi": 2.15
+    },
+    {
+      "yil": 2009,
+      "nufus": 72561312,
+      "canli_dogum": 1266751,
+      "olum": 369703,
+      "dogal_nufus_artisi": 897048,
+      "kaba_dogum_hizi_binde": 17.5,
+      "kaba_olum_hizi_binde": 5.1,
+      "nufus_artis_hizi_binde": 12.4,
+      "toplam_dogurganlik_hizi": 2.1
+    },
+    {
+      "yil": 2010,
+      "nufus": 73722988,
+      "canli_dogum": 1261169,
+      "olum": 366471,
+      "dogal_nufus_artisi": 894698,
+      "kaba_dogum_hizi_binde": 17.1,
+      "kaba_olum_hizi_binde": 5,
+      "nufus_artis_hizi_binde": 12.1,
+      "toplam_dogurganlik_hizi": 2.08
+    },
+    {
+      "yil": 2011,
+      "nufus": 74724269,
+      "canli_dogum": 1252812,
+      "olum": 376162,
+      "dogal_nufus_artisi": 876650,
+      "kaba_dogum_hizi_binde": 16.8,
+      "kaba_olum_hizi_binde": 5,
+      "nufus_artis_hizi_binde": 11.7,
+      "toplam_dogurganlik_hizi": 2.05
+    },
+    {
+      "yil": 2012,
+      "nufus": 75627384,
+      "canli_dogum": 1294605,
+      "olum": 376520,
+      "dogal_nufus_artisi": 918085,
+      "kaba_dogum_hizi_binde": 17.1,
+      "kaba_olum_hizi_binde": 5,
+      "nufus_artis_hizi_binde": 12.1,
+      "toplam_dogurganlik_hizi": 2.11
+    },
+    {
+      "yil": 2013,
+      "nufus": 76667864,
+      "canli_dogum": 1297505,
+      "olum": 373041,
+      "dogal_nufus_artisi": 924464,
+      "kaba_dogum_hizi_binde": 16.9,
+      "kaba_olum_hizi_binde": 4.9,
+      "nufus_artis_hizi_binde": 12.1,
+      "toplam_dogurganlik_hizi": 2.11
+    },
+    {
+      "yil": 2014,
+      "nufus": 77695904,
+      "canli_dogum": 1351088,
+      "olum": 391091,
+      "dogal_nufus_artisi": 959997,
+      "kaba_dogum_hizi_binde": 17.4,
+      "kaba_olum_hizi_binde": 5,
+      "nufus_artis_hizi_binde": 12.4,
+      "toplam_dogurganlik_hizi": 2.19
+    },
+    {
+      "yil": 2015,
+      "nufus": 78741053,
+      "canli_dogum": 1336908,
+      "olum": 405528,
+      "dogal_nufus_artisi": 931380,
+      "kaba_dogum_hizi_binde": 17,
+      "kaba_olum_hizi_binde": 5.2,
+      "nufus_artis_hizi_binde": 11.8,
+      "toplam_dogurganlik_hizi": 2.16
+    },
+    {
+      "yil": 2016,
+      "nufus": 79814871,
+      "canli_dogum": 1316204,
+      "olum": 422964,
+      "dogal_nufus_artisi": 893240,
+      "kaba_dogum_hizi_binde": 16.5,
+      "kaba_olum_hizi_binde": 5.3,
+      "nufus_artis_hizi_binde": 11.2,
+      "toplam_dogurganlik_hizi": 2.11
+    },
+    {
+      "yil": 2017,
+      "nufus": 80810525,
+      "canli_dogum": 1300258,
+      "olum": 426857,
+      "dogal_nufus_artisi": 873401,
+      "kaba_dogum_hizi_binde": 16.1,
+      "kaba_olum_hizi_binde": 5.3,
+      "nufus_artis_hizi_binde": 10.8,
+      "toplam_dogurganlik_hizi": 2.08
+    },
+    {
+      "yil": 2018,
+      "nufus": 82003882,
+      "canli_dogum": 1257071,
+      "olum": 426785,
+      "dogal_nufus_artisi": 830286,
+      "kaba_dogum_hizi_binde": 15.3,
+      "kaba_olum_hizi_binde": 5.2,
+      "nufus_artis_hizi_binde": 10.1,
+      "toplam_dogurganlik_hizi": 2
+    },
+    {
+      "yil": 2019,
+      "nufus": 83154997,
+      "canli_dogum": 1191709,
+      "olum": 436624,
+      "dogal_nufus_artisi": 755085,
+      "kaba_dogum_hizi_binde": 14.3,
+      "kaba_olum_hizi_binde": 5.3,
+      "nufus_artis_hizi_binde": 9.1,
+      "toplam_dogurganlik_hizi": 1.89
+    },
+    {
+      "yil": 2020,
+      "nufus": 83614362,
+      "canli_dogum": 1119755,
+      "olum": 509147,
+      "dogal_nufus_artisi": 610608,
+      "kaba_dogum_hizi_binde": 13.4,
+      "kaba_olum_hizi_binde": 6.1,
+      "nufus_artis_hizi_binde": 7.3,
+      "toplam_dogurganlik_hizi": 1.77
+    },
+    {
+      "yil": 2021,
+      "nufus": 84680273,
+      "canli_dogum": 1085450,
+      "olum": 566745,
+      "dogal_nufus_artisi": 518705,
+      "kaba_dogum_hizi_binde": 12.8,
+      "kaba_olum_hizi_binde": 6.7,
+      "nufus_artis_hizi_binde": 6.1,
+      "toplam_dogurganlik_hizi": 1.71
+    },
+    {
+      "yil": 2022,
+      "nufus": 85279553,
+      "canli_dogum": 1040860,
+      "olum": 505465,
+      "dogal_nufus_artisi": 535395,
+      "kaba_dogum_hizi_binde": 12.2,
+      "kaba_olum_hizi_binde": 5.9,
+      "nufus_artis_hizi_binde": 6.3,
+      "toplam_dogurganlik_hizi": 1.63
+    },
+    {
+      "yil": 2023,
+      "nufus": 85372377,
+      "canli_dogum": 961566,
+      "olum": 526416,
+      "dogal_nufus_artisi": 435150,
+      "kaba_dogum_hizi_binde": 11.3,
+      "kaba_olum_hizi_binde": 6.2,
+      "nufus_artis_hizi_binde": 5.1,
+      "toplam_dogurganlik_hizi": 1.51
+    },
+    {
+      "yil": 2024,
+      "nufus": 85664944,
+      "canli_dogum": 937559,
+      "olum": 489361,
+      "dogal_nufus_artisi": 448198,
+      "kaba_dogum_hizi_binde": 10.9,
+      "kaba_olum_hizi_binde": 5.7,
+      "nufus_artis_hizi_binde": 5.2,
+      "toplam_dogurganlik_hizi": 1.48
+    },
+    {
+      "yil": 2025,
+      "nufus": 86092168,
+      "canli_dogum": 895374,
+      "olum": 491684,
+      "dogal_nufus_artisi": 403690,
+      "kaba_dogum_hizi_binde": 10.4,
+      "kaba_olum_hizi_binde": 5.7,
+      "nufus_artis_hizi_binde": 4.7,
+      "toplam_dogurganlik_hizi": 1.42
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de doğum ve ölüm istatistikleri (2001–2025) - Free Download",
+    "description": "Türkiye'de yıllara göre canlı doğum, ölüm, doğal nüfus artışı, kaba doğum ve ölüm hızları ile toplam doğurganlık hızı. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de doğum ve ölüm istatistikleri (2001–2025) | ListBase",
+    "seo_description": "Download Türkiye'de doğum ve ölüm istatistikleri (2001–2025) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye_demografisi"
+    ]
+  }
+}

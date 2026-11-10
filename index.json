@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:17:59.442Z",
-  "total_datasets": 582,
-  "total_records": 606734,
+  "generated": "2026-11-10T02:18:06.812Z",
+  "total_datasets": 583,
+  "total_records": 606759,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -11343,6 +11343,36 @@
         "xlsx": {
           "name": "tr-zonguldak-neighbourhoods_TR.xlsx",
           "size": 50164
+        }
+      }
+    },
+    {
+      "id": "tr-dogum-olum-istatistikleri",
+      "name": "Türkiye'de doğum ve ölüm istatistikleri (2001–2025)",
+      "category": "health",
+      "record_count": 25,
+      "columns": [
+        "yil",
+        "nufus",
+        "canli_dogum",
+        "olum",
+        "dogal_nufus_artisi",
+        "kaba_dogum_hizi_binde",
+        "kaba_olum_hizi_binde",
+        "nufus_artis_hizi_binde",
+        "toplam_dogurganlik_hizi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+      "updated": "2026-11",
+      "size": 9513,
+      "files": {
+        "csv": {
+          "name": "tr-dogum-olum-istatistikleri_TR.csv",
+          "size": 1859
+        },
+        "xlsx": {
+          "name": "tr-dogum-olum-istatistikleri_TR.xlsx",
+          "size": 8256
         }
       }
     },
