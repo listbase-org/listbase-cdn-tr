@@ -1,0 +1,254 @@
+{
+  "id": "tr-kir-kent-nufusu",
+  "name": "Türkiye'de kır ve kent nüfusu (1927–2021)",
+  "title": "Türkiye'de kır ve kent nüfusu (1927–2021)",
+  "description": "1927–2021 yılları arasında Türkiye'de kırsal ve kentsel nüfusun sayısal ve yüzde dağılımı (il ve ilçe merkezleri kentsel nüfus olarak).",
+  "category": "society",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "yil",
+      "label": "Yil",
+      "type": "number"
+    },
+    {
+      "key": "kir_nufus",
+      "label": "Kir Nufus",
+      "type": "number"
+    },
+    {
+      "key": "kent_nufus",
+      "label": "Kent Nufus",
+      "type": "number"
+    },
+    {
+      "key": "kir_yuzde",
+      "label": "Kir Yuzde",
+      "type": "number"
+    },
+    {
+      "key": "kent_yuzde",
+      "label": "Kent Yuzde",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "yil": 1927,
+      "kir_nufus": 10342391,
+      "kent_nufus": 3305879,
+      "kir_yuzde": 75.8,
+      "kent_yuzde": 24.2
+    },
+    {
+      "yil": 1935,
+      "kir_nufus": 12355376,
+      "kent_nufus": 3802642,
+      "kir_yuzde": 76.5,
+      "kent_yuzde": 23.5
+    },
+    {
+      "yil": 1940,
+      "kir_nufus": 13474701,
+      "kent_nufus": 4346249,
+      "kir_yuzde": 75.6,
+      "kent_yuzde": 24.4
+    },
+    {
+      "yil": 1945,
+      "kir_nufus": 14103072,
+      "kent_nufus": 4687102,
+      "kir_yuzde": 75.1,
+      "kent_yuzde": 24.9
+    },
+    {
+      "yil": 1950,
+      "kir_nufus": 15702851,
+      "kent_nufus": 5244337,
+      "kir_yuzde": 75,
+      "kent_yuzde": 25
+    },
+    {
+      "yil": 1955,
+      "kir_nufus": 17137420,
+      "kent_nufus": 6927343,
+      "kir_yuzde": 71.2,
+      "kent_yuzde": 28.8
+    },
+    {
+      "yil": 1960,
+      "kir_nufus": 18895089,
+      "kent_nufus": 8859731,
+      "kir_yuzde": 68.1,
+      "kent_yuzde": 31.9
+    },
+    {
+      "yil": 1965,
+      "kir_nufus": 20585604,
+      "kent_nufus": 10805817,
+      "kir_yuzde": 65.6,
+      "kent_yuzde": 34.4
+    },
+    {
+      "yil": 1970,
+      "kir_nufus": 21914075,
+      "kent_nufus": 13691101,
+      "kir_yuzde": 61.5,
+      "kent_yuzde": 38.5
+    },
+    {
+      "yil": 1975,
+      "kir_nufus": 23478651,
+      "kent_nufus": 16869068,
+      "kir_yuzde": 58.2,
+      "kent_yuzde": 41.8
+    },
+    {
+      "yil": 1980,
+      "kir_nufus": 25091950,
+      "kent_nufus": 19645007,
+      "kir_yuzde": 56.1,
+      "kent_yuzde": 43.7
+    },
+    {
+      "yil": 1985,
+      "kir_nufus": 23798701,
+      "kent_nufus": 26865757,
+      "kir_yuzde": 47,
+      "kent_yuzde": 53
+    },
+    {
+      "yil": 1990,
+      "kir_nufus": 23146684,
+      "kent_nufus": 33326351,
+      "kir_yuzde": 41,
+      "kent_yuzde": 59
+    },
+    {
+      "yil": 2000,
+      "kir_nufus": 23797743,
+      "kent_nufus": 44006184,
+      "kir_yuzde": 35.1,
+      "kent_yuzde": 64.9
+    },
+    {
+      "yil": 2007,
+      "kir_nufus": 20838397,
+      "kent_nufus": 49747859,
+      "kir_yuzde": 29.5,
+      "kent_yuzde": 70.5
+    },
+    {
+      "yil": 2008,
+      "kir_nufus": 17905377,
+      "kent_nufus": 53611723,
+      "kir_yuzde": 25,
+      "kent_yuzde": 75
+    },
+    {
+      "yil": 2009,
+      "kir_nufus": 17754093,
+      "kent_nufus": 54807219,
+      "kir_yuzde": 24.5,
+      "kent_yuzde": 75.5
+    },
+    {
+      "yil": 2010,
+      "kir_nufus": 17500632,
+      "kent_nufus": 56222356,
+      "kir_yuzde": 23.7,
+      "kent_yuzde": 76.3
+    },
+    {
+      "yil": 2011,
+      "kir_nufus": 17338563,
+      "kent_nufus": 57385706,
+      "kir_yuzde": 23.2,
+      "kent_yuzde": 76.8
+    },
+    {
+      "yil": 2012,
+      "kir_nufus": 17178953,
+      "kent_nufus": 58448431,
+      "kir_yuzde": 22.7,
+      "kent_yuzde": 77.2
+    },
+    {
+      "yil": 2013,
+      "kir_nufus": 6633451,
+      "kent_nufus": 70034413,
+      "kir_yuzde": 8.7,
+      "kent_yuzde": 91.3
+    },
+    {
+      "yil": 2014,
+      "kir_nufus": 6409722,
+      "kent_nufus": 71286182,
+      "kir_yuzde": 8.2,
+      "kent_yuzde": 91.8
+    },
+    {
+      "yil": 2015,
+      "kir_nufus": 6217919,
+      "kent_nufus": 72523134,
+      "kir_yuzde": 7.9,
+      "kent_yuzde": 92.1
+    },
+    {
+      "yil": 2016,
+      "kir_nufus": 6143123,
+      "kent_nufus": 73671748,
+      "kir_yuzde": 7.7,
+      "kent_yuzde": 92.3
+    },
+    {
+      "yil": 2017,
+      "kir_nufus": 6049393,
+      "kent_nufus": 74761132,
+      "kir_yuzde": 7.5,
+      "kent_yuzde": 92.5
+    },
+    {
+      "yil": 2018,
+      "kir_nufus": 5115275,
+      "kent_nufus": 76808607,
+      "kir_yuzde": 6.2,
+      "kent_yuzde": 93.8
+    },
+    {
+      "yil": 2019,
+      "kir_nufus": 6003717,
+      "kent_nufus": 77151280,
+      "kir_yuzde": 7.2,
+      "kent_yuzde": 92.8
+    },
+    {
+      "yil": 2020,
+      "kir_nufus": 5878321,
+      "kent_nufus": 77736041,
+      "kir_yuzde": 7,
+      "kent_yuzde": 93
+    },
+    {
+      "yil": 2021,
+      "kir_nufus": 5771642,
+      "kent_nufus": 78908631,
+      "kir_yuzde": 6.8,
+      "kent_yuzde": 93.2
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de kır ve kent nüfusu (1927–2021) - Free Download",
+    "description": "1927–2021 yılları arasında Türkiye'de kırsal ve kentsel nüfusun sayısal ve yüzde dağılımı (il ve ilçe merkezleri kentsel nüfus olarak). Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de kır ve kent nüfusu (1927–2021) | ListBase",
+    "seo_description": "Download Türkiye'de kır ve kent nüfusu (1927–2021) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye_demografisi"
+    ]
+  }
+}

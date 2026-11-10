@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:18:06.812Z",
-  "total_datasets": 583,
-  "total_records": 606759,
+  "generated": "2026-11-10T02:18:13.422Z",
+  "total_datasets": 584,
+  "total_records": 606788,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -14004,6 +14004,32 @@
         "xlsx": {
           "name": "tr-dusunce-kuruluslari_TR.xlsx",
           "size": 9798
+        }
+      }
+    },
+    {
+      "id": "tr-kir-kent-nufusu",
+      "name": "Türkiye'de kır ve kent nüfusu (1927–2021)",
+      "category": "society",
+      "record_count": 29,
+      "columns": [
+        "yil",
+        "kir_nufus",
+        "kent_nufus",
+        "kir_yuzde",
+        "kent_yuzde"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+      "updated": "2026-11",
+      "size": 5810,
+      "files": {
+        "csv": {
+          "name": "tr-kir-kent-nufusu_TR.csv",
+          "size": 1260
+        },
+        "xlsx": {
+          "name": "tr-kir-kent-nufusu_TR.xlsx",
+          "size": 7750
         }
       }
     },
