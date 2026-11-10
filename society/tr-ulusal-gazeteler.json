@@ -1,0 +1,296 @@
+{
+  "id": "tr-ulusal-gazeteler",
+  "name": "Türkiye'de yayımlanan ulusal gazeteler",
+  "title": "Türkiye'de yayımlanan ulusal gazeteler",
+  "description": "Türkiye'de yayımlanan ulusal gazeteler; yayın sıklığı, politik görüşü, tirajı ve yayıncı şirketiyle.",
+  "category": "society",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'de_yayımlanan_gazeteler_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'de_yayımlanan_gazeteler_listesi",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "gazete",
+      "label": "Gazete",
+      "type": "string"
+    },
+    {
+      "key": "yayin_sikligi",
+      "label": "Yayin Sikligi",
+      "type": "string"
+    },
+    {
+      "key": "politik_gorus",
+      "label": "Politik Gorus",
+      "type": "string"
+    },
+    {
+      "key": "tiraj",
+      "label": "Tiraj",
+      "type": "number"
+    },
+    {
+      "key": "yayinci",
+      "label": "Yayinci",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gazete": "Hürriyet",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sağ Popülizm, merkez sağ",
+      "tiraj": 186061,
+      "yayinci": "Demirören Holding"
+    },
+    {
+      "gazete": "Posta",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sağ Popülizm",
+      "tiraj": 113773,
+      "yayinci": "Demirören Holding"
+    },
+    {
+      "gazete": "Sözcü",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Ulusalcılık, Atatürkçülük, Sekülerizm, Merkez Sol",
+      "tiraj": 175765,
+      "yayinci": "Estetik Yayıncılık"
+    },
+    {
+      "gazete": "Sabah",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakârlık, Sağ",
+      "tiraj": 187939,
+      "yayinci": "Turkuvaz Medya Grubu"
+    },
+    {
+      "gazete": "Türkiye",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakârlık, Sağ",
+      "tiraj": 110042,
+      "yayinci": "İhlas Medya Holding"
+    },
+    {
+      "gazete": "Milliyet",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sağ Popülizm, Merkez sağ",
+      "tiraj": 118172,
+      "yayinci": "Demirören Grubu"
+    },
+    {
+      "gazete": "Yeni Şafak",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "İslamcılık, Muhafazakârlık, Sağ",
+      "tiraj": 101107,
+      "yayinci": "Albayrak Medya Grubu"
+    },
+    {
+      "gazete": "Anayurt",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sol Popülizm, Sosyal Demokrasi",
+      "tiraj": "",
+      "yayinci": "Belde Basın Yayın"
+    },
+    {
+      "gazete": "Takvim",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sağ Popülizm",
+      "tiraj": 86529,
+      "yayinci": "Turkuvaz Medya Grubu"
+    },
+    {
+      "gazete": "Akşam",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sağ, Muhafazakârlık",
+      "tiraj": 100419,
+      "yayinci": "TürkMedya"
+    },
+    {
+      "gazete": "Doğruhaber",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakar, İslâmcılık, Aşırı sağ",
+      "tiraj": 10822,
+      "yayinci": "Doğru medya"
+    },
+    {
+      "gazete": "İstiklal",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakârlık, merkez sağ",
+      "tiraj": "",
+      "yayinci": ""
+    },
+    {
+      "gazete": "Aydınlık",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Ulusalcılık, Atatürkçülük, Bilimsel sosyalizm",
+      "tiraj": 1727,
+      "yayinci": "İmece Basın ve Yayıncılık Ticaret Limited Şirketi"
+    },
+    {
+      "gazete": "Yeni Akit",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "İslami köktendincilik, aşırı sağ",
+      "tiraj": 56026,
+      "yayinci": "Uğurlu Gazetecilik Basın Yayın Matbaacılık Reklamcılık Limited Şirketi"
+    },
+    {
+      "gazete": "Cumhuriyet",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sosyal demokrasi, Demokratik sosyalizm, merkez sol",
+      "tiraj": 23766,
+      "yayinci": "Cumhuriyet Vakfı"
+    },
+    {
+      "gazete": "Yeni Mesaj",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakârlık, mezhepsel",
+      "tiraj": "",
+      "yayinci": "Mesaj Yayın Grubu"
+    },
+    {
+      "gazete": "Milat",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "İslamcılık, muhafazakârlık",
+      "tiraj": 50369,
+      "yayinci": ""
+    },
+    {
+      "gazete": "Diriliş Postası",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "İslamcılık, aşırı sağ",
+      "tiraj": 18562,
+      "yayinci": "Yerli Medya Gazetecilik Matbaacılık Sanayi Ticaret Limited Şirketi"
+    },
+    {
+      "gazete": "Karar",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakârlık",
+      "tiraj": 51383,
+      "yayinci": "Karar Yayıncılık A.Ş."
+    },
+    {
+      "gazete": "Korkusuz",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Ulusalcılık, Atatürkçülük, sekülerizm",
+      "tiraj": 52612,
+      "yayinci": "Estetik Yayıncılık"
+    },
+    {
+      "gazete": "Millî Gazete",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "İslamcılık, Millî Görüş",
+      "tiraj": 22680,
+      "yayinci": "Yeni Neşriyat A.Ş."
+    },
+    {
+      "gazete": "Yeni Asır",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakârlık, Sağ",
+      "tiraj": 50241,
+      "yayinci": "Turkuvaz Medya Grubu"
+    },
+    {
+      "gazete": "BirGün",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sosyalizm, sol",
+      "tiraj": 5380,
+      "yayinci": "Birgün Yayıncılık ve İletişim Ticaret A.Ş."
+    },
+    {
+      "gazete": "Yeni Asya",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "İslamcılık, muhafazakârlık, aşırı sağ",
+      "tiraj": 2877,
+      "yayinci": "Yeni Asya Gazetecilik Matbaacılık ve Yayıncılık Sanayi ve Ticaret A.Ş."
+    },
+    {
+      "gazete": "Türkgün",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Milliyetçilik, Ülkücülük",
+      "tiraj": 36869,
+      "yayinci": "Milliyetçi Hareket Partisi"
+    },
+    {
+      "gazete": "Analiz",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Ekonomi",
+      "tiraj": 10445,
+      "yayinci": "Yeditepe İstanbul Gazetecilik"
+    },
+    {
+      "gazete": "Ayrıntılı Haber",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Muhafazakarlık",
+      "tiraj": 3984,
+      "yayinci": ""
+    },
+    {
+      "gazete": "Nasıl Bir Ekonomi",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Ekonomi",
+      "tiraj": 3506,
+      "yayinci": "Nasıl Bir Ekonomi Medya Haber Basın A.Ş."
+    },
+    {
+      "gazete": "Evrensel",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Sosyalizm, Hocaizm",
+      "tiraj": 3508,
+      "yayinci": "Bülten Basın Yayın Reklamcılık Tic. Ltd. Şti."
+    },
+    {
+      "gazete": "Yeni Yaşam",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Kürt Sorunu",
+      "tiraj": 888,
+      "yayinci": "Arinna Basın Yayın ve Reklam Sanayi Ticaret Ltd. Şti."
+    },
+    {
+      "gazete": "Dünya",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Ekonomi",
+      "tiraj": 2643,
+      "yayinci": "DÜNYA Grup Medya Gazetecilik Anonim Şirketi"
+    },
+    {
+      "gazete": "Nefes",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "–",
+      "tiraj": "",
+      "yayinci": "Somut Yayıncılık Bilişim A.Ş."
+    },
+    {
+      "gazete": "soL",
+      "yayin_sikligi": "Haftalık",
+      "politik_gorus": "Solculuk, Komünizm",
+      "tiraj": 17990,
+      "yayinci": "Sol Parti"
+    },
+    {
+      "gazete": "Şok",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "-",
+      "tiraj": 2651,
+      "yayinci": "-"
+    },
+    {
+      "gazete": "Yeniçağ",
+      "yayin_sikligi": "Günlük",
+      "politik_gorus": "Milliyetçi",
+      "tiraj": "",
+      "yayinci": "Yeniçağ Gazetecilik ve Matbaacılık A.Ş."
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de yayımlanan ulusal gazeteler - Free Download",
+    "description": "Türkiye'de yayımlanan ulusal gazeteler; yayın sıklığı, politik görüşü, tirajı ve yayıncı şirketiyle. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de yayımlanan ulusal gazeteler | ListBase",
+    "seo_description": "Download Türkiye'de yayımlanan ulusal gazeteler — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'de_yayımlanan_gazeteler_listesi"
+    ]
+  }
+}

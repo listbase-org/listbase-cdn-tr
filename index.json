@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:18:20.336Z",
-  "total_datasets": 585,
-  "total_records": 606821,
+  "generated": "2026-11-10T02:18:27.215Z",
+  "total_datasets": 586,
+  "total_records": 606856,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -14108,6 +14108,32 @@
         "xlsx": {
           "name": "tr-sendikalasma-oranlari_TR.xlsx",
           "size": 7855
+        }
+      }
+    },
+    {
+      "id": "tr-ulusal-gazeteler",
+      "name": "Türkiye'de yayımlanan ulusal gazeteler",
+      "category": "society",
+      "record_count": 35,
+      "columns": [
+        "gazete",
+        "yayin_sikligi",
+        "politik_gorus",
+        "tiraj",
+        "yayinci"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_yayımlanan_gazeteler_listesi",
+      "updated": "2026-11",
+      "size": 8666,
+      "files": {
+        "csv": {
+          "name": "tr-ulusal-gazeteler_TR.csv",
+          "size": 3168
+        },
+        "xlsx": {
+          "name": "tr-ulusal-gazeteler_TR.xlsx",
+          "size": 8606
         }
       }
     },
