@@ -1,0 +1,466 @@
+{
+  "id": "tr-ana-dile-gore-nufus-1927-1965",
+  "name": "Türkiye'de ana dile göre nüfus (1927–1965 sayımları)",
+  "title": "Türkiye'de ana dile göre nüfus (1927–1965 sayımları)",
+  "description": "1927–1965 genel nüfus sayımlarına göre Türkiye'de ana dillere göre nüfus ve yüzde payları.",
+  "category": "language",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "dil",
+      "label": "Dil",
+      "type": "string"
+    },
+    {
+      "key": "yil",
+      "label": "Yil",
+      "type": "number"
+    },
+    {
+      "key": "nufus",
+      "label": "Nufus",
+      "type": "number"
+    },
+    {
+      "key": "yuzde",
+      "label": "Yuzde",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "dil": "Türkçe",
+      "yil": 1927,
+      "nufus": 11778810,
+      "yuzde": 86.42
+    },
+    {
+      "dil": "Türkçe",
+      "yil": 1935,
+      "nufus": 13899073,
+      "yuzde": 86.02
+    },
+    {
+      "dil": "Türkçe",
+      "yil": 1945,
+      "nufus": 16598037,
+      "yuzde": 88.34
+    },
+    {
+      "dil": "Türkçe",
+      "yil": 1950,
+      "nufus": 18254851,
+      "yuzde": 87.15
+    },
+    {
+      "dil": "Türkçe",
+      "yil": 1955,
+      "nufus": 21622292,
+      "yuzde": 89.85
+    },
+    {
+      "dil": "Türkçe",
+      "yil": 1960,
+      "nufus": 25172535,
+      "yuzde": 90.7
+    },
+    {
+      "dil": "Türkçe",
+      "yil": 1965,
+      "nufus": 28175579,
+      "yuzde": 89.76
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1927,
+      "nufus": 1184446,
+      "yuzde": 8.69
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1935,
+      "nufus": 1480246,
+      "yuzde": 9.16
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1945,
+      "nufus": 1476562,
+      "yuzde": 7.9
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1950,
+      "nufus": 1680043,
+      "yuzde": 8.02
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1955,
+      "nufus": 1679265,
+      "yuzde": 6.98
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1960,
+      "nufus": 1847674,
+      "yuzde": 6.66
+    },
+    {
+      "dil": "Kürtçe",
+      "yil": 1965,
+      "nufus": 2219599,
+      "yuzde": 7.07
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1927,
+      "nufus": 1184446,
+      "yuzde": 8.69
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1935,
+      "nufus": 1480246,
+      "yuzde": 9.16
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1945,
+      "nufus": 1476562,
+      "yuzde": 7.9
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1950,
+      "nufus": 174526,
+      "yuzde": 0.7
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1955,
+      "nufus": 1679265,
+      "yuzde": 6.98
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1960,
+      "nufus": 1847674,
+      "yuzde": 6.66
+    },
+    {
+      "dil": "Zazaca",
+      "yil": 1965,
+      "nufus": 150644,
+      "yuzde": 0.48
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1927,
+      "nufus": 134273,
+      "yuzde": 0.98
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1935,
+      "nufus": 153687,
+      "yuzde": 0.95
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1945,
+      "nufus": 247294,
+      "yuzde": 1.3
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1950,
+      "nufus": 269038,
+      "yuzde": 1.28
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1955,
+      "nufus": 300583,
+      "yuzde": 1.25
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1960,
+      "nufus": 347690,
+      "yuzde": 1.25
+    },
+    {
+      "dil": "Arapça",
+      "yil": 1965,
+      "nufus": 365340,
+      "yuzde": 1.16
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1927,
+      "nufus": 95901,
+      "yuzde": 0.7
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1935,
+      "nufus": 91972,
+      "yuzde": 0.57
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1945,
+      "nufus": 66691,
+      "yuzde": 0.4
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1950,
+      "nufus": 75837,
+      "yuzde": 0.36
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1955,
+      "nufus": 77611,
+      "yuzde": 0.32
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1960,
+      "nufus": 63137,
+      "yuzde": 0.23
+    },
+    {
+      "dil": "Çerkesçe",
+      "yil": 1965,
+      "nufus": 58339,
+      "yuzde": 0.19
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1927,
+      "nufus": 119822,
+      "yuzde": 0.88
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1935,
+      "nufus": 108725,
+      "yuzde": 0.67
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1945,
+      "nufus": 88680,
+      "yuzde": 0.47
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1950,
+      "nufus": 89472,
+      "yuzde": 0.43
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1955,
+      "nufus": 79691,
+      "yuzde": 0.33
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1960,
+      "nufus": 65139,
+      "yuzde": 0.23
+    },
+    {
+      "dil": "Yunanca",
+      "yil": 1965,
+      "nufus": 48096,
+      "yuzde": 0.15
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1927,
+      "nufus": 64745,
+      "yuzde": 0.48
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1935,
+      "nufus": 57599,
+      "yuzde": 0.36
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1945,
+      "nufus": 47728,
+      "yuzde": 0.3
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1950,
+      "nufus": 52776,
+      "yuzde": 0.25
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1955,
+      "nufus": 56235,
+      "yuzde": 0.23
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1960,
+      "nufus": 52756,
+      "yuzde": 0.19
+    },
+    {
+      "dil": "Ermenice",
+      "yil": 1965,
+      "nufus": 33094,
+      "yuzde": 0.11
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1927,
+      "nufus": "",
+      "yuzde": ""
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1935,
+      "nufus": 57325,
+      "yuzde": 0.35
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1945,
+      "nufus": 40076,
+      "yuzde": 0.21
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1950,
+      "nufus": 72604,
+      "yuzde": 0.35
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1955,
+      "nufus": 51983,
+      "yuzde": 0.22
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1960,
+      "nufus": 32944,
+      "yuzde": 0.12
+    },
+    {
+      "dil": "Gürcüce",
+      "yil": 1965,
+      "nufus": 34330,
+      "yuzde": 0.11
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1927,
+      "nufus": "",
+      "yuzde": ""
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1935,
+      "nufus": 63253,
+      "yuzde": 0.39
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1945,
+      "nufus": 39323,
+      "yuzde": 0.21
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1950,
+      "nufus": 70423,
+      "yuzde": 0.34
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1955,
+      "nufus": 30566,
+      "yuzde": 0.13
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1960,
+      "nufus": 21703,
+      "yuzde": 0.08
+    },
+    {
+      "dil": "Lazca",
+      "yil": 1965,
+      "nufus": 26007,
+      "yuzde": 0.08
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1927,
+      "nufus": 251491,
+      "yuzde": 1.85
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1935,
+      "nufus": 227544,
+      "yuzde": 1.41
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1945,
+      "nufus": 185783,
+      "yuzde": 0.99
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1950,
+      "nufus": 207618,
+      "yuzde": 0.99
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1955,
+      "nufus": 166537,
+      "yuzde": 0.69
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1960,
+      "nufus": 151242,
+      "yuzde": 0.54
+    },
+    {
+      "dil": "diğerleri",
+      "yil": 1965,
+      "nufus": 280403,
+      "yuzde": 0.89
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'de ana dile göre nüfus (1927–1965 sayımları) - Free Download",
+    "description": "1927–1965 genel nüfus sayımlarına göre Türkiye'de ana dillere göre nüfus ve yüzde payları. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'de ana dile göre nüfus (1927–1965 sayımları) | ListBase",
+    "seo_description": "Download Türkiye'de ana dile göre nüfus (1927–1965 sayımları) — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye_demografisi"
+    ]
+  }
+}

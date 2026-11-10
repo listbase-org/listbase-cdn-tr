@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-09T02:30:50.438Z",
-  "total_datasets": 580,
-  "total_records": 606618,
+  "generated": "2026-11-10T02:17:51.578Z",
+  "total_datasets": 581,
+  "total_records": 606688,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -11745,6 +11745,31 @@
         "xlsx": {
           "name": "lang-pinyin-table_TR.xlsx",
           "size": 31935
+        }
+      }
+    },
+    {
+      "id": "tr-ana-dile-gore-nufus-1927-1965",
+      "name": "Türkiye'de ana dile göre nüfus (1927–1965 sayımları)",
+      "category": "language",
+      "record_count": 70,
+      "columns": [
+        "dil",
+        "yil",
+        "nufus",
+        "yuzde"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_demografisi",
+      "updated": "2026-11",
+      "size": 8592,
+      "files": {
+        "csv": {
+          "name": "tr-ana-dile-gore-nufus-1927-1965_TR.csv",
+          "size": 2370
+        },
+        "xlsx": {
+          "name": "tr-ana-dile-gore-nufus-1927-1965_TR.xlsx",
+          "size": 8386
         }
       }
     },
