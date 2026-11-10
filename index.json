@@ -1,12 +1,12 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:33:39.740Z",
-  "total_datasets": 587,
-  "total_records": 606875,
+  "generated": "2026-11-10T02:33:46.831Z",
+  "total_datasets": 588,
+  "total_records": 606910,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -235,6 +235,29 @@
         "xlsx": {
           "name": "tr-tarim-ve-orman-bakanlari_TR.xlsx",
           "size": 10501
+        }
+      }
+    },
+    {
+      "id": "tr-zeytin-cesitleri",
+      "name": "Zeytin çeşitleri ve yetiştiği bölgeler",
+      "category": "agriculture",
+      "record_count": 35,
+      "columns": [
+        "zeytin_cesidi",
+        "yetistigi_bolge"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Zeytin_çeşitleri_listesi",
+      "updated": "2026-11",
+      "size": 6608,
+      "files": {
+        "csv": {
+          "name": "tr-zeytin-cesitleri_TR.csv",
+          "size": 2982
+        },
+        "xlsx": {
+          "name": "tr-zeytin-cesitleri_TR.xlsx",
+          "size": 8466
         }
       }
     },
