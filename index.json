@@ -1,12 +1,12 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:18:27.215Z",
-  "total_datasets": 586,
-  "total_records": 606856,
+  "generated": "2026-11-10T02:33:39.740Z",
+  "total_datasets": 587,
+  "total_records": 606875,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -136,6 +136,30 @@
         "xlsx": {
           "name": "tr-barajlar_TR.xlsx",
           "size": 29513
+        }
+      }
+    },
+    {
+      "id": "tr-findik-ihracat-ithalat",
+      "name": "Türkiye'nin yıllara göre fındık ihracatı ve ithalatı",
+      "category": "agriculture",
+      "record_count": 19,
+      "columns": [
+        "yil",
+        "ihracat_miktar_kg",
+        "ithalat_miktar_kg"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_fındık_üretimi",
+      "updated": "2026-11",
+      "size": 3858,
+      "files": {
+        "csv": {
+          "name": "tr-findik-ihracat-ithalat_TR.csv",
+          "size": 691
+        },
+        "xlsx": {
+          "name": "tr-findik-ihracat-ithalat_TR.xlsx",
+          "size": 7188
         }
       }
     },
