@@ -1,0 +1,271 @@
+{
+  "id": "tr-antik-tiyatrolar",
+  "name": "Türkiye'deki antik tiyatrolar",
+  "title": "Türkiye'deki antik tiyatrolar",
+  "description": "Türkiye'de antik tiyatrosu bulunan antik yerleşim yerleri, bulundukları il ve tiyatronun dönemi (Helen, Roma vb.).",
+  "category": "culture",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_antik_tiyatrolar",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_antik_tiyatrolar",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "antik_kent",
+      "label": "Antik Kent",
+      "type": "string"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "donem",
+      "label": "Donem",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "antik_kent": "Konuralp",
+      "il": "Düzce ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Anavarza",
+      "il": "Adana ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Mağarsus",
+      "il": "Adana/Karataş",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Apameia Kibotos",
+      "il": "Afyonkarahisar ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Ankara",
+      "il": "Ankara ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Antifellos",
+      "il": "Antalya ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Arikanda",
+      "il": "Antalya ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Aspendos",
+      "il": "Antalya ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Ksantos",
+      "il": "Antalya ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Patara",
+      "il": "Antalya ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Side",
+      "il": "Antalya ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Limyra",
+      "il": "Antalya ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Termessos",
+      "il": "Antalya ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Afrodisias",
+      "il": "Aydın ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Milet",
+      "il": "Aydın ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Priene",
+      "il": "Aydın ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Mastaura",
+      "il": "Aydın ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Kizikos",
+      "il": "Balıkesir ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Kibira",
+      "il": "Burdur ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Sagalassos",
+      "il": "Burdur ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Nicaea",
+      "il": "Bursa ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Alexandria Troas",
+      "il": "Çanakkale ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Assos",
+      "il": "Çanakkale ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Troya",
+      "il": "Çanakkale ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Hierapolis",
+      "il": "Denizli ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Laodikeia",
+      "il": "Denizli ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Efes",
+      "il": "İzmir ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Kyme",
+      "il": "İzmir ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Myrina (Mysia)",
+      "il": "İzmir ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Fokaia",
+      "il": "İzmir ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Pergamon",
+      "il": "İzmir ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Pitane",
+      "il": "İzmir ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Aizanoi",
+      "il": "Kütahya ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Aigai",
+      "il": "Manisa ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Sardis",
+      "il": "Manisa ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Anemurium",
+      "il": "Mersin ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Diokaesareia",
+      "il": "Mersin ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Elaiussa Sebaste",
+      "il": "Mersin ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Halikarnas",
+      "il": "Muğla ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Knidos",
+      "il": "Muğla ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Letoon",
+      "il": "Muğla ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Pinara",
+      "il": "Muğla ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Stratonikeia",
+      "il": "Muğla ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Telmessus",
+      "il": "Muğla ili",
+      "donem": "Helen"
+    },
+    {
+      "antik_kent": "Kastabala",
+      "il": "Osmaniye ili",
+      "donem": "Roma"
+    },
+    {
+      "antik_kent": "Tigranokerta",
+      "il": "Siirt ili",
+      "donem": "Roma"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki antik tiyatrolar - Free Download",
+    "description": "Türkiye'de antik tiyatrosu bulunan antik yerleşim yerleri, bulundukları il ve tiyatronun dönemi (Helen, Roma vb.). Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki antik tiyatrolar | ListBase",
+    "seo_description": "Download Türkiye'deki antik tiyatrolar — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_antik_tiyatrolar"
+    ]
+  }
+}

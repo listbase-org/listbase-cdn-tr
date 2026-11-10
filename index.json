@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:17:51.578Z",
-  "total_datasets": 581,
-  "total_records": 606688,
+  "generated": "2026-11-10T02:17:59.442Z",
+  "total_datasets": 582,
+  "total_records": 606734,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -211,6 +211,30 @@
         "xlsx": {
           "name": "tr-tarim-ve-orman-bakanlari_TR.xlsx",
           "size": 10501
+        }
+      }
+    },
+    {
+      "id": "tr-antik-tiyatrolar",
+      "name": "Türkiye'deki antik tiyatrolar",
+      "category": "culture",
+      "record_count": 46,
+      "columns": [
+        "antik_kent",
+        "il",
+        "donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_antik_tiyatrolar",
+      "updated": "2026-11",
+      "size": 5810,
+      "files": {
+        "csv": {
+          "name": "tr-antik-tiyatrolar_TR.csv",
+          "size": 1527
+        },
+        "xlsx": {
+          "name": "tr-antik-tiyatrolar_TR.xlsx",
+          "size": 7845
         }
       }
     },
