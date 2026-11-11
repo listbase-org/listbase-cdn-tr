@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-10T02:33:46.831Z",
-  "total_datasets": 588,
-  "total_records": 606910,
+  "generated": "2026-11-11T02:09:38.603Z",
+  "total_datasets": 589,
+  "total_records": 607025,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -5893,6 +5893,33 @@
         "xlsx": {
           "name": "tr-turk-dizileri_TR.xlsx",
           "size": 67016
+        }
+      }
+    },
+    {
+      "id": "tr-cevre-sehircilik-bakanlari",
+      "name": "Türkiye çevre, şehircilik ve iklim değişikliği bakanları",
+      "category": "environment",
+      "record_count": 115,
+      "columns": [
+        "sira",
+        "bakan",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "parti",
+        "unvan_donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_çevre,_şehircilik_ve_iklim_değişikliği_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 31103,
+      "files": {
+        "csv": {
+          "name": "tr-cevre-sehircilik-bakanlari_TR.csv",
+          "size": 13950
+        },
+        "xlsx": {
+          "name": "tr-cevre-sehircilik-bakanlari_TR.xlsx",
+          "size": 12138
         }
       }
     },
