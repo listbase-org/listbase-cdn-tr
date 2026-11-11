@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-11T02:10:05.110Z",
-  "total_datasets": 592,
-  "total_records": 607184,
+  "generated": "2026-11-11T02:10:13.458Z",
+  "total_datasets": 593,
+  "total_records": 607234,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -12316,6 +12316,29 @@
         "xlsx": {
           "name": "tr-klasik-turk-muzigi-bestecileri_TR.xlsx",
           "size": 16447
+        }
+      }
+    },
+    {
+      "id": "tr-turk-muzigi-usulleri",
+      "name": "Türk müziği usûlleri",
+      "category": "music",
+      "record_count": 50,
+      "columns": [
+        "usul",
+        "zaman"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Usûl",
+      "updated": "2026-11",
+      "size": 4204,
+      "files": {
+        "csv": {
+          "name": "tr-turk-muzigi-usulleri_TR.csv",
+          "size": 933
+        },
+        "xlsx": {
+          "name": "tr-turk-muzigi-usulleri_TR.xlsx",
+          "size": 7650
         }
       }
     },
