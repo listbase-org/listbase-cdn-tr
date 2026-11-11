@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-11T02:09:47.486Z",
-  "total_datasets": 590,
-  "total_records": 607077,
+  "generated": "2026-11-11T02:09:56.762Z",
+  "total_datasets": 591,
+  "total_records": 607134,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -500,6 +500,33 @@
         "xlsx": {
           "name": "tr-ekonomik-gostergeler_TR.xlsx",
           "size": 8966
+        }
+      }
+    },
+    {
+      "id": "tr-hazine-ve-maliye-bakanlari",
+      "name": "Türkiye hazine ve maliye bakanları",
+      "category": "economy",
+      "record_count": 57,
+      "columns": [
+        "sira",
+        "bakan",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "parti",
+        "unvan_donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_hazine_ve_maliye_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 15702,
+      "files": {
+        "csv": {
+          "name": "tr-hazine-ve-maliye-bakanlari_TR.csv",
+          "size": 6473
+        },
+        "xlsx": {
+          "name": "tr-hazine-ve-maliye-bakanlari_TR.xlsx",
+          "size": 9615
         }
       }
     },
