@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-11T02:09:38.603Z",
-  "total_datasets": 589,
-  "total_records": 607025,
+  "generated": "2026-11-11T02:09:47.486Z",
+  "total_datasets": 590,
+  "total_records": 607077,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -12347,6 +12347,33 @@
         "xlsx": {
           "name": "tr-cumhurbaskanlari_TR.xlsx",
           "size": 7934
+        }
+      }
+    },
+    {
+      "id": "tr-disisleri-bakanlari",
+      "name": "Türkiye dışişleri bakanları",
+      "category": "politics",
+      "record_count": 52,
+      "columns": [
+        "sira",
+        "bakan",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "parti",
+        "unvan_donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_dışişleri_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 15052,
+      "files": {
+        "csv": {
+          "name": "tr-disisleri-bakanlari_TR.csv",
+          "size": 6520
+        },
+        "xlsx": {
+          "name": "tr-disisleri-bakanlari_TR.xlsx",
+          "size": 9433
         }
       }
     },
