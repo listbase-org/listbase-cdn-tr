@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-11T02:09:56.762Z",
-  "total_datasets": 591,
-  "total_records": 607134,
+  "generated": "2026-11-11T02:10:05.110Z",
+  "total_datasets": 592,
+  "total_records": 607184,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "time",
@@ -14846,6 +14846,33 @@
         "xlsx": {
           "name": "tech-unicode-symbols_TR.xlsx",
           "size": 9824
+        }
+      }
+    },
+    {
+      "id": "tr-sanayi-ve-teknoloji-bakanlari",
+      "name": "Türkiye sanayi ve teknoloji bakanları",
+      "category": "tech",
+      "record_count": 50,
+      "columns": [
+        "sira",
+        "bakan",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "parti",
+        "unvan_donem"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_sanayi_ve_teknoloji_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 14316,
+      "files": {
+        "csv": {
+          "name": "tr-sanayi-ve-teknoloji-bakanlari_TR.csv",
+          "size": 5974
+        },
+        "xlsx": {
+          "name": "tr-sanayi-ve-teknoloji-bakanlari_TR.xlsx",
+          "size": 9255
         }
       }
     },
