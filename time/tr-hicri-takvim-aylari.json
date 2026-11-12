@@ -1,0 +1,135 @@
+{
+  "id": "tr-hicri-takvim-aylari",
+  "name": "Hicrî takvim ayları",
+  "title": "Hicrî takvim ayları",
+  "description": "Hicrî (İslami ay) takvimin 12 ayının Türkçe yazılışı, Arapça adı, sözcük anlamı ve kısa açıklaması.",
+  "category": "time",
+  "source": "https://tr.wikipedia.org/wiki/Hicrî_takvim",
+  "source_url": "https://tr.wikipedia.org/wiki/Hicrî_takvim",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_arabic",
+      "label": "Name Arabic",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Muharrem",
+      "name_arabic": "محرّم",
+      "meaning": "Haram kılınan",
+      "description": "Hicrî yılın ilk ayı"
+    },
+    {
+      "no": 2,
+      "name": "Safer",
+      "name_arabic": "صفر",
+      "meaning": "Boş kalmak",
+      "description": "Hicrî yılın ikinci ayı"
+    },
+    {
+      "no": 3,
+      "name": "Rebîülevvel",
+      "name_arabic": "ربيع الاوّل",
+      "meaning": "İlk bahar",
+      "description": "Hicrî yılın üçüncü ayı"
+    },
+    {
+      "no": 4,
+      "name": "Rebîülâhir",
+      "name_arabic": "ربيع الآخر",
+      "meaning": "Son bahar",
+      "description": "İsim ilkden sonra geliyor"
+    },
+    {
+      "no": 5,
+      "name": "Cemâziyelevvel",
+      "name_arabic": "جمادى الأولى",
+      "meaning": "İlk çorak toprak ya da ilk don",
+      "description": "Hicrî yılın beşinci ayı"
+    },
+    {
+      "no": 6,
+      "name": "Cemâziyelâhir",
+      "name_arabic": "جمادى الآخرة",
+      "meaning": "Son çorak toprak ya da son don",
+      "description": "İsim ilkden sonra geliyor"
+    },
+    {
+      "no": 7,
+      "name": "Receb",
+      "name_arabic": "رجب",
+      "meaning": "Korkmak",
+      "description": "Hicrî yılın yedinci ayı"
+    },
+    {
+      "no": 8,
+      "name": "Şâban",
+      "name_arabic": "شعبان",
+      "meaning": "Dağılmak",
+      "description": "Hicrî yılın sekizinci ayı"
+    },
+    {
+      "no": 9,
+      "name": "Ramazan",
+      "name_arabic": "رمضان",
+      "meaning": "Günün çok sıcak olması",
+      "description": "Oruç tutmanın farz olduğu hicrî yılın dokuzuncu ayı"
+    },
+    {
+      "no": 10,
+      "name": "Şevval",
+      "name_arabic": "شوّال",
+      "meaning": "Yukarı kalkmak",
+      "description": "Hicrî yılın onuncu ayı"
+    },
+    {
+      "no": 11,
+      "name": "Zilkade",
+      "name_arabic": "ذو القعدة",
+      "meaning": "Barışa sahiplik eden",
+      "description": "Hicrî yılın on birinci ayı, dört haram aydan biri"
+    },
+    {
+      "no": 12,
+      "name": "Zilhicce",
+      "name_arabic": "ذو الحجّة",
+      "meaning": "Hac ayı",
+      "description": "Hicrî yılın son ayı, dört haram aydan biri"
+    }
+  ],
+  "meta": {
+    "title": "Hicrî takvim ayları - Free Download",
+    "description": "Hicrî (İslami ay) takvimin 12 ayının Türkçe yazılışı, Arapça adı, sözcük anlamı ve kısa açıklaması. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hicrî takvim ayları | ListBase",
+    "seo_description": "Download Hicrî takvim ayları — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Hicrî_takvim"
+    ]
+  }
+}

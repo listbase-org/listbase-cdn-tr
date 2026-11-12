@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-11T02:10:13.458Z",
-  "total_datasets": 593,
-  "total_records": 607234,
+  "generated": "2026-11-12T02:03:51.210Z",
+  "total_datasets": 594,
+  "total_records": 607246,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -14968,6 +14968,32 @@
         "xlsx": {
           "name": "time-zodiac-signs_TR.xlsx",
           "size": 8797
+        }
+      }
+    },
+    {
+      "id": "tr-hicri-takvim-aylari",
+      "name": "Hicrî takvim ayları",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "no",
+        "name",
+        "name_arabic",
+        "meaning",
+        "description"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Hicrî_takvim",
+      "updated": "2026-11",
+      "size": 3817,
+      "files": {
+        "csv": {
+          "name": "tr-hicri-takvim-aylari_TR.csv",
+          "size": 1126
+        },
+        "xlsx": {
+          "name": "tr-hicri-takvim-aylari_TR.xlsx",
+          "size": 7541
         }
       }
     },
