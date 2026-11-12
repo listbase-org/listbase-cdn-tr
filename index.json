@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-12T02:03:51.210Z",
-  "total_datasets": 594,
-  "total_records": 607246,
+  "generated": "2026-11-12T02:03:59.590Z",
+  "total_datasets": 595,
+  "total_records": 607275,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -11675,6 +11675,32 @@
         "xlsx": {
           "name": "tr-kaleler_TR.xlsx",
           "size": 9725
+        }
+      }
+    },
+    {
+      "id": "tr-kurtulus-savasi-muharebeleri",
+      "name": "Türk Kurtuluş Savaşı muharebeleri",
+      "category": "history",
+      "record_count": 29,
+      "columns": [
+        "date",
+        "battle",
+        "enemy",
+        "turkish_casualties",
+        "notes"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türk_Kurtuluş_Savaşı_sırasında_yaşanmış_muharebeler",
+      "updated": "2026-11",
+      "size": 7380,
+      "files": {
+        "csv": {
+          "name": "tr-kurtulus-savasi-muharebeleri_TR.csv",
+          "size": 2626
+        },
+        "xlsx": {
+          "name": "tr-kurtulus-savasi-muharebeleri_TR.xlsx",
+          "size": 8446
         }
       }
     },

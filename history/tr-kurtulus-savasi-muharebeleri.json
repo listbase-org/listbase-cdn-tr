@@ -1,0 +1,254 @@
+{
+  "id": "tr-kurtulus-savasi-muharebeleri",
+  "name": "Türk Kurtuluş Savaşı muharebeleri",
+  "title": "Türk Kurtuluş Savaşı muharebeleri",
+  "description": "Türk Kurtuluş Savaşı sırasında yaşanan muharebeler: tarih, karşı taraf, Türk zayiatları ve notlar.",
+  "category": "history",
+  "source": "https://tr.wikipedia.org/wiki/Türk_Kurtuluş_Savaşı_sırasında_yaşanmış_muharebeler",
+  "source_url": "https://tr.wikipedia.org/wiki/Türk_Kurtuluş_Savaşı_sırasında_yaşanmış_muharebeler",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "battle",
+      "label": "Battle",
+      "type": "string"
+    },
+    {
+      "key": "enemy",
+      "label": "Enemy",
+      "type": "string"
+    },
+    {
+      "key": "turkish_casualties",
+      "label": "Turkish Casualties",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "15 Mayıs 1919",
+      "battle": "İzmir'in İşgali",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "30-40 Ölü, 40-60 Yaralı",
+      "notes": ""
+    },
+    {
+      "date": "16 Mayıs 1919",
+      "battle": "Urla Olayları",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "16 Haziran 1919",
+      "battle": "Malgaç Baskını",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "1 Yaralı",
+      "notes": ""
+    },
+    {
+      "date": "15 Haziran 1919",
+      "battle": "Bergama Baskını",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "",
+      "notes": "80.000 - 100.000 Türk sivil bölgeden göç etti."
+    },
+    {
+      "date": "20 Haziran 1919",
+      "battle": "Erbeyli Baskını",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "7 ölü, 12 yaralı",
+      "notes": "72 sivil öldü."
+    },
+    {
+      "date": "21 Haziran 1919",
+      "battle": "Erikli Baskını",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "7 ölü, 10 yaralı",
+      "notes": ""
+    },
+    {
+      "date": "25 Haziran 1919",
+      "battle": "Tellidede Muharebeleri",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "6 ölü, birkaç yaralı",
+      "notes": ""
+    },
+    {
+      "date": "27 Haziran 1919",
+      "battle": "Aydın Savunması",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "İki taraftan toplam 1500-2000 ölü",
+      "notes": ""
+    },
+    {
+      "date": "20 Ocak 1920",
+      "battle": "Karabıyıklı Baskını",
+      "enemy": "Fransa",
+      "turkish_casualties": "Yok",
+      "notes": "50 asker ölü veya esir"
+    },
+    {
+      "date": "21 Ocak 1920",
+      "battle": "Maraş Savunması",
+      "enemy": "Fransa",
+      "turkish_casualties": "4500 Ölü, 500 Yaralı (Siviller dahil)",
+      "notes": ""
+    },
+    {
+      "date": "8 Şubat 1920",
+      "battle": "Urfa Savunması",
+      "enemy": "Fransa",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "1 Nisan 1920",
+      "battle": "Antep Kuşatması",
+      "enemy": "Fransa",
+      "turkish_casualties": "6317 Ölü (Çoğunlukla siviller), 2000 Tutsak, 1400 Silah, 10 Makinalı Tüfek",
+      "notes": ""
+    },
+    {
+      "date": "27 Mayıs 1920",
+      "battle": "Karboğazı Baskını",
+      "enemy": "Fransa",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "18 Haziran 1920",
+      "battle": "Oltu Muharebesi",
+      "enemy": "Ermenistan",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "10 Temmuz 1920",
+      "battle": "Kaç Kaç Olayı",
+      "enemy": "Fransa",
+      "turkish_casualties": "",
+      "notes": "40.000 Türk, Fransızlar'dan kaçmak için Çukurova'yı terk etti."
+    },
+    {
+      "date": "29 Ekim 1920",
+      "battle": "Sarıkamış Muharebesi (1920)",
+      "enemy": "Ermenistan",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "27 Ekim 1920",
+      "battle": "Gediz Muharebeleri",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "181 Ölü, 135 Yaralı",
+      "notes": ""
+    },
+    {
+      "date": "30 Ekim 1920",
+      "battle": "Kars Muharebesi (1920)",
+      "enemy": "Ermenistan",
+      "turkish_casualties": "9 Ölü, 47 Yaralı",
+      "notes": ""
+    },
+    {
+      "date": "1 Kasım 1920",
+      "battle": "Kanlıgeçit Baskını",
+      "enemy": "Fransa",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "7 Kasım 1920",
+      "battle": "Gümrü Muharebesi",
+      "enemy": "Ermenistan",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "9 Ocak 1921",
+      "battle": "Birinci İnönü Savaşı",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "95 Ölü, 183 Yaralı, 213 Esir",
+      "notes": ""
+    },
+    {
+      "date": "26 Mart 1921",
+      "battle": "İkinci İnönü Savaşı",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "681 Ölü, 1822 Yaralı, 1369 Kayıp ve Tutsak, 3 Kişi idam edildi",
+      "notes": ""
+    },
+    {
+      "date": "10 Haziran 1921",
+      "battle": "Kütahya-Eskişehir Muharebeleri",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "1643 Ölü, 4981 Yaralı, 374 Tutsak, 30.809 asker silahlarıyla cepheden kaçtı, 18 Top, 47 Ağır ve 34 Hafif makineli tüfek",
+      "notes": ""
+    },
+    {
+      "date": "23 Ağustos 1921",
+      "battle": "Sakarya Meydan Muharebesi",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "3.700 Ölü, 18.480 Yaralı, 108 Tutsak, 5.639 Asker silahlarıyla cepheden kaçtı, 8.089 Kayıp",
+      "notes": ""
+    },
+    {
+      "date": "7 Temmuz 1922",
+      "battle": "Samsun Bombardımanı",
+      "enemy": "Birleşik Devletler",
+      "turkish_casualties": "0",
+      "notes": "4 sivil öldü ve 3'ü yaralandı."
+    },
+    {
+      "date": "26 Ağustos 1922",
+      "battle": "Büyük Taarruz",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "2318 Ölü, 9360 Yaralı, 1697 Kayıp, 101 Tutsak",
+      "notes": ""
+    },
+    {
+      "date": "30 Ağustos 1922",
+      "battle": "Başkomutanlık Meydan Muharebesi",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "",
+      "notes": ""
+    },
+    {
+      "date": "31 Ağustos 1922",
+      "battle": "Derbent Muharebesi",
+      "enemy": "Birleşik Krallık",
+      "turkish_casualties": "14 ölü",
+      "notes": ""
+    },
+    {
+      "date": "9 Eylül 1922",
+      "battle": "İzmir'in Kurtuluşu",
+      "enemy": "Yunanistan",
+      "turkish_casualties": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Türk Kurtuluş Savaşı muharebeleri - Free Download",
+    "description": "Türk Kurtuluş Savaşı sırasında yaşanan muharebeler: tarih, karşı taraf, Türk zayiatları ve notlar. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türk Kurtuluş Savaşı muharebeleri | ListBase",
+    "seo_description": "Download Türk Kurtuluş Savaşı muharebeleri — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türk_Kurtuluş_Savaşı_sırasında_yaşanmış_muharebeler"
+    ]
+  }
+}
