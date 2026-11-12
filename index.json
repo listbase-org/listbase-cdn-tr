@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-12T02:03:59.590Z",
-  "total_datasets": 595,
-  "total_records": 607275,
+  "generated": "2026-11-12T02:04:09.343Z",
+  "total_datasets": 596,
+  "total_records": 607426,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -11701,6 +11701,39 @@
         "xlsx": {
           "name": "tr-kurtulus-savasi-muharebeleri_TR.xlsx",
           "size": 8446
+        }
+      }
+    },
+    {
+      "id": "tr-kurtulus-savasi-ust-kademe-subaylar",
+      "name": "Türk Kurtuluş Savaşı'na katılan üst kademe subaylar",
+      "category": "history",
+      "record_count": 151,
+      "columns": [
+        "name",
+        "born",
+        "died",
+        "record",
+        "binbasi",
+        "kaymakam_yarbay",
+        "miralay_albay",
+        "mirliva_tuggeneral",
+        "ferik_korgeneral",
+        "birinci_ferik_orgeneral",
+        "musir_maresal",
+        "duties"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türk_Kurtuluş_Savaşı'na_katılan_üst_kademe_subaylar_listesi",
+      "updated": "2026-11",
+      "size": 59020,
+      "files": {
+        "csv": {
+          "name": "tr-kurtulus-savasi-ust-kademe-subaylar_TR.csv",
+          "size": 16397
+        },
+        "xlsx": {
+          "name": "tr-kurtulus-savasi-ust-kademe-subaylar_TR.xlsx",
+          "size": 17867
         }
       }
     },
