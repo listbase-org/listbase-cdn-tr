@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-13T02:37:01.007Z",
-  "total_datasets": 597,
-  "total_records": 607454,
+  "generated": "2026-11-13T02:37:09.124Z",
+  "total_datasets": 598,
+  "total_records": 607556,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -11734,6 +11734,31 @@
         "xlsx": {
           "name": "tr-kurtulus-savasi-ust-kademe-subaylar_TR.xlsx",
           "size": 17867
+        }
+      }
+    },
+    {
+      "id": "tr-olu-sayisina-gore-felaketler",
+      "name": "Ölü sayısına göre Türkiye'deki felaketler",
+      "category": "history",
+      "record_count": 102,
+      "columns": [
+        "rank",
+        "disaster",
+        "deaths",
+        "deaths_note"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Ölü_sayısına_göre_Türkiye'deki_felaketler_listesi",
+      "updated": "2026-11",
+      "size": 14381,
+      "files": {
+        "csv": {
+          "name": "tr-olu-sayisina-gore-felaketler_TR.csv",
+          "size": 4405
+        },
+        "xlsx": {
+          "name": "tr-olu-sayisina-gore-felaketler_TR.xlsx",
+          "size": 10118
         }
       }
     },
