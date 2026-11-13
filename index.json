@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-12T02:04:09.343Z",
-  "total_datasets": 596,
-  "total_records": 607426,
+  "generated": "2026-11-13T02:37:01.007Z",
+  "total_datasets": 597,
+  "total_records": 607454,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "society",
@@ -14165,6 +14165,29 @@
         "xlsx": {
           "name": "tr-depremler_TR.xlsx",
           "size": 16052
+        }
+      }
+    },
+    {
+      "id": "tr-gozlemevleri",
+      "name": "Türkiye'deki gözlemevleri",
+      "category": "science",
+      "record_count": 28,
+      "columns": [
+        "name",
+        "group"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_gözlemevleri_listesi",
+      "updated": "2026-11",
+      "size": 5067,
+      "files": {
+        "csv": {
+          "name": "tr-gozlemevleri_TR.csv",
+          "size": 2551
+        },
+        "xlsx": {
+          "name": "tr-gozlemevleri_TR.xlsx",
+          "size": 7612
         }
       }
     },
