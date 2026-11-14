@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-13T02:37:09.124Z",
-  "total_datasets": 598,
-  "total_records": 607556,
+  "generated": "2026-11-14T02:09:06.246Z",
+  "total_datasets": 599,
+  "total_records": 607571,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -12086,6 +12086,34 @@
         "xlsx": {
           "name": "tr-anayasa-mahkemesi-baskanlari_TR.xlsx",
           "size": 7633
+        }
+      }
+    },
+    {
+      "id": "tr-anayasa-mahkemesi-uyeleri",
+      "name": "Anayasa Mahkemesi Üyeleri (Güncel)",
+      "category": "law",
+      "record_count": 15,
+      "columns": [
+        "sira",
+        "adi",
+        "gorevi",
+        "gorev_baslangici",
+        "gorev_bitisi",
+        "kontenjan",
+        "secen"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Anayasa_Mahkemesi_(Türkiye)",
+      "updated": "2026-11",
+      "size": 5609,
+      "files": {
+        "csv": {
+          "name": "tr-anayasa-mahkemesi-uyeleri_TR.csv",
+          "size": 1651
+        },
+        "xlsx": {
+          "name": "tr-anayasa-mahkemesi-uyeleri_TR.xlsx",
+          "size": 7774
         }
       }
     },

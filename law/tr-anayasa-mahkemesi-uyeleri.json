@@ -1,0 +1,196 @@
+{
+  "id": "tr-anayasa-mahkemesi-uyeleri",
+  "name": "Anayasa Mahkemesi Üyeleri (Güncel)",
+  "title": "Anayasa Mahkemesi Üyeleri (Güncel)",
+  "description": "Türkiye Cumhuriyeti Anayasa Mahkemesi'nin mevcut üyeleri: görevi, görev başlangıç ve bitiş tarihleri, geldiği kontenjan ve seçen makam.",
+  "category": "law",
+  "source": "https://tr.wikipedia.org/wiki/Anayasa_Mahkemesi_(Türkiye)",
+  "source_url": "https://tr.wikipedia.org/wiki/Anayasa_Mahkemesi_(Türkiye)",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "sira",
+      "label": "Sira",
+      "type": "number"
+    },
+    {
+      "key": "adi",
+      "label": "Adi",
+      "type": "string"
+    },
+    {
+      "key": "gorevi",
+      "label": "Gorevi",
+      "type": "string"
+    },
+    {
+      "key": "gorev_baslangici",
+      "label": "Gorev Baslangici",
+      "type": "string"
+    },
+    {
+      "key": "gorev_bitisi",
+      "label": "Gorev Bitisi",
+      "type": "string"
+    },
+    {
+      "key": "kontenjan",
+      "label": "Kontenjan",
+      "type": "string"
+    },
+    {
+      "key": "secen",
+      "label": "Secen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sira": 1,
+      "adi": "Kadir Özkaya",
+      "gorevi": "Başkan",
+      "gorev_baslangici": "22 Aralık 2014",
+      "gorev_bitisi": "22 Aralık 2026",
+      "kontenjan": "Danıştay",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 2,
+      "adi": "İrfan Fidan",
+      "gorevi": "Başkan Vekili",
+      "gorev_baslangici": "25 Ocak 2021",
+      "gorev_bitisi": "25 Ocak 2033",
+      "kontenjan": "Yargıtay",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 3,
+      "adi": "Basri Bağcı",
+      "gorevi": "Başkan Vekili",
+      "gorev_baslangici": "6 Nisan 2020",
+      "gorev_bitisi": "6 Nisan 2032",
+      "kontenjan": "Yargıtay",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 4,
+      "adi": "Engin Yıldırım",
+      "gorevi": "Üye",
+      "gorev_baslangici": "15 Nisan 2010",
+      "gorev_bitisi": "9 Şubat 2031",
+      "kontenjan": "Yükseköğretim Kurulu",
+      "secen": "Abdullah Gül"
+    },
+    {
+      "sira": 5,
+      "adi": "Rıdvan Güleç",
+      "gorevi": "Üye",
+      "gorev_baslangici": "17 Mart 2015",
+      "gorev_bitisi": "17 Mart 2027",
+      "kontenjan": "Sayıştay",
+      "secen": "TBMM"
+    },
+    {
+      "sira": 6,
+      "adi": "Recai Akyel",
+      "gorevi": "Üye",
+      "gorev_baslangici": "29 Ağustos 2016",
+      "gorev_bitisi": "29 Ağustos 2028",
+      "kontenjan": "Üst düzey yönetici veya avukat",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 7,
+      "adi": "Yusuf Şevki Hakyemez",
+      "gorevi": "Üye",
+      "gorev_baslangici": "20 Eylül 2016",
+      "gorev_bitisi": "20 Eylül 2028",
+      "kontenjan": "Yükseköğretim Kurulu",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 8,
+      "adi": "Yıldız Seferinoğlu",
+      "gorevi": "Üye",
+      "gorev_baslangici": "25 Ocak 2019",
+      "gorev_bitisi": "25 Ocak 2031",
+      "kontenjan": "Üst düzey yönetici veya avukat",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 9,
+      "adi": "Selahaddin Menteş",
+      "gorevi": "Üye",
+      "gorev_baslangici": "8 Temmuz 2019",
+      "gorev_bitisi": "8 Temmuz 2031",
+      "kontenjan": "Üst düzey yönetici veya avukat",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 10,
+      "adi": "Kenan Yaşar",
+      "gorevi": "Üye",
+      "gorev_baslangici": "1 Şubat 2022",
+      "gorev_bitisi": "1 Şubat 2034",
+      "kontenjan": "Baro Başkanı",
+      "secen": "TBMM"
+    },
+    {
+      "sira": 11,
+      "adi": "Muhterem İnce",
+      "gorevi": "Üye",
+      "gorev_baslangici": "17 Ekim 2022",
+      "gorev_bitisi": "17 Ekim 2034",
+      "kontenjan": "Sayıştay",
+      "secen": "TBMM"
+    },
+    {
+      "sira": 12,
+      "adi": "Yılmaz Akçil",
+      "gorevi": "Üye",
+      "gorev_baslangici": "31 Ocak 2024",
+      "gorev_bitisi": "16 Ağustos 2033",
+      "kontenjan": "Danıştay",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 13,
+      "adi": "Ömer Çınar",
+      "gorevi": "Üye",
+      "gorev_baslangici": "20 Nisan 2024",
+      "gorev_bitisi": "20 Nisan 2036",
+      "kontenjan": "Yükseköğretim Kurulu",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 14,
+      "adi": "Metin Kıratlı",
+      "gorevi": "Üye",
+      "gorev_baslangici": "18 Temmuz 2024",
+      "gorev_bitisi": "14 Şubat 2034",
+      "kontenjan": "Üst düzey yönetici veya avukat",
+      "secen": "Recep Tayyip Erdoğan"
+    },
+    {
+      "sira": 15,
+      "adi": "Şaban Kazdal",
+      "gorevi": "Üye",
+      "gorev_baslangici": "27 Mart 2026",
+      "gorev_bitisi": "27 Mart 2038",
+      "kontenjan": "Yargıtay",
+      "secen": "Recep Tayyip Erdoğan"
+    }
+  ],
+  "meta": {
+    "title": "Anayasa Mahkemesi Üyeleri (Güncel) - Free Download",
+    "description": "Türkiye Cumhuriyeti Anayasa Mahkemesi'nin mevcut üyeleri: görevi, görev başlangıç ve bitiş tarihleri, geldiği kontenjan ve seçen makam. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Anayasa Mahkemesi Üyeleri (Güncel) | ListBase",
+    "seo_description": "Download Anayasa Mahkemesi Üyeleri (Güncel) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Anayasa_Mahkemesi_(Türkiye)"
+    ]
+  }
+}
