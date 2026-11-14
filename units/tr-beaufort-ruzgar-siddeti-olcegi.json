@@ -1,0 +1,160 @@
+{
+  "id": "tr-beaufort-ruzgar-siddeti-olcegi",
+  "name": "Beaufort Rüzgâr Şiddeti Ölçeği (Bofor Skalası)",
+  "title": "Beaufort Rüzgâr Şiddeti Ölçeği (Bofor Skalası)",
+  "description": "Rüzgâr kuvvetinin 0–12 Beaufort (bofor) ölçeği: Türkçe ve İngilizce tanımı, knot cinsinden rüzgâr hızı, karada ve denizde gözlenen durum.",
+  "category": "units",
+  "source": "https://tr.wikipedia.org/wiki/Beaufort_rüzgâr_şiddeti_skalası",
+  "source_url": "https://tr.wikipedia.org/wiki/Beaufort_rüzgâr_şiddeti_skalası",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "kuvvet",
+      "label": "Kuvvet",
+      "type": "number"
+    },
+    {
+      "key": "turkce_tanim",
+      "label": "Turkce Tanim",
+      "type": "string"
+    },
+    {
+      "key": "ingilizce_tanim",
+      "label": "Ingilizce Tanim",
+      "type": "string"
+    },
+    {
+      "key": "ruzgar_hizi_knot",
+      "label": "Ruzgar Hizi Knot",
+      "type": "number"
+    },
+    {
+      "key": "karadaki_durum",
+      "label": "Karadaki Durum",
+      "type": "string"
+    },
+    {
+      "key": "denizdeki_durum",
+      "label": "Denizdeki Durum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kuvvet": 0,
+      "turkce_tanim": "sakin",
+      "ingilizce_tanim": "calm",
+      "ruzgar_hizi_knot": "1",
+      "karadaki_durum": "Yaprak kıpırdamaz.",
+      "denizdeki_durum": "Deniz ayna gibi düzdür."
+    },
+    {
+      "kuvvet": 1,
+      "turkce_tanim": "esinti",
+      "ingilizce_tanim": "light air",
+      "ruzgar_hizi_knot": "1-3",
+      "karadaki_durum": "Dumanlar dikine yükselir.",
+      "denizdeki_durum": "Deniz yüzeyi balık pulu gibidir. Köpük yoktur."
+    },
+    {
+      "kuvvet": 2,
+      "turkce_tanim": "hafif rüzgâr",
+      "ingilizce_tanim": "light breeze",
+      "ruzgar_hizi_knot": "4-6",
+      "karadaki_durum": "Dumanlar meyilli yükselir.",
+      "denizdeki_durum": "Kısa ve küçük dalgalar. Dalgalarda çatlama yoktur."
+    },
+    {
+      "kuvvet": 3,
+      "turkce_tanim": "tatlı rüzgâr",
+      "ingilizce_tanim": "gentle breeze",
+      "ruzgar_hizi_knot": "7-10",
+      "karadaki_durum": "Rüzgâr yüzde hissedilir, yapraklar sallanır ve hışıldar.",
+      "denizdeki_durum": "Dalgalar büyür tepeleri çatlar. Uçlarda hafif kırılmalar belirir."
+    },
+    {
+      "kuvvet": 4,
+      "turkce_tanim": "orta rüzgâr",
+      "ingilizce_tanim": "moderate breeze",
+      "ruzgar_hizi_knot": "11-16",
+      "karadaki_durum": "Yapraklar ve bayraklar devamlı sallanır. Su yüzeylerinde kırışıklık olur.",
+      "denizdeki_durum": "Dalgalar uzunlaşır, beyaz köpükler görünmeye başlar."
+    },
+    {
+      "kuvvet": 5,
+      "turkce_tanim": "sert rüzgâr",
+      "ingilizce_tanim": "fresh breeze",
+      "ruzgar_hizi_knot": "17-21",
+      "karadaki_durum": "Yapraklı küçük dallar sallanır. Bayraklar düz durur. Durgun sularda dalgalar. Rüzgâr yürüyen insanları rahatsız eder.",
+      "denizdeki_durum": "Orta büyüklükte dalgalar, boyları uzun ve serpintili."
+    },
+    {
+      "kuvvet": 6,
+      "turkce_tanim": "kuvvetli rüzgâr",
+      "ingilizce_tanim": "strong breeze",
+      "ruzgar_hizi_knot": "22-27",
+      "karadaki_durum": "Büyük dallar sallanır. Telgraf telleri ve saçaklar ses verir. Sularda köpüklü dalgalar belirir. Şemsiyeler güç kullanılır.",
+      "denizdeki_durum": "Büyük dalgalar oluşur, köpüklü dalga başları daha geniştir."
+    },
+    {
+      "kuvvet": 7,
+      "turkce_tanim": "fırtınamsı rüzgâr",
+      "ingilizce_tanim": "near gale",
+      "ruzgar_hizi_knot": "28-33",
+      "karadaki_durum": "Bütün ağaçlar sallanır. Rüzgâra karşı güçlükle yürünür.",
+      "denizdeki_durum": "Dalgalar birbiri üzerine yığılır. Çatlayan dalgaların köpükleri uçuşmaya başlar."
+    },
+    {
+      "kuvvet": 8,
+      "turkce_tanim": "fırtına",
+      "ingilizce_tanim": "gale",
+      "ruzgar_hizi_knot": "34-40",
+      "karadaki_durum": "Ağaçların ince dalları kırılır. Rüzgâra karşı yürümek imkânsızlaşır.",
+      "denizdeki_durum": "Uzun ve yüksek orta dalgalar oluşur. Çatlaklar öne doğru kırılır. köpükler uçuşur."
+    },
+    {
+      "kuvvet": 9,
+      "turkce_tanim": "Kuvvetli fırtına",
+      "ingilizce_tanim": "strong gale",
+      "ruzgar_hizi_knot": "41-47",
+      "karadaki_durum": "Bazı binalarda hasarlar olur. Baca kapakları sökülür, kiremitler uçar.",
+      "denizdeki_durum": "Dalgalar yükselir, yuvarlanmaya başlar. Serpintiler görüşü düşürür."
+    },
+    {
+      "kuvvet": 10,
+      "turkce_tanim": "tam fırtına",
+      "ingilizce_tanim": "storm",
+      "ruzgar_hizi_knot": "48-55",
+      "karadaki_durum": "Ağaçları köklerinden söker, binalarda büyük hasar oluşur.",
+      "denizdeki_durum": "Pek yüksek dalgalar, dalga tepeleri devrilecek gibi uzun ve kesif köpük sahaları oluşur. Denizin yüzeyi beyazdır. Görüş çok azdır."
+    },
+    {
+      "kuvvet": 11,
+      "turkce_tanim": "çok şiddetli fırtına (bora)",
+      "ingilizce_tanim": "violent storm",
+      "ruzgar_hizi_knot": "58-63",
+      "karadaki_durum": "Yaptığı hasar çok geniştir. Karada pek rastlanmaz. Ardından bereketli yağmurlar getirir.",
+      "denizdeki_durum": "Çok yüksek dalgalar olur. Küçük gemiler dalgaların arasında bazen görülmez. Deniz yüzü beyaz köpüklerle kaplıdır. Görüş çok bozuktur."
+    },
+    {
+      "kuvvet": 12,
+      "turkce_tanim": "kasırga, tropikal siklon (orkan)",
+      "ingilizce_tanim": "hurricane, tropical cyclone",
+      "ruzgar_hizi_knot": "64+",
+      "karadaki_durum": "Büyük tahribat yapar. Daha çok ekvatoral bölgelerde rastlanır.",
+      "denizdeki_durum": "Hava köpük ve serpinti ile doludur, deniz bembeyazdır. Görüş tamamen kaybolmuştur."
+    }
+  ],
+  "meta": {
+    "title": "Beaufort Rüzgâr Şiddeti Ölçeği (Bofor Skalası) - Free Download",
+    "description": "Rüzgâr kuvvetinin 0–12 Beaufort (bofor) ölçeği: Türkçe ve İngilizce tanımı, knot cinsinden rüzgâr hızı, karada ve denizde gözlenen durum. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Beaufort Rüzgâr Şiddeti Ölçeği (Bofor Skalası) | ListBase",
+    "seo_description": "Download Beaufort Rüzgâr Şiddeti Ölçeği (Bofor Skalası) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Beaufort_rüzgâr_şiddeti_skalası"
+    ]
+  }
+}
