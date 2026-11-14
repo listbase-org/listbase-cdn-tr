@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-14T02:09:18.267Z",
-  "total_datasets": 600,
-  "total_records": 607584,
+  "generated": "2026-11-14T02:09:30.187Z",
+  "total_datasets": 601,
+  "total_records": 607711,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -6229,6 +6229,37 @@
         "xlsx": {
           "name": "finance-vat-rates_TR.xlsx",
           "size": 10464
+        }
+      }
+    },
+    {
+      "id": "tr-turkiye-cumhuriyeti-banknotlari-emisyonlar",
+      "name": "Türkiye Cumhuriyeti Banknotları (1. – 9. Emisyon Grubu)",
+      "category": "finance",
+      "record_count": 127,
+      "columns": [
+        "emisyon",
+        "emisyon_grubu",
+        "emisyon_donemi",
+        "deger",
+        "boyut_mm",
+        "ana_renk",
+        "on_yuz",
+        "arka_yuz",
+        "tedavule_cikis",
+        "tedavulden_cekilis"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_Cumhuriyeti_banknotları",
+      "updated": "2026-11",
+      "size": 54569,
+      "files": {
+        "csv": {
+          "name": "tr-turkiye-cumhuriyeti-banknotlari-emisyonlar_TR.csv",
+          "size": 23907
+        },
+        "xlsx": {
+          "name": "tr-turkiye-cumhuriyeti-banknotlari-emisyonlar_TR.xlsx",
+          "size": 14887
         }
       }
     },
