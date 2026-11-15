@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-15T02:09:56.842Z",
-  "total_datasets": 603,
-  "total_records": 607762,
+  "generated": "2026-11-15T02:10:05.365Z",
+  "total_datasets": 604,
+  "total_records": 607841,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -12593,6 +12593,33 @@
         "xlsx": {
           "name": "tr-disisleri-bakanlari_TR.xlsx",
           "size": 9433
+        }
+      }
+    },
+    {
+      "id": "tr-icisleri-bakanlari",
+      "name": "Türkiye içişleri bakanları",
+      "category": "politics",
+      "record_count": 79,
+      "columns": [
+        "no",
+        "minister",
+        "start",
+        "end",
+        "party",
+        "ministry_period"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_içişleri_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 20356,
+      "files": {
+        "csv": {
+          "name": "tr-icisleri-bakanlari_TR.csv",
+          "size": 9612
+        },
+        "xlsx": {
+          "name": "tr-icisleri-bakanlari_TR.xlsx",
+          "size": 10650
         }
       }
     },
