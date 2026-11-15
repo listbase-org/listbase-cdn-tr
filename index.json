@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-15T02:10:13.021Z",
-  "total_datasets": 605,
-  "total_records": 607913,
+  "generated": "2026-11-15T02:10:21.380Z",
+  "total_datasets": 606,
+  "total_records": 607979,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -604,6 +604,33 @@
         "xlsx": {
           "name": "tr-saatlik-asgari-ucret_TR.xlsx",
           "size": 7060
+        }
+      }
+    },
+    {
+      "id": "tr-ticaret-bakanlari",
+      "name": "Türkiye ticaret bakanları",
+      "category": "economy",
+      "record_count": 66,
+      "columns": [
+        "no",
+        "minister",
+        "start",
+        "end",
+        "party",
+        "ministry_period"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_ticaret_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 16726,
+      "files": {
+        "csv": {
+          "name": "tr-ticaret-bakanlari_TR.csv",
+          "size": 7538
+        },
+        "xlsx": {
+          "name": "tr-ticaret-bakanlari_TR.xlsx",
+          "size": 9991
         }
       }
     },
