@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-15T02:09:48.986Z",
-  "total_datasets": 602,
-  "total_records": 607723,
+  "generated": "2026-11-15T02:09:56.842Z",
+  "total_datasets": 603,
+  "total_records": 607762,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -500,6 +500,32 @@
         "xlsx": {
           "name": "tr-ekonomik-gostergeler_TR.xlsx",
           "size": 8966
+        }
+      }
+    },
+    {
+      "id": "tr-enerji-ve-tabii-kaynaklar-bakanlari",
+      "name": "Türkiye enerji ve tabii kaynaklar bakanları",
+      "category": "economy",
+      "record_count": 39,
+      "columns": [
+        "no",
+        "minister",
+        "start",
+        "end",
+        "party"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_enerji_ve_tabii_kaynaklar_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 8196,
+      "files": {
+        "csv": {
+          "name": "tr-enerji-ve-tabii-kaynaklar-bakanlari_TR.csv",
+          "size": 3008
+        },
+        "xlsx": {
+          "name": "tr-enerji-ve-tabii-kaynaklar-bakanlari_TR.xlsx",
+          "size": 8551
         }
       }
     },
