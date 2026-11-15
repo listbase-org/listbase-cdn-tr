@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-15T02:10:05.365Z",
-  "total_datasets": 604,
-  "total_records": 607841,
+  "generated": "2026-11-15T02:10:13.021Z",
+  "total_datasets": 605,
+  "total_records": 607913,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -316,6 +316,33 @@
         "xlsx": {
           "name": "tr-dunya-mirasi-alanlari-unesco_TR.xlsx",
           "size": 13199
+        }
+      }
+    },
+    {
+      "id": "tr-kultur-ve-turizm-bakanlari",
+      "name": "Türkiye kültür ve turizm bakanları",
+      "category": "culture",
+      "record_count": 72,
+      "columns": [
+        "no",
+        "minister",
+        "start",
+        "end",
+        "party",
+        "ministry_period"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_kültür_ve_turizm_bakanları_listesi",
+      "updated": "2026-11",
+      "size": 18703,
+      "files": {
+        "csv": {
+          "name": "tr-kultur-ve-turizm-bakanlari_TR.csv",
+          "size": 8634
+        },
+        "xlsx": {
+          "name": "tr-kultur-ve-turizm-bakanlari_TR.xlsx",
+          "size": 10267
         }
       }
     },
