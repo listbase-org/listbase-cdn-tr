@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-14T02:09:30.187Z",
-  "total_datasets": 601,
-  "total_records": 607711,
+  "generated": "2026-11-15T02:09:48.986Z",
+  "total_datasets": 602,
+  "total_records": 607723,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -15134,6 +15134,32 @@
         "xlsx": {
           "name": "time-zodiac-signs_TR.xlsx",
           "size": 8797
+        }
+      }
+    },
+    {
+      "id": "tr-12-hayvanli-turk-takvimi",
+      "name": "On iki hayvanlı Türk takvimi",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "order",
+        "animal",
+        "old_turkic",
+        "direction",
+        "attributes"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/12_hayvanlı_takvim",
+      "updated": "2026-11",
+      "size": 4287,
+      "files": {
+        "csv": {
+          "name": "tr-12-hayvanli-turk-takvimi_TR.csv",
+          "size": 1383
+        },
+        "xlsx": {
+          "name": "tr-12-hayvanli-turk-takvimi_TR.xlsx",
+          "size": 7785
         }
       }
     },
