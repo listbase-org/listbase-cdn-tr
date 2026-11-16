@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-16T02:12:28.782Z",
-  "total_datasets": 608,
-  "total_records": 608576,
+  "generated": "2026-11-16T02:12:36.934Z",
+  "total_datasets": 609,
+  "total_records": 608592,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -15558,6 +15558,38 @@
         "xlsx": {
           "name": "tr-selaleler_TR.xlsx",
           "size": 13582
+        }
+      }
+    },
+    {
+      "id": "tr-ulkelere-gore-yabanci-ziyaretci-sayilari",
+      "name": "Türkiye'ye en çok turist gönderen ülkeler (2015–2024)",
+      "category": "tourism",
+      "record_count": 16,
+      "columns": [
+        "country",
+        "tourists_2024",
+        "tourists_2023",
+        "tourists_2022",
+        "tourists_2021",
+        "tourists_2020",
+        "tourists_2019",
+        "tourists_2018",
+        "tourists_2017",
+        "tourists_2016",
+        "tourists_2015"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_turizm",
+      "updated": "2026-11",
+      "size": 8156,
+      "files": {
+        "csv": {
+          "name": "tr-ulkelere-gore-yabanci-ziyaretci-sayilari_TR.csv",
+          "size": 1863
+        },
+        "xlsx": {
+          "name": "tr-ulkelere-gore-yabanci-ziyaretci-sayilari_TR.xlsx",
+          "size": 8216
         }
       }
     },

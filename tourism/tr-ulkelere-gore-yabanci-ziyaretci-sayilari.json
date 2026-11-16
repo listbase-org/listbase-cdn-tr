@@ -1,0 +1,289 @@
+{
+  "id": "tr-ulkelere-gore-yabanci-ziyaretci-sayilari",
+  "name": "Türkiye'ye en çok turist gönderen ülkeler (2015–2024)",
+  "title": "Türkiye'ye en çok turist gönderen ülkeler (2015–2024)",
+  "description": "Türkiye'yi ziyaret eden yabancı turistlerin geldikleri ülkelere göre yıllık sayıları (2015–2024), en çok ziyaretçi gönderen ülkeler.",
+  "category": "tourism",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'de_turizm",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'de_turizm",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "tourists_2024",
+      "label": "Tourists 2024",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2023",
+      "label": "Tourists 2023",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2022",
+      "label": "Tourists 2022",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2021",
+      "label": "Tourists 2021",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2020",
+      "label": "Tourists 2020",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2019",
+      "label": "Tourists 2019",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2018",
+      "label": "Tourists 2018",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2017",
+      "label": "Tourists 2017",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2016",
+      "label": "Tourists 2016",
+      "type": "number"
+    },
+    {
+      "key": "tourists_2015",
+      "label": "Tourists 2015",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Rusya",
+      "tourists_2024": 6710198,
+      "tourists_2023": 6313675,
+      "tourists_2022": 5232611,
+      "tourists_2021": 4694422,
+      "tourists_2020": 2128758,
+      "tourists_2019": 7017657,
+      "tourists_2018": 5964631,
+      "tourists_2017": 4715438,
+      "tourists_2016": 866256,
+      "tourists_2015": 3649003
+    },
+    {
+      "country": "Almanya",
+      "tourists_2024": 6620612,
+      "tourists_2023": 6193259,
+      "tourists_2022": 5679194,
+      "tourists_2021": 3085215,
+      "tourists_2020": 1118932,
+      "tourists_2019": 5027472,
+      "tourists_2018": 4512360,
+      "tourists_2017": 3584653,
+      "tourists_2016": 3890074,
+      "tourists_2015": 5580792
+    },
+    {
+      "country": "Birleşik Krallık",
+      "tourists_2024": 4433782,
+      "tourists_2023": 3800922,
+      "tourists_2022": 3370739,
+      "tourists_2021": 392746,
+      "tourists_2020": 820709,
+      "tourists_2019": 2562064,
+      "tourists_2018": 2254871,
+      "tourists_2017": 1658715,
+      "tourists_2016": 1711481,
+      "tourists_2015": 2512139
+    },
+    {
+      "country": "İran",
+      "tourists_2024": 3277852,
+      "tourists_2023": 2504494,
+      "tourists_2022": 2331076,
+      "tourists_2021": 1153092,
+      "tourists_2020": 385762,
+      "tourists_2019": 2102890,
+      "tourists_2018": 2001744,
+      "tourists_2017": 2501948,
+      "tourists_2016": 1665160,
+      "tourists_2015": 1700385
+    },
+    {
+      "country": "Bulgaristan",
+      "tourists_2024": 2918581,
+      "tourists_2023": 2893092,
+      "tourists_2022": 2882512,
+      "tourists_2021": 1402795,
+      "tourists_2020": 1242961,
+      "tourists_2019": 2713464,
+      "tourists_2018": 2386885,
+      "tourists_2017": 1852867,
+      "tourists_2016": 1690766,
+      "tourists_2015": 1821480
+    },
+    {
+      "country": "Polonya",
+      "tourists_2024": 1866986,
+      "tourists_2023": 1539123,
+      "tourists_2022": 1135903,
+      "tourists_2021": 585076,
+      "tourists_2020": 145908,
+      "tourists_2019": 880839,
+      "tourists_2018": 646365,
+      "tourists_2017": 296120,
+      "tourists_2016": 205701,
+      "tourists_2015": 550779
+    },
+    {
+      "country": "Gürcistan",
+      "tourists_2024": 1466188,
+      "tourists_2023": 1633977,
+      "tourists_2022": 1514813,
+      "tourists_2021": 291852,
+      "tourists_2020": 410501,
+      "tourists_2019": 1995254,
+      "tourists_2018": 2069392,
+      "tourists_2017": 2438730,
+      "tourists_2016": 2206266,
+      "tourists_2015": 1911832
+    },
+    {
+      "country": "ABD",
+      "tourists_2024": 1442191,
+      "tourists_2023": 1334337,
+      "tourists_2022": 1013478,
+      "tourists_2021": 371759,
+      "tourists_2020": 148937,
+      "tourists_2019": 578074,
+      "tourists_2018": 448327,
+      "tourists_2017": 329257,
+      "tourists_2016": 459493,
+      "tourists_2015": 798787
+    },
+    {
+      "country": "Hollanda",
+      "tourists_2024": 1303262,
+      "tourists_2023": 1232220,
+      "tourists_2022": 1244756,
+      "tourists_2021": 645601,
+      "tourists_2020": 271526,
+      "tourists_2019": 1117290,
+      "tourists_2018": 1013642,
+      "tourists_2017": 799006,
+      "tourists_2016": 906336,
+      "tourists_2015": 1232487
+    },
+    {
+      "country": "Romanya",
+      "tourists_2024": 1173358,
+      "tourists_2023": 990005,
+      "tourists_2022": 886555,
+      "tourists_2021": 496178,
+      "tourists_2020": 269076,
+      "tourists_2019": 763320,
+      "tourists_2018": 641484,
+      "tourists_2017": 423868,
+      "tourists_2016": 357473,
+      "tourists_2015": 441097
+    },
+    {
+      "country": "Fransa",
+      "tourists_2024": 1088386,
+      "tourists_2023": 1031824,
+      "tourists_2022": 986090,
+      "tourists_2021": 621493,
+      "tourists_2020": 311708,
+      "tourists_2019": 875957,
+      "tourists_2018": 731379,
+      "tourists_2017": 578524,
+      "tourists_2016": 555151,
+      "tourists_2015": 847259
+    },
+    {
+      "country": "Irak",
+      "tourists_2024": 968834,
+      "tourists_2023": 1051721,
+      "tourists_2022": 1208895,
+      "tourists_2021": 836624,
+      "tourists_2020": 387587,
+      "tourists_2019": 1374896,
+      "tourists_2018": 1172896,
+      "tourists_2017": 896876,
+      "tourists_2016": 420831,
+      "tourists_2015": 1094144
+    },
+    {
+      "country": "Azerbaycan",
+      "tourists_2024": 956178,
+      "tourists_2023": 855445,
+      "tourists_2022": 683834,
+      "tourists_2021": 470618,
+      "tourists_2020": 236797,
+      "tourists_2019": 901723,
+      "tourists_2018": 858506,
+      "tourists_2017": 765514,
+      "tourists_2016": 606223,
+      "tourists_2015": 602488
+    },
+    {
+      "country": "Ukrayna",
+      "tourists_2024": 941614,
+      "tourists_2023": 839729,
+      "tourists_2022": 675467,
+      "tourists_2021": 2060008,
+      "tourists_2020": 997652,
+      "tourists_2019": 1547996,
+      "tourists_2018": 1386934,
+      "tourists_2017": 1284735,
+      "tourists_2016": 1045043,
+      "tourists_2015": 706551
+    },
+    {
+      "country": "Yunanistan",
+      "tourists_2024": 707133,
+      "tourists_2023": 686480,
+      "tourists_2022": 569795,
+      "tourists_2021": 157723,
+      "tourists_2020": 136305,
+      "tourists_2019": 836882,
+      "tourists_2018": 686891,
+      "tourists_2017": 623705,
+      "tourists_2016": 593150,
+      "tourists_2015": 755414
+    },
+    {
+      "country": "İsrail",
+      "tourists_2024": 85949,
+      "tourists_2023": 765776,
+      "tourists_2022": 843028,
+      "tourists_2021": 225238,
+      "tourists_2020": 129677,
+      "tourists_2019": 569368,
+      "tourists_2018": 443732,
+      "tourists_2017": 380415,
+      "tourists_2016": 293988,
+      "tourists_2015": 224568
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'ye en çok turist gönderen ülkeler (2015–2024) - Free Download",
+    "description": "Türkiye'yi ziyaret eden yabancı turistlerin geldikleri ülkelere göre yıllık sayıları (2015–2024), en çok ziyaretçi gönderen ülkeler. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'ye en çok turist gönderen ülkeler (2015–2024) | ListBase",
+    "seo_description": "Download Türkiye'ye en çok turist gönderen ülkeler (2015–2024) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'de_turizm"
+    ]
+  }
+}
