@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-16T02:12:20.737Z",
-  "total_datasets": 607,
-  "total_records": 608087,
+  "generated": "2026-11-16T02:12:28.782Z",
+  "total_datasets": 608,
+  "total_records": 608576,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -6059,6 +6059,33 @@
         "xlsx": {
           "name": "tr-elektrik-santralleri_TR.xlsx",
           "size": 18414
+        }
+      }
+    },
+    {
+      "id": "tr-kuslar",
+      "name": "Türkiye'deki kuşlar",
+      "category": "environment",
+      "record_count": 489,
+      "columns": [
+        "name",
+        "scientific_name",
+        "family",
+        "family_latin",
+        "order",
+        "status"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_kuşlar_listesi",
+      "updated": "2026-11",
+      "size": 121089,
+      "files": {
+        "csv": {
+          "name": "tr-kuslar_TR.csv",
+          "size": 57850
+        },
+        "xlsx": {
+          "name": "tr-kuslar_TR.xlsx",
+          "size": 27311
         }
       }
     },
