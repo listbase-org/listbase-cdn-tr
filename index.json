@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-16T02:12:36.934Z",
-  "total_datasets": 609,
-  "total_records": 608592,
+  "generated": "2026-11-16T02:12:45.656Z",
+  "total_datasets": 610,
+  "total_records": 608614,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -15590,6 +15590,31 @@
         "xlsx": {
           "name": "tr-ulkelere-gore-yabanci-ziyaretci-sayilari_TR.xlsx",
           "size": 8216
+        }
+      }
+    },
+    {
+      "id": "tr-yillara-gore-turist-sayisi-ve-turizm-geliri",
+      "name": "Yıllara göre Türkiye'ye gelen turist sayısı ve turizm geliri",
+      "category": "tourism",
+      "record_count": 22,
+      "columns": [
+        "year",
+        "tourists",
+        "revenue_billion_usd",
+        "avg_spending_usd"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_turizm",
+      "updated": "2026-11",
+      "size": 4521,
+      "files": {
+        "csv": {
+          "name": "tr-yillara-gore-turist-sayisi-ve-turizm-geliri_TR.csv",
+          "size": 735
+        },
+        "xlsx": {
+          "name": "tr-yillara-gore-turist-sayisi-ve-turizm-geliri_TR.xlsx",
+          "size": 7349
         }
       }
     },
