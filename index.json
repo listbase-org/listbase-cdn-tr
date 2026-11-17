@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-16T02:12:45.656Z",
-  "total_datasets": 610,
-  "total_records": 608614,
+  "generated": "2026-11-17T02:18:09.820Z",
+  "total_datasets": 611,
+  "total_records": 608640,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -12520,6 +12520,31 @@
         "xlsx": {
           "name": "music-piano-chords_TR.xlsx",
           "size": 11081
+        }
+      }
+    },
+    {
+      "id": "tr-altin-kelebek-en-iyi-sarkicilar",
+      "name": "Altın Kelebek En İyi Kadın ve Erkek Şarkıcı Ödülleri",
+      "category": "music",
+      "record_count": 26,
+      "columns": [
+        "year",
+        "ceremony",
+        "best_female_singer",
+        "best_male_singer"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/En_İyi_Kadın_Şarkıcı_Altın_Kelebek_Ödülü",
+      "updated": "2026-11",
+      "size": 5342,
+      "files": {
+        "csv": {
+          "name": "tr-altin-kelebek-en-iyi-sarkicilar_TR.csv",
+          "size": 1017
+        },
+        "xlsx": {
+          "name": "tr-altin-kelebek-en-iyi-sarkicilar_TR.xlsx",
+          "size": 7565
         }
       }
     },
