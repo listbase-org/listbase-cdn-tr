@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-17T02:18:09.820Z",
-  "total_datasets": 611,
-  "total_records": 608640,
+  "generated": "2026-11-17T02:18:17.988Z",
+  "total_datasets": 612,
+  "total_records": 608881,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -5973,6 +5973,36 @@
         "xlsx": {
           "name": "tr-festivaller_TR.xlsx",
           "size": 8516
+        }
+      }
+    },
+    {
+      "id": "tr-televizyon-kanallari",
+      "name": "Türkiye'de yayın yapan televizyon kanalları",
+      "category": "entertainment",
+      "record_count": 241,
+      "columns": [
+        "channel",
+        "scope",
+        "genre",
+        "owner",
+        "languages",
+        "start_year",
+        "end_year",
+        "on_air",
+        "headquarters"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'de_yayın_yapan_televizyon_kanalları_listesi",
+      "updated": "2026-11",
+      "size": 65830,
+      "files": {
+        "csv": {
+          "name": "tr-televizyon-kanallari_TR.csv",
+          "size": 21475
+        },
+        "xlsx": {
+          "name": "tr-televizyon-kanallari_TR.xlsx",
+          "size": 18975
         }
       }
     },
