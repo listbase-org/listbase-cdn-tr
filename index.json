@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-17T02:18:17.988Z",
-  "total_datasets": 612,
-  "total_records": 608881,
+  "generated": "2026-11-17T02:18:26.042Z",
+  "total_datasets": 613,
+  "total_records": 609012,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -11717,6 +11717,30 @@
         "xlsx": {
           "name": "tr-sehir-hastaneleri_TR.xlsx",
           "size": 8015
+        }
+      }
+    },
+    {
+      "id": "tr-tip-fakulteleri",
+      "name": "Türkiye'deki tıp fakülteleri",
+      "category": "health",
+      "record_count": 131,
+      "columns": [
+        "faculty",
+        "university_type",
+        "status"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_tıp_fakülteleri_listesi",
+      "updated": "2026-11",
+      "size": 19848,
+      "files": {
+        "csv": {
+          "name": "tr-tip-fakulteleri_TR.csv",
+          "size": 8755
+        },
+        "xlsx": {
+          "name": "tr-tip-fakulteleri_TR.xlsx",
+          "size": 9935
         }
       }
     },

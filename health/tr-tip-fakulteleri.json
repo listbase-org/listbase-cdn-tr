@@ -1,0 +1,696 @@
+{
+  "id": "tr-tip-fakulteleri",
+  "name": "Türkiye'deki tıp fakülteleri",
+  "title": "Türkiye'deki tıp fakülteleri",
+  "description": "Türkiye'deki devlet ve vakıf üniversitelerine bağlı tıp fakülteleri; henüz açılmamış ve devredilmiş/kapatılmış fakülteler dahil.",
+  "category": "health",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_tıp_fakülteleri_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_tıp_fakülteleri_listesi",
+  "updated": "2026-11",
+  "record_count": 131,
+  "columns": [
+    {
+      "key": "faculty",
+      "label": "Faculty",
+      "type": "string"
+    },
+    {
+      "key": "university_type",
+      "label": "University Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "faculty": "Adıyaman Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ağrı İbrahim Çeçen Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Akdeniz Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Aksaray Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Alanya Alaaddin Keykubat Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Amasya Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ankara Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ankara Yıldırım Beyazıt Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Atatürk Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Adnan Menderes Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Balıkesir Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Bandırma Onyedi Eylül Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Bolu Abant İzzet Baysal Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Bursa Uludağ Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Çukurova Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Dicle Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Düzce Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ege Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Erciyes Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Erzincan Binali Yıldırım Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Eskişehir Osmangazi Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Fırat Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Gazi Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Gaziantep Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Giresun Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Harran Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Hatay Mustafa Kemal Üniversitesi Tayfur Ata Sökmen Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Hitit Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İnönü Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Medeniyet Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Üniversitesi İstanbul Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Üniversitesi Cerrahpaşa-Cerrahpaşa Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İzmir Bakırçay Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İzmir Demokrasi Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İzmir Kâtip Çelebi Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kafkas Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Karabük Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Karadeniz Teknik Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Karamanoğlu Mehmetbey Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kastamonu Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kırıkkale Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kırklareli Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kırşehir Ahi Evran Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kocaeli Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Kütahya Sağlık Bilimleri Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Malatya Turgut Özal Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Manisa Celal Bayar Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Marmara Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Mardin Artuklu Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Mersin Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Muğla Sıtkı Koçman Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Niğde Ömer Halisdemir Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ondokuz Mayıs Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ordu Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Pamukkale Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Recep Tayyip Erdoğan Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Adana Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Bursa Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Erzurum Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Gülhane Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Hamidiye Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Hamidiye Uluslararası Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi İzmir Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sağlık Bilimleri Üniversitesi Trabzon Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sakarya Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Selçuk Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Siirt Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Süleyman Demirel Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Tekirdağ Namık Kemal Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Tokat Gaziosmanpaşa Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Trakya Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Uşak Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Van Yüzüncü Yıl Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Yalova Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Yozgat Bozok Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Zonguldak Bülent Ecevit Üniversitesi Tıp Fakültesi",
+      "university_type": "Devlet",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Acıbadem Mehmet Ali Aydınlar Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Altınbaş Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ankara Medipol Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Atılım Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Bahçeşehir Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Başkent Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Beykent Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Bezm-i Âlem Vakıf Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Biruni Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Demiroğlu Bilim Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Haliç Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Arel Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Atlas Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Aydın Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Medipol Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Okan Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Sağlık ve Teknoloji Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstanbul Yeni Yüzyıl Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İstinye Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İzmir Ekonomi Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "İzmir Tınaztepe Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Koç Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "KTO Karatay Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Lokman Hekim Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Maltepe Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Nişantaşı Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Sanko Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "TOBB Ekonomi ve Teknoloji Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ufuk Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Üsküdar Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Yeditepe Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Yüksek İhtisas Üniversitesi Tıp Fakültesi",
+      "university_type": "Vakıf",
+      "status": "Aktif"
+    },
+    {
+      "faculty": "Ege Üniversitesi İzmir Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Fatih Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Gazi Üniversitesi Çorum Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Gülhane Askerî Tıp Akademisi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Hacettepe Üniversitesi Kastamonu Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "İzmir Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Mevlana Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Turgut Özal Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Selçuk Üniversitesi Meram Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Şifa Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Zirve Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Devredilmiş/eski/kapatılmış"
+    },
+    {
+      "faculty": "Bitlis Eren Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Henüz açılmamış"
+    },
+    {
+      "faculty": "Burdur Mehmet Akif Ersoy Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Henüz açılmamış"
+    },
+    {
+      "faculty": "Hacettepe Üniversitesi Beytepe Tıp Fakültesi",
+      "university_type": "",
+      "status": "Henüz açılmamış"
+    },
+    {
+      "faculty": "Nuh Naci Yazgan Üniversitesi Tıp Fakültesi",
+      "university_type": "",
+      "status": "Henüz açılmamış"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki tıp fakülteleri - Free Download",
+    "description": "Türkiye'deki devlet ve vakıf üniversitelerine bağlı tıp fakülteleri; henüz açılmamış ve devredilmiş/kapatılmış fakülteler dahil. Contains 131 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki tıp fakülteleri | ListBase",
+    "seo_description": "Download Türkiye'deki tıp fakülteleri — 131 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 131 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_tıp_fakülteleri_listesi"
+    ]
+  }
+}
