@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-17T02:18:26.042Z",
-  "total_datasets": 613,
-  "total_records": 609012,
+  "generated": "2026-11-18T02:19:38.642Z",
+  "total_datasets": 614,
+  "total_records": 609085,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -12781,6 +12781,34 @@
         "xlsx": {
           "name": "tr-disisleri-bakanlari_TR.xlsx",
           "size": 9433
+        }
+      }
+    },
+    {
+      "id": "tr-hukumetler",
+      "name": "Türkiye Cumhuriyeti hükûmetleri",
+      "category": "politics",
+      "record_count": 73,
+      "columns": [
+        "government",
+        "head_of_government",
+        "election",
+        "start_date",
+        "end_date",
+        "confidence_vote",
+        "parties"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye_Cumhuriyeti_hükûmetleri_listesi",
+      "updated": "2026-11",
+      "size": 25165,
+      "files": {
+        "csv": {
+          "name": "tr-hukumetler_TR.csv",
+          "size": 11165
+        },
+        "xlsx": {
+          "name": "tr-hukumetler_TR.xlsx",
+          "size": 11243
         }
       }
     },
