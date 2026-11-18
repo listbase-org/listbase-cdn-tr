@@ -1,0 +1,541 @@
+{
+  "id": "tr-meb-belirli-gun-ve-haftalar",
+  "name": "MEB Belirli Gün ve Haftalar Çizelgesi",
+  "title": "MEB Belirli Gün ve Haftalar Çizelgesi",
+  "description": "Millî Eğitim Bakanlığı Eğitim Kurumları Sosyal Etkinlikler Yönetmeliği EK-8'e göre okullarda anılan ve kutlanan 70 belirli gün ve hafta, tarihleri ile (RG 18.01.2023/32077).",
+  "category": "time",
+  "source": "https://www.meb.gov.tr/belirli-gun-ve-haftalar-cizelgesi/duyuru/11814",
+  "source_url": "https://www.meb.gov.tr/belirli-gun-ve-haftalar-cizelgesi/duyuru/11814",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Uluslararası Temiz Hava Günü",
+      "date": "7 Eylül",
+      "type": "Gün",
+      "month": "Eylül"
+    },
+    {
+      "no": 2,
+      "name": "Dünya İlk Yardım Günü",
+      "date": "Eylül ayının ikinci cumartesi günü",
+      "type": "Gün",
+      "month": "Eylül"
+    },
+    {
+      "no": 3,
+      "name": "İlköğretim Haftası",
+      "date": "Eylül ayının 3. haftası",
+      "type": "Hafta",
+      "month": "Eylül"
+    },
+    {
+      "no": 4,
+      "name": "Öğrenciler Günü",
+      "date": "İlköğretim Haftasının son günü",
+      "type": "Gün",
+      "month": ""
+    },
+    {
+      "no": 5,
+      "name": "Gaziler Günü",
+      "date": "19 Eylül",
+      "type": "Gün",
+      "month": "Eylül"
+    },
+    {
+      "no": 6,
+      "name": "15 Temmuz Demokrasi ve Millî Birlik Günü",
+      "date": "Ders yılının başladığı ikinci hafta içerisinde",
+      "type": "Gün",
+      "month": "Eylül"
+    },
+    {
+      "no": 7,
+      "name": "Dünya Okul Sütü Günü",
+      "date": "28 Eylül",
+      "type": "Gün",
+      "month": "Eylül"
+    },
+    {
+      "no": 8,
+      "name": "Disleksi Haftası",
+      "date": "Ekim ayının ilk haftası",
+      "type": "Hafta",
+      "month": "Ekim"
+    },
+    {
+      "no": 9,
+      "name": "Dünya Disleksi Günü",
+      "date": "Ekim ayının ilk haftasının perşembe günü",
+      "type": "Gün",
+      "month": "Ekim"
+    },
+    {
+      "no": 10,
+      "name": "Mevlid-i Nebî Haftası",
+      "date": "Diyanet İşleri Başkanlığınca belirlenecek haftada",
+      "type": "Hafta",
+      "month": ""
+    },
+    {
+      "no": 11,
+      "name": "Hayvanları Koruma Günü",
+      "date": "4 Ekim",
+      "type": "Gün",
+      "month": "Ekim"
+    },
+    {
+      "no": 12,
+      "name": "Ahilik Kültürü Haftası",
+      "date": "8-12 Ekim",
+      "type": "Hafta",
+      "month": "Ekim"
+    },
+    {
+      "no": 13,
+      "name": "Dünya Afet Azaltma Günü",
+      "date": "13 Ekim",
+      "type": "Gün",
+      "month": "Ekim"
+    },
+    {
+      "no": 14,
+      "name": "Birleşmiş Milletler Günü",
+      "date": "24 Ekim",
+      "type": "Gün",
+      "month": "Ekim"
+    },
+    {
+      "no": 15,
+      "name": "Cumhuriyet Bayramı",
+      "date": "29 Ekim",
+      "type": "Bayram",
+      "month": "Ekim"
+    },
+    {
+      "no": 16,
+      "name": "Kızılay Haftası",
+      "date": "29 Ekim-4 Kasım",
+      "type": "Hafta",
+      "month": "Ekim"
+    },
+    {
+      "no": 17,
+      "name": "Organ Bağışı ve Nakli Haftası",
+      "date": "3-9 Kasım",
+      "type": "Hafta",
+      "month": "Kasım"
+    },
+    {
+      "no": 18,
+      "name": "Lösemili Çocuklar Haftası",
+      "date": "2-8 Kasım",
+      "type": "Hafta",
+      "month": "Kasım"
+    },
+    {
+      "no": 19,
+      "name": "Atatürk Haftası",
+      "date": "10-16 Kasım",
+      "type": "Hafta",
+      "month": "Kasım"
+    },
+    {
+      "no": 20,
+      "name": "Dünya Diyabet Günü",
+      "date": "14 Kasım",
+      "type": "Gün",
+      "month": "Kasım"
+    },
+    {
+      "no": 21,
+      "name": "Afet Eğitimi Hazırlık Günü",
+      "date": "12 Kasım",
+      "type": "Gün",
+      "month": "Kasım"
+    },
+    {
+      "no": 22,
+      "name": "Dünya Felsefe Günü",
+      "date": "20 Kasım",
+      "type": "Gün",
+      "month": "Kasım"
+    },
+    {
+      "no": 23,
+      "name": "Dünya Çocuk Hakları Günü",
+      "date": "20 Kasım",
+      "type": "Gün",
+      "month": "Kasım"
+    },
+    {
+      "no": 24,
+      "name": "Ağız ve Diş Sağlığı Haftası",
+      "date": "21-27 Kasım",
+      "type": "Hafta",
+      "month": "Kasım"
+    },
+    {
+      "no": 25,
+      "name": "Öğretmenler Günü",
+      "date": "24 Kasım",
+      "type": "Gün",
+      "month": "Kasım"
+    },
+    {
+      "no": 26,
+      "name": "Dünya Engelliler Günü",
+      "date": "3 Aralık",
+      "type": "Gün",
+      "month": "Aralık"
+    },
+    {
+      "no": 27,
+      "name": "Dünya Madenciler Günü",
+      "date": "4 Aralık",
+      "type": "Gün",
+      "month": "Aralık"
+    },
+    {
+      "no": 28,
+      "name": "Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "date": "5 Aralık",
+      "type": "Anma/Kutlama",
+      "month": "Aralık"
+    },
+    {
+      "no": 29,
+      "name": "Mevlana Haftası",
+      "date": "07-17 Aralık",
+      "type": "Hafta",
+      "month": "Aralık"
+    },
+    {
+      "no": 30,
+      "name": "İnsan Hakları ve Demokrasi Haftası",
+      "date": "10 Aralık gününü içine alan hafta",
+      "type": "Hafta",
+      "month": "Aralık"
+    },
+    {
+      "no": 31,
+      "name": "Tutum, Yatırım ve Türk Malları Haftası",
+      "date": "12-18 Aralık",
+      "type": "Hafta",
+      "month": "Aralık"
+    },
+    {
+      "no": 32,
+      "name": "Mehmet Akif Ersoy’u Anma Haftası",
+      "date": "20-27 Aralık",
+      "type": "Hafta",
+      "month": "Aralık"
+    },
+    {
+      "no": 33,
+      "name": "Enerji Tasarrufu Haftası",
+      "date": "Ocak ayının 2. haftası",
+      "type": "Hafta",
+      "month": "Ocak"
+    },
+    {
+      "no": 34,
+      "name": "Vergi Haftası",
+      "date": "Şubat ayının son haftası",
+      "type": "Hafta",
+      "month": "Şubat"
+    },
+    {
+      "no": 35,
+      "name": "Yeşilay Haftası",
+      "date": "1 Mart gününü içine alan hafta",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 36,
+      "name": "Girişimcilik Haftası",
+      "date": "Mart ayının ilk haftası",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 37,
+      "name": "Dünya Kadınlar Günü",
+      "date": "8 Mart",
+      "type": "Gün",
+      "month": "Mart"
+    },
+    {
+      "no": 38,
+      "name": "Bilim ve Teknoloji Haftası",
+      "date": "8-14 Mart",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 39,
+      "name": "İstiklâl Marşı’nın Kabulü ve Mehmet Akif Ersoy’u Anma Günü",
+      "date": "12 Mart",
+      "type": "Gün",
+      "month": "Mart"
+    },
+    {
+      "no": 40,
+      "name": "Tüketiciyi Koruma Haftası",
+      "date": "15-21 Mart",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 41,
+      "name": "Şehitler Günü",
+      "date": "18 Mart",
+      "type": "Gün",
+      "month": "Mart"
+    },
+    {
+      "no": 42,
+      "name": "Yaşlılar Haftası",
+      "date": "18-24 Mart",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 43,
+      "name": "Türk Dünyası ve Toplulukları Haftası",
+      "date": "21 Mart Nevruz gününü içine alan hafta",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 44,
+      "name": "Orman Haftası",
+      "date": "21-26 Mart",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 45,
+      "name": "Dünya Su Günü",
+      "date": "22 Mart",
+      "type": "Gün",
+      "month": "Mart"
+    },
+    {
+      "no": 46,
+      "name": "Dünya Tiyatrolar Günü",
+      "date": "27 Mart",
+      "type": "Gün",
+      "month": "Mart"
+    },
+    {
+      "no": 47,
+      "name": "Kütüphaneler Haftası",
+      "date": "Mart ayının son pazartesi gününü içine alan hafta",
+      "type": "Hafta",
+      "month": "Mart"
+    },
+    {
+      "no": 48,
+      "name": "Kanser Haftası",
+      "date": "1-7 Nisan",
+      "type": "Hafta",
+      "month": "Nisan"
+    },
+    {
+      "no": 49,
+      "name": "Dünya Otizm Farkındalık Günü",
+      "date": "2 Nisan",
+      "type": "Gün",
+      "month": "Nisan"
+    },
+    {
+      "no": 50,
+      "name": "Kişisel Verileri Koruma Günü",
+      "date": "7 Nisan",
+      "type": "Gün",
+      "month": "Nisan"
+    },
+    {
+      "no": 51,
+      "name": "Dünya Sağlık Günün/Dünya Sağlık Haftası",
+      "date": "7-13 Nisan",
+      "type": "Hafta",
+      "month": "Nisan"
+    },
+    {
+      "no": 52,
+      "name": "Turizm Haftası",
+      "date": "15-22 Nisan",
+      "type": "Hafta",
+      "month": "Nisan"
+    },
+    {
+      "no": 53,
+      "name": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "date": "23 Nisan",
+      "type": "Bayram",
+      "month": "Nisan"
+    },
+    {
+      "no": 54,
+      "name": "26 Nisan Dünya Fikrî Mülkiyet Günü",
+      "date": "26 Nisan",
+      "type": "Gün",
+      "month": "Nisan"
+    },
+    {
+      "no": 55,
+      "name": "Kût’ül Amâre Zaferi",
+      "date": "29 Nisan",
+      "type": "Anma/Kutlama",
+      "month": "Nisan"
+    },
+    {
+      "no": 56,
+      "name": "Bilişim Haftası",
+      "date": "Mayıs ayının ilk haftası",
+      "type": "Hafta",
+      "month": "Mayıs"
+    },
+    {
+      "no": 57,
+      "name": "Trafik ve İlkyardım Haftası",
+      "date": "Mayıs ayının ilk haftası",
+      "type": "Hafta",
+      "month": "Mayıs"
+    },
+    {
+      "no": 58,
+      "name": "İş Sağlığı ve Güvenliği Haftası",
+      "date": "4-10 Mayıs",
+      "type": "Hafta",
+      "month": "Mayıs"
+    },
+    {
+      "no": 59,
+      "name": "Vakıflar Haftası",
+      "date": "Mayıs ayının 2. haftası",
+      "type": "Hafta",
+      "month": "Mayıs"
+    },
+    {
+      "no": 60,
+      "name": "Anneler Günü",
+      "date": "Mayıs ayının 2 inci Pazarı",
+      "type": "Gün",
+      "month": "Mayıs"
+    },
+    {
+      "no": 61,
+      "name": "Engelliler Haftası",
+      "date": "10-16 Mayıs",
+      "type": "Hafta",
+      "month": "Mayıs"
+    },
+    {
+      "no": 62,
+      "name": "Müzeler Haftası",
+      "date": "18-24 Mayıs",
+      "type": "Hafta",
+      "month": "Mayıs"
+    },
+    {
+      "no": 63,
+      "name": "Atatürk'ü Anma ve Gençlik ve Spor Bayramı",
+      "date": "19 Mayıs",
+      "type": "Bayram",
+      "month": "Mayıs"
+    },
+    {
+      "no": 64,
+      "name": "Etik Günü",
+      "date": "25 Mayıs",
+      "type": "Gün",
+      "month": "Mayıs"
+    },
+    {
+      "no": 65,
+      "name": "İstanbul’un Fethi",
+      "date": "29 Mayıs",
+      "type": "Anma/Kutlama",
+      "month": "Mayıs"
+    },
+    {
+      "no": 66,
+      "name": "Hayat Boyu Öğrenme Haftası",
+      "date": "Haziran ayının ilk haftası",
+      "type": "Hafta",
+      "month": "Haziran"
+    },
+    {
+      "no": 67,
+      "name": "Çevre ve İklim Değişikliği Haftası",
+      "date": "Haziran ayının 2. haftası",
+      "type": "Hafta",
+      "month": "Haziran"
+    },
+    {
+      "no": 68,
+      "name": "Babalar Günü",
+      "date": "Haziran ayının 3 üncü pazarı",
+      "type": "Gün",
+      "month": "Haziran"
+    },
+    {
+      "no": 69,
+      "name": "Zafer Bayramı",
+      "date": "30 Ağustos",
+      "type": "Bayram",
+      "month": "Ağustos"
+    },
+    {
+      "no": 70,
+      "name": "Mahallî Kurtuluş Günleri ve Atatürk Günleri ile Tarihî Günler",
+      "date": "Gerçekleştiği tarihlerde",
+      "type": "Gün",
+      "month": ""
+    }
+  ],
+  "meta": {
+    "title": "MEB Belirli Gün ve Haftalar Çizelgesi - Free Download",
+    "description": "Millî Eğitim Bakanlığı Eğitim Kurumları Sosyal Etkinlikler Yönetmeliği EK-8'e göre okullarda anılan ve kutlanan 70 belirli gün ve hafta, tarihleri ile (RG 18.01.2023/32077). Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "MEB Belirli Gün ve Haftalar Çizelgesi | ListBase",
+    "seo_description": "Download MEB Belirli Gün ve Haftalar Çizelgesi — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.meb.gov.tr/belirli-gun-ve-haftalar-cizelgesi/duyuru/11814"
+    ]
+  }
+}

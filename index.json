@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-18T02:19:38.642Z",
-  "total_datasets": 614,
-  "total_records": 609085,
+  "generated": "2026-11-18T02:19:47.737Z",
+  "total_datasets": 615,
+  "total_records": 609155,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -15455,6 +15455,32 @@
         "xlsx": {
           "name": "tr-hicri-takvim-aylari_TR.xlsx",
           "size": 7541
+        }
+      }
+    },
+    {
+      "id": "tr-meb-belirli-gun-ve-haftalar",
+      "name": "MEB Belirli Gün ve Haftalar Çizelgesi",
+      "category": "time",
+      "record_count": 70,
+      "columns": [
+        "no",
+        "name",
+        "date",
+        "type",
+        "month"
+      ],
+      "source": "https://www.meb.gov.tr/belirli-gun-ve-haftalar-cizelgesi/duyuru/11814",
+      "updated": "2026-11",
+      "size": 12669,
+      "files": {
+        "csv": {
+          "name": "tr-meb-belirli-gun-ve-haftalar_TR.csv",
+          "size": 5004
+        },
+        "xlsx": {
+          "name": "tr-meb-belirli-gun-ve-haftalar_TR.xlsx",
+          "size": 9885
         }
       }
     },
