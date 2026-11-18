@@ -1,12 +1,12 @@
 {
   "lang": "tr",
-  "generated": "2026-11-18T02:19:47.737Z",
-  "total_datasets": 615,
-  "total_records": 609155,
+  "generated": "2026-11-18T02:19:56.114Z",
+  "total_datasets": 616,
+  "total_records": 609204,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -235,6 +235,34 @@
         "xlsx": {
           "name": "tr-tarim-ve-orman-bakanlari_TR.xlsx",
           "size": 10501
+        }
+      }
+    },
+    {
+      "id": "tr-tarimsal-arastirma-enstituleri",
+      "name": "TAGEM tarımsal araştırma enstitüleri",
+      "category": "agriculture",
+      "record_count": 49,
+      "columns": [
+        "name",
+        "institute_type",
+        "province",
+        "address",
+        "phone",
+        "email",
+        "website"
+      ],
+      "source": "https://arastirma.tarimorman.gov.tr/",
+      "updated": "2026-11",
+      "size": 22355,
+      "files": {
+        "csv": {
+          "name": "tr-tarimsal-arastirma-enstituleri_TR.csv",
+          "size": 13656
+        },
+        "xlsx": {
+          "name": "tr-tarimsal-arastirma-enstituleri_TR.xlsx",
+          "size": 12187
         }
       }
     },

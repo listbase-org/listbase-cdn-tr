@@ -1,0 +1,502 @@
+{
+  "id": "tr-tarimsal-arastirma-enstituleri",
+  "name": "TAGEM tarımsal araştırma enstitüleri",
+  "title": "TAGEM tarımsal araştırma enstitüleri",
+  "description": "Tarım ve Orman Bakanlığı Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğüne (TAGEM) bağlı merkez, bölge ve konu araştırma enstitüleri; il, adres, telefon ve web sitesi ile.",
+  "category": "agriculture",
+  "source": "https://arastirma.tarimorman.gov.tr/",
+  "source_url": "https://arastirma.tarimorman.gov.tr/",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "institute_type",
+      "label": "Institute Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akdeniz Su Ürünleri Araştırma, Üretme ve Eğitim Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Antalya",
+      "address": "Beymelek Mahallesi Akdeniz Bulvarı 7/1 Demre-ANTALYA",
+      "phone": "0.242. 872 14 00",
+      "email": "akdenizsuurunleri@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/akdenizsuurunleri"
+    },
+    {
+      "name": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Konya",
+      "address": "İstiklal Mah. Şehit Burak Aydoğan Cad. No: 3E Karatay / Konya",
+      "phone": "0332 355 12 90",
+      "email": "bahridagdas@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/bahridagdas"
+    },
+    {
+      "name": "Batı Akdeniz Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Antalya",
+      "address": "Demircikara Mahallesi Paşa Kavakları Cad. No:11 MURATPAŞA / ANTALYA",
+      "phone": "0 242 321 67 97",
+      "email": "batem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/batem"
+    },
+    {
+      "name": "Doğu Akdeniz Geçit Kuşağı Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Kahramanmaraş",
+      "address": "Hacımustafa Mah. Gazi Mustafa Kemal Bulvarı No:122 (Adana Yolu Üzeri 5. Km) PK:46140 Onikişubat/KAHRAMANMARAŞ",
+      "phone": "0 (344) 237 60 20/71",
+      "email": "dagtem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/dagtem"
+    },
+    {
+      "name": "Doğu Akdeniz Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Adana",
+      "address": "Karataşyolu 17 Km.Doğankent/Yüreğir/Adana",
+      "phone": "0322 334 00 55",
+      "email": "dataem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/cukurovataem"
+    },
+    {
+      "name": "Doğu Anadolu Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Erzurum",
+      "address": "Lalapaşa Mahallesi Tarımsal Araştırma Caddesi 25100 Yakutiye /ERZURUM",
+      "phone": "0442 327 14 40 -41",
+      "email": "datae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/datae"
+    },
+    {
+      "name": "Ege Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "İzmir",
+      "address": "Cumhuriyet Mah. Çanakkale Asfaltı Cad. No: 138 Menemen/İZMİR",
+      "phone": "0 232 846 13 31-35",
+      "email": "etae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/etae"
+    },
+    {
+      "name": "GAP Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Şanlıurfa",
+      "address": "Paşabağı Mah. Recep Tayyip Erdoğan Bulvarı No:106 PK:75 63040 Haliliye / ŞANLIURFA",
+      "phone": "0 (414) 313 28 83 - 84",
+      "email": "gaptaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/gaptaem"
+    },
+    {
+      "name": "Geçit Kuşağı Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Eskişehir",
+      "address": "Karagözler Mh. Ziraat Cd. No: 396 (Karabayır yolu 6. km) Tepebaşı - Eskişehir",
+      "phone": "0222 - 324 03 00",
+      "email": "gktaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/gktaem"
+    },
+    {
+      "name": "Karadeniz Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Samsun",
+      "address": "Çiftlik Mah. Atatürk Bulvarı No: 313 (Samsun - Ordu Karayolu 17. km), Gelemen, Tekkeköy / SAMSUN / TÜRKİYE",
+      "phone": "(0362) 256 05 14 - 15",
+      "email": "ktae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/ktae"
+    },
+    {
+      "name": "Orta Karadeniz Geçit Kuşağı Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Tokat",
+      "address": "Vali Zekai Gümüşdiş Bulvarı No:219/1 Turhal Yolu Üzeri 11. Km. TOKAT",
+      "phone": "0356 252 12 50 - 51",
+      "email": "tokat.arastirma@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/tokatarastirma"
+    },
+    {
+      "name": "Trakya Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Edirne",
+      "address": "Kocasinan Mah. Atatürk Bulvarı 167/A - 22100 EDİRNE",
+      "phone": "0 284 235 81 82",
+      "email": "ttae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/ttae"
+    },
+    {
+      "name": "Van Tarımsal Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Bölge araştırma enstitüsü",
+      "province": "Van",
+      "address": "Erciş Yolu 18. km, Tevekli köyü, Tuşba/Van",
+      "phone": "04325022880",
+      "email": "vantaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/van"
+    },
+    {
+      "name": "Antepfıstığı Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Gaziantep",
+      "address": "Üniversite Bulvarı No:34 27070 Şahinbey/GAZİANTEP",
+      "phone": "+90(342) 338 08 00",
+      "email": "antepfistigi@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/afistik"
+    },
+    {
+      "name": "Arıcılık Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Ordu",
+      "address": "Ordu-Ulubey Karayolu 12.Km Dedeli Yerleşkesi (Pk:10) Altınordu/ORDU",
+      "phone": "0452 256 2341 - 0452 256 2453",
+      "email": "aricilikarastirma@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/aricilik"
+    },
+    {
+      "name": "Atatürk Toprak, Su ve Tarımsal Meteoroloji Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Kırklareli",
+      "address": "İstanbul Yolu Üzeri 4. Km. KIRKLARELİ",
+      "phone": "Santral: 0 288 214 2944 Sekreter: 0 288 214 4885",
+      "email": "kirklarelitopraksu@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/kirklarelitopraksu"
+    },
+    {
+      "name": "Bağcılık Araştırma Enstitüsü Müdürlüğü - Manisa",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Manisa",
+      "address": "Atatürk Mahallesi Şehit Hasan Kuzu Caddesi No: 268 Pk:12 45125 Yunusemre / MANİSA",
+      "phone": "236 211 10 71",
+      "email": "manisa.bagcilik@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/manisabagcilik"
+    },
+    {
+      "name": "Bağcılık Araştırma Enstitüsü Müdürlüğü - Tekirdağ",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Tekirdağ",
+      "address": "Karadeniz Mahallesi, Eski Malkara Yolu Caddesi No:4, 59200 Süleymanpaşa/TEKİRDAĞ",
+      "phone": "0282 261 20 42 - 262 40 60",
+      "email": "bagcilik@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/bagcilik"
+    },
+    {
+      "name": "Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü - Alata/Mersin",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Mersin",
+      "address": "Alparslan Türkeş Bulvarı, No: 492, PK: 33740, Erdemli / MERSİN",
+      "phone": "+90 (324) 518 0052 Sosyal Tesis: 324 515 60 80",
+      "email": "alata@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/alata"
+    },
+    {
+      "name": "Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü - Erzincan",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Erzincan",
+      "address": "MİMAR SİNAN MAH. MİHRALİ AKSU YOLU BAHÇE KÜLTÜRLERİ ARAŞTIRMA ENSTİTÜSÜ MÜDÜRLÜĞÜ NO:38 MERKEZ / ERZİNCAN",
+      "phone": "+90 446 225 1903 - 05",
+      "email": "erzincanbk@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/erzincanbk"
+    },
+    {
+      "name": "Biyolojik Mücadele Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Adana",
+      "address": "Kışla Caddesi, 01321, Yüreğir/ADANA",
+      "phone": "0 322 344 17 84",
+      "email": "bmae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/bmae"
+    },
+    {
+      "name": "Fındık Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Giresun",
+      "address": "Teyyaredüzü Mahallesi Atatürk Bulvarı",
+      "phone": "0454 215 15 51-0454 215 15 65",
+      "email": "findikarastirma@tarim.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/findik"
+    },
+    {
+      "name": "İncir Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Aydın",
+      "address": "İNCİR ARAŞTIRMA ENSTİTÜSÜ MÜDÜRLÜĞÜ / İncirliova - AYDIN",
+      "phone": "0 256 581 1123",
+      "email": "incir@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/incir"
+    },
+    {
+      "name": "Kayısı Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Malatya",
+      "address": "Aşağıbağlar mah. İsmetpaşa cad. No:163 Yeşilyurt / MALATYA",
+      "phone": "0422 212 20 00",
+      "email": "kayisi@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/kayisi"
+    },
+    {
+      "name": "Koyunculuk Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Balıkesir",
+      "address": "Gönen Yolu 7. km Bandırma/BALIKESİR",
+      "phone": "0266 738 00 80 - 81- 82",
+      "email": "",
+      "website": "https://arastirma.tarimorman.gov.tr/koyunculuk"
+    },
+    {
+      "name": "Meyvecilik Araştırma Enstitüsü Müdürlüğü - Eğirdir/Isparta",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Isparta",
+      "address": "Kızılçubuk Mah. P.K:2 32500 Eğirdir/Isparta",
+      "phone": "0 246 313 24 20",
+      "email": "marem@tarim.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/marem"
+    },
+    {
+      "name": "Mısır Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Sakarya",
+      "address": "Arifbey Mahallesi Arifiye Caddesi No:2B Arifiye/SAKARYA",
+      "phone": "0264 275 25 91 - 92",
+      "email": "misir@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/misir"
+    },
+    {
+      "name": "Pamuk Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Aydın",
+      "address": "Sümer Mahallesi Hürriyet Caddesi No:520/1 Nazilli/AYDIN",
+      "phone": "0256 313 17 50",
+      "email": "pamuk@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/pamuk"
+    },
+    {
+      "name": "Patates Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Niğde",
+      "address": "Şahsüleyman Mahallesi Yörük Sokak No: 2/1 PK:2 51100 Merkez/NİĞDE",
+      "phone": "0388 232 33 54",
+      "email": "patates.arastirma@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/patates"
+    },
+    {
+      "name": "Sert Kabuklu Meyveler Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Adıyaman",
+      "address": "Sümerevler Mahallesi 1794 Sokak No:13/1 ADIYAMAN",
+      "phone": "0416 216 25 67",
+      "email": "sertkabukluaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/sertkabuklumeyveler"
+    },
+    {
+      "name": "Su Ürünleri Araştırma Enstitüsü Müdürlüğü - Eğirdir/Isparta",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Isparta",
+      "address": "Menderes Mah. Dr. İsa Köklü Cad. No:39 Eğirdir-ISPARTA",
+      "phone": "+90 246 313 34 60",
+      "email": "sarem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/sarem"
+    },
+    {
+      "name": "Su Ürünleri Araştırma Enstitüsü Müdürlüğü - Elazığ",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Elazığ",
+      "address": "Sürsürü Mah. Şehit Polis M.Lami KARAAĞAÇ Sokak. No: 10 ELAZIĞ 23040 TURKİYE",
+      "phone": "0 (424) 241 10 85-86",
+      "email": "elazigsuurunleri@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/elazigsuurunleri"
+    },
+    {
+      "name": "Tavukçuluk Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Ankara",
+      "address": "Şehit Cem Ersever Caddesi 7/1 Gayret Mahallesi Yenimahalle/ANKARA",
+      "phone": "0312 344 59 90",
+      "email": "ankara.tavukculuk@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/tavukculuk"
+    },
+    {
+      "name": "Toprak Su ve Çölleşme ile Mücadele Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Konya",
+      "address": "Yaylapınar Mah. Özbayram sok. No.46 42010 Meram / KONYA",
+      "phone": "0332 359 66 12 - 13",
+      "email": "konyatopraksu@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/konyatopraksu"
+    },
+    {
+      "name": "Yağlı Tohumlar Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Osmaniye",
+      "address": "Karataş Mahallesi Yeni Kayseri Yolu Bulvarı 22/8 Cevdetiye Beldesi/Merkez/Osmaniye",
+      "phone": "(0328) 813 91 98",
+      "email": "osmaniyeytae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/osmaniyeytai"
+    },
+    {
+      "name": "Zeytincilik Araştırma Enstitüsü Müdürlüğü - Bornova/İzmir",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "İzmir",
+      "address": "Üniversite Cd. No:43 35100 BORNOVA İZMİR",
+      "phone": "+90 232 462 70 73",
+      "email": "izmirzae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/izmirzae"
+    },
+    {
+      "name": "Zeytincilik Araştırma Enstitüsü Müdürlüğü - Hatay",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Hatay",
+      "address": "Yenişehir Mahallesi Zeytin Sokak No:1 Altınözü/HATAY",
+      "phone": "0 (326) 214 06 34",
+      "email": "hzae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/hzai"
+    },
+    {
+      "name": "Zirai Mücadele Araştırma Enstitüsü Müdürlüğü - Bornova/İzmir",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "İzmir",
+      "address": "Gençlik Caddesi, No:6, 35040 Bornova / İZMİR",
+      "phone": "+90232 3880030 +90232 3880031 +90232 3884328",
+      "email": "bzmae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/bzmai"
+    },
+    {
+      "name": "Zirai Mücadele Araştırma Enstitüsü Müdürlüğü - Diyarbakır",
+      "institute_type": "Konu araştırma enstitüsü",
+      "province": "Diyarbakır",
+      "address": "Silvan Karayolu 7. Km. PK.115 21110 Sur/DİYARBAKIR",
+      "phone": "0 412 326 1106 - 326 1143",
+      "email": "dzmae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/dzmai"
+    },
+    {
+      "name": "Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Yalova",
+      "address": "Süleyman Bey Mh., 77100 Merkez / YALOVA",
+      "phone": "(0226) 814 25 20-21 (0226) 814 10 05",
+      "email": "yalova.arastirma@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/yalovabahce"
+    },
+    {
+      "name": "GAP Uluslararası Tarımsal Araştırma ve Eğitim Merkezi Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Diyarbakır",
+      "address": "Silvan Yolu Üzeri 9. Km PK.72 21280 DİYARBAKIR",
+      "phone": "+90 412 326 13 23-40 (2 Hat)",
+      "email": "gaputaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/gaputaem"
+    },
+    {
+      "name": "Gıda ve Yem Kontrol Merkez Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Bursa",
+      "address": "Adalet Mh. 1. Hürriyet Caddesi, No: 128 16160 Osmangazi/BURSA",
+      "phone": "0 224 246 47 20 (pbx)",
+      "email": "bursagida@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/bursagida"
+    },
+    {
+      "name": "Su Ürünleri Merkez Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Trabzon",
+      "address": "Vali Adil Yazar Sk. No:6 Kaşüstü, Yomra, 61250, TRABZON",
+      "phone": "0462 341 10 53-54",
+      "email": "sumae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/sumae"
+    },
+    {
+      "name": "Tarla Bitkileri Merkez Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Ankara",
+      "address": "Şehit Cem Ersever Cad. No: 11 Yenimahalle / ANKARA",
+      "phone": "0 (312) 343 10 50",
+      "email": "tarlabitkileri@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/tarlabitkileri"
+    },
+    {
+      "name": "Toprak, Gübre ve Su Kaynakları Merkez Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Ankara",
+      "address": "Gayret Mahallesi Fatih Sultan Mehmet Bulvarı (İstanbul Yolu) No: 32 Yenimahalle / ANKARA 06170",
+      "phone": "0 312 315 65 60 - 64",
+      "email": "toprakgubresu@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/toprakgubre"
+    },
+    {
+      "name": "Türkiye Milli Botanik Bahçesi Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Ankara",
+      "address": "Üniversiteler Mah. Dumlupınar Bulvarı, Eskişehir Yolu (Bilkent Şehir Hastanesi Bağlantı Yolu) 6001.Cadde, Çankaya/ANKARA 06800 TÜRKİYE",
+      "phone": "0 312 216 70 00",
+      "email": "millibotanik@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/millibotanik"
+    },
+    {
+      "name": "Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Ankara",
+      "address": "Lalahan Mah. S. Sırrı İçöz Cad. Mamak/ANKARA (Ankara-Samsun Yolu 30. Km)",
+      "phone": "Santral:(0312) 8651196 -8651418-8651190-8651417",
+      "email": "lalahanhmae@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/lalahanhmae"
+    },
+    {
+      "name": "Uluslararası Tarımsal Araştırma ve Eğitim Merkezi Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "İzmir",
+      "address": "Camikebir Mah. Maltepe Yolu No: 27/1 Menemen-İzmir/TÜRKİYE",
+      "phone": "(+90 232) 831 10 52",
+      "email": "izmirutaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/izmirutaem"
+    },
+    {
+      "name": "Zirai Mücadele Merkez Araştırma Enstitüsü Müdürlüğü",
+      "institute_type": "Merkez araştırma enstitüsü",
+      "province": "Ankara",
+      "address": "Gayret Mahallesi. Fatih Sultan Mehmet Bulvarı. No: 66, 06172 Yenimahalle / ANKARA",
+      "phone": "0 312 344 59 93 -96 (4 Hat)",
+      "email": "zmaem@tarimorman.gov.tr",
+      "website": "https://arastirma.tarimorman.gov.tr/zmmae"
+    }
+  ],
+  "meta": {
+    "title": "TAGEM tarımsal araştırma enstitüleri - Free Download",
+    "description": "Tarım ve Orman Bakanlığı Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğüne (TAGEM) bağlı merkez, bölge ve konu araştırma enstitüleri; il, adres, telefon ve web sitesi ile. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "TAGEM tarımsal araştırma enstitüleri | ListBase",
+    "seo_description": "Download TAGEM tarımsal araştırma enstitüleri — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://arastirma.tarimorman.gov.tr/"
+    ]
+  }
+}
