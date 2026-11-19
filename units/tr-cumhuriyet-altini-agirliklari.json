@@ -1,0 +1,66 @@
+{
+  "id": "tr-cumhuriyet-altini-agirliklari",
+  "name": "Cumhuriyet altını çeşitleri ve ağırlıkları",
+  "title": "Cumhuriyet altını çeşitleri ve ağırlıkları",
+  "description": "Çeyrek, yarım, tam, ikibuçuk ve beşli Cumhuriyet altınlarının sikke ve ziynet olarak gram cinsinden ağırlıkları.",
+  "category": "units",
+  "source": "https://tr.wikipedia.org/wiki/Cumhuriyet_altını",
+  "source_url": "https://tr.wikipedia.org/wiki/Cumhuriyet_altını",
+  "updated": "2026-11",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "sikke_weight_g",
+      "label": "Sikke Weight G",
+      "type": "number"
+    },
+    {
+      "key": "ziynet_weight_g",
+      "label": "Ziynet Weight G",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Çeyrek",
+      "sikke_weight_g": 1.804,
+      "ziynet_weight_g": 1.754
+    },
+    {
+      "type": "Yarım",
+      "sikke_weight_g": 3.608,
+      "ziynet_weight_g": 3.508
+    },
+    {
+      "type": "Birlik",
+      "sikke_weight_g": 7.216,
+      "ziynet_weight_g": 7.016
+    },
+    {
+      "type": "İkibuçukluk",
+      "sikke_weight_g": 18.04,
+      "ziynet_weight_g": 17.54
+    },
+    {
+      "type": "Beşlik",
+      "sikke_weight_g": 36.08,
+      "ziynet_weight_g": 35.08
+    }
+  ],
+  "meta": {
+    "title": "Cumhuriyet altını çeşitleri ve ağırlıkları - Free Download",
+    "description": "Çeyrek, yarım, tam, ikibuçuk ve beşli Cumhuriyet altınlarının sikke ve ziynet olarak gram cinsinden ağırlıkları. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cumhuriyet altını çeşitleri ve ağırlıkları | ListBase",
+    "seo_description": "Download Cumhuriyet altını çeşitleri ve ağırlıkları — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Cumhuriyet_altını"
+    ]
+  }
+}

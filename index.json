@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-19T02:15:04.939Z",
-  "total_datasets": 617,
-  "total_records": 609317,
+  "generated": "2026-11-19T02:15:13.646Z",
+  "total_datasets": 618,
+  "total_records": 609322,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -17151,6 +17151,30 @@
         "xlsx": {
           "name": "tr-beaufort-ruzgar-siddeti-olcegi_TR.xlsx",
           "size": 8331
+        }
+      }
+    },
+    {
+      "id": "tr-cumhuriyet-altini-agirliklari",
+      "name": "Cumhuriyet altını çeşitleri ve ağırlıkları",
+      "category": "units",
+      "record_count": 5,
+      "columns": [
+        "type",
+        "sikke_weight_g",
+        "ziynet_weight_g"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Cumhuriyet_altını",
+      "updated": "2026-11",
+      "size": 2079,
+      "files": {
+        "csv": {
+          "name": "tr-cumhuriyet-altini-agirliklari_TR.csv",
+          "size": 178
+        },
+        "xlsx": {
+          "name": "tr-cumhuriyet-altini-agirliklari_TR.xlsx",
+          "size": 6847
         }
       }
     },
