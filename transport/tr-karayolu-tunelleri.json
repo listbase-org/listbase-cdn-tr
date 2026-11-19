@@ -1,0 +1,716 @@
+{
+  "id": "tr-karayolu-tunelleri",
+  "name": "Türkiye'deki karayolu ve otoyol tünelleri",
+  "title": "Türkiye'deki karayolu ve otoyol tünelleri",
+  "description": "Türkiye'deki karayolu ve otoyol tünellerinin adı, yolu, uzunluğu, şerit sayısı, açılış yılı ve bulunduğu iller.",
+  "category": "transport",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_tüneller_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_tüneller_listesi",
+  "updated": "2026-11",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "road_type",
+      "label": "Road Type",
+      "type": "string"
+    },
+    {
+      "key": "road",
+      "label": "Road",
+      "type": "string"
+    },
+    {
+      "key": "length_m",
+      "label": "Length M",
+      "type": "number"
+    },
+    {
+      "key": "lanes",
+      "label": "Lanes",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zigana Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.885",
+      "length_m": 14481,
+      "lanes": "2 × 2",
+      "opened": "2023",
+      "location": "Torul - Maçka",
+      "provinces": "Gümüşhane - Trabzon"
+    },
+    {
+      "name": "Ovit Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.925",
+      "length_m": 14346,
+      "lanes": "2 × 2",
+      "opened": "2018",
+      "location": "İkizdere - İspir",
+      "provinces": "Rize - Erzurum"
+    },
+    {
+      "name": "Belen-Topboğazı Tüneli",
+      "road_type": "Karayolu",
+      "road": "Otoyol 53",
+      "length_m": 8500,
+      "lanes": "3 × 3",
+      "opened": "Yapımda",
+      "location": "Belen Geçidi",
+      "provinces": "Hatay"
+    },
+    {
+      "name": "Levazım-Akatlar Tüneli",
+      "road_type": "Karayolu",
+      "road": "Şehir İçi Yol",
+      "length_m": 7720,
+      "lanes": "2 × 2",
+      "opened": "Yapımda",
+      "location": "Levazım - Akatlar",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Vauk Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.052",
+      "length_m": 7480,
+      "lanes": "2 × 2",
+      "opened": "Yapımda",
+      "location": "Köse - Bayburt",
+      "provinces": "Gümüşhane - Bayburt"
+    },
+    {
+      "name": "Alacabel Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.696",
+      "length_m": 7360,
+      "lanes": "2 × 2",
+      "opened": "Yapımda",
+      "location": "Seydişehir - Akseki",
+      "provinces": "Konya - Antalya"
+    },
+    {
+      "name": "Kırık Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.925",
+      "length_m": 7200,
+      "lanes": "2 × 2",
+      "opened": "Yapımda",
+      "location": "İspir - Erzurum",
+      "provinces": "Erzurum"
+    },
+    {
+      "name": "Kop Dağı Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.915",
+      "length_m": 6500,
+      "lanes": "2 × 2",
+      "opened": "Yapımda",
+      "location": "Maden - Aşkale",
+      "provinces": "Bayburt - Erzurum"
+    },
+    {
+      "name": "Eğribel Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.865",
+      "length_m": 5900,
+      "lanes": "2 × 2",
+      "opened": "2021",
+      "location": "Derel i - Şebinkarahisar",
+      "provinces": "Giresun"
+    },
+    {
+      "name": "Ilgaz 15 Temmuz İstiklal Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.765",
+      "length_m": 5488,
+      "lanes": "2 × 2",
+      "opened": "2016",
+      "location": "Ilgaz Dağı Geçidi",
+      "provinces": "Kastamonu - Çankırı"
+    },
+    {
+      "name": "Avrasya Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.100",
+      "length_m": 5400,
+      "lanes": "2 × 2",
+      "opened": "2016",
+      "location": "Kumkapı - Koşuyolu",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Cankurtaran Tünel i",
+      "road_type": "Karayolu",
+      "road": "D.010",
+      "length_m": 5228,
+      "lanes": "2 × 2",
+      "opened": "2018",
+      "location": "Hopa - Borçka",
+      "provinces": "Artvin"
+    },
+    {
+      "name": "Demirkapı Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.687",
+      "length_m": 5068,
+      "lanes": "2 × 2",
+      "opened": "2023",
+      "location": "İbradı - Derebucak",
+      "provinces": "Antalya - Konya"
+    },
+    {
+      "name": "Sabuncubeli Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.565",
+      "length_m": 4065,
+      "lanes": "2 × 2",
+      "opened": "2018",
+      "location": "Bornova - Yunusemre",
+      "provinces": "İzmir - Manisa"
+    },
+    {
+      "name": "Sarıyer-Çayırbaşı Tüneli",
+      "road_type": "Karayolu",
+      "road": "Şehir İçi Yol",
+      "length_m": 4020,
+      "lanes": "2 × 2",
+      "opened": "2012",
+      "location": "Sarıyer - Çayırbaşı",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Yeniköprü Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.400",
+      "length_m": 3965,
+      "lanes": "2 × 2",
+      "opened": "2025",
+      "location": "Yüksekova - Hakkâri",
+      "provinces": "Hakkâri"
+    },
+    {
+      "name": "Nefise Akçelik Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.010",
+      "length_m": 3825,
+      "lanes": "2 × 2",
+      "opened": "2007",
+      "location": "Fatsa - Altınordu",
+      "provinces": "Ordu"
+    },
+    {
+      "name": "Güneyce Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.925",
+      "length_m": 3790,
+      "lanes": "2 × 2",
+      "opened": "2021",
+      "location": "Kalkandere - İkizdere",
+      "provinces": "Rize"
+    },
+    {
+      "name": "Kağıthane-Piyalepaşa Tüneli",
+      "road_type": "Karayolu",
+      "road": "Şehir İçi Yol",
+      "length_m": 3186,
+      "lanes": "2 × 2",
+      "opened": "2010",
+      "location": "Kağıthane - Piyalepaşa",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Bolu Dağı Tüneli",
+      "road_type": "Karayolu",
+      "road": "Otoyol 4",
+      "length_m": 3125,
+      "lanes": "3 × 3",
+      "opened": "2007",
+      "location": "Kaynaşlı - Bolu Dağı",
+      "provinces": "Bolu - Düzce"
+    },
+    {
+      "name": "Dallıkavak Tüneli",
+      "road_type": "Karayolu",
+      "road": "D.925",
+      "length_m": 3105,
+      "lanes": "2 × 2",
+      "opened": "2026",
+      "location": "Aziziye - İspir",
+      "provinces": "Erzurum"
+    },
+    {
+      "name": "75. Yıl Selatin Tüneli",
+      "road_type": "Karayolu",
+      "road": "Otoyol 31",
+      "length_m": 3048,
+      "lanes": "3 × 3",
+      "opened": "2000",
+      "location": "Selçuk - Germencik",
+      "provinces": "İzmir - Aydın"
+    },
+    {
+      "name": "Orhangazi Tüneli",
+      "road_type": "Karayolu",
+      "road": "Otoyol 5",
+      "length_m": 3018,
+      "lanes": "3 × 3",
+      "opened": "2016",
+      "location": "Yalova - Orhangazi",
+      "provinces": "Yalova - Bursa"
+    },
+    {
+      "name": "Salarha Tüneli",
+      "road_type": "Karayolu",
+      "road": "Şehir İçi Yol",
+      "length_m": 2977,
+      "lanes": "2 × 2",
+      "opened": "2021",
+      "location": "Rize - Salarha",
+      "provinces": "Rize"
+    },
+    {
+      "name": "Kızlaç Tüneli",
+      "road_type": "Karayolu",
+      "road": "Otoyol 52",
+      "length_m": 2851,
+      "lanes": "3 × 3",
+      "opened": "1999",
+      "location": "Bahçe - Nurdağı",
+      "provinces": "Osmaniye"
+    },
+    {
+      "name": "Dolmabahçe-Bomonti Tüneli",
+      "road_type": "Karayolu",
+      "road": "Şehir İçi Yol",
+      "length_m": 2360,
+      "lanes": "2 × 2",
+      "opened": "2010",
+      "location": "Dolmabahçe - Bomonti",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Harp Akademileri",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 315,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Riva Prof. Dr. Mahir Vardar",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 782,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Çamlık",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 653,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Çatalca-1",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 512,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Çatalca-2",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1720,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "İstanbul"
+    },
+    {
+      "name": "Erkan Ömerbeyoğlu",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1462,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "T-1",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1406,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "T-2",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 4325,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "T-3",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 399,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "T-4",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 2224,
+      "lanes": "2 x 4",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "Diliskelesi",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 220,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "Hereke",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 281,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "İzmit Batı",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 435,
+      "lanes": "2 x 2",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "Korutepe",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1028,
+      "lanes": "2 x 2",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "Gültepe",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 639,
+      "lanes": "2 x 2",
+      "opened": "",
+      "location": "",
+      "provinces": "Kocaeli"
+    },
+    {
+      "name": "Bolu Dağı",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 3125,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Bolu"
+    },
+    {
+      "name": "Orhangazi (Samanlı)",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 3586,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Bursa"
+    },
+    {
+      "name": "Selçukgazi",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1192,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Bursa"
+    },
+    {
+      "name": "Belkahve",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1556,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "İzmir"
+    },
+    {
+      "name": "Bayraklı -1",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 320,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "İzmir"
+    },
+    {
+      "name": "Bayraklı -2",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1865,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "İzmir"
+    },
+    {
+      "name": "75. Yıl Selatin",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 3018,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "İzmir"
+    },
+    {
+      "name": "Buruncuk",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 883,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "İzmir"
+    },
+    {
+      "name": "İğdir",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 485,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Bursa"
+    },
+    {
+      "name": "Kırkgeçit -1",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 941,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Niğde"
+    },
+    {
+      "name": "Kırkgeçit -2",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 584,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Niğde"
+    },
+    {
+      "name": "Kırkgeçit -3",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 255,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Niğde"
+    },
+    {
+      "name": "Kırkgeçit -4",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 630,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Niğde"
+    },
+    {
+      "name": "Kırkgeçit -5",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 651,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Niğde"
+    },
+    {
+      "name": "Kırkgeçit -6",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 855,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Adana"
+    },
+    {
+      "name": "Kırkgeçit -7",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 534,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Adana"
+    },
+    {
+      "name": "Çakıt",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 497,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Adana"
+    },
+    {
+      "name": "Gülek",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 200,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Mersin"
+    },
+    {
+      "name": "Adana (Fehmi Özeltürkay)",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 300,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Adana"
+    },
+    {
+      "name": "İskenderun",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 200,
+      "lanes": "2 x 1",
+      "opened": "",
+      "location": "",
+      "provinces": "Hatay"
+    },
+    {
+      "name": "Taşoluk",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 376,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Osmaniye"
+    },
+    {
+      "name": "Ayran",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 560,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Osmaniye"
+    },
+    {
+      "name": "Kızlaç",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 2851,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Osmaniye"
+    },
+    {
+      "name": "Aslanlı",
+      "road_type": "Otoyol",
+      "road": "",
+      "length_m": 1230,
+      "lanes": "2 x 3",
+      "opened": "",
+      "location": "",
+      "provinces": "Osmaniye"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki karayolu ve otoyol tünelleri - Free Download",
+    "description": "Türkiye'deki karayolu ve otoyol tünellerinin adı, yolu, uzunluğu, şerit sayısı, açılış yılı ve bulunduğu iller. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki karayolu ve otoyol tünelleri | ListBase",
+    "seo_description": "Download Türkiye'deki karayolu ve otoyol tünelleri — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_tüneller_listesi"
+    ]
+  }
+}

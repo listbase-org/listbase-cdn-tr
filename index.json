@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-19T02:15:22.084Z",
-  "total_datasets": 619,
-  "total_records": 609410,
+  "generated": "2026-11-19T02:15:31.477Z",
+  "total_datasets": 620,
+  "total_records": 609475,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 47
+      "dataset_count": 48
     },
     {
       "id": "units",
@@ -16497,6 +16497,35 @@
         "xlsx": {
           "name": "tr-karabuk-tcdd-istasyonlari_TR.xlsx",
           "size": 7210
+        }
+      }
+    },
+    {
+      "id": "tr-karayolu-tunelleri",
+      "name": "Türkiye'deki karayolu ve otoyol tünelleri",
+      "category": "transport",
+      "record_count": 65,
+      "columns": [
+        "name",
+        "road_type",
+        "road",
+        "length_m",
+        "lanes",
+        "opened",
+        "location",
+        "provinces"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_tüneller_listesi",
+      "updated": "2026-11",
+      "size": 16688,
+      "files": {
+        "csv": {
+          "name": "tr-karayolu-tunelleri_TR.csv",
+          "size": 4975
+        },
+        "xlsx": {
+          "name": "tr-karayolu-tunelleri_TR.xlsx",
+          "size": 10229
         }
       }
     },
