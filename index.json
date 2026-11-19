@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-18T02:19:56.114Z",
-  "total_datasets": 616,
-  "total_records": 609204,
+  "generated": "2026-11-19T02:15:04.939Z",
+  "total_datasets": 617,
+  "total_records": 609317,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -6565,6 +6565,29 @@
         "xlsx": {
           "name": "tr-turk-mutfagi-corbalari_TR.xlsx",
           "size": 9228
+        }
+      }
+    },
+    {
+      "id": "tr-turk-mutfagi-yemekleri",
+      "name": "Türk mutfağı yemekleri ve hamur işleri",
+      "category": "food",
+      "record_count": 113,
+      "columns": [
+        "name",
+        "description"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q654493",
+      "updated": "2026-11",
+      "size": 13926,
+      "files": {
+        "csv": {
+          "name": "tr-turk-mutfagi-yemekleri_TR.csv",
+          "size": 6967
+        },
+        "xlsx": {
+          "name": "tr-turk-mutfagi-yemekleri_TR.xlsx",
+          "size": 10728
         }
       }
     },
