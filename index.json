@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-19T02:15:13.646Z",
-  "total_datasets": 618,
-  "total_records": 609322,
+  "generated": "2026-11-19T02:15:22.084Z",
+  "total_datasets": 619,
+  "total_records": 609410,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -344,6 +344,32 @@
         "xlsx": {
           "name": "tr-dunya-mirasi-alanlari-unesco_TR.xlsx",
           "size": 13199
+        }
+      }
+    },
+    {
+      "id": "tr-en-yuksek-binalar",
+      "name": "Türkiye'deki en yüksek binalar",
+      "category": "culture",
+      "record_count": 88,
+      "columns": [
+        "name",
+        "city",
+        "height_m",
+        "floors",
+        "year"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_en_yüksek_binalar_listesi",
+      "updated": "2026-11",
+      "size": 13672,
+      "files": {
+        "csv": {
+          "name": "tr-en-yuksek-binalar_TR.csv",
+          "size": 4395
+        },
+        "xlsx": {
+          "name": "tr-en-yuksek-binalar_TR.xlsx",
+          "size": 9708
         }
       }
     },

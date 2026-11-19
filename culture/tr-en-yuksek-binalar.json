@@ -1,0 +1,667 @@
+{
+  "id": "tr-en-yuksek-binalar",
+  "name": "Türkiye'deki en yüksek binalar",
+  "title": "Türkiye'deki en yüksek binalar",
+  "description": "Türkiye'deki en yüksek binaların sırası, şehri, metre cinsinden yüksekliği, kat sayısı ve tamamlanma yılı.",
+  "category": "culture",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_en_yüksek_binalar_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_en_yüksek_binalar_listesi",
+  "updated": "2026-11",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "floors",
+      "label": "Floors",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Türkiye Cumhuriyet Merkez Bankası Kulesi",
+      "city": "İstanbul",
+      "height_m": 353,
+      "floors": 60,
+      "year": 2024
+    },
+    {
+      "name": "Metropol İstanbul kule A",
+      "city": "İstanbul",
+      "height_m": 301,
+      "floors": 70,
+      "year": 2019
+    },
+    {
+      "name": "Skyland İstanbul",
+      "city": "İstanbul",
+      "height_m": 293,
+      "floors": 65,
+      "year": 2017
+    },
+    {
+      "name": "Istanbul Sapphire",
+      "city": "İstanbul",
+      "height_m": 261,
+      "floors": 54,
+      "year": 2011
+    },
+    {
+      "name": "Mahall Bomonti",
+      "city": "İzmir",
+      "height_m": 242,
+      "floors": 58,
+      "year": 2023
+    },
+    {
+      "name": "Istanbul Tower 205",
+      "city": "İstanbul",
+      "height_m": 220,
+      "floors": 54,
+      "year": 2019
+    },
+    {
+      "name": "Nurol Life",
+      "city": "İstanbul",
+      "height_m": 220,
+      "floors": 50,
+      "year": 2018
+    },
+    {
+      "name": "Mistral Ofis Kulesi",
+      "city": "İzmir",
+      "height_m": 220,
+      "floors": 48,
+      "year": 2017
+    },
+    {
+      "name": "Elya Royal Tower",
+      "city": "Ankara",
+      "height_m": 215,
+      "floors": 40,
+      "year": 2020
+    },
+    {
+      "name": "Anthill Residence 1",
+      "city": "İstanbul",
+      "height_m": 210,
+      "floors": 55,
+      "year": 2010
+    },
+    {
+      "name": "Anthill Residence 2",
+      "city": "İstanbul",
+      "height_m": 210,
+      "floors": 55,
+      "year": 2010
+    },
+    {
+      "name": "Ege Perla A",
+      "city": "İzmir",
+      "height_m": 210,
+      "floors": 46,
+      "year": 2016
+    },
+    {
+      "name": "Spine Tower",
+      "city": "İstanbul",
+      "height_m": 202,
+      "floors": 47,
+      "year": 2014
+    },
+    {
+      "name": "Folkart Towers A",
+      "city": "İzmir",
+      "height_m": 200,
+      "floors": 46,
+      "year": 2014
+    },
+    {
+      "name": "Folkart Towers B",
+      "city": "İzmir",
+      "height_m": 200,
+      "floors": 46,
+      "year": 2014
+    },
+    {
+      "name": "Point Bornova",
+      "city": "İzmir",
+      "height_m": 193,
+      "floors": 50,
+      "year": 2017
+    },
+    {
+      "name": "Queen Central Park",
+      "city": "İstanbul",
+      "height_m": 195,
+      "floors": 52,
+      "year": 2018
+    },
+    {
+      "name": "Varyap Meridian Grand Tower",
+      "city": "İstanbul",
+      "height_m": 192,
+      "floors": 61,
+      "year": 2013
+    },
+    {
+      "name": "The Address Hotel & Residences",
+      "city": "İstanbul",
+      "height_m": 192,
+      "floors": 49,
+      "year": 2019
+    },
+    {
+      "name": "Rönesans Tower",
+      "city": "İstanbul",
+      "height_m": 186,
+      "floors": 40,
+      "year": 2014
+    },
+    {
+      "name": "One Tower",
+      "city": "Ankara",
+      "height_m": 185,
+      "floors": 42,
+      "year": 2016
+    },
+    {
+      "name": "İş Kuleleri 1",
+      "city": "İstanbul",
+      "height_m": 181.2,
+      "floors": 52,
+      "year": 2000
+    },
+    {
+      "name": "Andromeda Gold",
+      "city": "İstanbul",
+      "height_m": 181,
+      "floors": 52,
+      "year": 2013
+    },
+    {
+      "name": "Çiftçi Towers",
+      "city": "İstanbul",
+      "height_m": 194,
+      "floors": 45,
+      "year": 2018
+    },
+    {
+      "name": "Varyap Meridian C Blok",
+      "city": "İstanbul",
+      "height_m": 180,
+      "floors": 45,
+      "year": 2013
+    },
+    {
+      "name": "Palladium Tower",
+      "city": "İstanbul",
+      "height_m": 180,
+      "floors": 43,
+      "year": 2014
+    },
+    {
+      "name": "Elmar Tower",
+      "city": "Ankara",
+      "height_m": 180,
+      "floors": 50,
+      "year": 2018
+    },
+    {
+      "name": "Skyland Deluxe Residence",
+      "city": "İstanbul",
+      "height_m": "~150",
+      "floors": 28,
+      "year": 2018
+    },
+    {
+      "name": "Sarphan Finans Park - Leopardus",
+      "city": "İstanbul",
+      "height_m": 178,
+      "floors": 48,
+      "year": 2018
+    },
+    {
+      "name": "Mertim",
+      "city": "Mersin",
+      "height_m": 176.8,
+      "floors": 52,
+      "year": 1987
+    },
+    {
+      "name": "Akasya Kent",
+      "city": "İstanbul",
+      "height_m": 172.6,
+      "floors": 55,
+      "year": 2014
+    },
+    {
+      "name": "Şişli Plaza",
+      "city": "İstanbul",
+      "height_m": 170.1,
+      "floors": 46,
+      "year": 2007
+    },
+    {
+      "name": "River Plaza",
+      "city": "İstanbul",
+      "height_m": 170,
+      "floors": 38,
+      "year": 2014
+    },
+    {
+      "name": "Tekstilkent Plaza 1",
+      "city": "İstanbul",
+      "height_m": 168,
+      "floors": 44,
+      "year": 2000
+    },
+    {
+      "name": "Tekstilkent Plaza 2",
+      "city": "İstanbul",
+      "height_m": 168,
+      "floors": 44,
+      "year": 2000
+    },
+    {
+      "name": "Soyak Kristal Kule",
+      "city": "İstanbul",
+      "height_m": 168,
+      "floors": 37,
+      "year": 2014
+    },
+    {
+      "name": "YDA Center",
+      "city": "Ankara",
+      "height_m": 165.5,
+      "floors": 37,
+      "year": 2018
+    },
+    {
+      "name": "Varyap Meridian E Blok",
+      "city": "İstanbul",
+      "height_m": 164,
+      "floors": 41,
+      "year": 2012
+    },
+    {
+      "name": "Selçuklu Kulesi",
+      "city": "Konya",
+      "height_m": 163,
+      "floors": 42,
+      "year": 2006
+    },
+    {
+      "name": "Iconova R Blok",
+      "city": "Gaziantep",
+      "height_m": 162,
+      "floors": 43,
+      "year": 2018
+    },
+    {
+      "name": "Levent 199",
+      "city": "İstanbul",
+      "height_m": 161,
+      "floors": 40,
+      "year": 2014
+    },
+    {
+      "name": "Exen İstanbul",
+      "city": "İstanbul",
+      "height_m": 160,
+      "floors": 44,
+      "year": 2014
+    },
+    {
+      "name": "Rixos Bomonty Residence",
+      "city": "İstanbul",
+      "height_m": 160,
+      "floors": 42,
+      "year": 2010
+    },
+    {
+      "name": "Sky Towers 1",
+      "city": "İstanbul",
+      "height_m": 160,
+      "floors": 41,
+      "year": 2011
+    },
+    {
+      "name": "Portakal Çiçeği Tower",
+      "city": "Ankara",
+      "height_m": 160,
+      "floors": 32,
+      "year": 2010
+    },
+    {
+      "name": "Akbank Kulesi",
+      "city": "İstanbul",
+      "height_m": 158,
+      "floors": 39,
+      "year": 1993
+    },
+    {
+      "name": "Trump Towers 1",
+      "city": "İstanbul",
+      "height_m": 155,
+      "floors": 39,
+      "year": 2010
+    },
+    {
+      "name": "Arkon Park Residence 1",
+      "city": "İstanbul",
+      "height_m": 155,
+      "floors": 39,
+      "year": 2015
+    },
+    {
+      "name": "Uprise Elite",
+      "city": "İstanbul",
+      "height_m": 154,
+      "floors": 42,
+      "year": 2011
+    },
+    {
+      "name": "Mistral İzmir 2",
+      "city": "İzmir",
+      "height_m": 154,
+      "floors": 38,
+      "year": 2017
+    },
+    {
+      "name": "Süzer Plaza",
+      "city": "İstanbul",
+      "height_m": 153.7,
+      "floors": 34,
+      "year": 1998
+    },
+    {
+      "name": "Torun Tower",
+      "city": "İstanbul",
+      "height_m": 153,
+      "floors": 35,
+      "year": 2014
+    },
+    {
+      "name": "Polat Tower Residence",
+      "city": "İstanbul",
+      "height_m": 152.5,
+      "floors": 42,
+      "year": 2001
+    },
+    {
+      "name": "Biva Tower",
+      "city": "İzmir",
+      "height_m": 151,
+      "floors": 32,
+      "year": 2022
+    },
+    {
+      "name": "Nata Vega Park 1",
+      "city": "Ankara",
+      "height_m": 151,
+      "floors": 46,
+      "year": 2013
+    },
+    {
+      "name": "Nata Vega Park 2",
+      "city": "Ankara",
+      "height_m": 151,
+      "floors": 46,
+      "year": 2013
+    },
+    {
+      "name": "Istanbloom",
+      "city": "İstanbul",
+      "height_m": 150,
+      "floors": 46,
+      "year": 2014
+    },
+    {
+      "name": "Türk Telekom Tower",
+      "city": "Ankara",
+      "height_m": 150,
+      "floors": 34,
+      "year": 2014
+    },
+    {
+      "name": "Dumankaya İkon",
+      "city": "İstanbul",
+      "height_m": 149,
+      "floors": 41,
+      "year": 2012
+    },
+    {
+      "name": "42 Maslak 1",
+      "city": "İstanbul",
+      "height_m": 148,
+      "floors": 42,
+      "year": 2014
+    },
+    {
+      "name": "42 Maslak 2",
+      "city": "İstanbul",
+      "height_m": 148,
+      "floors": 42,
+      "year": 2014
+    },
+    {
+      "name": "Wyndham Grand İstanbul",
+      "city": "İstanbul",
+      "height_m": 148,
+      "floors": 32,
+      "year": 2014
+    },
+    {
+      "name": "Otokoç Plaza",
+      "city": "Ankara",
+      "height_m": 147,
+      "floors": 37,
+      "year": 2015
+    },
+    {
+      "name": "Four Winds Residence 1",
+      "city": "İstanbul",
+      "height_m": 145,
+      "floors": 45,
+      "year": 2014
+    },
+    {
+      "name": "Four Winds Residence 2",
+      "city": "İstanbul",
+      "height_m": 145,
+      "floors": 45,
+      "year": 2014
+    },
+    {
+      "name": "Four Winds Residence 3",
+      "city": "İstanbul",
+      "height_m": 145,
+      "floors": 45,
+      "year": 2014
+    },
+    {
+      "name": "Four Winds Residence 4",
+      "city": "İstanbul",
+      "height_m": 145,
+      "floors": 45,
+      "year": 2014
+    },
+    {
+      "name": "Sun Plaza",
+      "city": "İstanbul",
+      "height_m": 145,
+      "floors": 38,
+      "year": 2005
+    },
+    {
+      "name": "Trump Towers 2",
+      "city": "İstanbul",
+      "height_m": 144.5,
+      "floors": 37,
+      "year": 2010
+    },
+    {
+      "name": "TAT Towers 1",
+      "city": "İstanbul",
+      "height_m": 143,
+      "floors": 34,
+      "year": 2000
+    },
+    {
+      "name": "TAT Towers 2",
+      "city": "İstanbul",
+      "height_m": 143,
+      "floors": 34,
+      "year": 2000
+    },
+    {
+      "name": "Metrocity Millennium Towers 1",
+      "city": "İstanbul",
+      "height_m": 143,
+      "floors": 31,
+      "year": 2000
+    },
+    {
+      "name": "Metrocity Millennium Towers 2",
+      "city": "İstanbul",
+      "height_m": 143,
+      "floors": 35,
+      "year": 2000
+    },
+    {
+      "name": "Metrocity Millennium Towers 3",
+      "city": "İstanbul",
+      "height_m": 143,
+      "floors": 35,
+      "year": 2000
+    },
+    {
+      "name": "Hilton İstanbul Bomonti",
+      "city": "İstanbul",
+      "height_m": 143,
+      "floors": 35,
+      "year": 2013
+    },
+    {
+      "name": "Hilton İzmir",
+      "city": "İzmir",
+      "height_m": 142,
+      "floors": 35,
+      "year": 1991
+    },
+    {
+      "name": "Selenium Twins 1",
+      "city": "İstanbul",
+      "height_m": 165,
+      "floors": 34,
+      "year": 2008
+    },
+    {
+      "name": "Selenium Twins 2",
+      "city": "İstanbul",
+      "height_m": 165,
+      "floors": 34,
+      "year": 2008
+    },
+    {
+      "name": "Sabancı Center 2",
+      "city": "İstanbul",
+      "height_m": 140,
+      "floors": 34,
+      "year": 1993
+    },
+    {
+      "name": "Dikmen Valley Towers 1",
+      "city": "Ankara",
+      "height_m": 140,
+      "floors": 36,
+      "year": 1996
+    },
+    {
+      "name": "Dikmen Valley Towers 2",
+      "city": "Ankara",
+      "height_m": 140,
+      "floors": 36,
+      "year": 1996
+    },
+    {
+      "name": "Dikmen Valley Towers 3",
+      "city": "Ankara",
+      "height_m": 140,
+      "floors": 36,
+      "year": 1996
+    },
+    {
+      "name": "Dikmen Valley Towers 4",
+      "city": "Ankara",
+      "height_m": 140,
+      "floors": 36,
+      "year": 1996
+    },
+    {
+      "name": "Şişli Elit Residence",
+      "city": "İstanbul",
+      "height_m": 140,
+      "floors": 35,
+      "year": 2000
+    },
+    {
+      "name": "TOBB Kuleleri 1",
+      "city": "Ankara",
+      "height_m": 140,
+      "floors": 34,
+      "year": 2001
+    },
+    {
+      "name": "TOBB Kuleleri 2",
+      "city": "Ankara",
+      "height_m": 140,
+      "floors": 34,
+      "year": 2001
+    },
+    {
+      "name": "DAP Royal Center 1",
+      "city": "İstanbul",
+      "height_m": 140,
+      "floors": 30,
+      "year": 2013
+    },
+    {
+      "name": "İkon Tower",
+      "city": "İzmir",
+      "height_m": 140,
+      "floors": 39,
+      "year": 2020
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki en yüksek binalar - Free Download",
+    "description": "Türkiye'deki en yüksek binaların sırası, şehri, metre cinsinden yüksekliği, kat sayısı ve tamamlanma yılı. Contains 88 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki en yüksek binalar | ListBase",
+    "seo_description": "Download Türkiye'deki en yüksek binalar — 88 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 88 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_en_yüksek_binalar_listesi"
+    ]
+  }
+}
