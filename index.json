@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-20T02:24:01.832Z",
-  "total_datasets": 622,
-  "total_records": 610493,
+  "generated": "2026-11-20T02:24:10.157Z",
+  "total_datasets": 623,
+  "total_records": 610578,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -6281,6 +6281,34 @@
         "xlsx": {
           "name": "tr-tabiat-parklari_TR.xlsx",
           "size": 17228
+        }
+      }
+    },
+    {
+      "id": "tr-yaban-hayati-gelistirme-sahalari",
+      "name": "Türkiye'deki yaban hayatı geliştirme sahaları (YHGS)",
+      "category": "environment",
+      "record_count": 85,
+      "columns": [
+        "no",
+        "name",
+        "target_species",
+        "area_ha",
+        "declared_date",
+        "declared_year",
+        "province"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_yaban_hayatı_geliştirme_sahaları_listesi",
+      "updated": "2026-11",
+      "size": 22419,
+      "files": {
+        "csv": {
+          "name": "tr-yaban-hayati-gelistirme-sahalari_TR.csv",
+          "size": 8137
+        },
+        "xlsx": {
+          "name": "tr-yaban-hayati-gelistirme-sahalari_TR.xlsx",
+          "size": 11440
         }
       }
     },

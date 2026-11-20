@@ -1,0 +1,826 @@
+{
+  "id": "tr-yaban-hayati-gelistirme-sahalari",
+  "name": "Türkiye'deki yaban hayatı geliştirme sahaları (YHGS)",
+  "title": "Türkiye'deki yaban hayatı geliştirme sahaları (YHGS)",
+  "description": "Türkiye'deki 85 yaban hayatı geliştirme sahasının adı, bulunduğu il, hedef türleri, alanı (hektar) ve ilan tarihi; Türkçe Vikipedi'den.",
+  "category": "environment",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_yaban_hayatı_geliştirme_sahaları_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_yaban_hayatı_geliştirme_sahaları_listesi",
+  "updated": "2026-11",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "target_species",
+      "label": "Target Species",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "declared_date",
+      "label": "Declared Date",
+      "type": "string"
+    },
+    {
+      "key": "declared_year",
+      "label": "Declared Year",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Adana Akyatan Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 15291,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Adana"
+    },
+    {
+      "no": 2,
+      "name": "Adana Pozantı Karanfildağ YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 30739,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Adana"
+    },
+    {
+      "no": 3,
+      "name": "Adana Seyhan Baraj Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 11436,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Adana"
+    },
+    {
+      "no": 4,
+      "name": "Adana Tuzla Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 3974,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Adana"
+    },
+    {
+      "no": 5,
+      "name": "Adana Kahramanmaraş Hançerderesi YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 7894,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Adana"
+    },
+    {
+      "no": 6,
+      "name": "Afyon Sandıklı Akdağ YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 14869,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Afyon"
+    },
+    {
+      "no": 7,
+      "name": "Afyon-Dinar Karakuyu Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 1374,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Afyon-Dinar"
+    },
+    {
+      "no": 8,
+      "name": "Ankara Beypazarı Kapaklı YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 9470,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Ankara"
+    },
+    {
+      "no": 9,
+      "name": "Ankara Kara Akbaba YHGS",
+      "target_species": "Kara Akbaba",
+      "area_ha": 1468,
+      "declared_date": "27.02.2014",
+      "declared_year": 2014,
+      "province": "Ankara"
+    },
+    {
+      "no": 10,
+      "name": "Ankara Nallıhan Davutoğlan YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 451,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Ankara"
+    },
+    {
+      "no": 11,
+      "name": "Ankara Nallıhan Emremsultan YHGS",
+      "target_species": "Yaban Koyunu",
+      "area_ha": 14783,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Ankara"
+    },
+    {
+      "no": 12,
+      "name": "Ankara Nallıhan Saçak YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 5267,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Ankara"
+    },
+    {
+      "no": 13,
+      "name": "Antalya Akseki İbradı Üzümdere YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 18462,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 14,
+      "name": "Antalya Alanya Dimçayı YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 48132,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 15,
+      "name": "Antalya Cevizli Gidengelmez Dağı YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 16133,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 16,
+      "name": "Antalya Düzlerçamı YHGS",
+      "target_species": "Alageyik - Yaban keçisi",
+      "area_ha": 28972,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 17,
+      "name": "Antalya Gündoğmuş YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 8404,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 18,
+      "name": "Antalya Kaş Kıbrıs Çayı YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 3554,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 19,
+      "name": "Antalya Sarıkaya YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 40397,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 20,
+      "name": "Antalya Sivridağ YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 8126,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Antalya"
+    },
+    {
+      "no": 21,
+      "name": "Ardahan-Posof YHGS",
+      "target_species": "Dağ horozu",
+      "area_ha": 58685,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Ardahan-Posof"
+    },
+    {
+      "no": 22,
+      "name": "Artvin Yusufeli Çoruh Vadisi YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 23221,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Artvin"
+    },
+    {
+      "no": 23,
+      "name": "Balıkesir-Kütahya-Akdağ YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 3550,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Balıkesir-Kütahya-Akdağ"
+    },
+    {
+      "no": 24,
+      "name": "Bartın-Ulus-Sökü YHGS",
+      "target_species": "Kızıl geyik - Karaca",
+      "area_ha": 6374,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Bartın-Ulus-Sökü"
+    },
+    {
+      "no": 25,
+      "name": "Bingöl Kığı Şeytandağları YHGS",
+      "target_species": "Çengel boynuzlu dağ keçisi - Yaban keçisi",
+      "area_ha": 24858,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Bingöl"
+    },
+    {
+      "no": 26,
+      "name": "Bitlis - Adilcevaz Süphandağı YHGS",
+      "target_species": "Çengel boynuzlu dağ keçisi - Yaban keçisi",
+      "area_ha": 30737,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Bitlis"
+    },
+    {
+      "no": 27,
+      "name": "Bolu Göynük Kapıormanı YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 21896,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Bolu"
+    },
+    {
+      "no": 28,
+      "name": "Bolu Yedigöller YHGS",
+      "target_species": "Kızıl geyik - Karaca",
+      "area_ha": 40152,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Bolu"
+    },
+    {
+      "no": 29,
+      "name": "Bolu Abant YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 1931,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Bolu"
+    },
+    {
+      "no": 30,
+      "name": "Burdur-Burdur Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 26229,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Burdur-Burdur"
+    },
+    {
+      "no": 31,
+      "name": "Burdur-Karataş Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 4021,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Burdur-Karataş"
+    },
+    {
+      "no": 32,
+      "name": "Bursa Karacabey Karadağı - Ovakorusu YHGS",
+      "target_species": "Sülün",
+      "area_ha": 28513,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Bursa"
+    },
+    {
+      "no": 33,
+      "name": "Çorum Kargı Kösdağ YHGS",
+      "target_species": "Karaca",
+      "area_ha": 1961,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Çorum"
+    },
+    {
+      "no": 34,
+      "name": "Denizli Çardak Beylerli Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 918,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Denizli"
+    },
+    {
+      "no": 35,
+      "name": "Denizli Çivril Akdağ YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 10634,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Denizli"
+    },
+    {
+      "no": 36,
+      "name": "Düzce Gölyaka Efteni Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 763,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Düzce"
+    },
+    {
+      "no": 37,
+      "name": "Erzurum Çat YHGS",
+      "target_species": "Çengel boynuzlu dağ keçisi - Yaban keçisi",
+      "area_ha": 62549,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Erzurum"
+    },
+    {
+      "no": 38,
+      "name": "Erzurum İspir Vercenik Dağı YHGS",
+      "target_species": "Çengel boynuzlu dağ keçisi - Yaban keçisi",
+      "area_ha": 62448,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Erzurum"
+    },
+    {
+      "no": 39,
+      "name": "Erzurum Oltu",
+      "target_species": "Yaban keçisi",
+      "area_ha": 4980,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Erzurum"
+    },
+    {
+      "no": 40,
+      "name": "Eskişehir Mihalıççık Çatacık YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 26653,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Eskişehir"
+    },
+    {
+      "no": 41,
+      "name": "Eskişehir Sivrihisar Balıkdamı YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": "",
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Eskişehir"
+    },
+    {
+      "no": 42,
+      "name": "Gaziantep Tahtaköprü Baraj Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 8035,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Gaziantep"
+    },
+    {
+      "no": 43,
+      "name": "Gümüşhane - Şiran Kuluca YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 5230,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Gümüşhane"
+    },
+    {
+      "no": 44,
+      "name": "Hatay Altınözü YHGS",
+      "target_species": "Çizgili sırtlan",
+      "area_ha": 13565,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Hatay"
+    },
+    {
+      "no": 45,
+      "name": "Hatay Dağ Ceylanı YHGS",
+      "target_species": "Dağ ceylanı",
+      "area_ha": 13288,
+      "declared_date": "25.12.2019",
+      "declared_year": 2019,
+      "province": "Hatay"
+    },
+    {
+      "no": 46,
+      "name": "Hatay-İskenderun-Arsuz YHGS",
+      "target_species": "Yaban keçisi - Karaca",
+      "area_ha": 26076,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Hatay-İskenderun-Arsuz"
+    },
+    {
+      "no": 47,
+      "name": "İstanbul Çatalca Çilingoz YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 18826,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "İstanbul"
+    },
+    {
+      "no": 48,
+      "name": "İstanbul Sarıyer Feneryolu YHGS",
+      "target_species": "Karaca",
+      "area_ha": 1448,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "İstanbul"
+    },
+    {
+      "no": 49,
+      "name": "İzmir-Bayındır-Ovacık YHGS",
+      "target_species": "Karaca",
+      "area_ha": "",
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "İzmir-Bayındır-Ovacık"
+    },
+    {
+      "no": 50,
+      "name": "İzmir Selçuk Gebekirse Gölü",
+      "target_species": "Su kuşları",
+      "area_ha": 545,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "İzmir"
+    },
+    {
+      "no": 51,
+      "name": "İzmir Homa Dalyanı YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 8000,
+      "declared_date": "19.08.2021",
+      "declared_year": 2021,
+      "province": "İzmir"
+    },
+    {
+      "no": 52,
+      "name": "Karabük Sırçalı Kanyonu YHGS",
+      "target_species": "Karaca",
+      "area_ha": 410,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Karabük"
+    },
+    {
+      "no": 53,
+      "name": "Karabük-Yenice YHGS",
+      "target_species": "Kızıl geyik - Karaca",
+      "area_ha": 26775,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Karabük-Yenice"
+    },
+    {
+      "no": 54,
+      "name": "Kars Kuyucuk Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 240,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kars"
+    },
+    {
+      "no": 55,
+      "name": "Kars-Sarıkamış Kağızman YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 19938,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Kars-Sarıkamış"
+    },
+    {
+      "no": 56,
+      "name": "Kastamonu Azdavay Kartdağı YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 11216,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kastamonu"
+    },
+    {
+      "no": 57,
+      "name": "Kastamonu Ilgazdağı YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 17069,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kastamonu"
+    },
+    {
+      "no": 58,
+      "name": "Kastamonu Taşköprü Elekdağ YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 4236,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kastamonu"
+    },
+    {
+      "no": 59,
+      "name": "Kastamonu Tosya Gavurdağı YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 9261,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kastamonu"
+    },
+    {
+      "no": 60,
+      "name": "Kayseri Yahyalı Aladağlar YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 7302,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kayseri"
+    },
+    {
+      "no": 61,
+      "name": "Kocaeli Kandıra Seyrek YHGS",
+      "target_species": "Karaca",
+      "area_ha": 1019,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kocaeli"
+    },
+    {
+      "no": 62,
+      "name": "Konya Bozdağ YHGS",
+      "target_species": "Yaban koyunu",
+      "area_ha": 59296,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Konya"
+    },
+    {
+      "no": 63,
+      "name": "Kütahya Merkez Altıntaş YHGS",
+      "target_species": "Toy",
+      "area_ha": 13679,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kütahya"
+    },
+    {
+      "no": 64,
+      "name": "Kütahya Tavşanlı Çatak YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 2801,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Kütahya"
+    },
+    {
+      "no": 65,
+      "name": "Kütahya-Merkez-Türkmenbaba YHGS",
+      "target_species": "Kızıl geyik",
+      "area_ha": 11888,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Kütahya-Merkez-Türkmenbaba"
+    },
+    {
+      "no": 66,
+      "name": "Mersin Mut Kestel Dağı YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 4546,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Mersin"
+    },
+    {
+      "no": 67,
+      "name": "Mersin Tarsus Kadıncık Vadisi YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 8711,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Mersin"
+    },
+    {
+      "no": 68,
+      "name": "Mersin-Çamlıyayla-Cehennem Deresi YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 27384,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Mersin-Çamlıyayla-Cehennem"
+    },
+    {
+      "no": 69,
+      "name": "Mersin-Hisardağ ve Gedikdağı YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 4189,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Mersin-Hisardağ"
+    },
+    {
+      "no": 70,
+      "name": "Mersin-Tarsus-Hopur Topaşır YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 5984,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Mersin-Tarsus-Hopur"
+    },
+    {
+      "no": 71,
+      "name": "Muğla Köyceğiz YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 31373,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Muğla"
+    },
+    {
+      "no": 72,
+      "name": "Muğla Yılanlı Çakmak YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 1503,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Muğla"
+    },
+    {
+      "no": 73,
+      "name": "Muğla Bördübet YHGS",
+      "target_species": "Karakulak - Kurt - Bozayı - Su samuru",
+      "area_ha": 3432,
+      "declared_date": "15.05.2020",
+      "declared_year": 2020,
+      "province": "Muğla"
+    },
+    {
+      "no": 74,
+      "name": "Niğde Çamardı Demirkazık YHGS",
+      "target_species": "Yaban keçisi",
+      "area_ha": 18674,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Niğde"
+    },
+    {
+      "no": 75,
+      "name": "Osmaniye Zorkun Yaylası YHGS",
+      "target_species": "Karaca",
+      "area_ha": 3866,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Osmaniye"
+    },
+    {
+      "no": 76,
+      "name": "Rize Çamlıhemşin Kaçkar YHGS",
+      "target_species": "Çengel boynuzlu dağ keçisi",
+      "area_ha": 4273,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Rize"
+    },
+    {
+      "no": 77,
+      "name": "Sakarya-Kaynarca-Acarlar Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 2751,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Sakarya-Kaynarca-Acarlar"
+    },
+    {
+      "no": 78,
+      "name": "Samsun Bafra Kızılırmak Deltası YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 5172,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Samsun"
+    },
+    {
+      "no": 79,
+      "name": "Samsun Terme Gölardı Simenlik Gölü YHGS",
+      "target_species": "Sülün",
+      "area_ha": 3348,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Samsun"
+    },
+    {
+      "no": 80,
+      "name": "Sinop Bozburun YHGS",
+      "target_species": "Karaca",
+      "area_ha": 1038,
+      "declared_date": "16.10.2005",
+      "declared_year": 2005,
+      "province": "Sinop"
+    },
+    {
+      "no": 81,
+      "name": "Şanlıurfa Birecik Fırat YHGS",
+      "target_species": "Kelaynak",
+      "area_ha": 179,
+      "declared_date": "04.07.2011",
+      "declared_year": 2011,
+      "province": "Şanlıurfa"
+    },
+    {
+      "no": 82,
+      "name": "Şanlıurfa Birecik Bozkırları YHGS",
+      "target_species": "Çizgili sırtlan - Çöl varanı - Fırat kaplumbağası",
+      "area_ha": 1035,
+      "declared_date": "12.05.2020",
+      "declared_year": 2020,
+      "province": "Şanlıurfa"
+    },
+    {
+      "no": 83,
+      "name": "Şanlıurfa Merkez Kızılkuyu YHGS",
+      "target_species": "Ceylan",
+      "area_ha": 15337,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Şanlıurfa"
+    },
+    {
+      "no": 84,
+      "name": "Tokat-Kaz Gölü YHGS",
+      "target_species": "Su kuşları",
+      "area_ha": 1215,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Tokat-Kaz"
+    },
+    {
+      "no": 85,
+      "name": "Zonguldak Yeşilöz YHGS",
+      "target_species": "Kızıl geyik - Karaca",
+      "area_ha": 9168,
+      "declared_date": "5.10.2006",
+      "declared_year": 2006,
+      "province": "Zonguldak"
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki yaban hayatı geliştirme sahaları (YHGS) - Free Download",
+    "description": "Türkiye'deki 85 yaban hayatı geliştirme sahasının adı, bulunduğu il, hedef türleri, alanı (hektar) ve ilan tarihi; Türkçe Vikipedi'den. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki yaban hayatı geliştirme sahaları (YHGS) | ListBase",
+    "seo_description": "Download Türkiye'deki yaban hayatı geliştirme sahaları (YHGS) — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_yaban_hayatı_geliştirme_sahaları_listesi"
+    ]
+  }
+}
