@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-19T02:15:31.477Z",
-  "total_datasets": 620,
-  "total_records": 609475,
+  "generated": "2026-11-20T02:23:52.958Z",
+  "total_datasets": 621,
+  "total_records": 610427,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -12278,6 +12278,30 @@
         "xlsx": {
           "name": "tr-ana-dile-gore-nufus-1927-1965_TR.xlsx",
           "size": 8386
+        }
+      }
+    },
+    {
+      "id": "tr-arapca-kokenli-sozcukler-turkce-karsiliklari",
+      "name": "Arapça kökenli sözcükler ve güncel Türkçe karşılıkları",
+      "category": "language",
+      "record_count": 952,
+      "columns": [
+        "ottoman_script",
+        "word",
+        "turkish_equivalent"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkçedeki_yabancı_kökenli_sözcüklerin_Türkçe_karşılıkları",
+      "updated": "2026-11",
+      "size": 120408,
+      "files": {
+        "csv": {
+          "name": "tr-arapca-kokenli-sozcukler-turkce-karsiliklari_TR.csv",
+          "size": 41374
+        },
+        "xlsx": {
+          "name": "tr-arapca-kokenli-sozcukler-turkce-karsiliklari_TR.xlsx",
+          "size": 40155
         }
       }
     },
