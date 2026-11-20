@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-20T02:23:52.958Z",
-  "total_datasets": 621,
-  "total_records": 610427,
+  "generated": "2026-11-20T02:24:01.832Z",
+  "total_datasets": 622,
+  "total_records": 610493,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -6420,6 +6420,33 @@
         "xlsx": {
           "name": "finance-vat-rates_TR.xlsx",
           "size": 10464
+        }
+      }
+    },
+    {
+      "id": "tr-bankalar-aktif-buyuklugu-sube-sayisi",
+      "name": "Türkiye'deki bankalar: türü, sermaye grubu, aktif büyüklüğü ve şube sayısı",
+      "category": "finance",
+      "record_count": 66,
+      "columns": [
+        "bank",
+        "bank_type",
+        "capital_group",
+        "country_of_capital",
+        "total_assets_million_try",
+        "branches"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_bankalar_listesi",
+      "updated": "2026-11",
+      "size": 18073,
+      "files": {
+        "csv": {
+          "name": "tr-bankalar-aktif-buyuklugu-sube-sayisi_TR.csv",
+          "size": 5833
+        },
+        "xlsx": {
+          "name": "tr-bankalar-aktif-buyuklugu-sube-sayisi_TR.xlsx",
+          "size": 9455
         }
       }
     },

@@ -1,0 +1,584 @@
+{
+  "id": "tr-bankalar-aktif-buyuklugu-sube-sayisi",
+  "name": "Türkiye'deki bankalar: türü, sermaye grubu, aktif büyüklüğü ve şube sayısı",
+  "title": "Türkiye'deki bankalar: türü, sermaye grubu, aktif büyüklüğü ve şube sayısı",
+  "description": "Türkiye'de faaliyet gösteren mevduat, kalkınma ve yatırım ile katılım bankalarının sermaye grubu, sermaye ülkesi, toplam aktifleri (milyon ₺) ve şube sayıları (katılım bankaları için aktif ve şube verisi kaynakta yoktur); Türkçe Vikipedi'den.",
+  "category": "finance",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_bankalar_listesi",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_bankalar_listesi",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "bank_type",
+      "label": "Bank Type",
+      "type": "string"
+    },
+    {
+      "key": "capital_group",
+      "label": "Capital Group",
+      "type": "string"
+    },
+    {
+      "key": "country_of_capital",
+      "label": "Country Of Capital",
+      "type": "string"
+    },
+    {
+      "key": "total_assets_million_try",
+      "label": "Total Assets Million Try",
+      "type": "number"
+    },
+    {
+      "key": "branches",
+      "label": "Branches",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "Halkbank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 1949743,
+      "branches": 1092
+    },
+    {
+      "bank": "VakıfBank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 2187079,
+      "branches": 964
+    },
+    {
+      "bank": "Ziraat Bankası",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 3019394,
+      "branches": 1781
+    },
+    {
+      "bank": "Ziraat Dinamik Banka",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": 0
+    },
+    {
+      "bank": "Akbank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 1434576,
+      "branches": 694
+    },
+    {
+      "bank": "Anadolubank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 48758,
+      "branches": 93
+    },
+    {
+      "bank": "ColendiBank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": 0
+    },
+    {
+      "bank": "Fibabanka",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 92450,
+      "branches": 38
+    },
+    {
+      "bank": "FUPS Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": 0
+    },
+    {
+      "bank": "Şekerbank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 71459,
+      "branches": 241
+    },
+    {
+      "bank": "Turkish Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 3158,
+      "branches": 6
+    },
+    {
+      "bank": "Türk Ticaret Bankası",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 243,
+      "branches": 1
+    },
+    {
+      "bank": "Türkiye İş Bankası",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 1945933,
+      "branches": 1034
+    },
+    {
+      "bank": "Turkland Bank A.Ş.",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 14996,
+      "branches": 12
+    },
+    {
+      "bank": "Yapı Kredi",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 1378169,
+      "branches": 772
+    },
+    {
+      "bank": "Alternatif Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Katar",
+      "total_assets_million_try": 62136,
+      "branches": 19
+    },
+    {
+      "bank": "Arap Türk Bankası",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Libya",
+      "total_assets_million_try": 12881,
+      "branches": 4
+    },
+    {
+      "bank": "Bank of China Turkey",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Çin",
+      "total_assets_million_try": 2981,
+      "branches": 1
+    },
+    {
+      "bank": "Burgan Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Kuveyt",
+      "total_assets_million_try": 61048,
+      "branches": 26
+    },
+    {
+      "bank": "Citibank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "ABD",
+      "total_assets_million_try": 54035,
+      "branches": 2
+    },
+    {
+      "bank": "DenizBank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Birleşik Arap Emirlikleri",
+      "total_assets_million_try": 746184,
+      "branches": 630
+    },
+    {
+      "bank": "Deutsche Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Almanya",
+      "total_assets_million_try": 17216,
+      "branches": 1
+    },
+    {
+      "bank": "Enpara Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Katar",
+      "total_assets_million_try": "",
+      "branches": 0
+    },
+    {
+      "bank": "Garanti BBVA",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "İspanya",
+      "total_assets_million_try": 1669364,
+      "branches": 794
+    },
+    {
+      "bank": "HSBC",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Birleşik Krallık",
+      "total_assets_million_try": 134940,
+      "branches": 44
+    },
+    {
+      "bank": "ICBC Turkey Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Çin",
+      "total_assets_million_try": 87779,
+      "branches": 35
+    },
+    {
+      "bank": "ING",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Hollanda",
+      "total_assets_million_try": 137969,
+      "branches": 59
+    },
+    {
+      "bank": "MUFG Bank Turkey A.Ş.",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Japonya",
+      "total_assets_million_try": 55436,
+      "branches": 1
+    },
+    {
+      "bank": "Odeabank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Birleşik Arap Emirlikleri",
+      "total_assets_million_try": 73436,
+      "branches": 36
+    },
+    {
+      "bank": "QNB",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Katar",
+      "total_assets_million_try": 782657,
+      "branches": 427
+    },
+    {
+      "bank": "Rabobank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Hollanda",
+      "total_assets_million_try": 1435,
+      "branches": 1
+    },
+    {
+      "bank": "Türk Ekonomi Bankası",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Fransa",
+      "total_assets_million_try": 332960,
+      "branches": 436
+    },
+    {
+      "bank": "Bank Mellat",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Türkiye'de şube açan bankalar",
+      "country_of_capital": "İran",
+      "total_assets_million_try": 1920,
+      "branches": 3
+    },
+    {
+      "bank": "Habib Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Türkiye'de şube açan bankalar",
+      "country_of_capital": "Pakistan",
+      "total_assets_million_try": 692,
+      "branches": 1
+    },
+    {
+      "bank": "Intesa Sanpaolo",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Türkiye'de şube açan bankalar",
+      "country_of_capital": "İtalya",
+      "total_assets_million_try": 9448,
+      "branches": 1
+    },
+    {
+      "bank": "JPMorgan Chase Bank",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Türkiye'de şube açan bankalar",
+      "country_of_capital": "ABD",
+      "total_assets_million_try": 3187,
+      "branches": 1
+    },
+    {
+      "bank": "Société Générale",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "Türkiye'de şube açan bankalar",
+      "country_of_capital": "Fransa",
+      "total_assets_million_try": 192,
+      "branches": 1
+    },
+    {
+      "bank": "Birleşik Fon Bankası",
+      "bank_type": "Mevduat bankası",
+      "capital_group": "TMSF bünyesinde",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 8708,
+      "branches": 1
+    },
+    {
+      "bank": "İller Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 124021,
+      "branches": 19
+    },
+    {
+      "bank": "Türk Eximbank",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 464135,
+      "branches": 23
+    },
+    {
+      "bank": "Türkiye Kalkınma Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 121896,
+      "branches": 1
+    },
+    {
+      "bank": "Aktif Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 60217,
+      "branches": 13
+    },
+    {
+      "bank": "D Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 2310,
+      "branches": 1
+    },
+    {
+      "bank": "Destek Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 3156,
+      "branches": 1
+    },
+    {
+      "bank": "Diler Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 312,
+      "branches": 1
+    },
+    {
+      "bank": "Golden Global Bank",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 6225,
+      "branches": 1
+    },
+    {
+      "bank": "GSD Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 799,
+      "branches": 3
+    },
+    {
+      "bank": "Hedef Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "İstanbul Takas ve Saklama Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 93492,
+      "branches": 1
+    },
+    {
+      "bank": "Misyon Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 549,
+      "branches": 1
+    },
+    {
+      "bank": "Nurol Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 27772,
+      "branches": 1
+    },
+    {
+      "bank": "Q Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Tera Yatırım Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Türkiye Sınai Kalkınma Bankası",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": 146645,
+      "branches": 2
+    },
+    {
+      "bank": "Bank of America",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "ABD",
+      "total_assets_million_try": 4921,
+      "branches": 1
+    },
+    {
+      "bank": "PASHA Bank",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Azerbaycan",
+      "total_assets_million_try": 7766,
+      "branches": 1
+    },
+    {
+      "bank": "Standard Chartered Yatırım Bankası Türk",
+      "bank_type": "Kalkınma ve yatırım bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Birleşik Krallık",
+      "total_assets_million_try": 464,
+      "branches": 1
+    },
+    {
+      "bank": "Türkiye Emlak Katılım Bankası",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Vakıf Katılım Bankası",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Ziraat Katılım",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Kamusal sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Dünya Katılım",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "T.O.M. Katılım Bankası",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Hayat Finans Katılım Bankası",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Özel sermayeli",
+      "country_of_capital": "Türkiye",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Albaraka Türk",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Bahreyn",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Kuveyt Türk",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Kuveyt",
+      "total_assets_million_try": "",
+      "branches": ""
+    },
+    {
+      "bank": "Türkiye Finans Katılım Bankası",
+      "bank_type": "Katılım bankası",
+      "capital_group": "Yabancı sermayeli",
+      "country_of_capital": "Suudi Arabistan",
+      "total_assets_million_try": "",
+      "branches": ""
+    }
+  ],
+  "meta": {
+    "title": "Türkiye'deki bankalar: türü, sermaye grubu, aktif büyüklüğü ve şube sayısı - Free Download",
+    "description": "Türkiye'de faaliyet gösteren mevduat, kalkınma ve yatırım ile katılım bankalarının sermaye grubu, sermaye ülkesi, toplam aktifleri (milyon ₺) ve şube sayıları (katılım bankaları için aktif ve şube verisi kaynakta yoktur); Türkçe Vikipedi'den. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Türkiye'deki bankalar: türü, sermaye grubu, aktif büyüklüğü ve şube sayısı | ListBase",
+    "seo_description": "Download Türkiye'deki bankalar: türü, sermaye grubu, aktif büyüklüğü ve şube sayısı — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_bankalar_listesi"
+    ]
+  }
+}
