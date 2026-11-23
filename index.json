@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-20T02:24:10.157Z",
-  "total_datasets": 623,
-  "total_records": 610578,
+  "generated": "2026-11-23T02:37:37.362Z",
+  "total_datasets": 624,
+  "total_records": 610599,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -12755,6 +12755,31 @@
         "xlsx": {
           "name": "tr-altin-kelebek-en-iyi-sarkicilar_TR.xlsx",
           "size": 7565
+        }
+      }
+    },
+    {
+      "id": "tr-altin-kelebek-yilin-en-iyi-sarkisi",
+      "name": "Altın Kelebek Yılın En İyi Şarkısı Ödülü kazananları",
+      "category": "music",
+      "record_count": 21,
+      "columns": [
+        "yil",
+        "toren",
+        "sarki",
+        "sanatci"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Yılın_En_İyi_Şarkısı_Altın_Kelebek_Ödülü",
+      "updated": "2026-11",
+      "size": 4224,
+      "files": {
+        "csv": {
+          "name": "tr-altin-kelebek-yilin-en-iyi-sarkisi_TR.csv",
+          "size": 880
+        },
+        "xlsx": {
+          "name": "tr-altin-kelebek-yilin-en-iyi-sarkisi_TR.xlsx",
+          "size": 7560
         }
       }
     },
