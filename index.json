@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-23T02:37:37.362Z",
-  "total_datasets": 624,
-  "total_records": 610599,
+  "generated": "2026-11-23T02:37:45.680Z",
+  "total_datasets": 625,
+  "total_records": 610663,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -6057,6 +6057,32 @@
         "xlsx": {
           "name": "tr-televizyon-kanallari_TR.xlsx",
           "size": 18975
+        }
+      }
+    },
+    {
+      "id": "tr-turk-animasyon-sinema-filmleri",
+      "name": "Türk animasyon sinema filmleri listesi",
+      "category": "entertainment",
+      "record_count": 64,
+      "columns": [
+        "yil",
+        "film",
+        "yapimci",
+        "teknik",
+        "notlar"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türk_animasyon_sinema_filmleri_listesi",
+      "updated": "2026-11",
+      "size": 13066,
+      "files": {
+        "csv": {
+          "name": "tr-turk-animasyon-sinema-filmleri_TR.csv",
+          "size": 5490
+        },
+        "xlsx": {
+          "name": "tr-turk-animasyon-sinema-filmleri_TR.xlsx",
+          "size": 9778
         }
       }
     },
