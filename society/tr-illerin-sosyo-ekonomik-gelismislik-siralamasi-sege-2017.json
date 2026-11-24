@@ -1,0 +1,532 @@
+{
+  "id": "tr-illerin-sosyo-ekonomik-gelismislik-siralamasi-sege-2017",
+  "name": "İllerin Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE-2017)",
+  "title": "İllerin Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE-2017)",
+  "description": "Türkiye'nin 81 ilinin 2017 yılı Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE) skoru, sırası ve gelişmişlik kademesi (1–6), Türkçe Vikipedi'deki resmî SEGE-2017 çalışmasına dayalı tablodan.",
+  "category": "society",
+  "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_illerin_gelişmişlik_düzeyleri",
+  "source_url": "https://tr.wikipedia.org/wiki/Türkiye'deki_illerin_gelişmişlik_düzeyleri",
+  "updated": "2026-11",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "sira",
+      "label": "Sira",
+      "type": "number"
+    },
+    {
+      "key": "il",
+      "label": "Il",
+      "type": "string"
+    },
+    {
+      "key": "sege_skor",
+      "label": "Sege Skor",
+      "type": "number"
+    },
+    {
+      "key": "kademe",
+      "label": "Kademe",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sira": 1,
+      "il": "İstanbul",
+      "sege_skor": 4.051,
+      "kademe": 1
+    },
+    {
+      "sira": 2,
+      "il": "Ankara",
+      "sege_skor": 2.718,
+      "kademe": 1
+    },
+    {
+      "sira": 3,
+      "il": "İzmir",
+      "sege_skor": 1.926,
+      "kademe": 1
+    },
+    {
+      "sira": 4,
+      "il": "Kocaeli",
+      "sege_skor": 1.787,
+      "kademe": 1
+    },
+    {
+      "sira": 5,
+      "il": "Antalya",
+      "sege_skor": 1.642,
+      "kademe": 1
+    },
+    {
+      "sira": 6,
+      "il": "Bursa",
+      "sege_skor": 1.336,
+      "kademe": 1
+    },
+    {
+      "sira": 7,
+      "il": "Eskişehir",
+      "sege_skor": 1.278,
+      "kademe": 1
+    },
+    {
+      "sira": 8,
+      "il": "Muğla",
+      "sege_skor": 1.175,
+      "kademe": 1
+    },
+    {
+      "sira": 9,
+      "il": "Tekirdağ",
+      "sege_skor": 1.014,
+      "kademe": 1
+    },
+    {
+      "sira": 10,
+      "il": "Denizli",
+      "sege_skor": 0.923,
+      "kademe": 2
+    },
+    {
+      "sira": 11,
+      "il": "Sakarya",
+      "sege_skor": 0.832,
+      "kademe": 2
+    },
+    {
+      "sira": 12,
+      "il": "Yalova",
+      "sege_skor": 0.796,
+      "kademe": 2
+    },
+    {
+      "sira": 13,
+      "il": "Bolu",
+      "sege_skor": 0.76,
+      "kademe": 2
+    },
+    {
+      "sira": 14,
+      "il": "Konya",
+      "sege_skor": 0.668,
+      "kademe": 2
+    },
+    {
+      "sira": 15,
+      "il": "Aydın",
+      "sege_skor": 0.599,
+      "kademe": 2
+    },
+    {
+      "sira": 16,
+      "il": "Isparta",
+      "sege_skor": 0.564,
+      "kademe": 2
+    },
+    {
+      "sira": 17,
+      "il": "Kayseri",
+      "sege_skor": 0.56,
+      "kademe": 2
+    },
+    {
+      "sira": 18,
+      "il": "Kırklareli",
+      "sege_skor": 0.557,
+      "kademe": 2
+    },
+    {
+      "sira": 19,
+      "il": "Bilecik",
+      "sege_skor": 0.556,
+      "kademe": 2
+    },
+    {
+      "sira": 20,
+      "il": "Çanakkale",
+      "sege_skor": 0.548,
+      "kademe": 2
+    },
+    {
+      "sira": 21,
+      "il": "Edirne",
+      "sege_skor": 0.534,
+      "kademe": 2
+    },
+    {
+      "sira": 22,
+      "il": "Karabük",
+      "sege_skor": 0.513,
+      "kademe": 2
+    },
+    {
+      "sira": 23,
+      "il": "Manisa",
+      "sege_skor": 0.49,
+      "kademe": 2
+    },
+    {
+      "sira": 24,
+      "il": "Balıkesir",
+      "sege_skor": 0.476,
+      "kademe": 2
+    },
+    {
+      "sira": 25,
+      "il": "Mersin",
+      "sege_skor": 0.413,
+      "kademe": 3
+    },
+    {
+      "sira": 26,
+      "il": "Trabzon",
+      "sege_skor": 0.389,
+      "kademe": 3
+    },
+    {
+      "sira": 27,
+      "il": "Adana",
+      "sege_skor": 0.353,
+      "kademe": 3
+    },
+    {
+      "sira": 28,
+      "il": "Zonguldak",
+      "sege_skor": 0.333,
+      "kademe": 3
+    },
+    {
+      "sira": 29,
+      "il": "Uşak",
+      "sege_skor": 0.278,
+      "kademe": 3
+    },
+    {
+      "sira": 30,
+      "il": "Gaziantep",
+      "sege_skor": 0.25,
+      "kademe": 3
+    },
+    {
+      "sira": 31,
+      "il": "Samsun",
+      "sege_skor": 0.242,
+      "kademe": 3
+    },
+    {
+      "sira": 32,
+      "il": "Burdur",
+      "sege_skor": 0.211,
+      "kademe": 3
+    },
+    {
+      "sira": 33,
+      "il": "Kırıkkale",
+      "sege_skor": 0.211,
+      "kademe": 3
+    },
+    {
+      "sira": 34,
+      "il": "Düzce",
+      "sege_skor": 0.2,
+      "kademe": 3
+    },
+    {
+      "sira": 35,
+      "il": "Karaman",
+      "sege_skor": 0.177,
+      "kademe": 3
+    },
+    {
+      "sira": 36,
+      "il": "Rize",
+      "sege_skor": 0.174,
+      "kademe": 3
+    },
+    {
+      "sira": 37,
+      "il": "Kütahya",
+      "sege_skor": 0.17,
+      "kademe": 3
+    },
+    {
+      "sira": 38,
+      "il": "Amasya",
+      "sege_skor": 0.054,
+      "kademe": 4
+    },
+    {
+      "sira": 39,
+      "il": "Hatay",
+      "sege_skor": 0.017,
+      "kademe": 4
+    },
+    {
+      "sira": 40,
+      "il": "Nevşehir",
+      "sege_skor": -0.015,
+      "kademe": 4
+    },
+    {
+      "sira": 41,
+      "il": "Afyonkarahisar",
+      "sege_skor": -0.023,
+      "kademe": 4
+    },
+    {
+      "sira": 42,
+      "il": "Elazığ",
+      "sege_skor": -0.061,
+      "kademe": 4
+    },
+    {
+      "sira": 43,
+      "il": "Kırşehir",
+      "sege_skor": -0.085,
+      "kademe": 4
+    },
+    {
+      "sira": 44,
+      "il": "Malatya",
+      "sege_skor": -0.113,
+      "kademe": 4
+    },
+    {
+      "sira": 45,
+      "il": "Sivas",
+      "sege_skor": -0.137,
+      "kademe": 4
+    },
+    {
+      "sira": 46,
+      "il": "Bartın",
+      "sege_skor": -0.14,
+      "kademe": 4
+    },
+    {
+      "sira": 47,
+      "il": "Erzincan",
+      "sege_skor": -0.15,
+      "kademe": 4
+    },
+    {
+      "sira": 48,
+      "il": "Kastamonu",
+      "sege_skor": -0.224,
+      "kademe": 4
+    },
+    {
+      "sira": 49,
+      "il": "Artvin",
+      "sege_skor": -0.235,
+      "kademe": 4
+    },
+    {
+      "sira": 50,
+      "il": "Çorum",
+      "sege_skor": -0.262,
+      "kademe": 4
+    },
+    {
+      "sira": 51,
+      "il": "Aksaray",
+      "sege_skor": -0.271,
+      "kademe": 4
+    },
+    {
+      "sira": 52,
+      "il": "Sinop",
+      "sege_skor": -0.317,
+      "kademe": 5
+    },
+    {
+      "sira": 53,
+      "il": "Giresun",
+      "sege_skor": -0.323,
+      "kademe": 5
+    },
+    {
+      "sira": 54,
+      "il": "Osmaniye",
+      "sege_skor": -0.367,
+      "kademe": 5
+    },
+    {
+      "sira": 55,
+      "il": "Çankırı",
+      "sege_skor": -0.379,
+      "kademe": 5
+    },
+    {
+      "sira": 56,
+      "il": "Tokat",
+      "sege_skor": -0.381,
+      "kademe": 5
+    },
+    {
+      "sira": 57,
+      "il": "Niğde",
+      "sege_skor": -0.395,
+      "kademe": 5
+    },
+    {
+      "sira": 58,
+      "il": "Kahramanmaraş",
+      "sege_skor": -0.416,
+      "kademe": 5
+    },
+    {
+      "sira": 59,
+      "il": "Tunceli",
+      "sege_skor": -0.439,
+      "kademe": 5
+    },
+    {
+      "sira": 60,
+      "il": "Ordu",
+      "sege_skor": -0.486,
+      "kademe": 5
+    },
+    {
+      "sira": 61,
+      "il": "Erzurum",
+      "sege_skor": -0.531,
+      "kademe": 5
+    },
+    {
+      "sira": 62,
+      "il": "Kilis",
+      "sege_skor": -0.57,
+      "kademe": 5
+    },
+    {
+      "sira": 63,
+      "il": "Yozgat",
+      "sege_skor": -0.589,
+      "kademe": 5
+    },
+    {
+      "sira": 64,
+      "il": "Gümüşhane",
+      "sege_skor": -0.623,
+      "kademe": 5
+    },
+    {
+      "sira": 65,
+      "il": "Bayburt",
+      "sege_skor": -0.629,
+      "kademe": 5
+    },
+    {
+      "sira": 66,
+      "il": "Adıyaman",
+      "sege_skor": -0.926,
+      "kademe": 6
+    },
+    {
+      "sira": 67,
+      "il": "Ardahan",
+      "sege_skor": -0.983,
+      "kademe": 6
+    },
+    {
+      "sira": 68,
+      "il": "Diyarbakır",
+      "sege_skor": -1.074,
+      "kademe": 6
+    },
+    {
+      "sira": 69,
+      "il": "Kars",
+      "sege_skor": -1.125,
+      "kademe": 6
+    },
+    {
+      "sira": 70,
+      "il": "Iğdır",
+      "sege_skor": -1.179,
+      "kademe": 6
+    },
+    {
+      "sira": 71,
+      "il": "Bingöl",
+      "sege_skor": -1.208,
+      "kademe": 6
+    },
+    {
+      "sira": 72,
+      "il": "Batman",
+      "sege_skor": -1.324,
+      "kademe": 6
+    },
+    {
+      "sira": 73,
+      "il": "Şanlıurfa",
+      "sege_skor": -1.35,
+      "kademe": 6
+    },
+    {
+      "sira": 74,
+      "il": "Mardin",
+      "sege_skor": -1.396,
+      "kademe": 6
+    },
+    {
+      "sira": 75,
+      "il": "Siirt",
+      "sege_skor": -1.405,
+      "kademe": 6
+    },
+    {
+      "sira": 76,
+      "il": "Bitlis",
+      "sege_skor": -1.428,
+      "kademe": 6
+    },
+    {
+      "sira": 77,
+      "il": "Van",
+      "sege_skor": -1.452,
+      "kademe": 6
+    },
+    {
+      "sira": 78,
+      "il": "Hakkâri",
+      "sege_skor": -1.518,
+      "kademe": 6
+    },
+    {
+      "sira": 79,
+      "il": "Muş",
+      "sege_skor": -1.704,
+      "kademe": 6
+    },
+    {
+      "sira": 80,
+      "il": "Ağrı",
+      "sege_skor": -1.752,
+      "kademe": 6
+    },
+    {
+      "sira": 81,
+      "il": "Şırnak",
+      "sege_skor": -1.788,
+      "kademe": 6
+    }
+  ],
+  "meta": {
+    "title": "İllerin Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE-2017) - Free Download",
+    "description": "Türkiye'nin 81 ilinin 2017 yılı Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE) skoru, sırası ve gelişmişlik kademesi (1–6), Türkçe Vikipedi'deki resmî SEGE-2017 çalışmasına dayalı tablodan. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "İllerin Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE-2017) | ListBase",
+    "seo_description": "Download İllerin Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE-2017) — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Türkiye'deki_illerin_gelişmişlik_düzeyleri"
+    ]
+  }
+}

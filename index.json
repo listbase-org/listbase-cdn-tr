@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-23T02:37:54.183Z",
-  "total_datasets": 626,
-  "total_records": 610832,
+  "generated": "2026-11-24T02:14:22.724Z",
+  "total_datasets": 627,
+  "total_records": 610913,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14824,6 +14824,31 @@
         "xlsx": {
           "name": "tr-dusunce-kuruluslari_TR.xlsx",
           "size": 9798
+        }
+      }
+    },
+    {
+      "id": "tr-illerin-sosyo-ekonomik-gelismislik-siralamasi-sege-2017",
+      "name": "İllerin Sosyo-Ekonomik Gelişmişlik Sıralaması (SEGE-2017)",
+      "category": "society",
+      "record_count": 81,
+      "columns": [
+        "sira",
+        "il",
+        "sege_skor",
+        "kademe"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Türkiye'deki_illerin_gelişmişlik_düzeyleri",
+      "updated": "2026-11",
+      "size": 9938,
+      "files": {
+        "csv": {
+          "name": "tr-illerin-sosyo-ekonomik-gelismislik-siralamasi-sege-2017_TR.csv",
+          "size": 2256
+        },
+        "xlsx": {
+          "name": "tr-illerin-sosyo-ekonomik-gelismislik-siralamasi-sege-2017_TR.xlsx",
+          "size": 9011
         }
       }
     },
