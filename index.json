@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-24T02:14:22.724Z",
-  "total_datasets": 627,
-  "total_records": 610913,
+  "generated": "2026-11-24T02:14:30.880Z",
+  "total_datasets": 628,
+  "total_records": 610925,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -14849,6 +14849,31 @@
         "xlsx": {
           "name": "tr-illerin-sosyo-ekonomik-gelismislik-siralamasi-sege-2017_TR.xlsx",
           "size": 9011
+        }
+      }
+    },
+    {
+      "id": "tr-istatistik-bolgelerine-gore-insani-gelisme-endeksi-2023",
+      "name": "İnsani Gelişme Endeksi'ne göre Türkiye istatistik bölgeleri (İBBS-1, 2023)",
+      "category": "society",
+      "record_count": 12,
+      "columns": [
+        "sira",
+        "bolge",
+        "ige_2023",
+        "karsilastirilabilir_ulke"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/İnsani_Gelişme_Endeksi'ne_göre_Türk_istatistik_bölgeleri_listesi",
+      "updated": "2026-11",
+      "size": 3755,
+      "files": {
+        "csv": {
+          "name": "tr-istatistik-bolgelerine-gore-insani-gelisme-endeksi-2023_TR.csv",
+          "size": 521
+        },
+        "xlsx": {
+          "name": "tr-istatistik-bolgelerine-gore-insani-gelisme-endeksi-2023_TR.xlsx",
+          "size": 7161
         }
       }
     },
