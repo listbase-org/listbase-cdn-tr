@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-25T02:26:08.819Z",
-  "total_datasets": 630,
-  "total_records": 611036,
+  "generated": "2026-11-25T02:26:16.928Z",
+  "total_datasets": 631,
+  "total_records": 611058,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 8
+      "dataset_count": 9
     }
   ],
   "datasets": [
@@ -17514,6 +17514,32 @@
         "xlsx": {
           "name": "tr-si-temel-birimleri_TR.xlsx",
           "size": 7026
+        }
+      }
+    },
+    {
+      "id": "tr-si-turetilmis-birimler",
+      "name": "SI türetilmiş birimleri (özel adlı birimler)",
+      "category": "units",
+      "record_count": 22,
+      "columns": [
+        "birim",
+        "sembol",
+        "nicelik",
+        "diger_birimlerle_ifadesi",
+        "si_temel_birimleriyle_ifadesi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/SI'dan_türetilen_birim",
+      "updated": "2026-11",
+      "size": 6503,
+      "files": {
+        "csv": {
+          "name": "tr-si-turetilmis-birimler_TR.csv",
+          "size": 1575
+        },
+        "xlsx": {
+          "name": "tr-si-turetilmis-birimler_TR.xlsx",
+          "size": 7979
         }
       }
     },

@@ -1,0 +1,205 @@
+{
+  "id": "tr-si-turetilmis-birimler",
+  "name": "SI türetilmiş birimleri (özel adlı birimler)",
+  "title": "SI türetilmiş birimleri (özel adlı birimler)",
+  "description": "Özel adı ve sembolü olan SI türetilmiş birimleri (hertz, newton, pascal, joule, watt vb.): birimin adı, sembolü, ölçtüğü nicelik, diğer birimlerle ve SI temel birimleriyle ifadesi, Türkçe Vikipedi'den.",
+  "category": "units",
+  "source": "https://tr.wikipedia.org/wiki/SI'dan_türetilen_birim",
+  "source_url": "https://tr.wikipedia.org/wiki/SI'dan_türetilen_birim",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "birim",
+      "label": "Birim",
+      "type": "string"
+    },
+    {
+      "key": "sembol",
+      "label": "Sembol",
+      "type": "string"
+    },
+    {
+      "key": "nicelik",
+      "label": "Nicelik",
+      "type": "string"
+    },
+    {
+      "key": "diger_birimlerle_ifadesi",
+      "label": "Diger Birimlerle Ifadesi",
+      "type": "string"
+    },
+    {
+      "key": "si_temel_birimleriyle_ifadesi",
+      "label": "Si Temel Birimleriyle Ifadesi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "birim": "hertz",
+      "sembol": "Hz",
+      "nicelik": "frekans",
+      "diger_birimlerle_ifadesi": "1/s",
+      "si_temel_birimleriyle_ifadesi": "s -1"
+    },
+    {
+      "birim": "radyan",
+      "sembol": "rad",
+      "nicelik": "açı",
+      "diger_birimlerle_ifadesi": "m·m -1",
+      "si_temel_birimleriyle_ifadesi": "boyutsuz"
+    },
+    {
+      "birim": "steradyan",
+      "sembol": "sr",
+      "nicelik": "katı açı",
+      "diger_birimlerle_ifadesi": "m 2 ·m -2",
+      "si_temel_birimleriyle_ifadesi": "boyutsuz"
+    },
+    {
+      "birim": "newton",
+      "sembol": "N",
+      "nicelik": "kuvvet, ağırlık",
+      "diger_birimlerle_ifadesi": "kg·m/s 2",
+      "si_temel_birimleriyle_ifadesi": "kg·m·s −2"
+    },
+    {
+      "birim": "pascal",
+      "sembol": "Pa",
+      "nicelik": "basınç, baskı",
+      "diger_birimlerle_ifadesi": "N/m 2",
+      "si_temel_birimleriyle_ifadesi": "m −1 ·kg·s −2"
+    },
+    {
+      "birim": "joule",
+      "sembol": "J",
+      "nicelik": "enerji, iş, ısı",
+      "diger_birimlerle_ifadesi": "N·m = C·V = W·s",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·kg·s −2"
+    },
+    {
+      "birim": "watt",
+      "sembol": "W",
+      "nicelik": "güç",
+      "diger_birimlerle_ifadesi": "J/s = V·A",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·kg·s −3"
+    },
+    {
+      "birim": "coulomb",
+      "sembol": "C",
+      "nicelik": "elektriksel yük veya elektrik akısı",
+      "diger_birimlerle_ifadesi": "s·A",
+      "si_temel_birimleriyle_ifadesi": "s·A"
+    },
+    {
+      "birim": "volt",
+      "sembol": "V",
+      "nicelik": "gerilim, elektriksel gerilim, elektromotor kuvvet",
+      "diger_birimlerle_ifadesi": "W/A = J/C",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·kg·s −3 ·A −1"
+    },
+    {
+      "birim": "farad",
+      "sembol": "F",
+      "nicelik": "elektriksel kapasite",
+      "diger_birimlerle_ifadesi": "C/V",
+      "si_temel_birimleriyle_ifadesi": "m −2 ·kg −1 ·s 4 ·A 2"
+    },
+    {
+      "birim": "ohm",
+      "sembol": "Ω",
+      "nicelik": "elektriksel direnç, empedans, reaktans",
+      "diger_birimlerle_ifadesi": "V/A",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·kg·s −3 ·A −2"
+    },
+    {
+      "birim": "siemens",
+      "sembol": "S",
+      "nicelik": "iletkenlik",
+      "diger_birimlerle_ifadesi": "1/Ω",
+      "si_temel_birimleriyle_ifadesi": "m −2 ·kg −1 ·s 3 ·A 2"
+    },
+    {
+      "birim": "weber",
+      "sembol": "Wb",
+      "nicelik": "manyetik akı",
+      "diger_birimlerle_ifadesi": "J/A",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·kg·s −2 ·A −1"
+    },
+    {
+      "birim": "tesla",
+      "sembol": "T",
+      "nicelik": "manyetik alan kuvveti, manyetik akı yoğunluğu",
+      "diger_birimlerle_ifadesi": "V·s/m 2 = Wb/m 2 = N/(A·m)",
+      "si_temel_birimleriyle_ifadesi": "kg·s −2 ·A −1"
+    },
+    {
+      "birim": "henri",
+      "sembol": "H",
+      "nicelik": "indüktans",
+      "diger_birimlerle_ifadesi": "V·s/A = Wb/A",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·kg·s −2 ·A −2"
+    },
+    {
+      "birim": "celsius",
+      "sembol": "°C",
+      "nicelik": "sıcaklık",
+      "diger_birimlerle_ifadesi": "K − 273.15",
+      "si_temel_birimleriyle_ifadesi": "K − 273.15"
+    },
+    {
+      "birim": "lumen",
+      "sembol": "lm",
+      "nicelik": "ışık akısı",
+      "diger_birimlerle_ifadesi": "lx·m 2",
+      "si_temel_birimleriyle_ifadesi": "cd·sr"
+    },
+    {
+      "birim": "lüks",
+      "sembol": "lx",
+      "nicelik": "aydınlanma şiddeti",
+      "diger_birimlerle_ifadesi": "lm/m 2",
+      "si_temel_birimleriyle_ifadesi": "m −2 ·cd·sr"
+    },
+    {
+      "birim": "bekerel",
+      "sembol": "Bq",
+      "nicelik": "radyoaktivite (birim zamandaki bozulma)",
+      "diger_birimlerle_ifadesi": "1/s",
+      "si_temel_birimleriyle_ifadesi": "s −1"
+    },
+    {
+      "birim": "gri",
+      "sembol": "Gy",
+      "nicelik": "(iyonlaştırıcı radyasyonun) radyasyon dozu",
+      "diger_birimlerle_ifadesi": "J/kg",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·s −2"
+    },
+    {
+      "birim": "sievert",
+      "sembol": "Sv",
+      "nicelik": "(iyonlaştırıcı radyasyonun) eşdeğer dozu",
+      "diger_birimlerle_ifadesi": "J/kg",
+      "si_temel_birimleriyle_ifadesi": "m 2 ·s −2"
+    },
+    {
+      "birim": "katal",
+      "sembol": "kat",
+      "nicelik": "kataliz",
+      "diger_birimlerle_ifadesi": "mol/s",
+      "si_temel_birimleriyle_ifadesi": "s −1 ·mol"
+    }
+  ],
+  "meta": {
+    "title": "SI türetilmiş birimleri (özel adlı birimler) - Free Download",
+    "description": "Özel adı ve sembolü olan SI türetilmiş birimleri (hertz, newton, pascal, joule, watt vb.): birimin adı, sembolü, ölçtüğü nicelik, diğer birimlerle ve SI temel birimleriyle ifadesi, Türkçe Vikipedi'den. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI türetilmiş birimleri (özel adlı birimler) | ListBase",
+    "seo_description": "Download SI türetilmiş birimleri (özel adlı birimler) — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/SI'dan_türetilen_birim"
+    ]
+  }
+}
