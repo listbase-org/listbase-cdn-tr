@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-25T02:25:59.947Z",
-  "total_datasets": 629,
-  "total_records": 611029,
+  "generated": "2026-11-25T02:26:08.819Z",
+  "total_datasets": 630,
+  "total_records": 611036,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -17489,6 +17489,31 @@
         "xlsx": {
           "name": "tr-osmanli-olcu-birimleri_TR.xlsx",
           "size": 7297
+        }
+      }
+    },
+    {
+      "id": "tr-si-temel-birimleri",
+      "name": "SI temel büyüklükleri ve temel birimleri",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "temel_buyukluk",
+        "buyukluk_sembolu",
+        "temel_birim",
+        "birim_sembolu"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Uluslararası_Birimler_Sistemi",
+      "updated": "2026-11",
+      "size": 2886,
+      "files": {
+        "csv": {
+          "name": "tr-si-temel-birimleri_TR.csv",
+          "size": 304
+        },
+        "xlsx": {
+          "name": "tr-si-temel-birimleri_TR.xlsx",
+          "size": 7026
         }
       }
     },

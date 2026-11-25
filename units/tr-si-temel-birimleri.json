@@ -1,0 +1,88 @@
+{
+  "id": "tr-si-temel-birimleri",
+  "name": "SI temel büyüklükleri ve temel birimleri",
+  "title": "SI temel büyüklükleri ve temel birimleri",
+  "description": "Uluslararası Birimler Sistemi'nin (SI) yedi temel büyüklüğü (zaman, kütle, uzunluk vb.), sembolleri ve bunlara karşılık gelen temel birimler (saniye, kilogram, metre vb.) ile birim sembolleri, Türkçe Vikipedi'den.",
+  "category": "units",
+  "source": "https://tr.wikipedia.org/wiki/Uluslararası_Birimler_Sistemi",
+  "source_url": "https://tr.wikipedia.org/wiki/Uluslararası_Birimler_Sistemi",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "temel_buyukluk",
+      "label": "Temel Buyukluk",
+      "type": "string"
+    },
+    {
+      "key": "buyukluk_sembolu",
+      "label": "Buyukluk Sembolu",
+      "type": "string"
+    },
+    {
+      "key": "temel_birim",
+      "label": "Temel Birim",
+      "type": "string"
+    },
+    {
+      "key": "birim_sembolu",
+      "label": "Birim Sembolu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "temel_buyukluk": "Zaman",
+      "buyukluk_sembolu": "t",
+      "temel_birim": "saniye",
+      "birim_sembolu": "s"
+    },
+    {
+      "temel_buyukluk": "Kütle",
+      "buyukluk_sembolu": "m",
+      "temel_birim": "kilogram",
+      "birim_sembolu": "kg"
+    },
+    {
+      "temel_buyukluk": "Uzunluk",
+      "buyukluk_sembolu": "x, r",
+      "temel_birim": "metre",
+      "birim_sembolu": "m"
+    },
+    {
+      "temel_buyukluk": "Elektrik akımı",
+      "buyukluk_sembolu": "I, i",
+      "temel_birim": "amper",
+      "birim_sembolu": "A"
+    },
+    {
+      "temel_buyukluk": "Termodinamik sıcaklık",
+      "buyukluk_sembolu": "T",
+      "temel_birim": "kelvin",
+      "birim_sembolu": "K"
+    },
+    {
+      "temel_buyukluk": "Madde miktarı",
+      "buyukluk_sembolu": "n",
+      "temel_birim": "mol",
+      "birim_sembolu": "mol"
+    },
+    {
+      "temel_buyukluk": "Işık şiddeti",
+      "buyukluk_sembolu": "I v",
+      "temel_birim": "kandela",
+      "birim_sembolu": "cd"
+    }
+  ],
+  "meta": {
+    "title": "SI temel büyüklükleri ve temel birimleri - Free Download",
+    "description": "Uluslararası Birimler Sistemi'nin (SI) yedi temel büyüklüğü (zaman, kütle, uzunluk vb.), sembolleri ve bunlara karşılık gelen temel birimler (saniye, kilogram, metre vb.) ile birim sembolleri, Türkçe Vikipedi'den. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI temel büyüklükleri ve temel birimleri | ListBase",
+    "seo_description": "Download SI temel büyüklükleri ve temel birimleri — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tr.wikipedia.org/wiki/Uluslararası_Birimler_Sistemi"
+    ]
+  }
+}
