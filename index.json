@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-24T02:14:30.880Z",
-  "total_datasets": 628,
-  "total_records": 610925,
+  "generated": "2026-11-25T02:25:59.947Z",
+  "total_datasets": 629,
+  "total_records": 611029,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -11850,6 +11850,34 @@
         "xlsx": {
           "name": "tr-hastaneler_TR.xlsx",
           "size": 29935
+        }
+      }
+    },
+    {
+      "id": "tr-ibbs2-bolgelerine-gore-hekim-ve-hastane-yatagi",
+      "name": "İBBS-2 bölgelerine göre hekim ve hastane yatağı sayısı (2021–2024)",
+      "category": "health",
+      "record_count": 104,
+      "columns": [
+        "ibbs2_kodu",
+        "bolge_illeri",
+        "yil",
+        "hekim_sayisi",
+        "hekim_100000_kisi_basina",
+        "hastane_yatagi_sayisi",
+        "hastane_yatagi_100000_kisi_basina"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table",
+      "updated": "2026-11",
+      "size": 30299,
+      "files": {
+        "csv": {
+          "name": "tr-ibbs2-bolgelerine-gore-hekim-ve-hastane-yatagi_TR.csv",
+          "size": 7790
+        },
+        "xlsx": {
+          "name": "tr-ibbs2-bolgelerine-gore-hekim-ve-hastane-yatagi_TR.xlsx",
+          "size": 11063
         }
       }
     },

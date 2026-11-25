@@ -1,0 +1,997 @@
+{
+  "id": "tr-ibbs2-bolgelerine-gore-hekim-ve-hastane-yatagi",
+  "name": "İBBS-2 bölgelerine göre hekim ve hastane yatağı sayısı (2021–2024)",
+  "title": "İBBS-2 bölgelerine göre hekim ve hastane yatağı sayısı (2021–2024)",
+  "description": "Türkiye'nin 26 İBBS-2 istatistik bölgesinde yıllara göre hekim sayısı ve hastane yatağı sayısı ile 100.000 kişi başına düşen hekim ve yatak sayıları (2021–2024), Eurostat bölgesel sağlık istatistiklerinden.",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table",
+  "updated": "2026-11",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "ibbs2_kodu",
+      "label": "Ibbs2 Kodu",
+      "type": "string"
+    },
+    {
+      "key": "bolge_illeri",
+      "label": "Bolge Illeri",
+      "type": "string"
+    },
+    {
+      "key": "yil",
+      "label": "Yil",
+      "type": "number"
+    },
+    {
+      "key": "hekim_sayisi",
+      "label": "Hekim Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "hekim_100000_kisi_basina",
+      "label": "Hekim 100000 Kisi Basina",
+      "type": "number"
+    },
+    {
+      "key": "hastane_yatagi_sayisi",
+      "label": "Hastane Yatagi Sayisi",
+      "type": "number"
+    },
+    {
+      "key": "hastane_yatagi_100000_kisi_basina",
+      "label": "Hastane Yatagi 100000 Kisi Basina",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ibbs2_kodu": "TR10",
+      "bolge_illeri": "İstanbul",
+      "yil": 2021,
+      "hekim_sayisi": 42268,
+      "hekim_100000_kisi_basina": 266.8,
+      "hastane_yatagi_sayisi": 46960,
+      "hastane_yatagi_100000_kisi_basina": 296.4
+    },
+    {
+      "ibbs2_kodu": "TR10",
+      "bolge_illeri": "İstanbul",
+      "yil": 2022,
+      "hekim_sayisi": 45139,
+      "hekim_100000_kisi_basina": 284.4,
+      "hastane_yatagi_sayisi": 47968,
+      "hastane_yatagi_100000_kisi_basina": 302.2
+    },
+    {
+      "ibbs2_kodu": "TR10",
+      "bolge_illeri": "İstanbul",
+      "yil": 2023,
+      "hekim_sayisi": 46641,
+      "hekim_100000_kisi_basina": 295.5,
+      "hastane_yatagi_sayisi": 46872,
+      "hastane_yatagi_100000_kisi_basina": 297
+    },
+    {
+      "ibbs2_kodu": "TR10",
+      "bolge_illeri": "İstanbul",
+      "yil": 2024,
+      "hekim_sayisi": 49819,
+      "hekim_100000_kisi_basina": 317.8,
+      "hastane_yatagi_sayisi": 47062,
+      "hastane_yatagi_100000_kisi_basina": 300.2
+    },
+    {
+      "ibbs2_kodu": "TR21",
+      "bolge_illeri": "Tekirdağ, Edirne, Kırklareli",
+      "yil": 2021,
+      "hekim_sayisi": 3661,
+      "hekim_100000_kisi_basina": 193.5,
+      "hastane_yatagi_sayisi": 6172,
+      "hastane_yatagi_100000_kisi_basina": 326.2
+    },
+    {
+      "ibbs2_kodu": "TR21",
+      "bolge_illeri": "Tekirdağ, Edirne, Kırklareli",
+      "yil": 2022,
+      "hekim_sayisi": 3962,
+      "hekim_100000_kisi_basina": 207.5,
+      "hastane_yatagi_sayisi": 6172,
+      "hastane_yatagi_100000_kisi_basina": 323.3
+    },
+    {
+      "ibbs2_kodu": "TR21",
+      "bolge_illeri": "Tekirdağ, Edirne, Kırklareli",
+      "yil": 2023,
+      "hekim_sayisi": 4088,
+      "hekim_100000_kisi_basina": 210.2,
+      "hastane_yatagi_sayisi": 6194,
+      "hastane_yatagi_100000_kisi_basina": 318.4
+    },
+    {
+      "ibbs2_kodu": "TR21",
+      "bolge_illeri": "Tekirdağ, Edirne, Kırklareli",
+      "yil": 2024,
+      "hekim_sayisi": 4163,
+      "hekim_100000_kisi_basina": 210.7,
+      "hastane_yatagi_sayisi": 6214,
+      "hastane_yatagi_100000_kisi_basina": 314.5
+    },
+    {
+      "ibbs2_kodu": "TR22",
+      "bolge_illeri": "Balıkesir, Çanakkale",
+      "yil": 2021,
+      "hekim_sayisi": 3328,
+      "hekim_100000_kisi_basina": 184.1,
+      "hastane_yatagi_sayisi": 5164,
+      "hastane_yatagi_100000_kisi_basina": 285.6
+    },
+    {
+      "ibbs2_kodu": "TR22",
+      "bolge_illeri": "Balıkesir, Çanakkale",
+      "yil": 2022,
+      "hekim_sayisi": 3566,
+      "hekim_100000_kisi_basina": 196.8,
+      "hastane_yatagi_sayisi": 5184,
+      "hastane_yatagi_100000_kisi_basina": 286
+    },
+    {
+      "ibbs2_kodu": "TR22",
+      "bolge_illeri": "Balıkesir, Çanakkale",
+      "yil": 2023,
+      "hekim_sayisi": 3715,
+      "hekim_100000_kisi_basina": 202.9,
+      "hastane_yatagi_sayisi": 5184,
+      "hastane_yatagi_100000_kisi_basina": 283.2
+    },
+    {
+      "ibbs2_kodu": "TR22",
+      "bolge_illeri": "Balıkesir, Çanakkale",
+      "yil": 2024,
+      "hekim_sayisi": 4179,
+      "hekim_100000_kisi_basina": 226.6,
+      "hastane_yatagi_sayisi": 5209,
+      "hastane_yatagi_100000_kisi_basina": 282.4
+    },
+    {
+      "ibbs2_kodu": "TR31",
+      "bolge_illeri": "İzmir",
+      "yil": 2021,
+      "hekim_sayisi": 12224,
+      "hekim_100000_kisi_basina": 276.2,
+      "hastane_yatagi_sayisi": 12329,
+      "hastane_yatagi_100000_kisi_basina": 278.6
+    },
+    {
+      "ibbs2_kodu": "TR31",
+      "bolge_illeri": "İzmir",
+      "yil": 2022,
+      "hekim_sayisi": 13010,
+      "hekim_100000_kisi_basina": 292.8,
+      "hastane_yatagi_sayisi": 12543,
+      "hastane_yatagi_100000_kisi_basina": 282.2
+    },
+    {
+      "ibbs2_kodu": "TR31",
+      "bolge_illeri": "İzmir",
+      "yil": 2023,
+      "hekim_sayisi": 13838,
+      "hekim_100000_kisi_basina": 309.5,
+      "hastane_yatagi_sayisi": 14547,
+      "hastane_yatagi_100000_kisi_basina": 325.4
+    },
+    {
+      "ibbs2_kodu": "TR31",
+      "bolge_illeri": "İzmir",
+      "yil": 2024,
+      "hekim_sayisi": 15728,
+      "hekim_100000_kisi_basina": 350.6,
+      "hastane_yatagi_sayisi": 14522,
+      "hastane_yatagi_100000_kisi_basina": 323.7
+    },
+    {
+      "ibbs2_kodu": "TR32",
+      "bolge_illeri": "Aydın, Denizli, Muğla",
+      "yil": 2021,
+      "hekim_sayisi": 6466,
+      "hekim_100000_kisi_basina": 201.7,
+      "hastane_yatagi_sayisi": 8972,
+      "hastane_yatagi_100000_kisi_basina": 279.8
+    },
+    {
+      "ibbs2_kodu": "TR32",
+      "bolge_illeri": "Aydın, Denizli, Muğla",
+      "yil": 2022,
+      "hekim_sayisi": 6709,
+      "hekim_100000_kisi_basina": 207.7,
+      "hastane_yatagi_sayisi": 9098,
+      "hastane_yatagi_100000_kisi_basina": 281.7
+    },
+    {
+      "ibbs2_kodu": "TR32",
+      "bolge_illeri": "Aydın, Denizli, Muğla",
+      "yil": 2023,
+      "hekim_sayisi": 6943,
+      "hekim_100000_kisi_basina": 212.3,
+      "hastane_yatagi_sayisi": 9388,
+      "hastane_yatagi_100000_kisi_basina": 287.1
+    },
+    {
+      "ibbs2_kodu": "TR32",
+      "bolge_illeri": "Aydın, Denizli, Muğla",
+      "yil": 2024,
+      "hekim_sayisi": 7881,
+      "hekim_100000_kisi_basina": 238.9,
+      "hastane_yatagi_sayisi": 9687,
+      "hastane_yatagi_100000_kisi_basina": 293.7
+    },
+    {
+      "ibbs2_kodu": "TR33",
+      "bolge_illeri": "Manisa, Afyonkarahisar, Kütahya, Uşak",
+      "yil": 2021,
+      "hekim_sayisi": 5607,
+      "hekim_100000_kisi_basina": 177.8,
+      "hastane_yatagi_sayisi": 10344,
+      "hastane_yatagi_100000_kisi_basina": 328.1
+    },
+    {
+      "ibbs2_kodu": "TR33",
+      "bolge_illeri": "Manisa, Afyonkarahisar, Kütahya, Uşak",
+      "yil": 2022,
+      "hekim_sayisi": 5797,
+      "hekim_100000_kisi_basina": 183.3,
+      "hastane_yatagi_sayisi": 10428,
+      "hastane_yatagi_100000_kisi_basina": 329.8
+    },
+    {
+      "ibbs2_kodu": "TR33",
+      "bolge_illeri": "Manisa, Afyonkarahisar, Kütahya, Uşak",
+      "yil": 2023,
+      "hekim_sayisi": 6302,
+      "hekim_100000_kisi_basina": 198.4,
+      "hastane_yatagi_sayisi": 10240,
+      "hastane_yatagi_100000_kisi_basina": 322.4
+    },
+    {
+      "ibbs2_kodu": "TR33",
+      "bolge_illeri": "Manisa, Afyonkarahisar, Kütahya, Uşak",
+      "yil": 2024,
+      "hekim_sayisi": 6751,
+      "hekim_100000_kisi_basina": 212.6,
+      "hastane_yatagi_sayisi": 10608,
+      "hastane_yatagi_100000_kisi_basina": 334
+    },
+    {
+      "ibbs2_kodu": "TR41",
+      "bolge_illeri": "Bursa, Eskişehir, Bilecik",
+      "yil": 2021,
+      "hekim_sayisi": 8402,
+      "hekim_100000_kisi_basina": 196.6,
+      "hastane_yatagi_sayisi": 12634,
+      "hastane_yatagi_100000_kisi_basina": 295.6
+    },
+    {
+      "ibbs2_kodu": "TR41",
+      "bolge_illeri": "Bursa, Eskişehir, Bilecik",
+      "yil": 2022,
+      "hekim_sayisi": 9022,
+      "hekim_100000_kisi_basina": 209.7,
+      "hastane_yatagi_sayisi": 12619,
+      "hastane_yatagi_100000_kisi_basina": 293.3
+    },
+    {
+      "ibbs2_kodu": "TR41",
+      "bolge_illeri": "Bursa, Eskişehir, Bilecik",
+      "yil": 2023,
+      "hekim_sayisi": 9623,
+      "hekim_100000_kisi_basina": 221.5,
+      "hastane_yatagi_sayisi": 12725,
+      "hastane_yatagi_100000_kisi_basina": 292.9
+    },
+    {
+      "ibbs2_kodu": "TR41",
+      "bolge_illeri": "Bursa, Eskişehir, Bilecik",
+      "yil": 2024,
+      "hekim_sayisi": 10403,
+      "hekim_100000_kisi_basina": 237.9,
+      "hastane_yatagi_sayisi": 12764,
+      "hastane_yatagi_100000_kisi_basina": 291.9
+    },
+    {
+      "ibbs2_kodu": "TR42",
+      "bolge_illeri": "Kocaeli, Sakarya, Düzce, Bolu, Yalova",
+      "yil": 2021,
+      "hekim_sayisi": 7626,
+      "hekim_100000_kisi_basina": 185.7,
+      "hastane_yatagi_sayisi": 10328,
+      "hastane_yatagi_100000_kisi_basina": 251.5
+    },
+    {
+      "ibbs2_kodu": "TR42",
+      "bolge_illeri": "Kocaeli, Sakarya, Düzce, Bolu, Yalova",
+      "yil": 2022,
+      "hekim_sayisi": 8130,
+      "hekim_100000_kisi_basina": 196.2,
+      "hastane_yatagi_sayisi": 10443,
+      "hastane_yatagi_100000_kisi_basina": 252
+    },
+    {
+      "ibbs2_kodu": "TR42",
+      "bolge_illeri": "Kocaeli, Sakarya, Düzce, Bolu, Yalova",
+      "yil": 2023,
+      "hekim_sayisi": 8725,
+      "hekim_100000_kisi_basina": 207.2,
+      "hastane_yatagi_sayisi": 10980,
+      "hastane_yatagi_100000_kisi_basina": 260.8
+    },
+    {
+      "ibbs2_kodu": "TR42",
+      "bolge_illeri": "Kocaeli, Sakarya, Düzce, Bolu, Yalova",
+      "yil": 2024,
+      "hekim_sayisi": 9401,
+      "hekim_100000_kisi_basina": 220.5,
+      "hastane_yatagi_sayisi": 11249,
+      "hastane_yatagi_100000_kisi_basina": 263.8
+    },
+    {
+      "ibbs2_kodu": "TR51",
+      "bolge_illeri": "Ankara",
+      "yil": 2021,
+      "hekim_sayisi": 20950,
+      "hekim_100000_kisi_basina": 364.5,
+      "hastane_yatagi_sayisi": 19250,
+      "hastane_yatagi_100000_kisi_basina": 334.9
+    },
+    {
+      "ibbs2_kodu": "TR51",
+      "bolge_illeri": "Ankara",
+      "yil": 2022,
+      "hekim_sayisi": 23087,
+      "hekim_100000_kisi_basina": 400.5,
+      "hastane_yatagi_sayisi": 23882,
+      "hastane_yatagi_100000_kisi_basina": 414.3
+    },
+    {
+      "ibbs2_kodu": "TR51",
+      "bolge_illeri": "Ankara",
+      "yil": 2023,
+      "hekim_sayisi": 24815,
+      "hekim_100000_kisi_basina": 428.4,
+      "hastane_yatagi_sayisi": 25020,
+      "hastane_yatagi_100000_kisi_basina": 431.9
+    },
+    {
+      "ibbs2_kodu": "TR51",
+      "bolge_illeri": "Ankara",
+      "yil": 2024,
+      "hekim_sayisi": 26798,
+      "hekim_100000_kisi_basina": 459.4,
+      "hastane_yatagi_sayisi": 24909,
+      "hastane_yatagi_100000_kisi_basina": 427
+    },
+    {
+      "ibbs2_kodu": "TR52",
+      "bolge_illeri": "Konya, Karaman",
+      "yil": 2021,
+      "hekim_sayisi": 5235,
+      "hekim_100000_kisi_basina": 206.4,
+      "hastane_yatagi_sayisi": 9356,
+      "hastane_yatagi_100000_kisi_basina": 368.9
+    },
+    {
+      "ibbs2_kodu": "TR52",
+      "bolge_illeri": "Konya, Karaman",
+      "yil": 2022,
+      "hekim_sayisi": 5773,
+      "hekim_100000_kisi_basina": 226.7,
+      "hastane_yatagi_sayisi": 9361,
+      "hastane_yatagi_100000_kisi_basina": 367.6
+    },
+    {
+      "ibbs2_kodu": "TR52",
+      "bolge_illeri": "Konya, Karaman",
+      "yil": 2023,
+      "hekim_sayisi": 6025,
+      "hekim_100000_kisi_basina": 234.4,
+      "hastane_yatagi_sayisi": 9441,
+      "hastane_yatagi_100000_kisi_basina": 367.3
+    },
+    {
+      "ibbs2_kodu": "TR52",
+      "bolge_illeri": "Konya, Karaman",
+      "yil": 2024,
+      "hekim_sayisi": 6743,
+      "hekim_100000_kisi_basina": 260.5,
+      "hastane_yatagi_sayisi": 9542,
+      "hastane_yatagi_100000_kisi_basina": 368.6
+    },
+    {
+      "ibbs2_kodu": "TR61",
+      "bolge_illeri": "Antalya, Isparta, Burdur",
+      "yil": 2021,
+      "hekim_sayisi": 7690,
+      "hekim_100000_kisi_basina": 230.3,
+      "hastane_yatagi_sayisi": 10510,
+      "hastane_yatagi_100000_kisi_basina": 314.7
+    },
+    {
+      "ibbs2_kodu": "TR61",
+      "bolge_illeri": "Antalya, Isparta, Burdur",
+      "yil": 2022,
+      "hekim_sayisi": 8199,
+      "hekim_100000_kisi_basina": 243.1,
+      "hastane_yatagi_sayisi": 10484,
+      "hastane_yatagi_100000_kisi_basina": 310.8
+    },
+    {
+      "ibbs2_kodu": "TR61",
+      "bolge_illeri": "Antalya, Isparta, Burdur",
+      "yil": 2023,
+      "hekim_sayisi": 9003,
+      "hekim_100000_kisi_basina": 263.6,
+      "hastane_yatagi_sayisi": 10438,
+      "hastane_yatagi_100000_kisi_basina": 305.6
+    },
+    {
+      "ibbs2_kodu": "TR61",
+      "bolge_illeri": "Antalya, Isparta, Burdur",
+      "yil": 2024,
+      "hekim_sayisi": 9818,
+      "hekim_100000_kisi_basina": 285.9,
+      "hastane_yatagi_sayisi": 12191,
+      "hastane_yatagi_100000_kisi_basina": 355
+    },
+    {
+      "ibbs2_kodu": "TR62",
+      "bolge_illeri": "Adana, Mersin",
+      "yil": 2021,
+      "hekim_sayisi": 8121,
+      "hekim_100000_kisi_basina": 195.5,
+      "hastane_yatagi_sayisi": 12590,
+      "hastane_yatagi_100000_kisi_basina": 303
+    },
+    {
+      "ibbs2_kodu": "TR62",
+      "bolge_illeri": "Adana, Mersin",
+      "yil": 2022,
+      "hekim_sayisi": 8621,
+      "hekim_100000_kisi_basina": 206.6,
+      "hastane_yatagi_sayisi": 12882,
+      "hastane_yatagi_100000_kisi_basina": 308.7
+    },
+    {
+      "ibbs2_kodu": "TR62",
+      "bolge_illeri": "Adana, Mersin",
+      "yil": 2023,
+      "hekim_sayisi": 8935,
+      "hekim_100000_kisi_basina": 212.8,
+      "hastane_yatagi_sayisi": 12273,
+      "hastane_yatagi_100000_kisi_basina": 292.2
+    },
+    {
+      "ibbs2_kodu": "TR62",
+      "bolge_illeri": "Adana, Mersin",
+      "yil": 2024,
+      "hekim_sayisi": 9875,
+      "hekim_100000_kisi_basina": 233.9,
+      "hastane_yatagi_sayisi": 12517,
+      "hastane_yatagi_100000_kisi_basina": 296.5
+    },
+    {
+      "ibbs2_kodu": "TR63",
+      "bolge_illeri": "Hatay, Kahramanmaraş, Osmaniye",
+      "yil": 2021,
+      "hekim_sayisi": 5368,
+      "hekim_100000_kisi_basina": 158.1,
+      "hastane_yatagi_sayisi": 9007,
+      "hastane_yatagi_100000_kisi_basina": 265.3
+    },
+    {
+      "ibbs2_kodu": "TR63",
+      "bolge_illeri": "Hatay, Kahramanmaraş, Osmaniye",
+      "yil": 2022,
+      "hekim_sayisi": 5585,
+      "hekim_100000_kisi_basina": 163.8,
+      "hastane_yatagi_sayisi": 8994,
+      "hastane_yatagi_100000_kisi_basina": 263.8
+    },
+    {
+      "ibbs2_kodu": "TR63",
+      "bolge_illeri": "Hatay, Kahramanmaraş, Osmaniye",
+      "yil": 2023,
+      "hekim_sayisi": 5488,
+      "hekim_100000_kisi_basina": 165.3,
+      "hastane_yatagi_sayisi": 9813,
+      "hastane_yatagi_100000_kisi_basina": 295.5
+    },
+    {
+      "ibbs2_kodu": "TR63",
+      "bolge_illeri": "Hatay, Kahramanmaraş, Osmaniye",
+      "yil": 2024,
+      "hekim_sayisi": 5380,
+      "hekim_100000_kisi_basina": 166.1,
+      "hastane_yatagi_sayisi": 8604,
+      "hastane_yatagi_100000_kisi_basina": 265.7
+    },
+    {
+      "ibbs2_kodu": "TR71",
+      "bolge_illeri": "Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",
+      "yil": 2021,
+      "hekim_sayisi": 2607,
+      "hekim_100000_kisi_basina": 160.9,
+      "hastane_yatagi_sayisi": 4738,
+      "hastane_yatagi_100000_kisi_basina": 292.5
+    },
+    {
+      "ibbs2_kodu": "TR71",
+      "bolge_illeri": "Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",
+      "yil": 2022,
+      "hekim_sayisi": 2665,
+      "hekim_100000_kisi_basina": 164,
+      "hastane_yatagi_sayisi": 4740,
+      "hastane_yatagi_100000_kisi_basina": 291.7
+    },
+    {
+      "ibbs2_kodu": "TR71",
+      "bolge_illeri": "Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",
+      "yil": 2023,
+      "hekim_sayisi": 2803,
+      "hekim_100000_kisi_basina": 170.2,
+      "hastane_yatagi_sayisi": 4745,
+      "hastane_yatagi_100000_kisi_basina": 288.1
+    },
+    {
+      "ibbs2_kodu": "TR71",
+      "bolge_illeri": "Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",
+      "yil": 2024,
+      "hekim_sayisi": 3051,
+      "hekim_100000_kisi_basina": 183.7,
+      "hastane_yatagi_sayisi": 4786,
+      "hastane_yatagi_100000_kisi_basina": 288.1
+    },
+    {
+      "ibbs2_kodu": "TR72",
+      "bolge_illeri": "Kayseri, Sivas, Yozgat",
+      "yil": 2021,
+      "hekim_sayisi": 5152,
+      "hekim_100000_kisi_basina": 207,
+      "hastane_yatagi_sayisi": 9068,
+      "hastane_yatagi_100000_kisi_basina": 364.3
+    },
+    {
+      "ibbs2_kodu": "TR72",
+      "bolge_illeri": "Kayseri, Sivas, Yozgat",
+      "yil": 2022,
+      "hekim_sayisi": 5423,
+      "hekim_100000_kisi_basina": 217.6,
+      "hastane_yatagi_sayisi": 8974,
+      "hastane_yatagi_100000_kisi_basina": 360.1
+    },
+    {
+      "ibbs2_kodu": "TR72",
+      "bolge_illeri": "Kayseri, Sivas, Yozgat",
+      "yil": 2023,
+      "hekim_sayisi": 5736,
+      "hekim_100000_kisi_basina": 228.9,
+      "hastane_yatagi_sayisi": 8998,
+      "hastane_yatagi_100000_kisi_basina": 359.1
+    },
+    {
+      "ibbs2_kodu": "TR72",
+      "bolge_illeri": "Kayseri, Sivas, Yozgat",
+      "yil": 2024,
+      "hekim_sayisi": 6278,
+      "hekim_100000_kisi_basina": 250.2,
+      "hastane_yatagi_sayisi": 9033,
+      "hastane_yatagi_100000_kisi_basina": 359.9
+    },
+    {
+      "ibbs2_kodu": "TR81",
+      "bolge_illeri": "Zonguldak, Karabük, Bartın",
+      "yil": 2021,
+      "hekim_sayisi": 1931,
+      "hekim_100000_kisi_basina": 185.6,
+      "hastane_yatagi_sayisi": 3469,
+      "hastane_yatagi_100000_kisi_basina": 333.3
+    },
+    {
+      "ibbs2_kodu": "TR81",
+      "bolge_illeri": "Zonguldak, Karabük, Bartın",
+      "yil": 2022,
+      "hekim_sayisi": 2035,
+      "hekim_100000_kisi_basina": 195.2,
+      "hastane_yatagi_sayisi": 3565,
+      "hastane_yatagi_100000_kisi_basina": 342
+    },
+    {
+      "ibbs2_kodu": "TR81",
+      "bolge_illeri": "Zonguldak, Karabük, Bartın",
+      "yil": 2023,
+      "hekim_sayisi": 2154,
+      "hekim_100000_kisi_basina": 205.3,
+      "hastane_yatagi_sayisi": 3571,
+      "hastane_yatagi_100000_kisi_basina": 340.4
+    },
+    {
+      "ibbs2_kodu": "TR81",
+      "bolge_illeri": "Zonguldak, Karabük, Bartın",
+      "yil": 2024,
+      "hekim_sayisi": 2268,
+      "hekim_100000_kisi_basina": 216.2,
+      "hastane_yatagi_sayisi": 3599,
+      "hastane_yatagi_100000_kisi_basina": 343.1
+    },
+    {
+      "ibbs2_kodu": "TR82",
+      "bolge_illeri": "Kastamonu, Çankırı, Sinop",
+      "yil": 2021,
+      "hekim_sayisi": 1228,
+      "hekim_100000_kisi_basina": 155.3,
+      "hastane_yatagi_sayisi": 2381,
+      "hastane_yatagi_100000_kisi_basina": 301.2
+    },
+    {
+      "ibbs2_kodu": "TR82",
+      "bolge_illeri": "Kastamonu, Çankırı, Sinop",
+      "yil": 2022,
+      "hekim_sayisi": 1282,
+      "hekim_100000_kisi_basina": 161.8,
+      "hastane_yatagi_sayisi": 2427,
+      "hastane_yatagi_100000_kisi_basina": 306.2
+    },
+    {
+      "ibbs2_kodu": "TR82",
+      "bolge_illeri": "Kastamonu, Çankırı, Sinop",
+      "yil": 2023,
+      "hekim_sayisi": 1369,
+      "hekim_100000_kisi_basina": 169.1,
+      "hastane_yatagi_sayisi": 2319,
+      "hastane_yatagi_100000_kisi_basina": 286.5
+    },
+    {
+      "ibbs2_kodu": "TR82",
+      "bolge_illeri": "Kastamonu, Çankırı, Sinop",
+      "yil": 2024,
+      "hekim_sayisi": 1356,
+      "hekim_100000_kisi_basina": 166.1,
+      "hastane_yatagi_sayisi": 2339,
+      "hastane_yatagi_100000_kisi_basina": 286.4
+    },
+    {
+      "ibbs2_kodu": "TR83",
+      "bolge_illeri": "Samsun, Tokat, Çorum, Amasya",
+      "yil": 2021,
+      "hekim_sayisi": 5589,
+      "hekim_100000_kisi_basina": 197.1,
+      "hastane_yatagi_sayisi": 10165,
+      "hastane_yatagi_100000_kisi_basina": 358.5
+    },
+    {
+      "ibbs2_kodu": "TR83",
+      "bolge_illeri": "Samsun, Tokat, Çorum, Amasya",
+      "yil": 2022,
+      "hekim_sayisi": 5859,
+      "hekim_100000_kisi_basina": 206.9,
+      "hastane_yatagi_sayisi": 10148,
+      "hastane_yatagi_100000_kisi_basina": 358.4
+    },
+    {
+      "ibbs2_kodu": "TR83",
+      "bolge_illeri": "Samsun, Tokat, Çorum, Amasya",
+      "yil": 2023,
+      "hekim_sayisi": 6108,
+      "hekim_100000_kisi_basina": 215.1,
+      "hastane_yatagi_sayisi": 10114,
+      "hastane_yatagi_100000_kisi_basina": 356.1
+    },
+    {
+      "ibbs2_kodu": "TR83",
+      "bolge_illeri": "Samsun, Tokat, Çorum, Amasya",
+      "yil": 2024,
+      "hekim_sayisi": 6705,
+      "hekim_100000_kisi_basina": 234.8,
+      "hastane_yatagi_sayisi": 10194,
+      "hastane_yatagi_100000_kisi_basina": 357
+    },
+    {
+      "ibbs2_kodu": "TR90",
+      "bolge_illeri": "Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",
+      "yil": 2021,
+      "hekim_sayisi": 5504,
+      "hekim_100000_kisi_basina": 204.4,
+      "hastane_yatagi_sayisi": 9313,
+      "hastane_yatagi_100000_kisi_basina": 345.8
+    },
+    {
+      "ibbs2_kodu": "TR90",
+      "bolge_illeri": "Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",
+      "yil": 2022,
+      "hekim_sayisi": 5632,
+      "hekim_100000_kisi_basina": 209.2,
+      "hastane_yatagi_sayisi": 9310,
+      "hastane_yatagi_100000_kisi_basina": 345.9
+    },
+    {
+      "ibbs2_kodu": "TR90",
+      "bolge_illeri": "Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",
+      "yil": 2023,
+      "hekim_sayisi": 6060,
+      "hekim_100000_kisi_basina": 223.5,
+      "hastane_yatagi_sayisi": 9220,
+      "hastane_yatagi_100000_kisi_basina": 340
+    },
+    {
+      "ibbs2_kodu": "TR90",
+      "bolge_illeri": "Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",
+      "yil": 2024,
+      "hekim_sayisi": 6475,
+      "hekim_100000_kisi_basina": 238,
+      "hastane_yatagi_sayisi": 9197,
+      "hastane_yatagi_100000_kisi_basina": 338.1
+    },
+    {
+      "ibbs2_kodu": "TRA1",
+      "bolge_illeri": "Erzurum, Erzincan, Bayburt",
+      "yil": 2021,
+      "hekim_sayisi": 2457,
+      "hekim_100000_kisi_basina": 227.7,
+      "hastane_yatagi_sayisi": 4668,
+      "hastane_yatagi_100000_kisi_basina": 432.5
+    },
+    {
+      "ibbs2_kodu": "TRA1",
+      "bolge_illeri": "Erzurum, Erzincan, Bayburt",
+      "yil": 2022,
+      "hekim_sayisi": 2454,
+      "hekim_100000_kisi_basina": 228,
+      "hastane_yatagi_sayisi": 4599,
+      "hastane_yatagi_100000_kisi_basina": 427.3
+    },
+    {
+      "ibbs2_kodu": "TRA1",
+      "bolge_illeri": "Erzurum, Erzincan, Bayburt",
+      "yil": 2023,
+      "hekim_sayisi": 2671,
+      "hekim_100000_kisi_basina": 248.2,
+      "hastane_yatagi_sayisi": 4564,
+      "hastane_yatagi_100000_kisi_basina": 424
+    },
+    {
+      "ibbs2_kodu": "TRA1",
+      "bolge_illeri": "Erzurum, Erzincan, Bayburt",
+      "yil": 2024,
+      "hekim_sayisi": 2871,
+      "hekim_100000_kisi_basina": 267.1,
+      "hastane_yatagi_sayisi": 4564,
+      "hastane_yatagi_100000_kisi_basina": 424.7
+    },
+    {
+      "ibbs2_kodu": "TRA2",
+      "bolge_illeri": "Ağrı, Kars, Iğdır, Ardahan",
+      "yil": 2021,
+      "hekim_sayisi": 1524,
+      "hekim_100000_kisi_basina": 138.1,
+      "hastane_yatagi_sayisi": 2220,
+      "hastane_yatagi_100000_kisi_basina": 201.1
+    },
+    {
+      "ibbs2_kodu": "TRA2",
+      "bolge_illeri": "Ağrı, Kars, Iğdır, Ardahan",
+      "yil": 2022,
+      "hekim_sayisi": 1549,
+      "hekim_100000_kisi_basina": 141.8,
+      "hastane_yatagi_sayisi": 2231,
+      "hastane_yatagi_100000_kisi_basina": 204.2
+    },
+    {
+      "ibbs2_kodu": "TRA2",
+      "bolge_illeri": "Ağrı, Kars, Iğdır, Ardahan",
+      "yil": 2023,
+      "hekim_sayisi": 1479,
+      "hekim_100000_kisi_basina": 136.1,
+      "hastane_yatagi_sayisi": 2266,
+      "hastane_yatagi_100000_kisi_basina": 208.5
+    },
+    {
+      "ibbs2_kodu": "TRA2",
+      "bolge_illeri": "Ağrı, Kars, Iğdır, Ardahan",
+      "yil": 2024,
+      "hekim_sayisi": 1544,
+      "hekim_100000_kisi_basina": 142.8,
+      "hastane_yatagi_sayisi": 2305,
+      "hastane_yatagi_100000_kisi_basina": 213.2
+    },
+    {
+      "ibbs2_kodu": "TRB1",
+      "bolge_illeri": "Malatya, Elazığ, Bingöl, Tunceli",
+      "yil": 2021,
+      "hekim_sayisi": 3808,
+      "hekim_100000_kisi_basina": 215.9,
+      "hastane_yatagi_sayisi": 7288,
+      "hastane_yatagi_100000_kisi_basina": 413.3
+    },
+    {
+      "ibbs2_kodu": "TRB1",
+      "bolge_illeri": "Malatya, Elazığ, Bingöl, Tunceli",
+      "yil": 2022,
+      "hekim_sayisi": 4014,
+      "hekim_100000_kisi_basina": 227.1,
+      "hastane_yatagi_sayisi": 7639,
+      "hastane_yatagi_100000_kisi_basina": 432.2
+    },
+    {
+      "ibbs2_kodu": "TRB1",
+      "bolge_illeri": "Malatya, Elazığ, Bingöl, Tunceli",
+      "yil": 2023,
+      "hekim_sayisi": 3892,
+      "hekim_100000_kisi_basina": 222.8,
+      "hastane_yatagi_sayisi": 7504,
+      "hastane_yatagi_100000_kisi_basina": 429.6
+    },
+    {
+      "ibbs2_kodu": "TRB1",
+      "bolge_illeri": "Malatya, Elazığ, Bingöl, Tunceli",
+      "yil": 2024,
+      "hekim_sayisi": 4479,
+      "hekim_100000_kisi_basina": 259.9,
+      "hastane_yatagi_sayisi": 7388,
+      "hastane_yatagi_100000_kisi_basina": 428.7
+    },
+    {
+      "ibbs2_kodu": "TRB2",
+      "bolge_illeri": "Van, Muş, Bitlis, Hakkari",
+      "yil": 2021,
+      "hekim_sayisi": 3178,
+      "hekim_100000_kisi_basina": 146,
+      "hastane_yatagi_sayisi": 5293,
+      "hastane_yatagi_100000_kisi_basina": 243.2
+    },
+    {
+      "ibbs2_kodu": "TRB2",
+      "bolge_illeri": "Van, Muş, Bitlis, Hakkari",
+      "yil": 2022,
+      "hekim_sayisi": 3093,
+      "hekim_100000_kisi_basina": 142.7,
+      "hastane_yatagi_sayisi": 5344,
+      "hastane_yatagi_100000_kisi_basina": 246.6
+    },
+    {
+      "ibbs2_kodu": "TRB2",
+      "bolge_illeri": "Van, Muş, Bitlis, Hakkari",
+      "yil": 2023,
+      "hekim_sayisi": 3209,
+      "hekim_100000_kisi_basina": 148.2,
+      "hastane_yatagi_sayisi": 5388,
+      "hastane_yatagi_100000_kisi_basina": 248.8
+    },
+    {
+      "ibbs2_kodu": "TRB2",
+      "bolge_illeri": "Van, Muş, Bitlis, Hakkari",
+      "yil": 2024,
+      "hekim_sayisi": 3489,
+      "hekim_100000_kisi_basina": 161.3,
+      "hastane_yatagi_sayisi": 5388,
+      "hastane_yatagi_100000_kisi_basina": 249
+    },
+    {
+      "ibbs2_kodu": "TRC1",
+      "bolge_illeri": "Gaziantep, Adıyaman, Kilis",
+      "yil": 2021,
+      "hekim_sayisi": 4810,
+      "hekim_100000_kisi_basina": 165.4,
+      "hastane_yatagi_sayisi": 8368,
+      "hastane_yatagi_100000_kisi_basina": 287.7
+    },
+    {
+      "ibbs2_kodu": "TRC1",
+      "bolge_illeri": "Gaziantep, Adıyaman, Kilis",
+      "yil": 2022,
+      "hekim_sayisi": 4980,
+      "hekim_100000_kisi_basina": 170.4,
+      "hastane_yatagi_sayisi": 9138,
+      "hastane_yatagi_100000_kisi_basina": 312.6
+    },
+    {
+      "ibbs2_kodu": "TRC1",
+      "bolge_illeri": "Gaziantep, Adıyaman, Kilis",
+      "yil": 2023,
+      "hekim_sayisi": 5282,
+      "hekim_100000_kisi_basina": 180.2,
+      "hastane_yatagi_sayisi": 10481,
+      "hastane_yatagi_100000_kisi_basina": 357.6
+    },
+    {
+      "ibbs2_kodu": "TRC1",
+      "bolge_illeri": "Gaziantep, Adıyaman, Kilis",
+      "yil": 2024,
+      "hekim_sayisi": 5711,
+      "hekim_100000_kisi_basina": 194.1,
+      "hastane_yatagi_sayisi": 9974,
+      "hastane_yatagi_100000_kisi_basina": 338.9
+    },
+    {
+      "ibbs2_kodu": "TRC2",
+      "bolge_illeri": "Şanlıurfa, Diyarbakır",
+      "yil": 2021,
+      "hekim_sayisi": 5703,
+      "hekim_100000_kisi_basina": 144.9,
+      "hastane_yatagi_sayisi": 9126,
+      "hastane_yatagi_100000_kisi_basina": 231.9
+    },
+    {
+      "ibbs2_kodu": "TRC2",
+      "bolge_illeri": "Şanlıurfa, Diyarbakır",
+      "yil": 2022,
+      "hekim_sayisi": 5968,
+      "hekim_100000_kisi_basina": 150.9,
+      "hastane_yatagi_sayisi": 9191,
+      "hastane_yatagi_100000_kisi_basina": 232.4
+    },
+    {
+      "ibbs2_kodu": "TRC2",
+      "bolge_illeri": "Şanlıurfa, Diyarbakır",
+      "yil": 2023,
+      "hekim_sayisi": 6094,
+      "hekim_100000_kisi_basina": 152.2,
+      "hastane_yatagi_sayisi": 9225,
+      "hastane_yatagi_100000_kisi_basina": 230.4
+    },
+    {
+      "ibbs2_kodu": "TRC2",
+      "bolge_illeri": "Şanlıurfa, Diyarbakır",
+      "yil": 2024,
+      "hekim_sayisi": 6593,
+      "hekim_100000_kisi_basina": 162.7,
+      "hastane_yatagi_sayisi": 9320,
+      "hastane_yatagi_100000_kisi_basina": 230
+    },
+    {
+      "ibbs2_kodu": "TRC3",
+      "bolge_illeri": "Mardin, Batman, Şırnak, Siirt",
+      "yil": 2021,
+      "hekim_sayisi": 3132,
+      "hekim_100000_kisi_basina": 132.3,
+      "hastane_yatagi_sayisi": 4784,
+      "hastane_yatagi_100000_kisi_basina": 202.1
+    },
+    {
+      "ibbs2_kodu": "TRC3",
+      "bolge_illeri": "Mardin, Batman, Şırnak, Siirt",
+      "yil": 2022,
+      "hekim_sayisi": 3134,
+      "hekim_100000_kisi_basina": 131.6,
+      "hastane_yatagi_sayisi": 4826,
+      "hastane_yatagi_100000_kisi_basina": 202.7
+    },
+    {
+      "ibbs2_kodu": "TRC3",
+      "bolge_illeri": "Mardin, Batman, Şırnak, Siirt",
+      "yil": 2023,
+      "hekim_sayisi": 3225,
+      "hekim_100000_kisi_basina": 133,
+      "hastane_yatagi_sayisi": 5084,
+      "hastane_yatagi_100000_kisi_basina": 209.7
+    },
+    {
+      "ibbs2_kodu": "TRC3",
+      "bolge_illeri": "Mardin, Batman, Şırnak, Siirt",
+      "yil": 2024,
+      "hekim_sayisi": 3374,
+      "hekim_100000_kisi_basina": 137.4,
+      "hastane_yatagi_sayisi": 5194,
+      "hastane_yatagi_100000_kisi_basina": 211.5
+    }
+  ],
+  "meta": {
+    "title": "İBBS-2 bölgelerine göre hekim ve hastane yatağı sayısı (2021–2024) - Free Download",
+    "description": "Türkiye'nin 26 İBBS-2 istatistik bölgesinde yıllara göre hekim sayısı ve hastane yatağı sayısı ile 100.000 kişi başına düşen hekim ve yatak sayıları (2021–2024), Eurostat bölgesel sağlık istatistiklerinden. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "İBBS-2 bölgelerine göre hekim ve hastane yatağı sayısı (2021–2024) | ListBase",
+    "seo_description": "Download İBBS-2 bölgelerine göre hekim ve hastane yatağı sayısı (2021–2024) — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table"
+    ]
+  }
+}
