@@ -1,12 +1,12 @@
 {
   "lang": "tr",
-  "generated": "2026-11-26T02:28:46.616Z",
-  "total_datasets": 632,
-  "total_records": 611363,
+  "generated": "2026-11-26T02:28:58.052Z",
+  "total_datasets": 633,
+  "total_records": 611577,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -160,6 +160,37 @@
         "xlsx": {
           "name": "tr-findik-ihracat-ithalat_TR.xlsx",
           "size": 7188
+        }
+      }
+    },
+    {
+      "id": "tr-ibbs2-bolgelerine-gore-tarla-urunleri-uretimi",
+      "name": "İBBS-2 bölgelerine göre başlıca tarla ürünleri üretimi (2015–2024)",
+      "category": "agriculture",
+      "record_count": 214,
+      "columns": [
+        "bolge_illeri",
+        "ibbs2_kodu",
+        "yil",
+        "ekmeklik_bugday_bin_ton",
+        "makarnalik_bugday_bin_ton",
+        "arpa_bin_ton",
+        "dane_misir_bin_ton",
+        "patates_bin_ton",
+        "seker_pancari_bin_ton",
+        "aycicegi_bin_ton"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table",
+      "updated": "2026-11",
+      "size": 78810,
+      "files": {
+        "csv": {
+          "name": "tr-ibbs2-bolgelerine-gore-tarla-urunleri-uretimi_TR.csv",
+          "size": 20269
+        },
+        "xlsx": {
+          "name": "tr-ibbs2-bolgelerine-gore-tarla-urunleri-uretimi_TR.xlsx",
+          "size": 18425
         }
       }
     },
