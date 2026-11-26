@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-25T02:26:16.928Z",
-  "total_datasets": 631,
-  "total_records": 611058,
+  "generated": "2026-11-26T02:28:46.616Z",
+  "total_datasets": 632,
+  "total_records": 611363,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -11850,6 +11850,33 @@
         "xlsx": {
           "name": "tr-hastaneler_TR.xlsx",
           "size": 29935
+        }
+      }
+    },
+    {
+      "id": "tr-ibbs2-bolgelerine-gore-dogumda-beklenen-yasam-suresi",
+      "name": "İBBS-2 bölgelerine göre doğumda beklenen yaşam süresi (2009–2023)",
+      "category": "health",
+      "record_count": 305,
+      "columns": [
+        "bolge_illeri",
+        "ibbs2_kodu",
+        "yil",
+        "toplam",
+        "erkek",
+        "kadin"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 55485,
+      "files": {
+        "csv": {
+          "name": "tr-ibbs2-bolgelerine-gore-dogumda-beklenen-yasam-suresi_TR.csv",
+          "size": 19509
+        },
+        "xlsx": {
+          "name": "tr-ibbs2-bolgelerine-gore-dogumda-beklenen-yasam-suresi_TR.xlsx",
+          "size": 15686
         }
       }
     },
