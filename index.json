@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-27T02:19:28.015Z",
-  "total_datasets": 634,
-  "total_records": 611757,
+  "generated": "2026-11-27T02:19:36.260Z",
+  "total_datasets": 635,
+  "total_records": 611885,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -6641,6 +6641,28 @@
         "xlsx": {
           "name": "tr-cografi-isaretli-urunler_TR.xlsx",
           "size": 87100
+        }
+      }
+    },
+    {
+      "id": "tr-kebap-cesitleri",
+      "name": "Kebap çeşitleri",
+      "category": "food",
+      "record_count": 128,
+      "columns": [
+        "kebap"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Kebap",
+      "updated": "2026-11",
+      "size": 7138,
+      "files": {
+        "csv": {
+          "name": "tr-kebap-cesitleri_TR.csv",
+          "size": 2433
+        },
+        "xlsx": {
+          "name": "tr-kebap-cesitleri_TR.xlsx",
+          "size": 8603
         }
       }
     },
