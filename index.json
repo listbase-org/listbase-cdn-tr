@@ -1,8 +1,8 @@
 {
   "lang": "tr",
-  "generated": "2026-11-26T02:28:58.052Z",
-  "total_datasets": 633,
-  "total_records": 611577,
+  "generated": "2026-11-27T02:19:28.015Z",
+  "total_datasets": 634,
+  "total_records": 611757,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -15799,6 +15799,31 @@
         "xlsx": {
           "name": "tr-12-hayvanli-turk-takvimi_TR.xlsx",
           "size": 7785
+        }
+      }
+    },
+    {
+      "id": "tr-halk-takvimi-ay-adlari",
+      "name": "Türk halk takvimlerinde ay adları",
+      "category": "time",
+      "record_count": 180,
+      "columns": [
+        "takvim",
+        "bolge",
+        "ay_no",
+        "ay_adi"
+      ],
+      "source": "https://tr.wikipedia.org/wiki/Halk_takvimi",
+      "updated": "2026-11",
+      "size": 26282,
+      "files": {
+        "csv": {
+          "name": "tr-halk-takvimi-ay-adlari_TR.csv",
+          "size": 10839
+        },
+        "xlsx": {
+          "name": "tr-halk-takvimi-ay-adlari_TR.xlsx",
+          "size": 10950
         }
       }
     },
